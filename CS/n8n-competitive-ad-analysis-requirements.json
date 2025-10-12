@@ -1,0 +1,564 @@
+{
+  "projectName": "n8n競合広告分析ワークフロー",
+  "version": "2.0",
+  "lastUpdated": "2025-08-29",
+  "projectOverview": {
+    "purpose": "競合企業の広告活動をGoogle広告透明性センターから自動収集し、AIを活用した分析・整形を行い、構造化データとしてGoogleスプレッドシートに蓄積。リアルタイムでSlack通知を実施することで、競合の広告戦略を継続的に監視・分析し、自社のマーケティング戦略立案に活用する",
+    "expectedOutcomes": [
+      "競合広告戦略の可視化と定量的分析",
+      "市場トレンドの早期発見",
+      "自社広告戦略の最適化",
+      "レポート作成の自動化による工数削減（月間20時間→2時間）"
+    ],
+    "scope": {
+      "targetPlatform": "Google広告透明性センター",
+      "maxCompetitors": 10,
+      "updateFrequency": {
+        "schedule": "週次",
+        "executionTime": "毎週月曜日午前9時"
+      },
+      "dataRetentionPeriod": "12ヶ月"
+    }
+  },
+  "systemRequirements": {
+    "techStack": {
+      "workflowPlatform": "n8n v1.0以上",
+      "dataCollection": ["Apify Actor", "Puppeteer"],
+      "aiProcessing": ["OpenAI GPT-4", "Claude 3"],
+      "dataStorage": "Google Sheets API v4",
+      "notification": "Slack API",
+      "backup": "Google Cloud Storage"
+    },
+    "nonFunctionalRequirements": {
+      "availability": "99.5%以上",
+      "processingTime": "1社あたり5分以内",
+      "concurrentProcessing": "最大3社並列処理",
+      "errorRetry": 3,
+      "logRetention": "90日間"
+    }
+  },
+  "dataCollectionSpec": {
+    "targetData": [
+      {
+        "fieldName": "広告ID",
+        "type": "String",
+        "required": true,
+        "description": "一意識別子",
+        "example": "AD_12345"
+      },
+      {
+        "fieldName": "競合名",
+        "type": "String",
+        "required": true,
+        "description": "広告主名",
+        "example": "株式会社A"
+      },
+      {
+        "fieldName": "広告FMT",
+        "type": "Enum",
+        "required": true,
+        "values": ["検索", "静止画", "動画", "ショッピング"],
+        "description": "広告フォーマット",
+        "example": "検索"
+      },
+      {
+        "fieldName": "広告タイトル",
+        "type": "String",
+        "required": true,
+        "description": "広告見出し",
+        "example": "今なら30%OFF"
+      },
+      {
+        "fieldName": "広告説明文",
+        "type": "String",
+        "required": false,
+        "description": "詳細テキスト",
+        "example": "期間限定キャンペーン"
+      },
+      {
+        "fieldName": "表示URL",
+        "type": "String",
+        "required": true,
+        "description": "表示されるURL",
+        "example": "example.com"
+      },
+      {
+        "fieldName": "最終URL",
+        "type": "String",
+        "required": true,
+        "description": "リダイレクト先",
+        "example": "example.com/campaign"
+      },
+      {
+        "fieldName": "最終掲載日",
+        "type": "Date",
+        "required": true,
+        "format": "YYYY-MM-DD",
+        "example": "2025-08-25"
+      },
+      {
+        "fieldName": "初回発見日",
+        "type": "Date",
+        "required": true,
+        "format": "YYYY-MM-DD",
+        "description": "システムが初めて検知した日",
+        "example": "2025-08-20"
+      },
+      {
+        "fieldName": "地域ターゲット",
+        "type": "Array",
+        "required": false,
+        "description": "配信地域",
+        "example": ["東京", "大阪"]
+      },
+      {
+        "fieldName": "デバイス",
+        "type": "Array",
+        "required": false,
+        "description": "配信デバイス",
+        "example": ["PC", "Mobile"]
+      }
+    ],
+    "collectionMethod": {
+      "apifyConfig": {
+        "startUrls": ["https://adstransparency.google.com/"],
+        "maxRequestsPerCrawl": 1000,
+        "handlePageTimeoutSecs": 60,
+        "requestHandlerTimeoutSecs": 120,
+        "maxConcurrency": 5
+      },
+      "errorHandling": {
+        "404Error": "スキップして次の処理へ",
+        "timeout": "30秒後にリトライ",
+        "rateLimit": "指数バックオフで待機"
+      }
+    }
+  },
+  "dataProcessingSpec": {
+    "llmAnalysis": {
+      "appealPointExtraction": {
+        "categories": {
+          "価格訴求": ["割引率", "特別価格", "送料無料"],
+          "品質訴求": ["高品質", "プレミアム", "保証"],
+          "利便性訴求": ["即日配送", "24時間対応"],
+          "感情訴求": ["安心", "信頼", "満足度"],
+          "希少性訴求": ["限定", "残りわずか", "期間限定"]
+        }
+      },
+      "competitiveAnalysisMatrix": [
+        {
+          "metric": "メッセージ明確性",
+          "criteria": "タイトルと説明の一貫性",
+          "scoreRange": "1-5"
+        },
+        {
+          "metric": "USP強度",
+          "criteria": "差別化ポイントの明確さ",
+          "scoreRange": "1-5"
+        },
+        {
+          "metric": "CTA効果",
+          "criteria": "行動喚起の強さ",
+          "scoreRange": "1-5"
+        },
+        {
+          "metric": "ターゲット適合性",
+          "criteria": "ペルソナとの一致度",
+          "scoreRange": "1-5"
+        }
+      ]
+    },
+    "outputFormat": {
+      "markdown": {
+        "structure": {
+          "basicInfo": {
+            "adId": "広告ID",
+            "competitorName": "競合名",
+            "adTitle": "広告タイトル",
+            "adFormat": "広告フォーマット",
+            "lastSeenDate": "最終掲載日"
+          },
+          "analysisResults": {
+            "appealPoints": {
+              "primary": "主要訴求",
+              "secondary": "副次訴求",
+              "target": "ターゲット層"
+            },
+            "swotAnalysis": {
+              "strengths": "強み",
+              "weaknesses": "弱み",
+              "opportunities": "機会",
+              "threats": "脅威"
+            },
+            "scoring": {
+              "messageClarity": "メッセージ明確性",
+              "uspStrength": "USP強度",
+              "ctaEffectiveness": "CTA効果",
+              "overallScore": "総合評価"
+            }
+          }
+        }
+      }
+    }
+  },
+  "dataStorageSpec": {
+    "googleSheets": {
+      "mainSheet": {
+        "name": "広告データ",
+        "columns": [
+          {
+            "name": "record_id",
+            "type": "String",
+            "index": "Primary",
+            "description": "自動生成UUID"
+          },
+          {
+            "name": "competitor_name",
+            "type": "String",
+            "index": "Index",
+            "description": "競合企業名"
+          },
+          {
+            "name": "ad_id",
+            "type": "String",
+            "index": "Unique",
+            "description": "広告ID"
+          },
+          {
+            "name": "ad_title",
+            "type": "String",
+            "description": "広告タイトル"
+          },
+          {
+            "name": "ad_format",
+            "type": "String",
+            "index": "Index",
+            "description": "広告フォーマット"
+          },
+          {
+            "name": "appeal_points",
+            "type": "JSON",
+            "description": "訴求ポイント配列"
+          },
+          {
+            "name": "strength_score",
+            "type": "Number",
+            "range": "1-5",
+            "description": "強みスコア"
+          },
+          {
+            "name": "weakness_notes",
+            "type": "String",
+            "description": "弱み記述"
+          },
+          {
+            "name": "final_url",
+            "type": "String",
+            "description": "最終URL"
+          },
+          {
+            "name": "last_seen_date",
+            "type": "Date",
+            "index": "Index",
+            "description": "最終掲載日"
+          },
+          {
+            "name": "first_seen_date",
+            "type": "Date",
+            "description": "初回発見日"
+          },
+          {
+            "name": "update_count",
+            "type": "Number",
+            "description": "更新回数"
+          },
+          {
+            "name": "created_at",
+            "type": "Timestamp",
+            "description": "レコード作成日時"
+          },
+          {
+            "name": "updated_at",
+            "type": "Timestamp",
+            "description": "レコード更新日時"
+          }
+        ]
+      },
+      "analysisSheet": {
+        "name": "分析データ",
+        "contents": [
+          "競合別広告数推移",
+          "フォーマット別利用率",
+          "訴求ポイント頻度分析",
+          "週次/月次トレンド"
+        ]
+      }
+    },
+    "updateLogic": {
+      "algorithm": "if_existing_ad_then_check_changes",
+      "actions": {
+        "onNewAd": ["create_new_record", "set_first_seen_date"],
+        "onAdChange": ["update_record", "increment_update_count", "archive_previous_version"],
+        "onNoChange": ["update_last_seen_date"]
+      }
+    }
+  },
+  "notificationSpec": {
+    "slackNotification": {
+      "triggers": [
+        {
+          "event": "新規広告検出",
+          "priority": "高",
+          "channel": "#marketing-alerts"
+        },
+        {
+          "event": "大幅な戦略変更",
+          "priority": "高",
+          "channel": "#marketing-alerts"
+        },
+        {
+          "event": "定期レポート",
+          "priority": "中",
+          "channel": "#marketing-reports"
+        },
+        {
+          "event": "エラー発生",
+          "priority": "高",
+          "channel": "#system-alerts"
+        }
+      ],
+      "messageFormat": {
+        "channel": "#marketing-alerts",
+        "username": "広告監視Bot",
+        "icon_emoji": ":chart_with_upwards_trend:",
+        "attachments": {
+          "color": "warning",
+          "title": "🆕 新規広告検出",
+          "fields": [
+            {
+              "title": "競合名",
+              "short": true
+            },
+            {
+              "title": "広告タイトル",
+              "short": true
+            },
+            {
+              "title": "訴求ポイント",
+              "short": false
+            },
+            {
+              "title": "詳細",
+              "short": false
+            }
+          ],
+          "footer": "広告監視システム"
+        }
+      }
+    }
+  },
+  "n8nWorkflow": {
+    "flowStructure": {
+      "nodes": [
+        {
+          "id": "1",
+          "type": "Cron",
+          "name": "Cronトリガー",
+          "config": {
+            "schedule": "0 9 * * 1"
+          }
+        },
+        {
+          "id": "2",
+          "type": "GoogleSheets",
+          "name": "競合リスト取得"
+        },
+        {
+          "id": "3",
+          "type": "SplitInBatches",
+          "name": "並列処理分岐",
+          "config": {
+            "batchSize": 3
+          }
+        },
+        {
+          "id": "4",
+          "type": "Apify",
+          "name": "データ収集"
+        },
+        {
+          "id": "5",
+          "type": "Merge",
+          "name": "データ統合"
+        },
+        {
+          "id": "6",
+          "type": "OpenAI",
+          "name": "LLM分析処理"
+        },
+        {
+          "id": "7",
+          "type": "Function",
+          "name": "データ整形"
+        },
+        {
+          "id": "8",
+          "type": "IF",
+          "name": "重複チェック"
+        },
+        {
+          "id": "9",
+          "type": "GoogleSheets",
+          "name": "Sheets書き込み"
+        },
+        {
+          "id": "10",
+          "type": "Slack",
+          "name": "Slack通知"
+        },
+        {
+          "id": "11",
+          "type": "Function",
+          "name": "ログ記録"
+        }
+      ],
+      "connections": [
+        {"from": "1", "to": "2"},
+        {"from": "2", "to": "3"},
+        {"from": "3", "to": "4"},
+        {"from": "4", "to": "5"},
+        {"from": "5", "to": "6"},
+        {"from": "6", "to": "7"},
+        {"from": "7", "to": "8"},
+        {"from": "8", "to": "9"},
+        {"from": "9", "to": "10"},
+        {"from": "10", "to": "11"}
+      ]
+    },
+    "errorHandling": {
+      "level1": {
+        "action": "自動リトライ",
+        "maxRetries": 3
+      },
+      "level2": {
+        "action": "代替処理実行"
+      },
+      "level3": {
+        "action": "管理者通知＆手動介入"
+      }
+    }
+  },
+  "securityRequirements": {
+    "authentication": {
+      "apiKeyManagement": "n8n Credentials Store",
+      "accessControl": "OAuth 2.0",
+      "encryption": "TLS 1.3以上"
+    },
+    "dataProtection": [
+      "PII除外処理",
+      "IPアドレスマスキング",
+      "GDPRコンプライアンス準拠"
+    ]
+  },
+  "monitoringAndOperations": {
+    "monitoringMetrics": [
+      {
+        "metric": "処理成功率",
+        "threshold": "< 95%",
+        "alert": "Slack通知"
+      },
+      {
+        "metric": "処理時間",
+        "threshold": "> 10分",
+        "alert": "メール通知"
+      },
+      {
+        "metric": "API使用量",
+        "threshold": "> 80%",
+        "alert": "ダッシュボード警告"
+      },
+      {
+        "metric": "エラー率",
+        "threshold": "> 5%",
+        "alert": "即時エスカレーション"
+      }
+    ],
+    "maintenance": {
+      "daily": ["ログローテーション"],
+      "weekly": ["パフォーマンス分析"],
+      "monthly": ["データアーカイブ", "容量最適化"],
+      "quarterly": ["セキュリティ監査"]
+    }
+  },
+  "scalabilityAndFuturePlans": {
+    "phase2": {
+      "timeline": "3ヶ月後",
+      "features": [
+        "Meta広告ライブラリ統合",
+        "画像認識によるクリエイティブ分析",
+        "自動レポート生成（PDF/PPT）"
+      ]
+    },
+    "phase3": {
+      "timeline": "6ヶ月後",
+      "features": [
+        "予測分析機能",
+        "競合広告予算推定",
+        "ROI最適化提案"
+      ]
+    }
+  },
+  "kpis": [
+    {
+      "metric": "データ収集精度",
+      "target": "98%以上",
+      "measurement": "手動検証との比較"
+    },
+    {
+      "metric": "分析所要時間",
+      "target": "5分以内/社",
+      "measurement": "システムログ"
+    },
+    {
+      "metric": "インサイト発見数",
+      "target": "週10件以上",
+      "measurement": "レポート集計"
+    },
+    {
+      "metric": "システム稼働率",
+      "target": "99.5%以上",
+      "measurement": "監視ツール"
+    }
+  ],
+  "approvals": {
+    "roles": [
+      {
+        "role": "プロジェクトオーナー",
+        "name": "",
+        "approvalDate": ""
+      },
+      {
+        "role": "技術責任者",
+        "name": "",
+        "approvalDate": ""
+      },
+      {
+        "role": "セキュリティ責任者",
+        "name": "",
+        "approvalDate": ""
+      }
+    ]
+  },
+  "revisionHistory": [
+    {
+      "version": "2.0",
+      "date": "2025-08-29",
+      "description": "完全版作成"
+    },
+    {
+      "version": "1.0",
+      "date": "2025-08-28",
+      "description": "初版作成"
+    }
+  ]
+}
