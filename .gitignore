@@ -1,0 +1,17 @@
+# Extensions directory - contains large binary files
+extensions/
+
+# Node modules
+node_modules/
+
+# Cache files
+*.cache
+mcp-cache.json
+
+# IDE state
+ide_state.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
