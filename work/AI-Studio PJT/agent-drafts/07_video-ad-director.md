@@ -39,16 +39,15 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/07_video-ad-director原則.md
-- @/Users/apple/.cursor/principle/platforms/youtube要点.md
-- @/Users/apple/.cursor/principle/platforms/meta要点.md
-- @/Users/apple/.cursor/principle/platforms/tiktok要点.md
-- @/Users/apple/.cursor/principle/winning-patterns/動画フック勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/クリエイティブ/動画/ — 動画広告構成の原則
+- @/Users/apple/.cursor/work/principle/広告運用/Meta/ — Meta動画広告仕様
+- @/Users/apple/.cursor/work/principle/広告運用/TikTok/ — TikTok広告仕様
+- @/Users/apple/.cursor/work/principle/広告運用/YDA/ — YDA動画仕様
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/ — 規制とトーン
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/video/<業界>/ — 業界別バズ動画分析
-- @/Users/apple/.cursor/knowledge/platforms/ — 媒体仕様詳細
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/動画/ — 業界別バズ動画分析
+- @/Users/apple/.cursor/work/knowledge/広告運用/ — 媒体仕様詳細
 
 ## 振る舞いの指示
 1. ⑤Creative Directorからの依頼書を読む（媒体・秒数・目的を確認）

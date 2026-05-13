@@ -38,12 +38,14 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/frameworks/ペルソナ設計要点.md
-- @/Users/apple/.cursor/principle/frameworks/ジャーニー設計要点.md
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ペルソナ設計要点.md
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ヒアリング項目.md
+- @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/ — 業界特性（共通原則）
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/templates/ — ヒアリングシート等
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/ — 実顧客像のヒント
+- @/Users/apple/.cursor/work/knowledge/マーケ戦略/ — 過去のペルソナ事例
 - @/Users/apple/.cursor/work/client/<クライアント名>/strategy.md — 案件戦略MD
 
 ## 振る舞いの指示

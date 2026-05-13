@@ -65,7 +65,7 @@ Claude Code の **サブエージェント機能** + **スラッシュコマン�
 
 ### 田村が用意するもの
 **エージェントの汎用思考力 ≠ 業務固有の知識**。
-業界規制／媒体仕様／ベンチマーク数値／勝ちパターン などのドメイン知識を `work/AI活用/knowledge/` に田村が用意する（詳細は §5）。
+業界規制／媒体仕様／ベンチマーク数値／勝ちパターン などのドメイン知識を `work/principle/`（精選原則）と `work/knowledge/`（蓄積アーカイブ）の二層構造で田村が用意する（詳細は §5）。
 
 ### このドキュメントの読み方
 - **§1** 設計思想
@@ -147,20 +147,32 @@ Claude Code の **サブエージェント機能** + **スラッシュコマン�
 work/AI-Studio PJT/
 ├── AI-Studio設計.md                       # 本ファイル
 ├── 組織図.md                              # 16人+3ペルソナの組織詳細
-├── agent-drafts/                          # 各ロールのagent.mdタタキ台
+├── 進捗.md                                # 親PJT全体管理
+├── agent-drafts/                          # 各ロールのagent.mdタタキ台（17ファイル）
 ├── 01_基盤整備/進捗.md
 ├── 02_クリエイティブ生成/進捗.md
 ├── 03_広告運用改善/進捗.md
 ├── 04_戦略立案/進捗.md
 └── 05_動画コンテンツ制作/進捗.md
 
-work/AI活用/knowledge/                     # ドメイン知識ベース（田村が用意）
-├── industries/                            # 業界別知識
-├── platforms/                             # 媒体仕様
-├── benchmarks/                            # 数値ベンチマーク
-├── frameworks/                            # フレームワーク集
-├── playbooks/                             # 勝ちパターン集
-└── templates/                             # ヒアリングシート等
+work/principle/                            # ★精選原則層（エージェント常時参照）
+├── INDEX.md
+├── マーケ戦略/                            # 田村の判断軸/ペルソナ設計/ヒアリング項目
+├── マーケ施策/                            # SEO/LLMO/CRM/MA/モール/アフィリエイト
+├── 業界知見/                              # 人材/美容/店舗/不動産/クリニック/BtoB/EC
+├── 広告運用/                              # Search/Shopping/P-MAX/Dynamic/Meta/TikTok/YDA
+├── クリエイティブ/                        # コピー/バナー/LP/動画
+└── SNS運用/                               # Instagram/LINE/TikTok/YouTube
+
+work/knowledge/                            # ★蓄積アーカイブ層（雑多に蓄積）
+├── INDEX.md
+├── マーケ戦略/                            # 戦略系の詳細事例・調査ログ
+├── マーケ施策/
+├── 業界知見/                              # 業界別の詳細・競合・トレンドログ
+├── 広告運用/                              # 媒体別の詳細・月次スナップショット
+├── クリエイティブ/                        # 勝ち/負け事例蓄積
+├── SNS運用/                               # アルゴリズム観察・バズ事例
+└── archive/                               # 古くなったもの・降格したもの
 
 work/client/<クライアント名>/
 ├── .claude/agents/                        # 案件固有ペルソナ
@@ -364,40 +376,52 @@ CMO  統合・優先順位付け
 ## 5. ドメイン知識マップ（田村が用意するもの）
 
 エージェントは「汎用的な思考力」を持つが、業務固有の知識は外から与える必要がある。
-以下のファイル/フォルダを `work/AI活用/knowledge/` 配下に田村が用意する。
-各エージェントは agent.md 内で `@work/AI活用/knowledge/...` の形で参照する。
+**二層構造**で運用する：
+- **`work/principle/`** — 精選された原則・鉄則・判断基準（エージェントが常時参照）
+- **`work/knowledge/`** — 詳細スペック・生事例・蓄積アーカイブ（必要時に深掘り参照）
 
-### 5.1 必須のドメイン知識（最初に揃える）
+両層とも**業務領域ベース**で同じ構成（マーケ戦略 / マーケ施策 / 業界知見 / 広告運用 / クリエイティブ / SNS運用）。
+詳細は `work/principle/INDEX.md` と `work/knowledge/INDEX.md` を参照。
 
-| カテゴリ | ファイル/フォルダ | 内容 | 主に使うロール | 優先度 |
-|---|---|---|---|---|
-| 業界別知識 | `industries/<業界名>.md` | 業界規制（薬機法/景表法/金商法等）、トーン、訴求NG事項、専門用語 | ①CMO ⑥⑦⑧⑨ | ★★★ |
-| 媒体仕様（検索） | `platforms/search/google-ads.md`, `yahoo-ads.md` | 入稿規定、品質スコア改善定石、自動入札 | ⑪ | ★★★ |
-| 媒体仕様（SNS） | `platforms/meta/`, `platforms/tiktok/` | ピクセル/オーディエンス/CBO・ABO/クリエイティブ規定 | ⑫ | ★★★ |
-| 媒体仕様（動画） | `platforms/youtube-ads.md`, `meta-video.md`, `tiktok-ads.md` | 秒数規定、アスペクト比、スキッパブル等 | ⑦⑭ | ★★★ |
-| 媒体仕様（バナー） | `platforms/banner-specs.md` | GDN/YDN/Metaサイズ別仕様、FV要件 | ⑧ | ★★ |
-| 媒体仕様（ショート） | `platforms/shorts/youtube-shorts.md`, `reels.md`, `tiktok.md` | アルゴリズム特性、推奨秒数 | ⑮ | ★★★ |
-| 業界ベンチマーク数値 | `benchmarks/<業界>_<媒体>.md` | 業界×媒体の平均CPC/CPM/CVR/CPA | ⑩⑪⑫ | ★★★ |
-| コピー評価ルーブリック | `frameworks/copy-rubric.md` | 5段階評価軸（自分ごと化/便益明示/具体性/独自性/CTA強度等） | ⑤ | ★★★ |
-| LP定石パターン | `frameworks/lp-patterns.md` | PASONA/AIDMA/QUEST/物語型 | ⑨ | ★★ |
-| 動画フック型集 | `video-hooks/hooks.md` | 1秒/3秒フック型 | ⑦⑮ | ★★ |
-| ヒアリングシート | `templates/hearing-sheet.md` | 新規受注時のヒアリング項目 | /strategy-build入力 | ★★★ |
-| ペルソナ作成テンプレ | `frameworks/persona.md` | ペルソナのフォーマット | ③ | ★★★ |
-| カスタマージャーニー | `frameworks/journey.md` | フェーズ別の設計フォーマット | ③ | ★★ |
-
-### 5.2 蓄積していくドメイン知識（運用しながら育てる）
+### 5.1 principle/ の主要ファイル（精選原則・必須参照）
 
 | カテゴリ | ファイル/フォルダ | 内容 | 主に使うロール | 優先度 |
 |---|---|---|---|---|
-| 勝ちパターン（コピー） | `playbooks/copy/<業界>.md` | 過去の勝ちコピー＋負け＋分析 | ⑥⑤ | ★★ |
-| 勝ちパターン（LP） | `playbooks/lp/<業界>.md` | CVR高いLPの構成分析 | ⑨ | ★★ |
-| 勝ちパターン（動画） | `playbooks/video/<業界>.md` | バズ動画/CV取れた動画分析 | ⑦⑭⑮ | ★★ |
-| 勝ちパターン（バナー） | `playbooks/banner/<業界>.md` | CTR高いバナーの分析 | ⑧ | ★ |
-| 失敗パターン集 | `playbooks/anti-patterns.md` | やってはいけない訴求/表現/媒体運用ミス | 全ロール | ★★ |
-| 競合データベース | `industries/<業界>/competitors.md` | 主要競合の戦略/クリエイティブ/価格 | ②④ | ★ |
-| クライアント別過去案件 | `work/client/<name>/history.md` | 過去のクリエイティブ・成果データ | 全ロール（案件起動時） | ★★ |
+| マーケ戦略 | `principle/マーケ戦略/田村の判断軸.md` | CLAUDE.md準拠の事業観 | 全ロール | ★★★ |
+| マーケ戦略 | `principle/マーケ戦略/ペルソナ設計要点.md` | ペルソナフォーマット | ③ ㉑㉒㉓ ⑯ | ★★★ |
+| マーケ戦略 | `principle/マーケ戦略/ヒアリング項目.md` | ヒアリング標準項目 | /strategy-build入力 | ★★★ |
+| 業界知見 | `principle/業界知見/<業界>/` | 業界規制・トーン・勝ち型の要点 | ①CMO ⑥⑦⑧⑨ | ★★★ |
+| 広告運用 | `principle/広告運用/Search/`, `Shopping/`, `P-MAX/` | 検索広告系の鉄則 | ⑪ | ★★★ |
+| 広告運用 | `principle/広告運用/Meta/`, `TikTok/`, `YDA/` | SNS広告系の鉄則 | ⑫ | ★★★ |
+| 広告運用 | `principle/広告運用/Dynamic/` | 動的広告の鉄則 | ⑪⑫ | ★★ |
+| クリエイティブ | `principle/クリエイティブ/コピー/` | コピー執筆鉄則・採点ルーブリック関連 | ⑤⑥ | ★★★ |
+| クリエイティブ | `principle/クリエイティブ/LP/` | LP定石（PASONA/AIDMA/物語型） | ⑨ | ★★★ |
+| クリエイティブ | `principle/クリエイティブ/動画/` | 動画構成・フック型 | ⑦⑭⑮⑯ | ★★★ |
+| クリエイティブ | `principle/クリエイティブ/バナー/` | バナー鉄則 | ⑧ | ★★ |
+| SNS運用 | `principle/SNS運用/{Instagram, LINE, TikTok, YouTube}/` | SNS別運用原則 | ⑬⑭⑮ | ★★★ |
+| マーケ施策 | `principle/マーケ施策/{SEO, LLMO, CRM, ...}/` | 施策別の鉄則 | ①④ | ★★ |
 
-### 5.3 推奨フォーマット
+### 5.2 knowledge/ の主要カテゴリ（蓄積アーカイブ）
+
+knowledge/ は principle/ と同じ業務領域カテゴリで構成し、**詳細・事例・生データ**を蓄積。
+
+| カテゴリ | 蓄積内容例 | 主に使うロール |
+|---|---|---|
+| `knowledge/マーケ戦略/` | 過去案件の戦略MD、調査ログ、ペルソナ事例 | ②③④ |
+| `knowledge/マーケ施策/` | 施策別の効果実績、参考記事抜粋 | ④ |
+| `knowledge/業界知見/<業界>/` | 競合一覧、ケーススタディ、トレンドログ | 全ロール |
+| `knowledge/広告運用/<媒体>/` | 媒体仕様の細部、アルゴリズム観察記、月次スナップショット | ⑩⑪⑫ |
+| `knowledge/クリエイティブ/<種別>/` | 勝ち/負け事例集、参考スクショ | ⑤⑥⑦⑧⑨ |
+| `knowledge/SNS運用/<媒体>/` | アルゴリズム観察、バズ事例 | ⑬⑭⑮ |
+| `knowledge/archive/` | 古い情報・principleから降格したもの | 参照少 |
+
+### 5.3 ロール固有原則の格納方針
+
+- **ロール別の「採点ルール」「判断ロジック」「So What抽出手順」は agent.md 内に直書き**
+- principle/ の役割は「業務領域別の知識」、エージェントの動作仕様は agent.md 内に統合
+- 例: ⑤Creative Director の採点ルール → `work/AI-Studio PJT/agent-drafts/05_creative-director.md` に統合済み
+
+### 5.4 推奨フォーマット
 
 各ドメイン知識ファイルは以下の構造で揃えると、エージェントが解釈しやすい：
 
@@ -420,24 +444,24 @@ CMO  統合・優先順位付け
 （あれば）
 ```
 
-### 5.4 用意の優先順位
+### 5.5 用意の優先順位
 
 **Week 1（最優先 ★★★）**:
-1. `frameworks/copy-rubric.md` — ⑤Creative Director が参照
-2. `frameworks/persona.md` — ③Customer Analyzer が参照
-3. `templates/hearing-sheet.md` — /strategy-build入力テンプレ
-4. `industries/<主要1業界>.md` — まず1業界
-5. `platforms/search/google-ads.md` — ⑪Search Ads Specialist が参照
+1. `principle/マーケ戦略/田村の判断軸.md` — 全ロール参照（雛型済）
+2. `principle/マーケ戦略/ペルソナ設計要点.md` — ③Customer Analyzer 参照（雛型済）
+3. `principle/マーケ戦略/ヒアリング項目.md` — /strategy-build 入力（雛型済）
+4. `principle/業界知見/<主要1業界>/` — まず1業界の鉄則
+5. `principle/広告運用/Search/` — ⑪Search Ads Specialist が参照
 
 **Week 2-3（★★）**:
-6. `benchmarks/<主要業界>_<主要媒体>.md`
-7. `frameworks/lp-patterns.md`
-8. `video-hooks/hooks.md`
-9. 他の `platforms/` を順次
+6. `principle/業界知見/` を担当業界ぶん拡張
+7. `principle/クリエイティブ/LP/` — LP定石
+8. `principle/クリエイティブ/動画/` — 動画フック型
+9. `principle/広告運用/Meta/`, `principle/広告運用/TikTok/`, `principle/SNS運用/` を順次
 
 **運用しながら（★）**:
-- `playbooks/` 配下を実案件のたびに追記
-- `industries/` を担当業界ぶん拡張
+- `knowledge/` 配下を実案件のたびに追記
+- 月次レビューで `knowledge/` → `principle/` への昇格候補を抽出
 
 ---
 

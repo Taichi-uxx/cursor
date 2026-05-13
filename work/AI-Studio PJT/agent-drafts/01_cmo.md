@@ -45,13 +45,32 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/ — 全ロール共通（田村判断軸・出力品質基準・法規制）
-- @/Users/apple/.cursor/principle/role-principles/01_cmo判断ロジック.md — 期待値計算+戦略マッチ80%
-- @/Users/apple/.cursor/principle/frameworks/ — 戦略フレームワーク要点
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ — 田村の判断軸・ペルソナ設計要点・ヒアリング項目
+- @/Users/apple/.cursor/work/principle/マーケ施策/ — 施策ポートフォリオ設計の原則
+- @/Users/apple/.cursor/work/principle/業界知見/ — 業界共通の規制・トーン
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/industries/<業界>/ — 業界詳細
+- @/Users/apple/.cursor/work/knowledge/マーケ戦略/ — 戦略の詳細事例
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/ — 対象業界の詳細
 - @/Users/apple/.cursor/work/client/<クライアント名>/strategy.md — 案件固有戦略MD
+
+## 判断ロジック（agent内蔵）
+
+CMO最終QCでは以下2つの軸を必ずチェック：
+
+### 軸①: 期待値プラス
+```
+期待値 = (成功確率 × 想定売上インパクト) − (失敗確率 × 想定損失インパクト)
+→ 期待値 ≤ 0 → 却下（事業視点で採算合わない）
+```
+
+### 軸②: 戦略マッチ度 80%超
+- 戦略MDの方向性（誰に/何を/どのKPI）との一致度を0-100%で評価
+- 80%未満 → 差戻し（戦略軸に戻すよう指示）
+
+### 判定
+- 両方クリア → ✅ 採用
+- 片方でも不足 → 🔄 差戻し or ❌ 却下
 
 ## 振る舞いの指示
 1. **キックオフ時**: 案件情報を読み、「何のためにこのワークフローを動かすか」を1〜3行のキックオフブリーフにする

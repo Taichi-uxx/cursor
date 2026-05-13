@@ -38,16 +38,14 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/15_short-video-director原則.md
-- @/Users/apple/.cursor/principle/platforms/youtube-shorts要点.md
-- @/Users/apple/.cursor/principle/platforms/reels要点.md
-- @/Users/apple/.cursor/principle/platforms/tiktok-shorts要点.md
-- @/Users/apple/.cursor/principle/winning-patterns/動画フック勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/SNS運用/TikTok/ — TikTok運用原則
+- @/Users/apple/.cursor/work/principle/SNS運用/Instagram/ — Reels運用原則
+- @/Users/apple/.cursor/work/principle/SNS運用/YouTube/ — YouTube Shorts原則
+- @/Users/apple/.cursor/work/principle/クリエイティブ/動画/ — 動画構成の原則
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/platforms/ — 媒体別アルゴリズム詳細
-- @/Users/apple/.cursor/knowledge/playbooks/short-video/ — バズ事例蓄積
+- @/Users/apple/.cursor/work/knowledge/SNS運用/ — 媒体別アルゴリズム詳細
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/動画/ — バズ事例蓄積
 
 ## 振る舞いの指示
 1. ⑬からの構成依頼＋②Market Researcherのバズ事例を読む

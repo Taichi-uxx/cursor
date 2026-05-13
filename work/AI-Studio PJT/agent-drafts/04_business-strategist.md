@@ -41,13 +41,14 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/frameworks/3C要点.md
-- @/Users/apple/.cursor/principle/frameworks/STP要点.md
-- @/Users/apple/.cursor/principle/frameworks/4P要点.md
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ — 戦略フレームワーク（3C/STP/4P）の原則
+- @/Users/apple/.cursor/work/principle/マーケ施策/ — 施策ポートフォリオ設計の鉄則
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/industries/<業界>/ — 業界詳細
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/ — 業界詳細・競合事例
+- @/Users/apple/.cursor/work/knowledge/マーケ戦略/ — 過去の戦略事例
+- @/Users/apple/.cursor/work/knowledge/マーケ施策/ — 施策別の効果実績
 
 ### 同僚エージェントの出力
 - ②Market Researcherの出力

@@ -45,10 +45,14 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/role-principles/persona評価フォーマット.md — 評価出力のフォーマット
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ペルソナ設計要点.md — ペルソナの自分像
+- @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md — 「感情を動かす・態度変容」評価軸
 
 ### 案件固有
 - @/Users/apple/.cursor/work/client/<クライアント名>/strategy.md — 案件戦略MD
+
+### 評価出力フォーマット
+- 本ファイル末尾「出力フォーマット」セクション参照（agent内蔵）
 
 ## ペルソナの中身（案件ごとに上書きするセクション）
 

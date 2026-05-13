@@ -38,11 +38,11 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/16_scriptwriter原則.md
+- @/Users/apple/.cursor/work/principle/クリエイティブ/動画/ — 動画台本の原則
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ペルソナ設計要点.md — ペルソナの語彙整合のため
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/video/<業界>/ — 業界別の台本事例
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/動画/ — 業界別の台本事例
 
 ### 上流からの入力
 - ⑭ or ⑮の構成案

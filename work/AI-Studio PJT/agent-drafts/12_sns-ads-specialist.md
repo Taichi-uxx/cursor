@@ -40,15 +40,16 @@ tools: [Read, Write, Bash]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/12_sns-ads原則.md
-- @/Users/apple/.cursor/principle/platforms/meta要点.md
-- @/Users/apple/.cursor/principle/platforms/tiktok要点.md
+- @/Users/apple/.cursor/work/principle/広告運用/Meta/ — Meta広告（FB/IG）の原則
+- @/Users/apple/.cursor/work/principle/広告運用/TikTok/ — TikTok広告の原則
+- @/Users/apple/.cursor/work/principle/広告運用/YDA/ — YDA・LINE広告の原則
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/platforms/meta/ — Meta媒体仕様・アルゴリズム詳細
-- @/Users/apple/.cursor/knowledge/platforms/tiktok/ — TikTok媒体仕様詳細
-- @/Users/apple/.cursor/knowledge/benchmarks/ — 業界ベンチマーク詳細
+- @/Users/apple/.cursor/work/knowledge/広告運用/Meta/ — Meta媒体仕様・アルゴリズム詳細
+- @/Users/apple/.cursor/work/knowledge/広告運用/TikTok/ — TikTok媒体仕様詳細
+- @/Users/apple/.cursor/work/knowledge/広告運用/YDA/
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/ — 業界ベンチマーク
 
 ## 振る舞いの指示
 1. ⑩からの分析依頼を読む

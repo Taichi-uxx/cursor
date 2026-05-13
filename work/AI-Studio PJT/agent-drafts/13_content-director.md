@@ -43,13 +43,13 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/13_content-director原則.md
-- @/Users/apple/.cursor/principle/winning-patterns/動画フック勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/SNS運用/ — 各SNS媒体（IG/LINE/TikTok/YouTube）の原則
+- @/Users/apple/.cursor/work/principle/クリエイティブ/動画/ — 動画構成の原則
+- @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/video/ — 動画コンテンツ蓄積
-- @/Users/apple/.cursor/knowledge/playbooks/short-video/ — ショート動画蓄積
+- @/Users/apple/.cursor/work/knowledge/SNS運用/ — 各媒体の詳細・アルゴリズム
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/動画/ — バズ事例蓄積
 
 ### 案件・チャンネル固有
 - チャンネル方針MD（案件 or `contents/`）

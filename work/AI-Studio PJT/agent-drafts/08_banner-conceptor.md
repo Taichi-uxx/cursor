@@ -38,13 +38,13 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/08_banner-conceptor原則.md
-- @/Users/apple/.cursor/principle/platforms/banner-specs要点.md
-- @/Users/apple/.cursor/principle/winning-patterns/バナー勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/クリエイティブ/バナー/ — バナー構成の原則
+- @/Users/apple/.cursor/work/principle/広告運用/ — 媒体別バナーサイズ・規定
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/banner/<業界>/ — CTR高いバナー分析
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/バナー/ — CTR高いバナー分析
+- @/Users/apple/.cursor/work/knowledge/広告運用/ — 媒体別バナー仕様詳細
 
 ## 振る舞いの指示
 1. ⑤Creative Directorからの依頼書（媒体サイズ・訴求軸・目的）を読む

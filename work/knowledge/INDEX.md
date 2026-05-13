@@ -2,65 +2,43 @@
 
 詳細スペック・生事例・参考資料・過去レポートを**雑多に貯める**フォルダ。
 気軽に追加し、必要時にエージェントが深掘り参照する。
-重要なものは月次レビューで `/Users/apple/.cursor/principle/` に昇格させる。
+重要なものは月次レビューで `/Users/apple/.cursor/work/principle/` に昇格させる。
 
 ---
 
-## 構成
+## 構成（principle/ と同じ業務領域ベース）
 
 | サブフォルダ | 役割 |
 |---|---|
-| `industries/` | 業界別の詳細（規制細部・競合・ケーススタディ・トレンドログ） |
-| `platforms/` | 媒体別の詳細（spec詳細・アルゴリズム観察記・参考記事・仕様変更履歴） |
-| `benchmarks/` | 業界×媒体の月次スナップショット |
-| `playbooks/` | 過去案件の蓄積（copy/video/lp/banner/short-video） |
-| `research/` | ②Market Researcherの調査ログ |
-| `templates/` | ヒアリングシート等のテンプレ |
+| `マーケ戦略/` | 戦略系の詳細事例・過去案件・調査ログ |
+| `マーケ施策/` | 施策別の詳細事例（SEO/LLMO/CRM/MA/モール/アフィリエイト） |
+| `業界知見/` | 業界別の詳細・競合・規制細部・ケーススタディ・トレンドログ |
+| `広告運用/` | 媒体別の詳細スペック・アルゴリズム観察記・月次スナップショット |
+| `クリエイティブ/` | 制作物別の蓄積（コピー/バナー/LP/動画）— 勝ち/負け事例 |
+| `SNS運用/` | SNS別の詳細・アルゴリズム・バズ事例 |
 | `archive/` | 古くなったもの・principleから降格したもの |
 
 ---
 
-## 推奨ファイル構造
+## 運用方針（重要）
 
-```
-industries/
-  <業界名>/
-    overview.md
-    regulations-detail.md
-    competitors/
-    case-studies/
-    trends-log/
+### `マーケ戦略/` 配下の同名ファイル取り扱い
+当初、principle/ と knowledge/ の両方に `田村の判断軸.md` `ヒアリング項目.md` `ペルソナ設計要点.md` が存在していた。
 
-platforms/
-  <媒体名>/
-    spec-detail.md
-    algorithm-notes.md
-    reference-articles/
-    version-history.md
+**決定**: **principle/ 側だけで運用**（案A）。
+→ knowledge/マーケ戦略/ 配下の同名3ファイルは**削除予定**（田村に削除依頼中）。
+→ knowledge/マーケ戦略/ は今後「過去案件の戦略MD・調査ログ」など事例蓄積用として運用する。
 
-benchmarks/
-  <業界>_<媒体>/
-    monthly-snapshots/
-      YYYY-MM.md
+### 既存ファイル（2026-05-13時点）
+- なし（同名3ファイルは削除予定）
 
-playbooks/
-  copy/<業界>/
-    win-cases.md
-    loss-cases.md
-  video/<業界>/
-  lp/<業界>/
-  banner/<業界>/
-  short-video/
-
-research/
-  <YYYY-MM-DD>_<テーマ>.md
-
-templates/
-  hearing-sheet.md ★Week1雛型作成済
-  ...
-
-archive/
-```
+### 各カテゴリのサブフォルダ（中身はこれから田村が肉付け）
+- 業界知見 copy/{人材, 美容, 店舗, 不動産, クリニック, BtoB, EC}/
+  ※「業界知見 copy」はコピー時のフォルダ名残りと思われる。「業界知見」にリネーム推奨
+- 広告運用/{Dynamic, Meta, P-MAX, P-MAX/Demand, Search, Shopping, TikTok, YDA, YDA/LINE}/
+- マーケ施策/{モール, アフィリエイト, CRM, CRM/MA, LLMO, SEO}/
+- クリエイティブ/{動画, コピー, バナー, LP}/
+- SNS運用/{Instagram, LINE, TikTok, YouTube}/
 
 ---
 
@@ -69,22 +47,22 @@ archive/
 - **雑多OK**: 思いついたら入れる。整理は後追い
 - **出典明示**: WEB記事・参考資料は必ずソースを記載（CLAUDE.mdルール）
 - **日付管理**: 時系列で意味があるもの（トレンド・スナップショット）は `YYYY-MM-DD_` プレフィックスで
-- **principleに昇格させる候補**は `## 昇格候補メモ` セクションを末尾に置くと、月次レビューで拾いやすい
+- **principleに昇格させる候補**は ファイル末尾に `## 昇格候補メモ` セクションを置くと、月次レビューで拾いやすい
 
 ---
 
-## 月次レビュー（自動化＋手動）
+## 月次レビュー（自動化＋手動ハイブリッド）
 
 ### 自動化対象
 - `/loop monthly /knowledge-review`（コマンド未作成）
 - 新規追加ファイルから「昇格候補」を抽出して報告
 
 ### 手動対象
-- 重要度が高いもの・直感で決めたいものは手動で昇格させる
+- 重要度が高いもの・直感で決めたいものは手動で昇格
 - archive/への降格判断
 
 ---
 
 ## 関連
-- 精選原則層: `/Users/apple/.cursor/principle/INDEX.md`
+- 精選原則層: `/Users/apple/.cursor/work/principle/INDEX.md`
 - 設計書: `/Users/apple/.cursor/work/AI-Studio PJT/AI-Studio設計.md`

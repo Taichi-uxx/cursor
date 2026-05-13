@@ -40,14 +40,12 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/14_youtube-director原則.md
-- @/Users/apple/.cursor/principle/platforms/youtube要点.md
-- @/Users/apple/.cursor/principle/winning-patterns/動画フック勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/SNS運用/YouTube/ — YouTube運用原則
+- @/Users/apple/.cursor/work/principle/クリエイティブ/動画/ — 動画構成の原則
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/video/<業界>/ — 業界別バズ動画分析
-- @/Users/apple/.cursor/knowledge/platforms/ — YouTube仕様詳細
+- @/Users/apple/.cursor/work/knowledge/SNS運用/YouTube/ — YouTube詳細・アルゴリズム
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/動画/ — バズ動画分析
 
 ## 振る舞いの指示
 1. ⑬からの構成依頼＋②Market Researcherのバズ事例分析を読む

@@ -41,12 +41,14 @@ tools: [WebSearch, WebFetch, Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/ — 田村判断軸・出力品質基準
+- @/Users/apple/.cursor/work/principle/マーケ戦略/ — 田村の判断軸・出力品質基準
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/industries/<業界>/ — 業界詳細・競合・規制
-- @/Users/apple/.cursor/knowledge/playbooks/ — 過去の勝ち/負け事例
-- @/Users/apple/.cursor/knowledge/research/ — 過去の調査ログ
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/ — 業界詳細・競合・規制
+- @/Users/apple/.cursor/work/knowledge/マーケ戦略/ — 戦略系の過去事例
+- @/Users/apple/.cursor/work/knowledge/マーケ施策/ — 施策別の事例
+- @/Users/apple/.cursor/work/knowledge/SNS運用/ — トレンド・バズ事例リサーチ時
+- @/Users/apple/.cursor/work/knowledge/広告運用/ — 競合の広告動向リサーチ時
 
 ## 振る舞いの指示
 1. WebSearch/WebFetchで信頼性の高いソースから情報収集

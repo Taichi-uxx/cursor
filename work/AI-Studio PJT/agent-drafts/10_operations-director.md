@@ -42,13 +42,13 @@ tools: [Read, Write, Bash]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/10_operations-director-sowhat.md — So What抽出手順
-- @/Users/apple/.cursor/principle/benchmarks/ — 業界×媒体ベンチマーク要点
+- @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md — 売上・利益視点
+- @/Users/apple/.cursor/work/principle/広告運用/ — 各媒体の運用原則・改善定石
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/ — 業界ベンチマーク傾向
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/benchmarks/ — 月次スナップショット詳細
-- @/Users/apple/.cursor/knowledge/platforms/ — 媒体仕様詳細
+- @/Users/apple/.cursor/work/knowledge/広告運用/ — 媒体別の詳細・ベンチマーク数値
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/
 - @/Users/apple/.cursor/work/client/<クライアント名>/strategy.md — 事業KPI
 
 ## 振る舞いの指示

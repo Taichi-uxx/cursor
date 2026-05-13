@@ -39,15 +39,13 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/09_lp-architect原則.md
-- @/Users/apple/.cursor/principle/frameworks/PASONA要点.md
-- @/Users/apple/.cursor/principle/frameworks/AIDMA要点.md
-- @/Users/apple/.cursor/principle/winning-patterns/LP勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/クリエイティブ/LP/ — LP構成の原則（PASONA/AIDMA/物語型）
+- @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/ — 業界規制と勝ち型
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/lp/<業界>/ — CVR高いLP構成分析
-- @/Users/apple/.cursor/knowledge/industries/<業界>/ — 規制とトーン
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/LP/ — CVR高いLP構成分析
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/
 
 ## 振る舞いの指示
 1. ⑤Creative Directorからの依頼書（商品・ターゲット・ゴール）を読む

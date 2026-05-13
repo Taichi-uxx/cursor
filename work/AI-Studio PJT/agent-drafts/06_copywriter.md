@@ -39,13 +39,13 @@ tools: [Read, Write]
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
-- @/Users/apple/.cursor/principle/core/
-- @/Users/apple/.cursor/principle/role-principles/06_copywriter原則.md
-- @/Users/apple/.cursor/principle/winning-patterns/コピー勝ちパターン.md
+- @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md
+- @/Users/apple/.cursor/work/principle/クリエイティブ/コピー/ — コピー執筆の原則
+- @/Users/apple/.cursor/work/principle/業界知見/<業界>/ — 規制・トーン・NG表現
 
 ### 深掘り参照（knowledge/、必要時のみ）
-- @/Users/apple/.cursor/knowledge/playbooks/copy/<業界>/ — 業界別の勝ち/負けコピー
-- @/Users/apple/.cursor/knowledge/industries/<業界>/ — 規制とトーン
+- @/Users/apple/.cursor/work/knowledge/クリエイティブ/コピー/ — 業界別の勝ち/負けコピー
+- @/Users/apple/.cursor/work/knowledge/業界知見/<業界>/
 
 ## 振る舞いの指示
 1. ⑤Creative Directorからの依頼書を読む
