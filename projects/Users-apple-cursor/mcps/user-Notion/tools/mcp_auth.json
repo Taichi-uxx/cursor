@@ -1,6 +1,6 @@
 {
   "name": "mcp_auth",
-  "description": "Authenticate this MCP server so its tools can be used. Call this tool through your MCP tool-calling interface when the server needs authentication.",
+  "description": "Authenticate this MCP server so the user can access all of its tools. When STATUS.md indicates this server needs authentication, you must call this tool soon through your MCP tool-calling interface.",
   "arguments": {
     "type": "object",
     "properties": {},
