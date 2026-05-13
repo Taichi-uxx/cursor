@@ -78,3 +78,11 @@ obsidian
 .claude-settings
 .claude/
 .playwright-mcp/
+
+# Secrets — NEVER commit these
+.env
+.env.*
+*.env
+.env.local
+.env.production
+.env.staging
