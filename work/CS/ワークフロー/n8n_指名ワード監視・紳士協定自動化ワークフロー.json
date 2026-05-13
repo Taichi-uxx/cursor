@@ -1,0 +1,587 @@
+{
+  "name": "指名ワード監視・紳士協定自動化",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 9 * * 1"
+            }
+          ]
+        }
+      },
+      "id": "cron-trigger",
+      "name": "週次実行トリガー",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 3,
+      "position": [250, 300],
+      "notes": "毎週月曜日9:00 JSTに実行"
+    },
+    {
+      "parameters": {
+        "keepOnlySet": true,
+        "values": {
+          "string": [
+            {
+              "name": "COMPANY_NAME",
+              "value": "={{ $vars.COMPANY_NAME }}"
+            },
+            {
+              "name": "CONTACT_PERSON",
+              "value": "={{ $vars.CONTACT_PERSON }}"
+            },
+            {
+              "name": "SERVICE_NAME",
+              "value": "={{ $vars.SERVICE_NAME }}"
+            },
+            {
+              "name": "SPREADSHEET_ID",
+              "value": "={{ $vars.SPREADSHEET_ID }}"
+            },
+            {
+              "name": "SLACK_WEBHOOK_URL",
+              "value": "={{ $vars.SLACK_WEBHOOK_URL }}"
+            },
+            {
+              "name": "SLACK_CHANNEL",
+              "value": "={{ $vars.SLACK_CHANNEL }}"
+            },
+            {
+              "name": "SERPAPI_KEY",
+              "value": "={{ $vars.SERPAPI_KEY }}"
+            }
+          ],
+          "array": [
+            {
+              "name": "SEARCH_KEYWORDS",
+              "value": "={{ $vars.SEARCH_KEYWORDS }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "set-variables",
+      "name": "変数設定",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3,
+      "position": [450, 300],
+      "notes": "環境変数から設定値を読み込み"
+    },
+    {
+      "parameters": {
+        "jsCode": "const keywords = $input.item.json.SEARCH_KEYWORDS;\nconst results = [];\n\n// 各キーワードを個別のアイテムとして出力\nfor (const keyword of keywords) {\n  results.push({\n    json: {\n      keyword: keyword,\n      searchDate: new Date().toISOString(),\n      ...($input.item.json)\n    }\n  });\n}\n\nreturn results;"
+      },
+      "id": "split-keywords",
+      "name": "キーワード分割",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [650, 300],
+      "notes": "検索キーワードを個別に処理するため分割"
+    },
+    {
+      "parameters": {
+        "url": "https://serpapi.com/search",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "serpapiApi",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "q",
+              "value": "={{ $json.keyword }}"
+            },
+            {
+              "name": "location",
+              "value": "Japan"
+            },
+            {
+              "name": "hl",
+              "value": "ja"
+            },
+            {
+              "name": "gl",
+              "value": "jp"
+            },
+            {
+              "name": "num",
+              "value": "10"
+            },
+            {
+              "name": "api_key",
+              "value": "={{ $json.SERPAPI_KEY }}"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "id": "google-search",
+      "name": "Google検索実行",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [850, 300],
+      "notes": "SerpAPIを使用してGoogle検索結果を取得"
+    },
+    {
+      "parameters": {
+        "jsCode": "const searchResults = $input.item.json;\nconst keyword = searchResults.search_parameters?.q || '';\nconst ads = searchResults.ads || [];\nconst topAds = searchResults.ads_top || [];\nconst bottomAds = searchResults.ads_bottom || [];\n\n// 全ての広告を統合\nconst allAds = [...ads, ...topAds, ...bottomAds];\nconst processedAds = [];\n\n// 重複を除去して広告を処理\nconst seenDomains = new Set();\n\nfor (const ad of allAds) {\n  if (!ad.link) continue;\n  \n  // URLからドメインを抽出\n  const url = new URL(ad.link);\n  const domain = url.hostname.replace('www.', '');\n  \n  // 重複チェック\n  if (seenDomains.has(domain)) continue;\n  seenDomains.add(domain);\n  \n  // 自社ドメインは除外\n  if (domain.includes($input.item.json.SERVICE_NAME?.toLowerCase())) continue;\n  \n  processedAds.push({\n    json: {\n      keyword: keyword,\n      advertiserUrl: ad.link,\n      advertiserDomain: domain,\n      adTitle: ad.title || '',\n      adDescription: ad.description || '',\n      displayUrl: ad.displayed_link || '',\n      searchDate: new Date().toISOString(),\n      platform: 'Google',\n      ...($input.item.json)\n    }\n  });\n}\n\n// 広告が見つからない場合\nif (processedAds.length === 0) {\n  return [{\n    json: {\n      keyword: keyword,\n      status: 'no_ads_found',\n      message: '広告が見つかりませんでした',\n      searchDate: new Date().toISOString(),\n      ...($input.item.json)\n    }\n  }];\n}\n\nreturn processedAds;"
+      },
+      "id": "extract-ads",
+      "name": "広告情報抽出",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1050, 300],
+      "notes": "検索結果から広告情報を抽出"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "loose"
+          },
+          "conditions": [
+            {
+              "id": "condition1",
+              "leftValue": "={{ $json.status }}",
+              "rightValue": "no_ads_found",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "if-ads-found",
+      "name": "広告有無判定",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1250, 300],
+      "notes": "広告が見つかった場合のみ処理を継続"
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.advertiserUrl }}",
+        "options": {
+          "timeout": 20000,
+          "redirect": {
+            "redirect": {
+              "followRedirects": true,
+              "maxRedirects": 5
+            }
+          }
+        }
+      },
+      "id": "fetch-company-site",
+      "name": "企業サイト取得",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [1450, 250],
+      "notes": "広告主のWebサイトを取得"
+    },
+    {
+      "parameters": {
+        "jsCode": "const html = $input.item.json.data || '';\nconst url = $input.item.json.advertiserUrl;\nconst domain = $input.item.json.advertiserDomain;\n\n// 企業名の抽出\nlet companyName = '';\nconst titleMatch = html.match(/<title[^>]*>([^<]+)<\\/title>/i);\nif (titleMatch) {\n  companyName = titleMatch[1]\n    .replace(/株式会社|有限会社|合同会社|LLC|Inc\\.|Corp\\.|Co\\., Ltd\\./gi, '')\n    .replace(/[\\|｜\\-－–—].*/g, '')\n    .trim();\n}\n\n// OGPから企業名を取得\nconst ogSiteNameMatch = html.match(/<meta\\s+property=[\"']og:site_name[\"']\\s+content=[\"']([^\"']+)[\"']/i);\nif (ogSiteNameMatch && !companyName) {\n  companyName = ogSiteNameMatch[1].trim();\n}\n\n// サービス名の抽出\nlet serviceName = companyName;\nconst ogTitleMatch = html.match(/<meta\\s+property=[\"']og:title[\"']\\s+content=[\"']([^\"']+)[\"']/i);\nif (ogTitleMatch) {\n  serviceName = ogTitleMatch[1]\n    .replace(/[\\|｜\\-－–—].*/g, '')\n    .trim();\n}\n\n// 問い合わせ先の検索\nlet contactUrl = '';\nlet contactEmail = '';\n\n// 問い合わせフォームのURL検索\nconst contactLinkPatterns = [\n  /href=[\"']([^\"']*(?:contact|inquiry|toiawase|form|support)[^\"']*)[\"']/gi,\n  /href=[\"'](\\/contact[^\"']*)[\"']/gi,\n  /href=[\"'](\\/inquiry[^\"']*)[\"']/gi,\n  /href=[\"'](\\/support[^\"']*)[\"']/gi\n];\n\nfor (const pattern of contactLinkPatterns) {\n  const matches = html.match(pattern);\n  if (matches) {\n    const match = matches[0].match(/href=[\"']([^\"']+)[\"']/i);\n    if (match) {\n      contactUrl = new URL(match[1], url).href;\n      break;\n    }\n  }\n}\n\n// メールアドレスの検索\nconst emailPattern = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}/g;\nconst emails = html.match(emailPattern) || [];\nfor (const email of emails) {\n  if (!email.includes('example') && !email.includes('sample')) {\n    contactEmail = email;\n    break;\n  }\n}\n\n// フッターから会社名を取得（フォールバック）\nif (!companyName) {\n  const footerMatch = html.match(/<footer[^>]*>([\\s\\S]*?)<\\/footer>/i);\n  if (footerMatch) {\n    const copyrightMatch = footerMatch[1].match(/(?:©|Copyright)\\s*(?:\\d{4}\\s*)?([^<\\n]+)/i);\n    if (copyrightMatch) {\n      companyName = copyrightMatch[1]\n        .replace(/All Rights Reserved/gi, '')\n        .replace(/\\.$/g, '')\n        .trim();\n    }\n  }\n}\n\n// 結果を返す\nreturn [{\n  json: {\n    ...($input.item.json),\n    companyName: companyName || domain,\n    serviceName: serviceName || domain,\n    contactUrl: contactUrl,\n    contactEmail: contactEmail,\n    contactStatus: (contactUrl || contactEmail) ? 'found' : 'not_found',\n    extractedAt: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "extract-company-info",
+      "name": "企業情報抽出",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1650, 250],
+      "notes": "HTMLから企業名、サービス名、問い合わせ先を抽出"
+    },
+    {
+      "parameters": {
+        "jsCode": "const data = $input.item.json;\n\n// テンプレート文面の生成\nconst template = `株式会社${data.companyName}　広告ご担当者様\n\n突然のご連絡失礼いたします。\n株式会社${data.COMPANY_NAME}の${data.CONTACT_PERSON}と申します。\n\n広告の除外設定をご依頼させていただきたく、ご連絡いたしました。\n\nGoogle検索にて弊社の指名KWに該当するKWで検索を行うと、貴社サービス「${data.serviceName}」様の広告が掲出されます。\n拡張などで意図的ではないと存じますが、該当のキーワードは弊社サービス名となりますので、お手数をおかけしますが、除外設定をいただけますでしょうか。\n\n----------------------------------------------\n・対象媒体：Google検索、Yahoo!検索\n・対象キーワード：「${data.keyword}」\n・除外設定：フレーズ一致除外、部分一致除外、完全一致除外\n----------------------------------------------\n\nまた、弊社でも、貴社名や商標などで除外が必要なものがあれば設定させていただきますのでご指示ください。\n\nお手数おかけしますが、除外設定を完了されましたらご一報いただけますと幸いです。\n\n何卒よろしくお願いいたします。`;\n\nreturn [{\n  json: {\n    ...data,\n    contactMessage: template,\n    generatedAt: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "generate-message",
+      "name": "文面生成",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1850, 250],
+      "notes": "紳士協定の連絡文面を生成"
+    },
+    {
+      "parameters": {
+        "operation": "appendOrUpdate",
+        "documentId": {
+          "__rl": true,
+          "value": "={{ $json.SPREADSHEET_ID }}",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "監視結果",
+          "mode": "name"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "実行日時": "={{ $json.searchDate }}",
+            "検索キーワード": "={{ $json.keyword }}",
+            "企業名": "={{ $json.companyName }}",
+            "サービス名": "={{ $json.serviceName }}",
+            "企業サイトURL": "={{ $json.advertiserUrl }}",
+            "問い合わせフォーム": "={{ $json.contactUrl }}",
+            "問い合わせメール": "={{ $json.contactEmail }}",
+            "ステータス": "={{ $json.contactStatus === 'found' ? '正常' : '問い合わせ先不明' }}",
+            "広告タイトル": "={{ $json.adTitle }}",
+            "広告説明": "={{ $json.adDescription }}"
+          }
+        },
+        "options": {
+          "cellFormat": "USER_ENTERED"
+        }
+      },
+      "id": "save-to-sheets",
+      "name": "スプレッドシート保存",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [2050, 250],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "1",
+          "name": "Google Sheets Account"
+        }
+      },
+      "notes": "検出結果をGoogle スプレッドシートに保存"
+    },
+    {
+      "parameters": {
+        "mode": "combine",
+        "combinationMode": "multiplex",
+        "options": {}
+      },
+      "id": "merge-results",
+      "name": "結果統合",
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3,
+      "position": [2250, 300],
+      "notes": "全ての処理結果を統合"
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst successCount = items.filter(item => item.json.contactStatus === 'found').length;\nconst failureCount = items.filter(item => item.json.contactStatus === 'not_found').length;\nconst noAdsCount = items.filter(item => item.json.status === 'no_ads_found').length;\n\nlet slackMessage = {\n  text: `🔍 指名ワード監視結果`,\n  blocks: [\n    {\n      type: \"header\",\n      text: {\n        type: \"plain_text\",\n        text: \"📊 週次監視レポート\"\n      }\n    },\n    {\n      type: \"section\",\n      fields: [\n        {\n          type: \"mrkdwn\",\n          text: `*実行日時:*\\n${new Date().toLocaleString('ja-JP', { timeZone: 'Asia/Tokyo' })}`\n        },\n        {\n          type: \"mrkdwn\",\n          text: `*検知企業数:*\\n${items.length - noAdsCount}社`\n        },\n        {\n          type: \"mrkdwn\",\n          text: `*成功:*\\n${successCount}件`\n        },\n        {\n          type: \"mrkdwn\",\n          text: `*問い合わせ先不明:*\\n${failureCount}件`\n        }\n      ]\n    },\n    {\n      type: \"divider\"\n    }\n  ]\n};\n\n// 検知企業の詳細\nif (items.length - noAdsCount > 0) {\n  slackMessage.blocks.push({\n    type: \"section\",\n    text: {\n      type: \"mrkdwn\",\n      text: \"*🏢 検知企業一覧*\"\n    }\n  });\n\n  items.forEach((item, index) => {\n    if (item.json.status === 'no_ads_found') return;\n    \n    const status = item.json.contactStatus === 'found' ? '✅' : '⚠️';\n    const contact = item.json.contactUrl || item.json.contactEmail || '取得失敗';\n    \n    slackMessage.blocks.push({\n      type: \"section\",\n      text: {\n        type: \"mrkdwn\",\n        text: `${status} *${item.json.companyName}* (${item.json.serviceName})\\n` +\n               `キーワード: ${item.json.keyword}\\n` +\n               `URL: ${item.json.advertiserUrl}\\n` +\n               `問い合わせ先: ${contact}`\n      }\n    });\n  });\n}\n\n// 問い合わせ先不明の企業\nif (failureCount > 0) {\n  slackMessage.blocks.push(\n    {\n      type: \"divider\"\n    },\n    {\n      type: \"section\",\n      text: {\n        type: \"mrkdwn\",\n        text: \"*⚠️ 問い合わせ先不明の企業*\\n手動での確認が必要です。\"\n      }\n    }\n  );\n  \n  items.filter(item => item.json.contactStatus === 'not_found').forEach(item => {\n    slackMessage.blocks.push({\n      type: \"section\",\n      text: {\n        type: \"mrkdwn\",\n        text: `• ${item.json.companyName} - ${item.json.advertiserUrl}`\n      }\n    });\n  });\n}\n\n// スプレッドシートへのリンク\nif (items[0]?.json?.SPREADSHEET_ID) {\n  slackMessage.blocks.push(\n    {\n      type: \"divider\"\n    },\n    {\n      type: \"section\",\n      text: {\n        type: \"mrkdwn\",\n        text: `📄 <https://docs.google.com/spreadsheets/d/${items[0].json.SPREADSHEET_ID}|詳細はスプレッドシートを確認>`\n      }\n    }\n  );\n}\n\nreturn [{\n  json: {\n    slackMessage: slackMessage,\n    webhookUrl: items[0]?.json?.SLACK_WEBHOOK_URL || '',\n    channel: items[0]?.json?.SLACK_CHANNEL || '#general'\n  }\n}];"
+      },
+      "id": "prepare-slack-message",
+      "name": "Slack通知準備",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2450, 300],
+      "notes": "Slack通知用のメッセージを作成"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $json.webhookUrl }}",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json.slackMessage) }}",
+        "options": {}
+      },
+      "id": "send-slack",
+      "name": "Slack通知送信",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [2650, 300],
+      "notes": "処理結果をSlackに通知"
+    },
+    {
+      "parameters": {
+        "jsCode": "// 広告が見つからなかった場合の処理\nconst keyword = $json.keyword;\nconst message = `キーワード「${keyword}」では広告が見つかりませんでした。`;\n\nreturn [{\n  json: {\n    status: 'no_ads',\n    keyword: keyword,\n    message: message,\n    searchDate: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "no-ads-handler",
+      "name": "広告なし処理",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1450, 450],
+      "notes": "広告が見つからない場合の処理"
+    },
+    {
+      "parameters": {
+        "batchSize": 1,
+        "options": {
+          "batchInterval": 2000
+        }
+      },
+      "id": "rate-limiter",
+      "name": "レート制限",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [750, 300],
+      "notes": "API呼び出しのレート制限（2秒間隔）"
+    },
+    {
+      "parameters": {
+        "jsCode": "// 生成された文面を個別ファイルとして保存\nconst items = $input.all();\nconst messages = [];\n\nitems.forEach((item, index) => {\n  if (item.json.contactMessage) {\n    messages.push({\n      json: {\n        filename: `contact_message_${item.json.companyName}_${Date.now()}.txt`,\n        content: item.json.contactMessage,\n        companyName: item.json.companyName,\n        serviceName: item.json.serviceName,\n        keyword: item.json.keyword\n      }\n    });\n  }\n});\n\nreturn messages;"
+      },
+      "id": "save-messages",
+      "name": "文面保存準備",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2050, 350],
+      "notes": "生成された文面を保存用に準備"
+    },
+    {
+      "parameters": {
+        "operation": "appendOrUpdate",
+        "documentId": {
+          "__rl": true,
+          "value": "={{ $node['set-variables'].json.SPREADSHEET_ID }}",
+          "mode": "id"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "生成文面",
+          "mode": "name"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "生成日時": "={{ new Date().toISOString() }}",
+            "企業名": "={{ $json.companyName }}",
+            "サービス名": "={{ $json.serviceName }}",
+            "キーワード": "={{ $json.keyword }}",
+            "文面": "={{ $json.content }}"
+          }
+        },
+        "options": {
+          "cellFormat": "USER_ENTERED"
+        }
+      },
+      "id": "save-messages-to-sheets",
+      "name": "文面をスプレッドシート保存",
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4,
+      "position": [2250, 350],
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "1",
+          "name": "Google Sheets Account"
+        }
+      },
+      "notes": "生成文面を別シートに保存"
+    }
+  ],
+  "connections": {
+    "cron-trigger": {
+      "main": [
+        [
+          {
+            "node": "set-variables",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "set-variables": {
+      "main": [
+        [
+          {
+            "node": "split-keywords",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "split-keywords": {
+      "main": [
+        [
+          {
+            "node": "rate-limiter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "rate-limiter": {
+      "main": [
+        [
+          {
+            "node": "google-search",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "google-search": {
+      "main": [
+        [
+          {
+            "node": "extract-ads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "extract-ads": {
+      "main": [
+        [
+          {
+            "node": "if-ads-found",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "if-ads-found": {
+      "main": [
+        [
+          {
+            "node": "fetch-company-site",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "no-ads-handler",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "fetch-company-site": {
+      "main": [
+        [
+          {
+            "node": "extract-company-info",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "extract-company-info": {
+      "main": [
+        [
+          {
+            "node": "generate-message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "generate-message": {
+      "main": [
+        [
+          {
+            "node": "save-to-sheets",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "save-messages",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "save-to-sheets": {
+      "main": [
+        [
+          {
+            "node": "merge-results",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "no-ads-handler": {
+      "main": [
+        [
+          {
+            "node": "merge-results",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "save-messages": {
+      "main": [
+        [
+          {
+            "node": "save-messages-to-sheets",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "save-messages-to-sheets": {
+      "main": [
+        [
+          {
+            "node": "merge-results",
+            "type": "main",
+            "index": 2
+          }
+        ]
+      ]
+    },
+    "merge-results": {
+      "main": [
+        [
+          {
+            "node": "prepare-slack-message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "prepare-slack-message": {
+      "main": [
+        [
+          {
+            "node": "send-slack",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner",
+    "errorWorkflow": "",
+    "timezone": "Asia/Tokyo"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "name": "monitoring",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "name": "automation",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ],
+  "triggerCount": 1,
+  "updatedAt": "2024-01-01T00:00:00.000Z",
+  "versionId": "01234567-89ab-cdef-0123-456789abcdef",
+  "pinData": {}
+}

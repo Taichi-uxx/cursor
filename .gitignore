@@ -43,3 +43,38 @@ projects/*/*
 !rules/
 !rules/**
 # <<< CURSOR MANAGED BLOCK <<<
+
+# Personal files
+!CLAUDE.md
+!ClaudeCode_よく使うコマンド.md
+!hooks.json
+!MYCELIUM_使えるAGENTS.md
+!PLUGINS_INDEX.md
+!salesforce-slack-workflow.json
+!アカウント診断.xlsx
+
+# Personal folders
+!AI活用/
+!AI活用/**
+!ai-tracking/
+!ai-tracking/**
+!contents/
+!contents/**
+!CS/
+!CS/**
+!English/
+!English/**
+!work/
+!work/**
+!設定まわり/
+!設定まわり/**
+!独立PJT/
+!独立PJT/**
+
+# System / local-only (keep ignored)
+.DS_Store
+obsidian
+.claude-memory
+.claude-settings
+.claude/
+.playwright-mcp/

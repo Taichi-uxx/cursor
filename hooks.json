@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [
+      {
+        "command": "/Users/apple/.claude/hooks/peon-ping/scripts/hook-handle-use.sh",
+        "timeout": 5
+      },
+      {
+        "command": "/Users/apple/.claude/hooks/peon-ping/scripts/hook-handle-rename.sh",
+        "timeout": 5
+      }
+    ]
+  }
+}

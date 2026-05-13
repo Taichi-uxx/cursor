@@ -1,0 +1,3 @@
+- Nano-banana（Gemini2.5FlashImg）は、専用のアップスケーラーを不要に。
+- 低解像度の画像をinputして「Enhance this image to high resolution」で高解像度化。
+- 参照：https://x.com/taziku_co/status/1960666657933943069

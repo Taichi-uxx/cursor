@@ -1,0 +1,5 @@
+---
+pid: 75245
+cwd: /Users/apple/Library/CloudStorage/GoogleDrive-taichi.tamura@re-hatch.jp/共有ドライブ/30_クライアント/40_CustomerSuccess/00_CSチームAI活用フォルダ
+---
+apple@nyunoMacBook-Air 00_CSチームAI活用フォルダ %

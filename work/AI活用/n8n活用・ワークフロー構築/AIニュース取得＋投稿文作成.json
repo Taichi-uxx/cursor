@@ -1,0 +1,2000 @@
+{
+    "name": "AIニュース取得＋投稿文作成",
+    "nodes": [
+      {
+        "parameters": {
+          "triggerTimes": {
+            "item": [
+              {
+                "hour": 9
+              }
+            ]
+          }
+        },
+        "id": "5f7c672f-95db-44d0-89f2-2d4f58c6eb40",
+        "name": "定時実行（毎日朝8時）",
+        "type": "n8n-nodes-base.cron",
+        "typeVersion": 1,
+        "position": [
+          208,
+          1776
+        ]
+      },
+      {
+        "parameters": {
+          "url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "03292138-6154-4fc9-a19f-f7ffe50098aa",
+        "name": "ITmedia 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          912
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "922c927a-e927-4480-9977-364699482a83",
+        "name": "TechCrunch AI取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          1296
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://xtech.nikkei.com/rss/index.rdf",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "5d063fcb-2b8c-406c-afeb-c7bc790e7c75",
+        "name": "日経クロステック 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          1680
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "f97d843e-a444-47d4-aa2c-5a4afdf936c2",
+        "name": "WIRED AI 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          2064
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://www.artificialintelligence-news.com/rss/",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "64e49f07-6104-46be-baf3-9cb1086a45ea",
+        "name": "AI News 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          2256
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://openai.com/blog/rss.xml",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "ed96dafd-4585-41c2-aecf-ac2f7ee755b0",
+        "name": "OpenAI Blog 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          2448
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://blog.google/technology/ai/rss/",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "f6952983-91a2-44a1-a746-944daf1f7e7d",
+        "name": "Google AI Blog 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          2640
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://news.google.com/rss/search?q=AI%20OR%20ChatGPT%20OR%20OpenAI%20OR%20Claude%20OR%20Gemini%20OR%20%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD&hl=ja&gl=JP&ceid=JP:ja&num=30",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "7cd10953-4e7f-4ef2-a550-c1912e615dc8",
+        "name": "Google News 日本語AI 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          1104
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://news.google.com/rss/search?q=artificial%20intelligence%20OR%20machine%20learning%20OR%20deep%20learning%20OR%20ChatGPT%20OR%20OpenAI&hl=en&gl=US&ceid=US:en&num=30",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "09bcf52d-f234-4f58-a70a-b351fe6937ac",
+        "name": "Google News 英語AI 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          1488
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "url": "https://news.google.com/rss/search?q=OpenAI%20OR%20Google%20AI%20OR%20Microsoft%20AI%20OR%20Meta%20AI%20OR%20Anthropic%20OR%20DeepMind&hl=en&gl=US&ceid=US:en&num=20",
+          "options": {
+            "ignoreSSL": false
+          }
+        },
+        "id": "dd49cf65-f353-4ab7-84bc-c565b2b0ff85",
+        "name": "Google News 企業別AI 記事取得",
+        "type": "n8n-nodes-base.rssFeedRead",
+        "typeVersion": 1,
+        "position": [
+          432,
+          1872
+        ],
+        "alwaysOutputData": true,
+        "onError": "continueRegularOutput"
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "ITmedia"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "489bb131-f076-4dae-8a6b-9b7f07a96368",
+        "name": "Filter Fields 1",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          912
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "TechCrunch AI"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "d2b1c322-ee1b-49ab-b528-28fa2ce20790",
+        "name": "Filter Fields 2",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          1296
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "日経クロステック"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "14bb6f21-f28f-424d-93b3-e89e2ae7ca5d",
+        "name": "Filter Fields 3",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          1680
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "WIRED AI"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "1634dc1a-d770-4787-ba4c-84cfbeb9236b",
+        "name": "Filter Fields 4",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          2064
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "AI News"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "da1ad93a-c597-4fc3-a70d-05cdf805a3e4",
+        "name": "Filter Fields 5",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          2256
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "OpenAI Blog"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "25558270-3a56-4234-8961-6acd5548ed87",
+        "name": "Filter Fields 6",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          2448
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "Google AI Blog"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "e2992d77-264e-4701-b286-946fc99a50ec",
+        "name": "Filter Fields 7",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          2640
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "Google News 日本語AI"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "9db612d1-18b5-4900-b733-bb5338325aa6",
+        "name": "Filter Fields 8",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          1104
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "Google News 英語AI"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "0cedc3d4-4c1d-4093-9a76-bcfbbbd0904a",
+        "name": "Filter Fields 9",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          1488
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "title",
+                "name": "title",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "pubDate",
+                "name": "pubDate",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "link",
+                "name": "link",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "content",
+                "name": "content",
+                "type": "string",
+                "value": "={{ $json.contentSnippet || $json.content || $json.summary || '' }}"
+              },
+              {
+                "id": "source",
+                "name": "source",
+                "type": "string",
+                "value": "Google News 企業別AI"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "115387e5-772d-4d35-a709-89e1d6bfa8ce",
+        "name": "Filter Fields 10",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          656,
+          1872
+        ]
+      },
+      {
+        "parameters": {
+          "numberInputs": 10
+        },
+        "id": "9175d436-6bed-4f2a-a890-d410cb36309a",
+        "name": "Merge All Sources",
+        "type": "n8n-nodes-base.merge",
+        "typeVersion": 3.1,
+        "position": [
+          880,
+          1648
+        ]
+      },
+      {
+        "parameters": {
+          "conditions": {
+            "options": {
+              "version": 2,
+              "leftValue": "",
+              "caseSensitive": true,
+              "typeValidation": "strict"
+            },
+            "combinator": "and",
+            "conditions": [
+              {
+                "id": "datetime-filter",
+                "operator": {
+                  "type": "dateTime",
+                  "operation": "after"
+                },
+                "leftValue": "={{ $json.pubDate }}",
+                "rightValue": "={{ $today.minus({ days: 1 }) }}"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "26093199-51eb-4d35-8864-8655c34ff533",
+        "name": "Filter by Datetime",
+        "type": "n8n-nodes-base.filter",
+        "typeVersion": 2.2,
+        "position": [
+          1136,
+          1504
+        ]
+      },
+      {
+        "parameters": {
+          "conditions": {
+            "options": {
+              "version": 2,
+              "leftValue": "",
+              "caseSensitive": true,
+              "typeValidation": "strict"
+            },
+            "combinator": "and",
+            "conditions": [
+              {
+                "id": "ai-filter",
+                "operator": {
+                  "type": "string",
+                  "operation": "regex"
+                },
+                "leftValue": "={{ $json.title }}",
+                "rightValue": "(AI|artificial intelligence|machine learning|deep learning|ChatGPT|OpenAI|Claude|Anthropic|Gemini|GPT|LLM|人工知能|機械学習|生成AI|ディープラーニング)"
+              },
+              {
+                "id": "content-not-empty",
+                "operator": {
+                  "type": "string",
+                  "operation": "notEmpty",
+                  "singleValue": true
+                },
+                "leftValue": "={{ $json.content }}",
+                "rightValue": ""
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "d523b3d7-957d-450c-826e-a306684563f3",
+        "name": "Remove Non-AI Content",
+        "type": "n8n-nodes-base.filter",
+        "typeVersion": 2.2,
+        "position": [
+          1360,
+          1504
+        ]
+      },
+      {
+        "parameters": {
+          "fieldsToAggregate": {
+            "fieldToAggregate": [
+              {
+                "fieldToAggregate": "title"
+              },
+              {
+                "fieldToAggregate": "pubDate"
+              },
+              {
+                "fieldToAggregate": "link"
+              },
+              {
+                "fieldToAggregate": "content"
+              },
+              {
+                "fieldToAggregate": "source"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "b9a41369-0e16-46b6-a93a-798829c5ba4b",
+        "name": "Aggregate",
+        "type": "n8n-nodes-base.aggregate",
+        "typeVersion": 1,
+        "position": [
+          1584,
+          1504
+        ]
+      },
+      {
+        "parameters": {
+          "promptType": "define",
+          "text": "=以下のAI関連記事から、最新かつ注目度が高い3記事を選別してください。\n\n記事情報一覧：タイトルとソースと発行日とurlの通し番号は同じセットです。\n{{ $json.title }}{{ $json.source }}\n{{ $json.pubDate }}{{ $json.link }}{{ $json.content }}\n\n【重要】選別基準（優先順位順）:\n1. **情報の新鮮度** - 直近24-48時間以内の記事を最優先\n2. **革新性・注目度の高さ** - 業界への影響度\n3. **記事の信頼性** - 公式ブログ、大手メディア優先\n4. **実用性・ビジネスインパクト** - 実際の活用可能性\n5. **読者への価値提供度** - SNSでの反応見込み\n\n【必須条件】\n- 掲載日時が2024年12月以降の記事のみ選択\n- 古い記事（2024年11月以前）は除外\n- 日付不明の記事も除外\n\n以下のJSONフォーマットで出力してください:\n{\n  \"selectedArticles\": [\n    {\n      \"title\": \"記事タイトル\",\n      \"url\": \"記事URL\", \n      \"source\": \"メディア名\",\n      \"published_date\": \"掲載日時\",\n      \"selectionReason\": \"選択理由（新鮮度を含む）\"\n    }\n  ],\n  \"selectionSummary\": \"選別の総括（最新性重視の説明）\"\n}",
+          "hasOutputParser": true,
+          "options": {
+            "systemMessage": "あなたはAI業界のエキスパートとして、ニュース記事の価値を判断する専門家です。【最重要】情報の新鮮度を最優先に、直近24-48時間以内の最新記事を優先選択してください。古い記事（2024年11月以前）は絶対に選択しないでください。その上で技術的革新性、ビジネスインパクト、実用性、信頼性、話題性の観点で記事を評価し、必ず3記事を選択してJSONフォーマットで回答してください。"
+          }
+        },
+        "id": "4c9ea3d2-8947-44ec-881e-b413f8d61499",
+        "name": "News Analyzer",
+        "type": "@n8n/n8n-nodes-langchain.agent",
+        "typeVersion": 2.1,
+        "position": [
+          1824,
+          1504
+        ]
+      },
+      {
+        "parameters": {
+          "model": {
+            "__rl": true,
+            "value": "claude-sonnet-4-5-20250929",
+            "mode": "list",
+            "cachedResultName": "Claude Sonnet 4.5"
+          },
+          "options": {
+            "temperature": 0.7
+          }
+        },
+        "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+        "typeVersion": 1.3,
+        "position": [
+          1824,
+          1680
+        ],
+        "id": "edddb500-d086-4fe5-8a00-d671d530b287",
+        "name": "Anthropic Chat Model 1",
+        "credentials": {
+          "anthropicApi": {
+            "id": "GtM8CpNMOzMOBufr",
+            "name": "Anthropic account 3"
+          }
+        }
+      },
+      {
+        "parameters": {
+          "schemaType": "manual",
+          "inputSchema": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"selectedArticles\": {\n      \"type\": \"array\",\n      \"items\": {\n        \"type\": \"object\",\n        \"properties\": {\n          \"title\": {\"type\": \"string\"},\n          \"url\": {\"type\": \"string\"},\n          \"source\": {\"type\": \"string\"},\n          \"published_date\": {\"type\": \"string\"},\n          \"selectionReason\": {\"type\": \"string\"}\n        },\n        \"required\": [\"title\", \"url\", \"source\", \"published_date\", \"selectionReason\"]\n      }\n    },\n    \"selectionSummary\": {\"type\": \"string\"}\n  },\n  \"required\": [\"selectedArticles\", \"selectionSummary\"]\n}"
+        },
+        "id": "d7d01895-c46f-434c-90a8-4fa2e5db53f2",
+        "name": "JSON Output Parser 1",
+        "type": "@n8n/n8n-nodes-langchain.outputParserStructured",
+        "typeVersion": 1.2,
+        "position": [
+          1984,
+          1680
+        ]
+      },
+      {
+        "parameters": {
+          "promptType": "define",
+          "text": "=厳選された3記事それぞれについて、個別のX投稿文を作成してください。記事の内容に応じて最適なパターンを選択し、人間らしい自然な投稿文を作成してください。\n\n選別された記事:\n{{ JSON.stringify($json.output.selectedArticles, null, 2) }}\n\n【投稿パターンの選択基準】\n- 新技術発表/企業発表 → パターンA（技術紹介型）\n- ツール体験/実用的内容 → パターンB（体験談型）  \n- Tips/ハウツー系 → パターンC（解説型）\n\n【パターンA: 技術紹介型】\n【注目/速報】技術名・企業名の紹介\n具体的な機能や性能を数値と共に説明\n\n個人的な感想（「これは革新的」「実用性が高そう」等）\n業界への影響や将来性への言及\n\n【パターンB: 体験談型】\n【発見/試してみた】〇〇を使ってみた結果\n具体的な体験内容や効果\n\n驚きや感動の表現（「一瞬で完成」「サクッと解決」等）\n他の人にも試してほしいという推奨\n\n【パターンC: 解説型】\n【必見/まとめ】〇〇のための△つのポイント\n要点を簡潔にリスト化\n\n実践的価値の強調\n読者への直接的メリット提示\n\n【重要】必ず以下の統一フォーマットで3つの投稿文を作成してください：\n\n【記事1】\n投稿文\n[選択したパターンに基づく自然な投稿文。500文字以内。絵文字1-2個。改行で読みやすく構成]\n参考記事: [記事タイトル]\n掲載メディア: [メディア名]\n掲載日時: [掲載日時]\nURL: [記事URL]\n\n【記事2】\n投稿文\n[選択したパターンに基づく自然な投稿文。500文字以内。絵文字1-2個。改行で読みやすく構成]\n参考記事: [記事タイトル]\n掲載メディア: [メディア名]\n掲載日時: [掲載日時]\nURL: [記事URL]\n\n【記事3】\n投稿文\n[選択したパターンに基づく自然な投稿文。500文字以内。絵文字1-2個。改行で読みやすく構成]\n参考記事: [記事タイトル]\n掲載メディア: [メディア名]\n掲載日時: [掲載日時]\nURL: [記事URL]",
+          "options": {
+            "systemMessage": "=あなたは実際にX（Twitter）でバズっている投稿を研究し尽くした専門家です。AI業界のニュースを、個人が自然に投稿するような人間らしい文章に変換してください。\n\n【人間らしい投稿の特徴】\n- 個人的体験や発見を織り交ぜる（「試してみた」「使ってみて驚いた」等）\n- 具体的な数値や期間で説得力を持たせる（「一瞬で」「6つの」「一回で」等）\n- 感情表現を自然に使う（「これは素晴らしい」「完全に変わる」「まさに革新的」等）\n- 実用性を個人視点で評価する（「実際に使える」「現場で活躍しそう」等）\n- 読者への価値提供を意識する（「〇〇必見」「知っておくべき」等）\n\n【投稿文の構成】\n1. 注目フック：【速報】【注目】【発見】等で興味を引く\n2. 核心内容：技術や情報の要点を具体的に\n3. 個人感想：体験談風の評価や感想\n4. 価値提示：読者にとってのメリットを示唆\n\n【表現のコツ】\n- 絵文字は1-2個に抑え、効果的に配置\n- 改行で読みやすさを重視（長文は2-3文で区切る）\n- AIっぽい定型文は避け、自然な日本語を心がける\n- 専門用語は適度に噛み砕いて説明\n\n【出力フォーマット厳守】\n- 「【記事1】」「【記事2】」「【記事3】」で区切り\n- 「投稿文」の後に改行して本文を記載\n- 参考情報は指定フォーマット通りに配置\n- フォーマットの変更は絶対に行わない"
+          }
+        },
+        "id": "d8417876-a526-4796-8c7e-e4d23e92855d",
+        "name": "Post Creator",
+        "type": "@n8n/n8n-nodes-langchain.agent",
+        "typeVersion": 2.1,
+        "position": [
+          2192,
+          1504
+        ]
+      },
+      {
+        "parameters": {
+          "model": {
+            "__rl": true,
+            "value": "claude-sonnet-4-5-20250929",
+            "mode": "list",
+            "cachedResultName": "Claude Sonnet 4.5"
+          },
+          "options": {
+            "temperature": 0.8
+          }
+        },
+        "type": "@n8n/n8n-nodes-langchain.lmChatAnthropic",
+        "typeVersion": 1.3,
+        "position": [
+          2208,
+          1680
+        ],
+        "id": "ffd9343f-a4db-4d5f-8d7e-68d8417f4fbf",
+        "name": "Anthropic Chat Model 2",
+        "credentials": {
+          "anthropicApi": {
+            "id": "GtM8CpNMOzMOBufr",
+            "name": "Anthropic account 3"
+          }
+        }
+      },
+      {
+        "parameters": {
+          "select": "channel",
+          "channelId": {
+            "__rl": true,
+            "value": "C09A3G1SLJ1",
+            "mode": "id"
+          },
+          "text": "=<@U05136SA1FS>\n今日のニュースを集めてきたよ！確認してね！\n{{ $json.output }}",
+          "otherOptions": {}
+        },
+        "id": "105a343e-f089-480d-9ad6-3e4e4143bc9a",
+        "name": "Slack通知（投稿文のみ）",
+        "type": "n8n-nodes-base.slack",
+        "typeVersion": 2,
+        "position": [
+          2624,
+          1504
+        ],
+        "webhookId": "4e04c1cb-62a7-4a58-8f67-b2fe55dbcbb3",
+        "credentials": {
+          "slackApi": {
+            "id": "HyZwcl3BOqLyAFwP",
+            "name": "bot"
+          }
+        }
+      },
+      {
+        "parameters": {
+          "jsCode": "// Aggregateノードから来た配列データを個別の記事アイテムに変換\nconst items = [];\nconst titles = $input.item.json.title || [];\nconst sources = $input.item.json.source || [];\nconst pubDates = $input.item.json.pubDate || [];\nconst links = $input.item.json.link || [];\nconst contents = $input.item.json.content || [];\n\nfor (let i = 0; i < titles.length; i++) {\n  items.push({\n    json: {\n      article_index: i + 1,\n      title: titles[i] || '',\n      source: sources[i] || '',\n      pubDate: pubDates[i] || '',\n      link: links[i] || '',\n      content: contents[i] || '',\n      content_length: (contents[i] || '').length,\n      execution_date: new Date().toISOString().replace('T', ' ').substr(0, 19)\n    }\n  });\n}\n\nreturn items;"
+        },
+        "id": "a11f11c7-e6cc-4c23-9900-251e54054040",
+        "name": "全記事配列を個別行に分割",
+        "type": "n8n-nodes-base.code",
+        "typeVersion": 2,
+        "position": [
+          1760,
+          2016
+        ]
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "実行日時",
+                "name": "実行日時",
+                "type": "string",
+                "value": "={{ $json.execution_date }}"
+              },
+              {
+                "id": "記事番号",
+                "name": "記事番号",
+                "type": "number",
+                "value": "={{ $json.article_index }}"
+              },
+              {
+                "id": "記事タイトル",
+                "name": "記事タイトル",
+                "type": "string",
+                "value": "={{ $json.title }}"
+              },
+              {
+                "id": "メディア名",
+                "name": "メディア名",
+                "type": "string",
+                "value": "={{ $json.source }}"
+              },
+              {
+                "id": "掲載日時",
+                "name": "掲載日時",
+                "type": "string",
+                "value": "={{ $json.pubDate }}"
+              },
+              {
+                "id": "URL",
+                "name": "URL",
+                "type": "string",
+                "value": "={{ $json.link }}"
+              },
+              {
+                "id": "記事内容",
+                "name": "記事内容",
+                "type": "string",
+                "value": "={{ $json.content }}"
+              },
+              {
+                "id": "内容文字数",
+                "name": "内容文字数",
+                "type": "number",
+                "value": "={{ $json.content_length }}"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "1132392f-bba9-4d39-96ad-b059fbcf37ad",
+        "name": "全記事データ整形",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          1968,
+          2016
+        ]
+      },
+      {
+        "parameters": {
+          "operation": "appendOrUpdate",
+          "documentId": {
+            "__rl": true,
+            "value": "1cmyMmWfwwldBYDPus-uvIQ696OP12TWhx221fNUtmjk",
+            "mode": "list",
+            "cachedResultName": "AIニュース収集ログ",
+            "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1cmyMmWfwwldBYDPus-uvIQ696OP12TWhx221fNUtmjk/edit?usp=drivesdk"
+          },
+          "sheetName": {
+            "__rl": true,
+            "value": "gid=0",
+            "mode": "list",
+            "cachedResultName": "全記事ログ",
+            "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1cmyMmWfwwldBYDPus-uvIQ696OP12TWhx221fNUtmjk/edit#gid=0"
+          },
+          "columns": {
+            "mappingMode": "autoMapInputData",
+            "value": {},
+            "matchingColumns": [
+              "実行日時"
+            ],
+            "schema": [
+              {
+                "id": "実行日時",
+                "displayName": "実行日時",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true,
+                "removed": false
+              },
+              {
+                "id": "記事番号",
+                "displayName": "記事番号",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事タイトル",
+                "displayName": "記事タイトル",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "メディア名",
+                "displayName": "メディア名",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "掲載日時",
+                "displayName": "掲載日時",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "URL",
+                "displayName": "URL",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事内容",
+                "displayName": "記事内容",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "内容文字数",
+                "displayName": "内容文字数",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              }
+            ],
+            "attemptToConvertTypes": false,
+            "convertFieldsToString": false
+          },
+          "options": {
+            "cellFormat": "USER_ENTERED"
+          }
+        },
+        "id": "9f5b0ce3-923d-40f6-ae8c-97cddf51ba85",
+        "name": "全記事をシートに保存",
+        "type": "n8n-nodes-base.googleSheets",
+        "typeVersion": 4.4,
+        "position": [
+          2160,
+          2016
+        ],
+        "credentials": {
+          "googleSheetsOAuth2Api": {
+            "id": "KLkH3IdqEpYxba0b",
+            "name": "nagasaka"
+          }
+        }
+      },
+      {
+        "parameters": {
+          "assignments": {
+            "assignments": [
+              {
+                "id": "execution_date",
+                "name": "実行日時",
+                "type": "string",
+                "value": "={{ $now.toFormat('yyyy-MM-dd HH:mm:ss') }}"
+              },
+              {
+                "id": "selected_articles_json",
+                "name": "厳選記事JSON",
+                "type": "string",
+                "value": "={{ JSON.stringify($('News Analyzer').item.json.output.selectedArticles, null, 2) }}"
+              },
+              {
+                "id": "selection_summary",
+                "name": "選別サマリ",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectionSummary }}"
+              },
+              {
+                "id": "generated_posts",
+                "name": "生成投稿文",
+                "type": "string",
+                "value": "={{ $json.output }}"
+              },
+              {
+                "id": "article_count",
+                "name": "厳選記事数",
+                "type": "number",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles.length }}"
+              },
+              {
+                "id": "article_1_title",
+                "name": "記事1タイトル",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[0]?.title || '' }}"
+              },
+              {
+                "id": "article_1_source",
+                "name": "記事1メディア",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[0]?.source || '' }}"
+              },
+              {
+                "id": "article_1_url",
+                "name": "記事1URL",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[0]?.url || '' }}"
+              },
+              {
+                "id": "article_1_date",
+                "name": "記事1掲載日時",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[0]?.published_date || '' }}"
+              },
+              {
+                "id": "article_1_reason",
+                "name": "記事1選択理由",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[0]?.selectionReason || '' }}"
+              },
+              {
+                "id": "article_2_title",
+                "name": "記事2タイトル",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[1]?.title || '' }}"
+              },
+              {
+                "id": "article_2_source",
+                "name": "記事2メディア",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[1]?.source || '' }}"
+              },
+              {
+                "id": "article_2_url",
+                "name": "記事2URL",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[1]?.url || '' }}"
+              },
+              {
+                "id": "article_2_date",
+                "name": "記事2掲載日時",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[1]?.published_date || '' }}"
+              },
+              {
+                "id": "article_2_reason",
+                "name": "記事2選択理由",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[1]?.selectionReason || '' }}"
+              },
+              {
+                "id": "article_3_title",
+                "name": "記事3タイトル",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[2]?.title || '' }}"
+              },
+              {
+                "id": "article_3_source",
+                "name": "記事3メディア",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[2]?.source || '' }}"
+              },
+              {
+                "id": "article_3_url",
+                "name": "記事3URL",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[2]?.url || '' }}"
+              },
+              {
+                "id": "article_3_date",
+                "name": "記事3掲載日時",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[2]?.published_date || '' }}"
+              },
+              {
+                "id": "article_3_reason",
+                "name": "記事3選択理由",
+                "type": "string",
+                "value": "={{ $('News Analyzer').item.json.output.selectedArticles[2]?.selectionReason || '' }}"
+              }
+            ]
+          },
+          "options": {}
+        },
+        "id": "be556ce3-818a-4ec3-a424-5abd6299b84a",
+        "name": "厳選記事データ整形",
+        "type": "n8n-nodes-base.set",
+        "typeVersion": 3.4,
+        "position": [
+          2496,
+          2032
+        ]
+      },
+      {
+        "parameters": {
+          "operation": "appendOrUpdate",
+          "documentId": {
+            "__rl": true,
+            "value": "1cmyMmWfwwldBYDPus-uvIQ696OP12TWhx221fNUtmjk",
+            "mode": "list",
+            "cachedResultName": "AIニュース収集ログ",
+            "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1cmyMmWfwwldBYDPus-uvIQ696OP12TWhx221fNUtmjk/edit?usp=drivesdk"
+          },
+          "sheetName": {
+            "__rl": true,
+            "value": 1546331042,
+            "mode": "list",
+            "cachedResultName": "厳選記事+投稿文",
+            "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1cmyMmWfwwldBYDPus-uvIQ696OP12TWhx221fNUtmjk/edit#gid=1546331042"
+          },
+          "columns": {
+            "mappingMode": "autoMapInputData",
+            "value": {},
+            "matchingColumns": [
+              "実行日時"
+            ],
+            "schema": [
+              {
+                "id": "実行日時",
+                "displayName": "実行日時",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true,
+                "removed": false
+              },
+              {
+                "id": "厳選記事JSON",
+                "displayName": "厳選記事JSON",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "選別サマリ",
+                "displayName": "選別サマリ",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "生成投稿文",
+                "displayName": "生成投稿文",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "厳選記事数",
+                "displayName": "厳選記事数",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事1タイトル",
+                "displayName": "記事1タイトル",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事1メディア",
+                "displayName": "記事1メディア",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事1URL",
+                "displayName": "記事1URL",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事1掲載日時",
+                "displayName": "記事1掲載日時",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事1選択理由",
+                "displayName": "記事1選択理由",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事2タイトル",
+                "displayName": "記事2タイトル",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事2メディア",
+                "displayName": "記事2メディア",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事2URL",
+                "displayName": "記事2URL",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事2掲載日時",
+                "displayName": "記事2掲載日時",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事2選択理由",
+                "displayName": "記事2選択理由",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事3タイトル",
+                "displayName": "記事3タイトル",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事3メディア",
+                "displayName": "記事3メディア",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事3URL",
+                "displayName": "記事3URL",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事3掲載日時",
+                "displayName": "記事3掲載日時",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              },
+              {
+                "id": "記事3選択理由",
+                "displayName": "記事3選択理由",
+                "required": false,
+                "defaultMatch": false,
+                "display": true,
+                "type": "string",
+                "canBeUsedToMatch": true
+              }
+            ],
+            "attemptToConvertTypes": false,
+            "convertFieldsToString": false
+          },
+          "options": {
+            "cellFormat": "USER_ENTERED"
+          }
+        },
+        "id": "c506ce5a-f041-43a2-8c6b-156b10d51f76",
+        "name": "厳選記事をシートに保存",
+        "type": "n8n-nodes-base.googleSheets",
+        "typeVersion": 4.4,
+        "position": [
+          2704,
+          2032
+        ],
+        "credentials": {
+          "googleSheetsOAuth2Api": {
+            "id": "KLkH3IdqEpYxba0b",
+            "name": "nagasaka"
+          }
+        }
+      },
+      {
+        "parameters": {
+          "content": "## AIニュース記事を取得\n",
+          "height": 1952,
+          "width": 832
+        },
+        "type": "n8n-nodes-base.stickyNote",
+        "typeVersion": 1,
+        "position": [
+          160,
+          896
+        ],
+        "id": "54614e30-ba2f-4b01-881f-70057dbcfcd6",
+        "name": "Sticky Note"
+      },
+      {
+        "parameters": {
+          "content": "## slackに下書き送る",
+          "height": 432,
+          "width": 256,
+          "color": 5
+        },
+        "type": "n8n-nodes-base.stickyNote",
+        "typeVersion": 1,
+        "position": [
+          2576,
+          1360
+        ],
+        "id": "1948666f-ee3d-462b-b5f0-937ce87e6979",
+        "name": "Sticky Note3"
+      },
+      {
+        "parameters": {
+          "content": "## ニュースの厳選と投稿文の作成",
+          "height": 432,
+          "width": 752,
+          "color": 4
+        },
+        "type": "n8n-nodes-base.stickyNote",
+        "typeVersion": 1,
+        "position": [
+          1792,
+          1360
+        ],
+        "id": "fde2e764-cfaf-4f1b-ae7f-1e4c461a4bc6",
+        "name": "Sticky Note2"
+      },
+      {
+        "parameters": {
+          "content": "## 日付とテーマで絞り込み\n",
+          "height": 432,
+          "width": 656,
+          "color": 2
+        },
+        "type": "n8n-nodes-base.stickyNote",
+        "typeVersion": 1,
+        "position": [
+          1088,
+          1360
+        ],
+        "id": "e53e43ff-6429-4e64-8571-a9401cf48072",
+        "name": "Sticky Note1"
+      },
+      {
+        "parameters": {
+          "content": "## Googleシートに記事内容を蓄積\n",
+          "height": 384,
+          "width": 1152,
+          "color": 3
+        },
+        "type": "n8n-nodes-base.stickyNote",
+        "typeVersion": 1,
+        "position": [
+          1680,
+          1936
+        ],
+        "id": "f8b239b7-be4b-4ea8-9ad9-7f27b2639088",
+        "name": "Sticky Note4"
+      }
+    ],
+    "pinData": {},
+    "connections": {
+      "定時実行（毎日朝8時）": {
+        "main": [
+          [
+            {
+              "node": "ITmedia 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "TechCrunch AI取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "日経クロステック 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "WIRED AI 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "AI News 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "OpenAI Blog 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "Google AI Blog 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "Google News 日本語AI 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "Google News 英語AI 記事取得",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "Google News 企業別AI 記事取得",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "ITmedia 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 1",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "TechCrunch AI取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 2",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "日経クロステック 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 3",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "WIRED AI 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 4",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "AI News 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 5",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "OpenAI Blog 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 6",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Google AI Blog 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 7",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Google News 日本語AI 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 8",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Google News 英語AI 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 9",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Google News 企業別AI 記事取得": {
+        "main": [
+          [
+            {
+              "node": "Filter Fields 10",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Filter Fields 1": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Filter Fields 2": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 1
+            }
+          ]
+        ]
+      },
+      "Filter Fields 3": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 2
+            }
+          ]
+        ]
+      },
+      "Filter Fields 4": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 3
+            }
+          ]
+        ]
+      },
+      "Filter Fields 5": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 4
+            }
+          ]
+        ]
+      },
+      "Filter Fields 6": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 5
+            }
+          ]
+        ]
+      },
+      "Filter Fields 7": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 6
+            }
+          ]
+        ]
+      },
+      "Filter Fields 8": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 7
+            }
+          ]
+        ]
+      },
+      "Filter Fields 9": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 8
+            }
+          ]
+        ]
+      },
+      "Filter Fields 10": {
+        "main": [
+          [
+            {
+              "node": "Merge All Sources",
+              "type": "main",
+              "index": 9
+            }
+          ]
+        ]
+      },
+      "Merge All Sources": {
+        "main": [
+          [
+            {
+              "node": "Filter by Datetime",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Filter by Datetime": {
+        "main": [
+          [
+            {
+              "node": "Remove Non-AI Content",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Remove Non-AI Content": {
+        "main": [
+          [
+            {
+              "node": "Aggregate",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Aggregate": {
+        "main": [
+          [
+            {
+              "node": "News Analyzer",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "全記事配列を個別行に分割",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "News Analyzer": {
+        "main": [
+          [
+            {
+              "node": "Post Creator",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Anthropic Chat Model 1": {
+        "ai_languageModel": [
+          [
+            {
+              "node": "News Analyzer",
+              "type": "ai_languageModel",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "JSON Output Parser 1": {
+        "ai_outputParser": [
+          [
+            {
+              "node": "News Analyzer",
+              "type": "ai_outputParser",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Post Creator": {
+        "main": [
+          [
+            {
+              "node": "Slack通知（投稿文のみ）",
+              "type": "main",
+              "index": 0
+            },
+            {
+              "node": "厳選記事データ整形",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "Anthropic Chat Model 2": {
+        "ai_languageModel": [
+          [
+            {
+              "node": "Post Creator",
+              "type": "ai_languageModel",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "全記事配列を個別行に分割": {
+        "main": [
+          [
+            {
+              "node": "全記事データ整形",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "全記事データ整形": {
+        "main": [
+          [
+            {
+              "node": "全記事をシートに保存",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      },
+      "厳選記事データ整形": {
+        "main": [
+          [
+            {
+              "node": "厳選記事をシートに保存",
+              "type": "main",
+              "index": 0
+            }
+          ]
+        ]
+      }
+    },
+    "active": false,
+    "settings": {
+      "executionOrder": "v1",
+      "callerPolicy": "workflowsFromSameOwner"
+    },
+    "versionId": "9cb4acaf-915b-48c1-af1c-e3bd4f1f2311",
+    "meta": {
+      "templateCredsSetupCompleted": true,
+      "instanceId": "60af7c5cadb85263ca0027723a9b797a677c89432c674ea1ebb3f9bf2b7e23f8"
+    },
+    "id": "lhfMwsk5a0cWEb7s",
+    "tags": []
+  }

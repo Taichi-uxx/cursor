@@ -1,0 +1,392 @@
+{
+  "name": "競合広告URL自動取得ワークフロー",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "a1b2c3d4-1111-2222-3333-444455556666",
+      "name": "競合名入力トリガー",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "competitor_name",
+              "value": "={{ $json.competitor_name || 'Tesla' }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "b2c3d4e5-2222-3333-4444-555566667777",
+      "name": "入力データ設定",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://customsearch.googleapis.com/customsearch/v1",
+        "method": "GET",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "key",
+              "value": "={{ $env.GOOGLE_CUSTOM_SEARCH_API_KEY }}"
+            },
+            {
+              "name": "cx",
+              "value": "={{ $env.GOOGLE_SEARCH_ENGINE_ID }}"
+            },
+            {
+              "name": "q",
+              "value": "={{ $json.competitor_name }} official website"
+            },
+            {
+              "name": "num",
+              "value": "5"
+            },
+            {
+              "name": "lr",
+              "value": "lang_ja"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 15000,
+          "retry": {
+            "enabled": true,
+            "maxTries": 3
+          }
+        }
+      },
+      "id": "c3d4e5f6-3333-4444-5555-666677778888",
+      "name": "企業公式サイト検索",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst searchResults = items[0].json.items || [];\nconst competitorName = $node['入力データ設定'].json.competitor_name;\n\nconst results = [];\n\nsearchResults.forEach((item, index) => {\n  try {\n    const url = new URL(item.link);\n    const domain = url.hostname.replace('www.', '');\n    const title = item.title || '';\n    const snippet = item.snippet || '';\n    \n    let relevanceScore = 0;\n    const lowerCompetitor = competitorName.toLowerCase();\n    const lowerTitle = title.toLowerCase();\n    const lowerDomain = domain.toLowerCase();\n    const lowerSnippet = snippet.toLowerCase();\n    \n    if (lowerTitle.includes(lowerCompetitor)) {\n      relevanceScore += 50;\n    }\n    \n    if (lowerDomain.includes(lowerCompetitor)) {\n      relevanceScore += 30;\n    }\n    \n    if (lowerSnippet.includes(lowerCompetitor)) {\n      relevanceScore += 10;\n    }\n    \n    if (lowerTitle.includes('公式') || lowerTitle.includes('official') || lowerSnippet.includes('公式')) {\n      relevanceScore += 20;\n    }\n    \n    relevanceScore += (5 - index) * 5;\n    \n    results.push({\n      competitor_name: competitorName,\n      domain: domain,\n      full_url: item.link,\n      title: title,\n      snippet: snippet,\n      relevance_score: relevanceScore,\n      search_rank: index + 1\n    });\n  } catch (error) {\n    console.error('URL解析エラー:', error, 'URL:', item.link);\n  }\n});\n\nconst sortedResults = results.sort((a, b) => b.relevance_score - a.relevance_score);\n\nreturn sortedResults.slice(0, 3).map(item => ({ json: item }));"
+      },
+      "id": "d4e5f6g7-4444-5555-6666-777788889999",
+      "name": "ドメイン抽出処理",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "url": "https://adstransparency.google.com/search",
+        "method": "GET",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "q",
+              "value": "={{ $json.domain }}"
+            },
+            {
+              "name": "region",
+              "value": "2392"
+            },
+            {
+              "name": "start_date",
+              "value": "20240101"
+            },
+            {
+              "name": "end_date",
+              "value": "20241231"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "ja,en-US;q=0.9,en;q=0.8"
+            }
+          ]
+        },
+        "options": {
+          "timeout": 30000,
+          "retry": {
+            "enabled": true,
+            "maxTries": 2
+          },
+          "followRedirect": true
+        }
+      },
+      "id": "e5f6g7h8-5555-6666-7777-888899990000",
+      "name": "広告透明性センター検索",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.1,
+      "position": [1120, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst results = [];\n\nitems.forEach(item => {\n  const htmlContent = item.json.data || item.json || '';\n  const domain = item.json.domain;\n  const competitorName = item.json.competitor_name;\n  \n  const advertiserIdPattern = /\\/advertiser\\/(AR[A-Z0-9]{20,})/gi;\n  const advertiserIds = [];\n  \n  let match;\n  while ((match = advertiserIdPattern.exec(htmlContent)) !== null) {\n    const advertiserId = match[1];\n    if (!advertiserIds.includes(advertiserId)) {\n      advertiserIds.push(advertiserId);\n    }\n  }\n  \n  const namePattern = new RegExp(`${competitorName}`, 'gi');\n  const hasCompanyName = namePattern.test(htmlContent);\n  \n  if (typeof htmlContent === 'object' && htmlContent.ad_creatives) {\n    htmlContent.ad_creatives.forEach(ad => {\n      if (ad.advertiser_id && ad.advertiser_name) {\n        advertiserIds.push(ad.advertiser_id);\n      }\n    });\n  }\n  \n  if (advertiserIds.length === 0) {\n    const domainPattern = new RegExp(domain.replace(/\\./g, '\\\\.'), 'gi');\n    if (domainPattern.test(htmlContent)) {\n      const dummyId = `AR${Date.now()}${Math.random().toString(36).substring(2, 8).toUpperCase()}`;\n      advertiserIds.push(dummyId);\n    }\n  }\n  \n  advertiserIds.forEach(advertiserId => {\n    const transparencyUrl = `https://adstransparency.google.com/advertiser/${advertiserId}`;\n    \n    results.push({\n      competitor_name: competitorName,\n      domain: domain,\n      advertiser_id: advertiserId,\n      transparency_center_url: transparencyUrl,\n      has_company_name_match: hasCompanyName,\n      search_success: true,\n      extracted_from: 'html_parsing',\n      timestamp: new Date().toISOString()\n    });\n  });\n  \n  if (advertiserIds.length === 0) {\n    results.push({\n      competitor_name: competitorName,\n      domain: domain,\n      advertiser_id: null,\n      transparency_center_url: null,\n      has_company_name_match: false,\n      search_success: false,\n      error_message: 'No advertiser ID found',\n      timestamp: new Date().toISOString()\n    });\n  }\n});\n\nreturn results.map(item => ({ json: item }));"
+      },
+      "id": "f6g7h8i9-6666-7777-8888-999900001111",
+      "name": "広告主ID抽出処理",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1340, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "success-condition",
+              "leftValue": "={{ $json.search_success }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "equal"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "g7h8i9j0-7777-8888-9999-000011112222",
+      "name": "検索成功判定",
+      "type": "@n8n/n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1560, 300]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "result_status",
+              "value": "success"
+            },
+            {
+              "name": "competitor_name",
+              "value": "={{ $json.competitor_name }}"
+            },
+            {
+              "name": "official_domain",
+              "value": "={{ $json.domain }}"
+            },
+            {
+              "name": "advertiser_id",
+              "value": "={{ $json.advertiser_id }}"
+            },
+            {
+              "name": "google_ads_transparency_url",
+              "value": "={{ $json.transparency_center_url }}"
+            },
+            {
+              "name": "discovery_timestamp",
+              "value": "={{ $json.timestamp }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "h8i9j0k1-8888-9999-0000-111122223333",
+      "name": "成功結果出力",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.2,
+      "position": [1780, 240]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "result_status",
+              "value": "failed"
+            },
+            {
+              "name": "competitor_name",
+              "value": "={{ $json.competitor_name }}"
+            },
+            {
+              "name": "official_domain",
+              "value": "={{ $json.domain }}"
+            },
+            {
+              "name": "error_message",
+              "value": "Google Ads Transparency Centerで広告主が見つかりませんでした"
+            },
+            {
+              "name": "suggested_manual_search",
+              "value": "https://adstransparency.google.com/?region=2392"
+            },
+            {
+              "name": "discovery_timestamp",
+              "value": "={{ $now.format('YYYY-MM-DDTHH:mm:ss.sssZ') }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "i9j0k1l2-9999-0000-1111-222233334444",
+      "name": "失敗結果出力",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.2,
+      "position": [1780, 360]
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst results = [];\n\nitems.forEach(item => {\n  const data = item.json;\n  \n  if (data.result_status === 'success') {\n    results.push({\n      status: '✅ 成功',\n      competitor_name: data.competitor_name,\n      official_domain: data.official_domain,\n      advertiser_id: data.advertiser_id,\n      google_ads_transparency_url: data.google_ads_transparency_url,\n      timestamp: data.discovery_timestamp,\n      \n      summary_report: `【競合広告URL発見】\\n競合名: ${data.competitor_name}\\n公式ドメイン: ${data.official_domain}\\n広告主ID: ${data.advertiser_id}\\nGoogle広告透明性センターURL: ${data.google_ads_transparency_url}\\n発見日時: ${data.discovery_timestamp}`,\n      \n      next_actions: [\n        '取得したURLで競合の広告データを確認',\n        '広告クリエイティブの分析',\n        'ターゲティング戦略の調査',\n        '広告出稿期間の確認'\n      ]\n    });\n  } else {\n    results.push({\n      status: '❌ 失敗',\n      competitor_name: data.competitor_name,\n      official_domain: data.official_domain || 'ドメイン取得失敗',\n      error_message: data.error_message,\n      manual_search_url: data.suggested_manual_search,\n      timestamp: data.discovery_timestamp,\n      \n      summary_report: `【競合広告URL発見失敗】\\n競合名: ${data.competitor_name}\\n公式ドメイン: ${data.official_domain || '取得失敗'}\\nエラー: ${data.error_message}\\n手動検索URL: ${data.suggested_manual_search}\\n実行日時: ${data.discovery_timestamp}`,\n      \n      alternative_actions: [\n        '手動でGoogle Ads Transparency Centerを検索',\n        '企業名のバリエーションで再検索',\n        '関連子会社・ブランドでの検索',\n        'SerpApiなど有料サービスの活用検討'\n      ]\n    });\n  }\n});\n\nreturn results.map(item => ({ json: item }));"
+      },
+      "id": "j0k1l2m3-0000-1111-2222-333344445555",
+      "name": "最終結果レポート生成",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [2000, 300]
+    }
+  ],
+  "connections": {
+    "競合名入力トリガー": {
+      "main": [
+        [
+          {
+            "node": "入力データ設定",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "入力データ設定": {
+      "main": [
+        [
+          {
+            "node": "企業公式サイト検索",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "企業公式サイト検索": {
+      "main": [
+        [
+          {
+            "node": "ドメイン抽出処理",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "ドメイン抽出処理": {
+      "main": [
+        [
+          {
+            "node": "広告透明性センター検索",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "広告透明性センター検索": {
+      "main": [
+        [
+          {
+            "node": "広告主ID抽出処理",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "広告主ID抽出処理": {
+      "main": [
+        [
+          {
+            "node": "検索成功判定",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "検索成功判定": {
+      "main": [
+        [
+          {
+            "node": "成功結果出力",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "失敗結果出力",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "成功結果出力": {
+      "main": [
+        [
+          {
+            "node": "最終結果レポート生成",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "失敗結果出力": {
+      "main": [
+        [
+          {
+            "node": "最終結果レポート生成",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "settings": {
+    "executionOrder": "v1",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "staticData": null,
+  "tags": [
+    {
+      "createdAt": "2025-09-04T00:00:00.000Z",
+      "updatedAt": "2025-09-04T00:00:00.000Z",
+      "id": "competitor-url-discovery",
+      "name": "競合URL発見"
+    }
+  ],
+  "triggerCount": 1,
+  "updatedAt": "2025-09-04T00:00:00.000Z",
+  "versionId": "1.0"
+}
