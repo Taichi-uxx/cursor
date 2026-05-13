@@ -44,6 +44,10 @@ projects/*/*
 !rules/**
 # <<< CURSOR MANAGED BLOCK <<<
 
+# Backup script
+!auto-backup.sh
+auto-backup.log
+
 # Personal files
 !CLAUDE.md
 !ClaudeCode_よく使うコマンド.md
