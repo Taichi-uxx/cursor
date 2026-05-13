@@ -1,0 +1,5 @@
+---
+pid: 51438
+cwd: /Users/apple/.cursor
+---
+apple@nyunoMacBook-Air .cursor %
