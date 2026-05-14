@@ -39,7 +39,7 @@ One day, you leave this world behind, so live a life you will remember.
 - ファイルの削除・上書きなど不可逆な操作は必ず事前確認する
 
 ## スキル・プラグイン運用
-- スキルを作成・削除した際は skills-cursor/SKILLS_INDEX.md を更新する
+- スキルを作成・削除した際は ~/.cursor/skills/SKILLS_INDEX.md を更新する（実体パス。Claude Codeは ~/.claude/skills/ 経由でシンボリックリンク参照）
 - プラグインをインストール・削除した際は PLUGINS_INDEX.md を更新する
 - スキル実行中にエラーやハマりポイントが発生したら、そのスキルの SKILL.md 内の `## Gotchas` セクションに即座に追記する（日付＋簡潔な教訓）
 - スキルを実行する前に、そのスキルの `## Gotchas` を必ず確認し、過去の失敗を繰り返さない
