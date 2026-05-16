@@ -264,7 +264,7 @@ CMO  統合・優先順位付け
 | ③ | Customer Analyzer | ペルソナ・ジャーニー設計 | frameworks/persona.md, frameworks/journey.md |
 | ④ | Business Strategist | 3C/STP/4P | frameworks/ |
 | ⑤ | Creative Director | 制作物の評価採点と採否 | frameworks/copy-rubric.md |
-| ⑥ | Copywriter | コピー3案執筆 | playbooks/copy/, industries/ |
+| ⑥ | Copywriter | コピー18案執筆（6アプローチ×各3案） | principle/クリエイティブ/コピー/, playbooks/copy/, industries/ |
 | ⑦ | Video Ad Director | 動画広告構成3案 | playbooks/video/, video-hooks/, platforms/youtube-ads.md他 |
 | ⑧ | Banner Conceptor | バナー構成3案 | playbooks/banner/, platforms/banner-specs.md |
 | ⑨ | LP Architect | LP構成3案 | playbooks/lp/, frameworks/lp-patterns.md |
@@ -285,8 +285,8 @@ CMO  統合・優先順位付け
 
 | 項目 | 内容 |
 |---|---|
-| 入力 | 商品/LPのURL（または商品MD） |
-| 召集 | ①CMO → ⑤CD → ⑥Copywriter（3案並列） → ㉑㉒㉓Persona → ⑤CD評価 → ①CMO最終QC = 8体 |
+| 入力 | **LP URL（必須）/ 媒体（必須）** + 案件・商品情報（任意）/ ターゲット情報（任意）。LPはPlaywright取得。媒体別コピー指針で媒体補正。案件にペルソナ無ければ入力から3体自動生成 |
+| 召集 | ①CMO → ⑤CD → ⑥Copywriter（6アプローチ×各3案=18案：LP逆算/価値種別/動機心理/勝ちCR要素/良いコピーの型/行動経済学） → ㉑㉒㉓Persona（18案採点） → ⑤CD評価 → ①CMO最終QC = 8体 |
 | 出力 | 採用コピー1案 + 差替候補2案 + 制作経緯ログ + ペルソナ別感情リアクション |
 | 想定処理時間 | 2〜4分 |
 | 主な使いどころ | 入稿前のコピー量産、既存コピーの差替案出し |
@@ -527,8 +527,8 @@ Claude Code のサブエージェント探索順：
 
 | 項目 | 決定内容 | 補足 |
 |---|---|---|
-| ペルソナ数 | **3体固定**（A/B/C） | 案件横断で比較しやすい |
-| 専門家の案数 | **3案固定** | ライター×ペルソナ×CD三層を踏襲 |
+| ペルソナ数 | **3体固定**（A/B/C） | 案件横断で比較しやすい。案件にペルソナ/ターゲット情報が無い場合は、③Customer Analyzerが実行時に入力（LP/商品情報）から3体を自動生成して評価ループに供給（/copy-build等の生成WF共通） |
+| 専門家の案数 | **原則3案固定**（動画/バナー/LP/台本）<br>**⑥Copywriterのみ6アプローチ×各3案=18案**（例外） | ライター×ペルソナ×CD三層を踏襲。コピーは6アプローチ（LP逆算/価値種別/動機心理/勝ちCR要素/良いコピーの型/行動経済学）×各3案で死角を消す |
 | ループ許容回数 | **最大3回**まで差戻し可 | 3回でスコア閾値到達しなければ最高点案を「条件付き採用」としてCMOに上げる |
 | スコア閾値 | **80点**（100点満点換算） | ⑤CD評価ルーブリック5軸×5点=25点 → 100点換算で80以上が採用ライン |
 | 分析系入力フォーマット | **CSVメイン** | 将来的にMCPで媒体データ直接参照（Looker Studio/Meta/Google Ads等）を追加予定 |
@@ -553,7 +553,7 @@ Claude Code のサブエージェント探索順：
 ### ⑤Creative Director採点と差戻しロジック（詳細）
 
 ```
-1. 専門家3案を5軸×5点満点で採点 → 各案 25点満点
+1. 専門家の全案を5軸×5点満点で採点（コピー=18案〔6アプローチ×3案〕 / 動画・バナー・LP・台本=3案）→ 各案 25点満点
 2. 100点換算（×4）
 3. 採否判定:
    - 最高点案が80点以上 → ✅ 採用 → CMOへ
