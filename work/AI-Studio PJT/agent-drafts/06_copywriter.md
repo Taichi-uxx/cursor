@@ -55,15 +55,14 @@ tools: [Read, Write]
 - 3秒で（サービスを使うことでの）ベネフィットもしくは（使わないことでの）リスク・損失が伝わるか
 - ペルソナの語彙に合っているか
 - クリックしたくなるか（意外性がある/自分でもできそう・簡単そう/続きが気になる/権威性がある など）
--　広告の読後感情がLP-FVの期待流入感情と一致しているか
 
 ## 参照すべきドメイン知識
 
 ### 必須参照（principle/）
 - @/Users/apple/.cursor/work/principle/マーケ戦略/田村の判断軸.md
-- @/Users/apple/.cursor/work/principle/クリエイティブ/コピー/コピー.md — コピー執筆の一般原則（全ライター共通の土台）
+- @/Users/apple/.cursor/work/principle/クリエイティブ/コピー/CLAUDE.md — **コピー普遍原則（本質4本柱・鉄則・勝ち筋・負け筋）。全ライター共通の土台・最初に必読**
 - @/Users/apple/.cursor/work/principle/クリエイティブ/コピー/エモーションリレー_LP逆算.md — **ライターA必読**
-- @/Users/apple/.cursor/work/principle/クリエイティブ/コピー/媒体別コピー指針.md — **全ライター必読**（指定媒体の該当§で媒体補正をかける）
+- @/Users/apple/.cursor/work/principle/クリエイティブ/媒体別コピー指針.md — **全ライター必読**（指定媒体の該当§で媒体補正をかける）
 - @/Users/apple/.cursor/work/principle/業界知見/<業界>/ — 規制・トーン・NG表現
 
 ### アプローチ別の方法論（各ライター必読）
