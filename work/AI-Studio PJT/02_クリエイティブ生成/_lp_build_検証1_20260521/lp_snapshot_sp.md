@@ -1,0 +1,172 @@
+- generic [ref=e2]:
+  - img "ラミネートベニアが選ばれる理由" [ref=e155]
+  - img "ラミネートベニアが選ばれる理由" [ref=e7]
+  - generic [ref=e9]:
+    - link "他ブランドとの比較" [ref=e11] [cursor=pointer]:
+      - /url: "#compare"
+      - img "他ブランドとの比較" [ref=e12]
+    - link "キレイラインが選ばれる4つの理由" [ref=e14] [cursor=pointer]:
+      - /url: "#reasons"
+      - img "キレイラインが選ばれる4つの理由" [ref=e15]
+    - link "DDデンタルが選ばれる理由" [ref=e17] [cursor=pointer]:
+      - /url: "#reason"
+      - img "DDデンタルが選ばれる理由" [ref=e18]
+    - link "初回検診の流れ" [ref=e20] [cursor=pointer]:
+      - /url: "#flow"
+      - img "初回検診の流れ" [ref=e21]
+  - img "他ブランドとの比較" [ref=e24]
+  - img "キレイラインが選ばれる4つの理由" [ref=e27]
+  - img "DDデンタルが選ばれる理由" [ref=e30]
+  - generic [ref=e31]:
+    - img "初回検診の流れ" [ref=e33]
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - group "1 / 5" [ref=e36]:
+          - img "初回検診の流れ" [ref=e37]
+        - group "2 / 5" [ref=e38]:
+          - img "初回検診の流れ" [ref=e39]
+        - group "3 / 5" [ref=e40]:
+          - img "初回検診の流れ" [ref=e41]
+        - group "4 / 5" [ref=e42]:
+          - img "初回検診の流れ" [ref=e43]
+        - group "5 / 5" [ref=e44]:
+          - img "初回検診の流れ" [ref=e45]
+      - generic [ref=e46]:
+        - button "Go to slide 1" [ref=e47] [cursor=pointer]
+        - button "Go to slide 2" [ref=e48] [cursor=pointer]
+        - button "Go to slide 3" [ref=e49] [cursor=pointer]
+        - button "Go to slide 4" [ref=e50] [cursor=pointer]
+        - button "Go to slide 5" [ref=e51] [cursor=pointer]
+  - generic [ref=e52]:
+    - img "よくあるご質問" [ref=e53]
+    - list [ref=e55]:
+      - listitem [ref=e56]:
+        - link "Q キレイライン矯正とは何ですか？ +" [ref=e57] [cursor=pointer]:
+          - /url: "#"
+          - img "Q" [ref=e58]
+          - generic [ref=e59]: キレイライン矯正とは何ですか？
+          - img "+" [ref=e60]
+      - listitem [ref=e61]:
+        - link "Q どんな人に向いていますか？ +" [ref=e62] [cursor=pointer]:
+          - /url: "#"
+          - img "Q" [ref=e63]
+          - generic [ref=e64]: どんな人に向いていますか？
+          - img "+" [ref=e65]
+      - listitem [ref=e66]:
+        - link "Q ワイヤー矯正と何が違いますか？ +" [ref=e67] [cursor=pointer]:
+          - /url: "#"
+          - img "Q" [ref=e68]
+          - generic [ref=e69]: ワイヤー矯正と何が違いますか？
+          - img "+" [ref=e70]
+      - listitem [ref=e71]:
+        - link "Q 矯正は痛いって聞きますが…？ +" [ref=e72] [cursor=pointer]:
+          - /url: "#"
+          - img "Q" [ref=e73]
+          - generic [ref=e74]: 矯正は痛いって聞きますが…？
+          - img "+" [ref=e75]
+      - listitem [ref=e76]:
+        - link "Q どのくらいで歯並びがキレイになりますか？ +" [ref=e77] [cursor=pointer]:
+          - /url: "#"
+          - img "Q" [ref=e78]
+          - generic [ref=e79]: どのくらいで歯並びがキレイになりますか？
+          - img "+" [ref=e80]
+      - listitem [ref=e81]:
+        - link "Q 支払い方法について教えてください +" [ref=e82] [cursor=pointer]:
+          - /url: "#"
+          - img "Q" [ref=e83]
+          - generic [ref=e84]: 支払い方法について教えてください
+          - img "+" [ref=e85]
+  - generic [ref=e87]:
+    - generic [ref=e88]: 東京
+    - list [ref=e89]:
+      - listitem [ref=e90]:
+        - link "渋谷" [ref=e91] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5237
+      - listitem [ref=e92]:
+        - link "新宿" [ref=e93] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5258
+      - listitem [ref=e94]:
+        - link "新橋" [ref=e95] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5273
+      - listitem [ref=e96]:
+        - link "池袋" [ref=e97] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5240
+      - listitem [ref=e98]:
+        - link "吉祥寺" [ref=e99] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5264
+      - listitem [ref=e100]:
+        - link "八王子" [ref=e101] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/tad
+    - generic [ref=e102]: 埼玉・神奈川・千葉
+    - list [ref=e103]:
+      - listitem [ref=e104]:
+        - link "大宮" [ref=e105] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/omy
+      - listitem [ref=e106]:
+        - link "横浜" [ref=e107] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5255
+      - listitem [ref=e108]:
+        - link "茅ヶ崎" [ref=e109] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/myk
+      - listitem [ref=e110]:
+        - link "柏" [ref=e111] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/ksw
+      - listitem [ref=e112]:
+        - link "船橋" [ref=e113] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/fji
+    - generic [ref=e114]: 愛知・静岡
+    - list [ref=e115]:
+      - listitem [ref=e116]:
+        - link "名古屋" [ref=e117] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5247
+      - listitem [ref=e118]:
+        - link "静岡" [ref=e119] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/szo
+    - generic [ref=e120]: 大阪・京都・兵庫
+    - list [ref=e121]:
+      - listitem [ref=e122]:
+        - link "梅田" [ref=e123] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/umd
+      - listitem [ref=e124]:
+        - link "心斎橋" [ref=e125] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5246
+      - listitem [ref=e126]:
+        - link "京都四条" [ref=e127] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/kys
+      - listitem [ref=e128]:
+        - link "神戸" [ref=e129] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/snm
+    - generic [ref=e130]: 福岡・熊本
+    - list [ref=e131]:
+      - listitem [ref=e132]:
+        - link "天神" [ref=e133] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/tnj
+      - listitem [ref=e134]:
+        - link "熊本" [ref=e135] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/5069
+    - generic [ref=e136]: 北海道・宮城・新潟・石川
+    - list [ref=e137]:
+      - listitem [ref=e138]:
+        - link "札幌" [ref=e139] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/spr
+      - listitem [ref=e140]:
+        - link "仙台" [ref=e141] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/snd
+      - listitem [ref=e142]:
+        - link "新潟" [ref=e143] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/ngt
+      - listitem [ref=e144]:
+        - link "金沢" [ref=e145] [cursor=pointer]:
+          - /url: https://lp.kireilign.com/clinics/knz
+  - link [ref=e146] [cursor=pointer]:
+    - /url: "#clinic"
+    - img [ref=e147]
+  - contentinfo [ref=e148]:
+    - list [ref=e149]:
+      - listitem [ref=e150]:
+        - link "運営会社" [ref=e151] [cursor=pointer]:
+          - /url: https://kireilign.com/company
+      - listitem [ref=e152]:
+        - link "プライバシーポリシー" [ref=e153] [cursor=pointer]:
+          - /url: https://kireilign.com/privacy
+    - paragraph [ref=e154]: Copyright© 2026 SheepMedical Technologies株式会社All Rights Reserved.

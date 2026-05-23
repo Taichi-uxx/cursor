@@ -1,0 +1,17 @@
+# lp-build scripts dependencies
+# インストール: python3 -m pip install -r requirements.txt
+
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# optional: OpenAI 公式 SDK。未導入でも gen_kv.py は requests REST に
+# 自動フォールバックするため必須ではない。
+# openai>=1.40.0
+
+# optional: Gemini(Nano Banana) フォールバック用 公式 SDK。
+# 未導入でも gen_kv.py は generativelanguage REST に自動フォールバックする。
+# google-genai>=0.3.0      # gemini プロバイダ
+
+# optional: 他プロバイダを使う場合のみ
+# fal-client>=0.4.0        # チェーンに fal を含めるとき
+# replicate>=0.30.0        # チェーンに replicate を含めるとき

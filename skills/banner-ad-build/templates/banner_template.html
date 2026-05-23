@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<!--
+  banner_template.html — バナー広告 単一HTMLテンプレート
+  ============================================================================
+  compose_banner.py が string.Template で以下のプレースホルダを置換する。
+  プレースホルダ名は compose_banner.py と厳密一致させること:
+
+    $bg_image_url   : 背景BG画像 (file://... の絶対 URL)
+    $eyebrow_html   : アイブロウ(小ラベル) ブロック (空なら "")
+    $main_html      : メインコピー (HTML エスケープ済み, <br> 改行可)
+    $sub_html       : サブコピー (HTML エスケープ済み)
+    $cta_label      : CTA ボタンラベル (HTML エスケープ済み)
+    $number_html    : 数値訴求ブロック (空なら ""。--type number で巨大表示)
+    $logo_html      : ロゴ(テキスト) ブロック (空なら "")
+    $text_color     : 文字色 (例 #ffffff)
+    $accent_color   : アクセント色 (例 #ff5a2b)
+    $overlay_color  : スクリム基調色 (例 rgba(0,0,0,0.4))
+    $align          : 水平揃え (left | center)
+    $position       : 縦方向配置 (top | center | bottom)
+    $viewport       : "<width>px x <height>px" (コンテナ実寸固定に使用)
+    $type_class     : t-copy | t-visual | t-number (強調の出し分け)
+
+  バナーは 300x250 〜 1080x1920 と寸法差が極端なので、コンテナを
+  $viewport ちょうどに固定し、文字サイズは vmin/clamp 等のビューポート
+  相対で破綻しないようにする。ネットワークアクセス禁止: フォント・画像
+  とも system / file:// のみ。
+-->
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>Banner</title>
+<style>
+  :root {
+    --text: $text_color;
+    --accent: $accent_color;
+    --overlay: $overlay_color;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    background: #0a0a0a;
+  }
+
+  body {
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+                 "Noto Sans JP", "Yu Gothic", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: var(--text);
+  }
+
+  /* ===== ステージ (バナー実寸ちょうどに固定) =====
+     寸法差が極端なため width/height を $viewport で実ピクセル固定し、
+     内部は cqmin (コンテナクエリ最小辺) / clamp で相対スケールする。 */
+  .bn {
+    position: relative;
+    width: $viewport;
+    overflow: hidden;
+    isolation: isolate;
+    container-type: size;
+  }
+
+  /* 背景 BG 画像 */
+  .bn__bg {
+    position: absolute;
+    inset: 0;
+    background-image: url("$bg_image_url");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 0;
+    transform: scale(1.02); /* エッジの白縁防止 */
+  }
+
+  /* スクリム: 視線誘導 + 可読性確保 (グラデ二層) */
+  .bn__scrim {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background:
+      linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.05) 0%,
+        rgba(0,0,0,0) 28%,
+        var(--overlay) 66%,
+        rgba(0,0,0,0.6) 100%
+      ),
+      radial-gradient(
+        130% 100% at 28% 62%,
+        var(--overlay) 0%,
+        rgba(0,0,0,0) 62%
+      );
+  }
+
+  /* コンテンツ安全エリア */
+  .bn__content {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    padding: 6cqmin 6.5cqmin;
+    gap: clamp(4px, 2.4cqmin, 26px);
+  }
+  .bn__content[data-pos="top"]    { justify-content: flex-start; }
+  .bn__content[data-pos="center"] { justify-content: center; }
+  .bn__content[data-pos="bottom"] { justify-content: flex-end; }
+  .bn__content[data-align="left"]   { align-items: flex-start; text-align: left; }
+  .bn__content[data-align="center"] { align-items: center; text-align: center; }
+
+  .bn__inner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: inherit;
+  }
+  .bn__content[data-align="center"] .bn__inner { align-items: center; }
+
+  /* ロゴ */
+  .bn__logo {
+    font-size: clamp(9px, 3cqmin, 22px);
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.92;
+    text-shadow: 0 1px 6px rgba(0,0,0,0.5);
+  }
+
+  /* アイブロウ (小ラベル) */
+  .bn__eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    font-size: clamp(8px, 2.7cqmin, 17px);
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    padding: 0.45em 0.95em;
+    border: 1px solid color-mix(in srgb, var(--accent) 70%, transparent);
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--accent) 16%, transparent);
+    color: var(--text);
+    text-shadow: 0 1px 4px rgba(0,0,0,0.45);
+  }
+  .bn__eyebrow::before {
+    content: "";
+    width: 0.5em; height: 0.5em;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0.7em var(--accent);
+  }
+
+  /* 数値訴求ブロック (--type number で主役) */
+  .bn__number {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+  }
+  .bn__number-value {
+    font-size: clamp(34px, 16cqmin, 220px);
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    color: var(--accent);
+    text-shadow:
+      0 2px 16px rgba(0,0,0,0.55),
+      0 1px 3px rgba(0,0,0,0.7);
+  }
+  .bn__number-label {
+    font-size: clamp(11px, 3.4cqmin, 30px);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    margin-top: 0.35em;
+    opacity: 0.95;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.6);
+  }
+
+  /* メインコピー: 特大・高可読 */
+  .bn__main {
+    font-size: clamp(18px, 8.4cqmin, 96px);
+    line-height: 1.18;
+    font-weight: 900;
+    letter-spacing: 0.005em;
+    text-shadow:
+      0 2px 14px rgba(0,0,0,0.55),
+      0 1px 3px rgba(0,0,0,0.7);
+  }
+  .bn__main .accent { color: var(--accent); }
+
+  /* サブコピー */
+  .bn__sub {
+    font-size: clamp(10px, 3.4cqmin, 30px);
+    line-height: 1.55;
+    font-weight: 500;
+    opacity: 0.96;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.6);
+  }
+
+  /* CTA */
+  .bn__cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.55em;
+    margin-top: clamp(2px, 1.4cqmin, 14px);
+    padding: clamp(7px, 2.6cqmin, 22px) clamp(14px, 6cqmin, 56px);
+    font-size: clamp(11px, 3.6cqmin, 28px);
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    color: #ffffff;
+    background: linear-gradient(
+      135deg,
+      var(--accent) 0%,
+      color-mix(in srgb, var(--accent) 78%, #000) 100%
+    );
+    border: none;
+    border-radius: 999px;
+    box-shadow:
+      0 8px 24px color-mix(in srgb, var(--accent) 45%, transparent),
+      0 2px 6px rgba(0,0,0,0.35);
+    text-decoration: none;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .bn__cta::after {
+    content: "→";
+    font-size: 1.1em;
+    line-height: 1;
+    transform: translateY(0.02em);
+  }
+
+  /* ===== 型 (--type) による強調の出し分け ===== */
+  /* copy-strong: コピー大・スクリム濃いめ */
+  .bn.t-copy .bn__scrim {
+    background:
+      linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.1) 0%,
+        rgba(0,0,0,0.02) 22%,
+        var(--overlay) 58%,
+        rgba(0,0,0,0.74) 100%
+      ),
+      radial-gradient(
+        130% 110% at 28% 62%,
+        var(--overlay) 0%,
+        rgba(0,0,0,0) 60%
+      );
+  }
+  .bn.t-copy .bn__main { font-size: clamp(20px, 9.6cqmin, 108px); }
+  .bn.t-copy .bn__number { display: none; }
+
+  /* visual-strong: コピー最小・余白大・スクリム薄め */
+  .bn.t-visual .bn__scrim {
+    background:
+      linear-gradient(
+        to bottom,
+        rgba(0,0,0,0) 0%,
+        rgba(0,0,0,0) 45%,
+        color-mix(in srgb, var(--overlay) 55%, transparent) 78%,
+        rgba(0,0,0,0.45) 100%
+      );
+  }
+  .bn.t-visual .bn__content { padding: 8cqmin 8cqmin; }
+  .bn.t-visual .bn__main { font-size: clamp(15px, 6.4cqmin, 70px); }
+  .bn.t-visual .bn__sub  { font-size: clamp(9px, 2.8cqmin, 24px); }
+  .bn.t-visual .bn__number { display: none; }
+
+  /* number: 数値を巨大表示・コピーは脇役 */
+  .bn.t-number .bn__main { font-size: clamp(15px, 5.6cqmin, 60px); }
+  .bn.t-number .bn__number-value { font-size: clamp(40px, 19cqmin, 260px); }
+
+  /* デフォルト (型クラス無し時) は数値ブロックを隠す保険 */
+  .bn:not(.t-number) .bn__number { display: none; }
+</style>
+</head>
+<body>
+  <main class="bn $type_class" data-viewport="$viewport">
+    <div class="bn__bg" role="img" aria-label="banner background"></div>
+    <div class="bn__scrim"></div>
+    <div class="bn__content" data-pos="$position" data-align="$align">
+      <div class="bn__inner">
+        $logo_html
+        $eyebrow_html
+        $number_html
+        <h1 class="bn__main">$main_html</h1>
+        <p class="bn__sub">$sub_html</p>
+        <a class="bn__cta" href="#cta" role="button">$cta_label</a>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

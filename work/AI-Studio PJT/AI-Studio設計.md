@@ -23,7 +23,7 @@
 ```
 ① CMO（兼Strategy Director）
    ├ 戦略チーム（②Market Researcher / ③Customer Analyzer / ④Business Strategist）
-   ├ ⑤ Creative Director ─ ⑥Copywriter / ⑦Video Ad Dir / ⑧Banner Conceptor / ⑨LP Architect
+   ├ ⑤ Creative Director ─ ⑥Copywriter / ⑦Video Ad Dir / ⑧Banner Conceptor / ⑰FV/アイキャッチ Designer / ⑨LP Architect
    ├ ⑩ Operations Director ─ ⑪Search Ads Spec. / ⑫SNS Ads Spec.
    └ ⑬ Content Director ─ ⑭YouTube Dir / ⑮Short Video Dir / ⑯Scriptwriter
 
@@ -39,7 +39,7 @@
 | 生成 | コピー生成 | `/copy-build` | ①⑤⑥ + ペルソナ3 |
 | 生成 | 動画広告構成案 | `/video-ad-build` | ①⑤⑦ + ペルソナ3 |
 | 生成 | バナー広告構成案 | `/banner-ad-build` | ①⑤⑧ + ペルソナ3 |
-| 生成 | LP構成案 | `/lp-build` | ①⑤⑨ + ペルソナ3 |
+| 生成 | LP（アイキャッチ＋本文構成） | `/lp-build` | ①⑤⑰⑨ + ペルソナ3 |
 | 生成 | YouTube構成案＆台本 | `/youtube-build` | ①⑬⑭⑯ + ②⑯ + ペルソナ3 |
 | 生成 | ショート動画構成案＆台本 | `/short-video-build` | ①⑬⑮⑯ + ②⑯ + ペルソナ3 |
 | 分析 | 検索広告分析＆改善 | `/search-ads-review` | ①⑩⑪ |
@@ -108,7 +108,7 @@ Claude Code の **サブエージェント機能** + **スラッシュコマン�
 
 ```
 ~/.claude/
-├── agents/                                # 共通プール（16ロール）
+├── agents/                                # 共通プール（17ロール）
 │   ├── 01_cmo.md
 │   ├── 02_market-researcher.md
 │   ├── 03_customer-analyzer.md
@@ -238,7 +238,7 @@ CMO  統合・優先順位付け
 
 ## 3. 組織構成
 
-**16人の常駐スタッフ + 案件別ペルソナ3人 = 計19ロール**。詳細は `組織図.md`。
+**17人の常駐スタッフ + 案件別ペルソナ3人 = 計20ロール**。詳細は `組織図.md`。
 
 ### 3.1 階層構造サマリー
 
@@ -247,10 +247,10 @@ CMO  統合・優先順位付け
 | 最上位 | 1人 | ① CMO（兼Strategy Director） |
 | 戦略チーム（CMO直下） | 3人 | ②③④ |
 | 中間ディレクター | 3人 | ⑤ Creative Director / ⑩ Operations Director / ⑬ Content Director |
-| クリエイティブ team（⑤配下） | 4人 | ⑥⑦⑧⑨ |
+| クリエイティブ team（⑤配下） | 5人 | ⑥⑦⑧⑨⑰ |
 | 運用 team（⑩配下） | 2人 | ⑪⑫ |
 | コンテンツ team（⑬配下） | 3人 | ⑭⑮⑯ |
-| **常駐スタッフ計** | **16人** | |
+| **常駐スタッフ計** | **17人** | |
 | 外部リソース（案件別） | 3人 | ㉑㉒㉓ Persona A/B/C |
 
 ### 3.2 ロール一覧
@@ -267,7 +267,8 @@ CMO  統合・優先順位付け
 | ⑥ | Copywriter | コピー18案執筆（6アプローチ×各3案） | principle/クリエイティブ/コピー/, playbooks/copy/, industries/ |
 | ⑦ | Video Ad Director | 動画広告構成3案 | playbooks/video/, video-hooks/, platforms/youtube-ads.md他 |
 | ⑧ | Banner Conceptor | バナー構成3案 | playbooks/banner/, platforms/banner-specs.md |
-| ⑨ | LP Architect | LP構成3案 | playbooks/lp/, frameworks/lp-patterns.md |
+| ⑨ | LP Architect | LP本文構成3案（確定FVを与件に地続き設計） | principle/クリエイティブ/LP/ |
+| ⑰ | FV/アイキャッチ Designer | FV企画→ビジュアル→実画像（3ゲート・先行） | principle/クリエイティブ/LP/, /バナー/, /媒体別コピー指針.md |
 | ⑩ | Operations Director | 数値So What抽出・改善アクション | benchmarks/ |
 | ⑪ | Search Ads Specialist | Google+Yahoo広告分析 | platforms/search/ |
 | ⑫ | SNS Ads Specialist | Meta+TikTok広告分析 | platforms/meta/, platforms/tiktok/ |
@@ -311,15 +312,19 @@ CMO  統合・優先順位付け
 | 想定処理時間 | 2〜3分 |
 | 主な使いどころ | デザイナー発注前のディレクション資料作成 |
 
-### 4.4 LP構成案 `/lp-build <URL>`
+### 4.4 LP（アイキャッチ＋本文構成）`/lp-build <LP URL> 媒体=<媒体>`
+
+**アイキャッチ先行**で進める。⑰がFVを3段階ゲートで確定 → その確定FVを与件に⑨が本文構成 → ⑤が合体整合。一気通貫で一発生成せず、「分けて作り合体させる」のが本ワークフローの設計思想。
 
 | 項目 | 内容 |
 |---|---|
-| 入力 | 商品/サービスURL＋ゴール |
-| 召集 | ①CMO → ⑤CD → ⑨LP Architect（3案：PASONA/AIDMA/物語型） → ㉑㉒㉓Persona → ⑤CD → ①CMO = 8体 |
-| 出力 | セクション構成＋各セクションコピー骨子＋CTA設計＋ファーストビュー案 |
-| 想定処理時間 | 4〜6分 |
-| 主な使いどころ | 新規LP制作の骨子作り、既存LPの改善提案 |
+| 入力 | **LP URL（必須）/ 媒体（必須）** + 案件・商品情報（任意）/ ターゲット情報（任意）。LPはPlaywright取得。媒体未指定なら停止して確認（/copy-build踏襲） |
+| 召集 | ①CMO → ⑤CD → ⑰〔G1 FVコピー企画N案 → ⑤承認 → G2 ビジュアル設計 → ⑤承認 → G3 実画像（生成AI背景KV＋HTML/CSSコピー重ね＋Playwright SP/PC書き出し）〕 → ㉑㉒㉓Persona評価 → ⑤CD採択（確定FV） → ⑨LP Architect（本文構成3案：PASONA/AIDMA/物語型・確定FV制約） → ⑤CD合体整合 → ①CMO最終QC = 11体 |
+| 出力 | 確定アイキャッチ（FVコピー＋実画像SP/PC）＋本文セクション構成3案＋CTA設計＋FV合体整合スコア＋不採用理由＋ペルソナ反応 |
+| 画像生成 | ハイブリッド＝生成AIで**背景KVのみ**（テキスト無し）生成し、コピー/CTAはHTML/CSSで重ねPlaywrightで書き出し（日本語テキストの正確性を構造的に担保）。**OpenAI(GPT Image)を基本 → エラー時 Gemini(Nano Banana=gemini-3-flash-image)へ自動フォールバック**（既定チェーン `openai,gemini`）。`load_dotenv()`経由、.env直接参照しない |
+| 想定処理時間 | 8〜15分（3ゲート＋画像生成＋本文＋合体のため /copy-build より長い。品質優先） |
+| 主な使いどころ | 新規LP制作の骨子作り、既存LPのFV刷新＋本文再設計 |
+| 前提ブロッカー | OpenAI/Gemini **両方**のキーが `.env` 未設定だとG3が動かない（最低 `OPENAI_API_KEY`、推奨で `GEMINI_API_KEY` も。モデルIDは `OPENAI_IMAGE_MODEL`/`GEMINI_IMAGE_MODEL` で上書き可） |
 
 ### 4.5 検索広告分析＆改善提案 `/search-ads-review <CSV path>`
 
@@ -528,12 +533,14 @@ Claude Code のサブエージェント探索順：
 | 項目 | 決定内容 | 補足 |
 |---|---|---|
 | ペルソナ数 | **3体固定**（A/B/C） | 案件横断で比較しやすい。案件にペルソナ/ターゲット情報が無い場合は、③Customer Analyzerが実行時に入力（LP/商品情報）から3体を自動生成して評価ループに供給（/copy-build等の生成WF共通） |
-| 専門家の案数 | **原則3案固定**（動画/バナー/LP/台本）<br>**⑥Copywriterのみ6アプローチ×各3案=18案**（例外） | ライター×ペルソナ×CD三層を踏襲。コピーは6アプローチ（LP逆算/価値種別/動機心理/勝ちCR要素/良いコピーの型/行動経済学）×各3案で死角を消す |
+| 専門家の案数 | **原則3案固定**（動画/バナー/台本）<br>**⑥Copywriterのみ6アプローチ×各3案=18案**（例外）<br>**LPは⑰アイキャッチ先行＋⑨本文構成3案の分離フロー**（例外） | ライター×ペルソナ×CD三層を踏襲。LPはFV(⑰)を3ゲートで先行確定し、その制約下で本文(⑨)3案＝§4.4 |
 | ループ許容回数 | **最大3回**まで差戻し可 | 3回でスコア閾値到達しなければ最高点案を「条件付き採用」としてCMOに上げる |
 | スコア閾値 | **80点**（100点満点換算） | ⑤CD評価ルーブリック5軸×5点=25点 → 100点換算で80以上が採用ライン |
 | 分析系入力フォーマット | **CSVメイン** | 将来的にMCPで媒体データ直接参照（Looker Studio/Meta/Google Ads等）を追加予定 |
 | CMO最終QC判断軸 | **① 期待値プラス**（成功確率×売上インパクト − 失敗確率×損失インパクト > 0）<br>**② 戦略マッチ度 80%超** | 両方を満たさなければ差戻し |
 | ショート動画媒体差分の管理方針 | **`knowledge/` 内のフォルダ分けで管理**（`platforms/shorts/youtube-shorts/` `reels/` `tiktok/`） | 媒体別の詳細スペック・アルゴリズム特性・成功事例を分けて蓄積 |
+| LP生成方式 | **アイキャッチ(⑰)先行 → 本文構成(⑨)を確定FV制約下で設計 → ⑤合体**（一発生成しない） | FVと本文は別ゲーム（LP本質①FV3秒勝負 vs ②物語温度）。分離でFVを独立変数化でき切り分け改善が効く。新ロール⑰新設（常駐17・計20ロール） |
+| LPアイキャッチ画像方式 | **ハイブリッド＝生成AI背景KV（テキスト無し）＋HTML/CSSコピー重ね＋Playwright SP/PC書き出し**。生成は **OpenAI(GPT Image)基本 → エラー時 Gemini(Nano Banana=gemini-3-flash-image)自動代替**（既定チェーン `openai,gemini`） | 生成AI一枚絵は日本語テキストが崩れCVを毀損するため。プロバイダ非依存ラッパーで`load_dotenv()`参照（.env直接参照禁止）。両キー未設定/両API失敗のときのみG3ブロック |
 
 ### CMO最終QC判断ロジック（詳細）
 

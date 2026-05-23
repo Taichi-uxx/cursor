@@ -1,0 +1,25 @@
+A natural-light morning portrait of a Japanese woman in her late twenties,
+soft warm sunlight from upper right (window light, 3000K color temperature),
+gentle hopeful relieved smile showing slightly visible front teeth (not a big laugh, more like a quiet "the wall just broke" expression),
+clean fresh skin with minimal makeup, no heavy retouching, healthy natural skin texture,
+wearing a plain ivory soft-knit or white tee (no logos, no patterns),
+shot from chest-up, subject positioned on the RIGHT THIRD of the frame,
+her gaze softly directed toward the LEFT-BOTTOM of the frame (looking down-left, not at the camera),
+LEFT HALF of the frame is clean negative space with soft champagne-gold and ivory gradient background,
+suggesting an upscale beauty clinic waiting room or a quiet morning cafe interior,
+warm color palette: champagne gold (#C9A96E), ivory (#FBF8F3), soft coral pink hints (#F4B5A8) only as subtle background warmth,
+NO cool colors, NO blue, NO cyan, NO medical white-coat, NO dental equipment, NO treatment chair,
+NO crown icons, NO laurel wreath, NO decorative gold lines burned into the image,
+mood: "the moment a long-given-up wall just quietly crumbled, a private hopeful inhale",
+shot on 85mm equivalent, shallow depth of field, soft bokeh background,
+editorial beauty magazine quality, Japanese natural beauty D2C aesthetic,
+NOT overly luxurious bridal, NOT pop, NOT cute, NOT corporate.
+
+CRITICAL — NO TEXT IN IMAGE:
+absolutely NO Japanese text, NO English text, NO numbers, NO logos, NO watermarks,
+NO price tags, NO speech bubbles, NO captions, NO subtitles, NO badges with text,
+NO signage, NO labels — the image must be 100% text-free.
+Text will be composited later via HTML/CSS overlay.
+
+Composition: ensure clean uncluttered negative space on the LEFT HALF
+(approximately left 50% of the frame for SP, left 60% for PC) for copy overlay.

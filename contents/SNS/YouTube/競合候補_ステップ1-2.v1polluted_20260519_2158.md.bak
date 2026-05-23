@@ -1,0 +1,32 @@
+# 競合候補 ステップ1&2 自動抽出結果
+
+- 生成: 2026-05-19 16:50 JST（launchd自動実行）
+- 母集団(登録3万+): 125 ch / ステップ1通過(直近2年以内×登録3万+): **11 ch**
+- 出典: YouTube Data API v3（発見・初投稿日・再生数）/ vidIQ統計ページ（直近の伸び, ベストエフォート）
+
+> **ブレイク倍率** = 直近5本の再生数中央値 ÷ 初期5本の再生数中央値。高いほど「無名スタートから企画で跳ねた＝再現性ある立ち上がり」。登録者(stock)に速度(velocity)を足した立ち上がり判定指標。
+
+## A. 立ち上がり継続候補（ブレイク倍率 ≥ 1.5）
+
+| # | チャンネル | 登録者 | 初投稿日 | ch年齢 | ブレイク倍率 | 直近の伸び | 判定 |
+|---|---|---|---|---|---|---|---|
+| 1 | [新卒理系ちゃん](https://www.youtube.com/channel/UCamq0rwxzhJqyT9jIc2gbpQ) | 82,100 | 2024-11-01 | 1.5年 | 4.4 | vidIQ要目視 | 立ち上がり強 |
+| 2 | [中村シリョーガ](https://www.youtube.com/channel/UCr-_nbXIwN18MK7bump5I9w) | 38,000 | 2024-06-09 | 1.9年 | 3.3 | +100登録/30日 | 立ち上がり強 |
+| 3 | [海外バズり紹介](https://www.youtube.com/channel/UCrkmrExFpS8oI13yuOc2ijA) | 130,000 | 2025-04-04 | 1.1年 | 2.1 | vidIQ要目視 | 緩やかな立ち上がり |
+
+## B. 停滞疑い（3万到達したが初速から伸びていない＝除外候補）
+
+| # | チャンネル | 登録者 | 初投稿日 | ch年齢 | ブレイク倍率 | 直近の伸び | 判定 |
+|---|---|---|---|---|---|---|---|
+| 1 | [ネット旅行](https://www.youtube.com/channel/UCKyR5HMbVDg-ufPQeDcE5lg) | 301,000 | 2025-02-28 | 1.2年 | 1.3 | vidIQ要目視 | 停滞疑い（初速から伸びてない） |
+| 2 | [証券アナリストハーリー『50,60代のお金』](https://www.youtube.com/channel/UCfCV9rFg6MxvaXxY1Oy_EgQ) | 154,000 | 2024-09-14 | 1.7年 | 1.3 | +0登録/30日 | 停滞疑い（初速から伸びてない） |
+| 3 | [はやとともかちゃん。](https://www.youtube.com/channel/UCI0NzjArynw7FHMcbMOldvw) | 248,000 | 2024-11-15 | 1.5年 | 0.8 | vidIQ要目視 | 停滞疑い（初速から伸びてない） |
+| 4 | [パチンコ雑学の虎](https://www.youtube.com/channel/UC3Y2S6-TfX7T_VNuMPvYicw) | 35,400 | 2024-08-14 | 1.8年 | 0.6 | vidIQ要目視 | 停滞疑い（初速から伸びてない） |
+| 5 | [もとき](https://www.youtube.com/channel/UC6Fusk6PTxdHZ4lv0_KaTWw) | 409,000 | 2024-08-02 | 1.8年 | 0.2 | vidIQ要目視 | 停滞疑い（初速から伸びてない） |
+| 6 | [ホラン千秋 YouTube](https://www.youtube.com/channel/UCu7heijmnMvDU7ML99zfE7Q) | 92,100 | 2025-08-28 | 0.7年 | 0.2 | vidIQ要目視 | 停滞疑い（初速から伸びてない）（1年未満で3万＝急成長） |
+| 7 | [TBS NEWS DIG Powered by JNN](https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA) | 3,270,000 | 2025-02-10 | 1.3年 | 0.1 | vidIQ要目視 | 停滞疑い（初速から伸びてない） |
+| 8 | [日テレNEWS](https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ) | 3,230,000 | 2025-04-27 | 1.1年 | 0.0 | vidIQ要目視 | 停滞疑い（初速から伸びてない） |
+
+## 次アクション（ステップ3への接続）
+- Aの上位を対象に、無名×オーガニック判定（初動画の再生数／人物SNS検索／Socialbladeカーブ／コメント欄）を目視で実施
+- 生き残りに対しチャンネル軸・動画軸（バズ度）・企画グルーピングを実施
