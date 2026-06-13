@@ -542,8 +542,9 @@ def _parse_args(argv: list[str]) -> argparse.Namespace:
         "--variant",
         default="v",
         help=(
-            "複数生成時の識別子ラベル (例: copy-strong / visual-strong / number)。"
-            "未指定なら 'v'"
+            "複数生成時の識別子ラベル (例: winning-parts / standard / organic)。"
+            "/banner-ad-build の3アプローチ別並列生成 (08a/08b/08c) と整合させる。"
+            "未指定なら 'v'。自由文字列・ファイル名サフィックスとして使用"
         ),
     )
     return p.parse_args(argv)

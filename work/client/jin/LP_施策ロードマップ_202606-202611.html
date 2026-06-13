@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ジョブドラフト LP施策ロードマップ｜2026年6月〜11月</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: "Hiragino Sans", "Yu Gothic", "Meiryo", sans-serif;
+    font-size: 13px;
+    line-height: 1.7;
+    color: #1a1a1a;
+    background: #f5f5f4;
+  }
+
+  .page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 40px;
+  }
+
+  /* ヘッダー */
+  .doc-header {
+    border-left: 4px solid #1a1a1a;
+    padding-left: 16px;
+    margin-bottom: 36px;
+  }
+  .doc-header h1 { font-size: 22px; font-weight: 700; letter-spacing: -0.3px; margin-bottom: 6px; }
+  .doc-meta { font-size: 12px; color: #666; display: flex; gap: 20px; }
+
+  /* セクション */
+  .section { margin-bottom: 44px; }
+  .section-title {
+    font-size: 15px;
+    font-weight: 700;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 6px;
+    margin-bottom: 16px;
+  }
+
+  /* KPIグリッド */
+  .kpi-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 36px; }
+  .kpi-card { background: #fff; border: 1px solid #e5e5e3; padding: 16px 18px; }
+  .kpi-value { font-size: 20px; font-weight: 700; margin-bottom: 4px; }
+  .kpi-value.warn { color: #b45309; }
+  .kpi-value.good { color: #15803d; }
+  .kpi-value.neutral { color: #1d4ed8; }
+  .kpi-label { font-size: 11px; color: #666; }
+
+  /* 現状LP分析 */
+  .lp-analysis {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+  .analysis-card { background: #fff; border: 1px solid #e5e5e3; padding: 18px; }
+  .analysis-title { font-size: 13px; font-weight: 700; margin-bottom: 10px; padding-bottom: 8px; border-bottom: 1px solid #e5e5e3; }
+  .issue-item {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+    font-size: 12px;
+  }
+  .issue-badge {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 2px;
+    flex-shrink: 0;
+    height: fit-content;
+    margin-top: 2px;
+  }
+  .badge-high { background: #fee2e2; color: #991b1b; }
+  .badge-mid  { background: #fef9c3; color: #854d0e; }
+  .badge-low  { background: #f3f4f6; color: #374151; }
+
+  /* LP構造図 */
+  .lp-structure {
+    background: #fff;
+    border: 1px solid #e5e5e3;
+    padding: 20px;
+  }
+  .lp-section-row {
+    display: flex;
+    align-items: stretch;
+    border: 1px solid #e5e5e3;
+    margin-bottom: 6px;
+  }
+  .lp-section-label {
+    width: 90px;
+    flex-shrink: 0;
+    background: #1a1a1a;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 700;
+    writing-mode: horizontal-tb;
+    padding: 10px 8px;
+    text-align: center;
+  }
+  .lp-section-content {
+    padding: 12px 16px;
+    font-size: 12px;
+    flex: 1;
+  }
+  .lp-section-issue {
+    width: 220px;
+    flex-shrink: 0;
+    background: #fef9c3;
+    padding: 10px 14px;
+    font-size: 11px;
+    color: #854d0e;
+    border-left: 1px solid #fde68a;
+    display: flex;
+    align-items: center;
+  }
+  .current-tag {
+    display: inline-block;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    font-size: 10px;
+    padding: 1px 6px;
+    border-radius: 2px;
+    margin-right: 4px;
+  }
+
+  /* 3本柱 */
+  .pillar-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .pillar-card { background: #fff; border: 1px solid #e5e5e3; padding: 18px; }
+  .pillar-num {
+    font-size: 26px;
+    font-weight: 700;
+    color: #e5e5e3;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .pillar-title { font-size: 14px; font-weight: 700; margin-bottom: 10px; }
+  .pillar-desc { font-size: 12px; color: #444; line-height: 1.7; }
+
+  /* フェーズ */
+  .phase-card { background: #fff; border: 1px solid #e5e5e3; margin-bottom: 12px; }
+  .phase-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 18px;
+    border-bottom: 1px solid #e5e5e3;
+    background: #fafaf9;
+  }
+  .phase-month { font-size: 18px; font-weight: 700; min-width: 36px; }
+  .phase-badge {
+    font-size: 11px;
+    font-weight: 700;
+    padding: 2px 10px;
+    border-radius: 2px;
+  }
+  .badge-peak    { background: #dcfce7; color: #15803d; }
+  .badge-normal  { background: #f3f4f6; color: #374151; }
+  .badge-warning { background: #fef9c3; color: #854d0e; }
+  .badge-info    { background: #dbeafe; color: #1d4ed8; }
+  .phase-stage { font-size: 12px; color: #555; margin-left: auto; }
+
+  .phase-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    padding: 16px 18px;
+  }
+  .phase-col + .phase-col {
+    padding-left: 20px;
+    border-left: 1px solid #e5e5e3;
+    margin-left: 20px;
+  }
+  .field { margin-bottom: 12px; }
+  .field-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #888;
+    margin-bottom: 3px;
+  }
+  .field-value { font-size: 12px; color: #222; }
+
+  /* FVコピー比較 */
+  .copy-table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  th {
+    background: #1a1a1a;
+    color: #fff;
+    text-align: left;
+    padding: 9px 12px;
+    font-weight: 600;
+  }
+  td { padding: 9px 12px; border-bottom: 1px solid #e5e5e3; background: #fff; vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  tr:nth-child(even) td { background: #fafaf9; }
+  .copy-main { font-weight: 700; font-size: 13px; margin-bottom: 4px; }
+  .copy-sub { font-size: 11px; color: #555; }
+
+  /* 業界特化LP設計 */
+  .lp-spec-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .lp-spec-card { background: #fff; border: 1px solid #e5e5e3; padding: 18px; }
+  .lp-spec-title { font-size: 13px; font-weight: 700; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid #e5e5e3; }
+  .spec-row { display: flex; gap: 8px; margin-bottom: 6px; font-size: 12px; }
+  .spec-key { font-size: 10px; font-weight: 700; color: #888; min-width: 56px; padding-top: 2px; }
+
+  /* ABテスト計画 */
+  .test-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .test-card { background: #fff; border: 1px solid #e5e5e3; padding: 16px; }
+  .test-title { font-size: 12px; font-weight: 700; margin-bottom: 8px; }
+  .test-priority {
+    font-size: 10px;
+    font-weight: 700;
+    padding: 1px 7px;
+    border-radius: 2px;
+    display: inline-block;
+    margin-bottom: 8px;
+  }
+
+  /* KPIテーブル */
+  .kpi-tag {
+    display: inline-block;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 2px;
+    margin-right: 4px;
+    margin-top: 3px;
+  }
+
+  /* アラート */
+  .alert {
+    border-left: 3px solid #b45309;
+    background: #fffbeb;
+    padding: 14px 18px;
+    font-size: 12px;
+    color: #44280a;
+  }
+  .alert strong { font-weight: 700; }
+  .alert-info {
+    border-left: 3px solid #1d4ed8;
+    background: #eff6ff;
+    padding: 14px 18px;
+    font-size: 12px;
+    color: #1e3a5f;
+  }
+
+  /* フッター */
+  .doc-footer {
+    margin-top: 48px;
+    padding-top: 16px;
+    border-top: 1px solid #e5e5e3;
+    font-size: 11px;
+    color: #888;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .divider { border: none; border-top: 1px solid #e5e5e3; margin: 28px 0; }
+
+  .tag {
+    display: inline-block;
+    font-size: 10px;
+    padding: 1px 7px;
+    border-radius: 2px;
+    margin-right: 4px;
+    border: 1px solid #d1d5db;
+    color: #555;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- ヘッダー -->
+  <div class="doc-header">
+    <h1>ジョブドラフト LP施策ロードマップ</h1>
+    <div class="doc-meta">
+      <span>対象期間：2026年6月〜11月（6ヶ月）</span>
+      <span>対象LP：https://jinjib.co.jp/landing/jinjib_t6/01.html</span>
+      <span>作成日：2026年5月29日</span>
+      <span>担当：REHATCH 田村</span>
+    </div>
+  </div>
+
+  <!-- KPIサマリー -->
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-value warn">通年固定</div>
+      <div class="kpi-label">現状FVコピー（時期連動なし）</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-value warn">0本</div>
+      <div class="kpi-label">業界特化LP（現状）</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-value good">3本</div>
+      <div class="kpi-label">業界特化LP（6ヶ月後の目標）</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-value neutral">CVR +20%</div>
+      <div class="kpi-label">LPO全体目標（6ヶ月累計）</div>
+    </div>
+  </div>
+
+  <!-- 現状分析 -->
+  <div class="section">
+    <div class="section-title">01 現状LP分析</div>
+
+    <div style="background:#fff; border:1px solid #e5e5e3; padding:20px; margin-bottom:16px;">
+      <div style="font-size:13px; font-weight:700; margin-bottom:12px; padding-bottom:8px; border-bottom:1px solid #e5e5e3;">現状LPのセクション構成と課題</div>
+      <div style="font-size:11px; color:#888; margin-bottom:12px;">URL: https://jinjib.co.jp/landing/jinjib_t6/01.html ／ タイトル：ジョブドラフト｜高卒採用ノウハウで若手人材不足を一挙に解消へ</div>
+
+      <div class="lp-section-row">
+        <div class="lp-section-label">FV</div>
+        <div class="lp-section-content">
+          <span class="current-tag">H1</span>「'若手人材不足'に高卒採用という解決策を」<br>
+          <span class="current-tag">実績数値</span> 3,800社・2,214名<br>
+          <span class="current-tag">CTA</span> 「ジョブドラフトとは（WP）」「高卒採用のご相談」の2択
+        </div>
+        <div class="lp-section-issue">課題：コピーが通年固定。業界・時期への訴求ゼロ。ターゲットコールなし</div>
+      </div>
+
+      <div class="lp-section-row">
+        <div class="lp-section-label">実績セクション</div>
+        <div class="lp-section-content">
+          <span class="current-tag">数値</span> 2,056社 ／ 2,214名 ／ 10,339名（イベント実績）<br>
+          <span class="current-tag">注記</span> ※1 2025年3月末時点 ／ ※2 2025年度5〜9月Fes実績
+        </div>
+        <div class="lp-section-issue">良い：数値訴求あり。改善点：業界別実績が見えない</div>
+      </div>
+
+      <div class="lp-section-row">
+        <div class="lp-section-label">中間CTA</div>
+        <div class="lp-section-content">
+          <span class="current-tag">CTA</span> 「ジョブドラフトとは（WP）」「高卒採用のご相談」の2択（FVと同じ）
+        </div>
+        <div class="lp-section-issue">課題：FVと同一。ページ内で訴求が深まっていない</div>
+      </div>
+
+      <div class="lp-section-row">
+        <div class="lp-section-label">目的別CTA</div>
+        <div class="lp-section-content">
+          <span class="current-tag">A</span>「高卒採用で成果を出したい方へ」→ WP35<br>
+          <span class="current-tag">B</span>「ジョブドラフトのサービスを知りたい方へ」→ 価格ページ<br>
+          <span class="current-tag">C</span>「採用計画〜実戦まで網羅的に知りたい方へ」→ WP9<br>
+          <span class="current-tag">D</span>「高卒採用のご相談」→ 相談フォーム
+        </div>
+        <div class="lp-section-issue">課題：4択が並立。ターゲット別・フェーズ別の設計がなく迷わせる</div>
+      </div>
+    </div>
+
+    <div class="lp-analysis">
+      <div class="analysis-card">
+        <div class="analysis-title">優先度別 課題一覧</div>
+        <div class="issue-item">
+          <span class="issue-badge badge-high">高</span>
+          <span>FVコピーが通年固定。7月解禁・9月応募など市場の節目に合わせた訴求がない → CVR機会損失</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-high">高</span>
+          <span>業界特化LPがゼロ。業界別クリエイティブで来訪したユーザーが汎用LPに流れ、メッセージが不一致 → バウンス率上昇</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-mid">中</span>
+          <span>CTAが4択並立。「まず何をすればいいか」が不明瞭。特に経営者層はWP→相談の導線が見えない</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-mid">中</span>
+          <span>ターゲット（経営者 / 人事責任者 / 人事担当者）で同一LP。役職別の訴求価値が異なるにも関わらず一枚板</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-low">低</span>
+          <span>業界別実績数値がなく「自分ごと化」しにくい（建設業の採用実績○件など）</span>
+        </div>
+      </div>
+      <div class="analysis-card">
+        <div class="analysis-title">現状LPの強み（維持・発展させる要素）</div>
+        <div class="issue-item">
+          <span class="issue-badge badge-low">維持</span>
+          <span>実績数値（3,800社・2,214名・10,339名）の配置は信頼性訴求として有効。今後も数値の更新と前面化を継続</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-low">維持</span>
+          <span>「ジョブドラフトとは」WPへの誘導が最優先CTAとして機能。WPのフック力（業界特化版投入で強化）</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-low">維持</span>
+          <span>相談フォームへの直接CTAが常にある構造は商談獲得に貢献。削除せず整理・最適化する方向で</span>
+        </div>
+        <div class="issue-item">
+          <span class="issue-badge badge-low">維持</span>
+          <span>コンパクトなページ構成（長すぎない）。離脱を防ぐために余計なコンテンツを追加しすぎない</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 施策3本柱 -->
+  <div class="section">
+    <div class="section-title">02 LP施策の3本柱</div>
+    <div class="pillar-grid">
+      <div class="pillar-card">
+        <div class="pillar-num">01</div>
+        <div class="pillar-title">時期連動FVコピー切り替え</div>
+        <div class="pillar-desc">
+          高卒採用市場カレンダーに合わせ、FVのキャッチコピーを月次で差し替える。7月解禁の緊急性・9月応募期の危機感・11月来期仕込みと、ユーザーの状況に合わせた言葉で接触することでCVRを引き上げる。最も低コストで高インパクトな施策。
+        </div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-num">02</div>
+        <div class="pillar-title">業界特化LP作成（建設・製造・物流）</div>
+        <div class="pillar-desc">
+          業界特化クリエイティブから流入するユーザーに対して、業界別の課題・事例・数値を訴求する専用LPを作成。「クリエイティブとLPのメッセージ一致」でCVRを高める。業界別WP（建設・製造版）と同時並行で整備し、7月解禁に合わせて投入。
+        </div>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-num">03</div>
+        <div class="pillar-title">CTA導線の整理・最適化</div>
+        <div class="pillar-desc">
+          現状の4択CTA並立を見直し、ターゲット役職別・購買フェーズ別に優先順位をつけた導線設計に改善する。経営者はWP→相談、人事担当は価格→相談という流れを明確化し、迷わせずコンバージョンへ誘導する。A/Bテストで検証しながら改善。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- フェーズ別実施計画 -->
+  <div class="section">
+    <div class="section-title">03 フェーズ別 LP施策実施計画</div>
+
+    <!-- 6月 -->
+    <div class="phase-card">
+      <div class="phase-header">
+        <div class="phase-month">6月</div>
+        <span class="phase-badge badge-normal">分析・仕込み</span>
+        <div class="phase-stage">市場：求人受付開始 ／ 企業熱量：高</div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">FVコピー方針</div>
+            <div class="field-value">「7月解禁前に今すぐ準備する」緊急性コピーへ差し替え準備。現状の通年コピーから解禁カウントダウン訴求に変更</div>
+          </div>
+          <div class="field">
+            <div class="field-label">実施タスク</div>
+            <div class="field-value">
+              ① 現状LPのヒートマップ・CVR数値を取得・基準値設定<br>
+              ② 7月用FVコピー3案を用意<br>
+              ③ 建設業特化LP ワイヤー作成開始
+            </div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">CTA改善</div>
+            <div class="field-value">4択CTAを「まずはWPダウンロード（メイン）」「相談はこちら（サブ）」の2択に絞るテスト準備</div>
+          </div>
+          <div class="field">
+            <div class="field-label">依頼事項（クライアント）</div>
+            <div class="field-value">建設業・製造業の採用成功事例（数値付き）の収集依頼。業界特化LP制作に必要な素材</div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">KPI</div>
+            <div class="field-value">
+              <span class="kpi-tag">基準CVR計測</span>
+              <span class="kpi-tag">建設LP ワイヤー完成</span>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">成果物</div>
+            <div class="field-value">7月用FVコピー案、建設業特化LPワイヤー、CTAテスト設計書</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 7月 -->
+    <div class="phase-card">
+      <div class="phase-header">
+        <div class="phase-month">7月</div>
+        <span class="phase-badge badge-peak">解禁ピーク</span>
+        <div class="phase-stage">市場：7/1求人解禁 ／ 企業熱量：最高（1.0）</div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">FVコピー方針</div>
+            <div class="field-value">「解禁に間に合わせる」緊急性コピーを本番適用。解禁後2週間は最大商機のため最重要フェーズ</div>
+          </div>
+          <div class="field">
+            <div class="field-label">実施タスク</div>
+            <div class="field-value">
+              ① 7月用FVコピーを7/1に合わせて差し替え<br>
+              ② 建設業特化LP 公開・配信紐づけ<br>
+              ③ CTAをWPメイン2択に絞るA/Bテスト開始<br>
+              ④ 製造業特化LP 制作開始
+            </div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">業界特化LP（建設業）投入</div>
+            <div class="field-value">
+              建設業向けクリエイティブの遷移先を建設業特化LPに紐づけ。<br>「現場が回る体制に」「工期延長を防ぐ」等の業界訴求をLPで継続
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">CTA最適化</div>
+            <div class="field-value">A/Bテスト：現状4択CTA vs WP1択＋相談サブ。2週間で判定し優勝案を定着</div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">KPI</div>
+            <div class="field-value">
+              <span class="kpi-tag">建設LP CVR vs 汎用LP 比較</span>
+              <span class="kpi-tag">FV切り替え前後のCVR差</span>
+              <span class="kpi-tag">CTA A/B結果</span>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">成果物</div>
+            <div class="field-value">建設業特化LP（公開）、7月FVコピー適用、CTAテスト結果</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8月 -->
+    <div class="phase-card">
+      <div class="phase-header">
+        <div class="phase-month">8月</div>
+        <span class="phase-badge badge-normal">職場見学期</span>
+        <div class="phase-stage">市場：職場見学ピーク ／ 企業熱量：中</div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">FVコピー方針</div>
+            <div class="field-value">「職場見学でどう見せるか」「応募前の最後の準備」をテーマにコピーを更新。焦りを生む方向ではなくノウハウ訴求</div>
+          </div>
+          <div class="field">
+            <div class="field-label">実施タスク</div>
+            <div class="field-value">
+              ① 製造業特化LP 公開<br>
+              ② 7月A/Bテスト結果を反映・CTA設計確定<br>
+              ③ 9月用「2次募集・応募ゼロ防止」FVコピー準備<br>
+              ④ 汎用LPの実績数値を最新に更新
+            </div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">業界特化LP（製造業）投入</div>
+            <div class="field-value">
+              製造業向けクリエイティブの遷移先を製造業特化LPに紐づけ。<br>「夜勤が回る体制」「技術継承の前に」等の訴求をLPで継続
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">CTA最適化（継続）</div>
+            <div class="field-value">7月のテスト結果を踏まえ、ターゲット別（経営者 / 人事）のCTA文言差し替えテストを実施</div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">KPI</div>
+            <div class="field-value">
+              <span class="kpi-tag">製造LP CVR計測開始</span>
+              <span class="kpi-tag">CTA確定案の適用</span>
+              <span class="kpi-tag">9月コピー準備完了</span>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">成果物</div>
+            <div class="field-value">製造業特化LP（公開）、CTA確定案、9月FVコピー案</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9月 -->
+    <div class="phase-card">
+      <div class="phase-header">
+        <div class="phase-month">9月</div>
+        <span class="phase-badge badge-peak">応募・選考開始</span>
+        <div class="phase-stage">市場：9/5応募開始・9/16選考開始（年間最大山場）</div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">FVコピー方針</div>
+            <div class="field-value">「応募ゼロの危機感」を前面に。「今すぐ2次募集対策」「面接を通過させる」等、焦りと解決を同時に提示</div>
+          </div>
+          <div class="field">
+            <div class="field-label">実施タスク</div>
+            <div class="field-value">
+              ① 9/1に9月用FVコピーへ差し替え（応募ゼロ・2次募集訴求）<br>
+              ② 物流業特化LP 制作開始<br>
+              ③ 2次募集専用LPの検討・ワイヤー作成<br>
+              ④ 各業界特化LP の中間地点CVR検証
+            </div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">2次募集LP（検討）</div>
+            <div class="field-value">
+              「1次で採れなかった企業」向けのLP新設を検討。10月Fes・サポートプランへの誘導強化。クライアントと工数・優先度を確認
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">CTA最適化（2次募集訴求）</div>
+            <div class="field-value">CTAコピーも「まず相談する（2次募集対策）」等に変更し、商談獲得率を高める</div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">KPI</div>
+            <div class="field-value">
+              <span class="kpi-tag">FV切り替え前後CVR差</span>
+              <span class="kpi-tag">業界別LP 累計CVR比較</span>
+              <span class="kpi-tag">相談フォームCV数</span>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">成果物</div>
+            <div class="field-value">9月FVコピー適用、物流LP制作開始、業界LP中間検証レポート</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10月 -->
+    <div class="phase-card">
+      <div class="phase-header">
+        <div class="phase-month">10月</div>
+        <span class="phase-badge badge-warning">2次募集攻勢</span>
+        <div class="phase-stage">市場：1次未充足企業が2次活動 ／ 秋Fes開催</div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">FVコピー方針</div>
+            <div class="field-value">「まだ間に合う2次募集」と「来年こそ成功するための今からの準備」の二本立て。既存顧客向けと新規向けで訴求を分ける</div>
+          </div>
+          <div class="field">
+            <div class="field-label">実施タスク</div>
+            <div class="field-value">
+              ① 物流業特化LP 公開<br>
+              ② 10月Fes向けFVコピー・CTA追加（Fes誘導）<br>
+              ③ 業界特化3LP の累計CVR / 汎用LP対比レポート<br>
+              ④ 11月用「来期仕込み」コピー準備
+            </div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">業界特化LP（物流業）投入</div>
+            <div class="field-value">物流業向けクリエイティブと紐づけ。配送・ドライバー不足訴求をLPで継続し、業界特化導線を完成させる</div>
+          </div>
+          <div class="field">
+            <div class="field-label">Fes誘導CTA</div>
+            <div class="field-value">秋フェス（10月開催）の誘導CTAをLP内に期間限定で挿入。「生徒と直接会える最後のチャンス」の緊急性訴求</div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">KPI</div>
+            <div class="field-value">
+              <span class="kpi-tag">物流LP CVR計測開始</span>
+              <span class="kpi-tag">Fes誘導CVクリック数</span>
+              <span class="kpi-tag">業界3LP 累計効果検証</span>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">成果物</div>
+            <div class="field-value">物流業特化LP（公開）、Fes期間限定CTA、中間改善レポート</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 11月 -->
+    <div class="phase-card">
+      <div class="phase-header">
+        <div class="phase-month">11月</div>
+        <span class="phase-badge badge-info">来期仕込み</span>
+        <div class="phase-stage">市場：今期あきらめ→来期準備開始 ／ 企業熱量：低→上昇</div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">FVコピー方針</div>
+            <div class="field-value">「来年こそ採用を成功させるために今から動く企業が差をつける」。過去の失敗・今年の後悔を引き取る共感訴求</div>
+          </div>
+          <div class="field">
+            <div class="field-label">実施タスク</div>
+            <div class="field-value">
+              ① 11月用「来期訴求」FVコピーへ差し替え<br>
+              ② 6ヶ月間のLP施策全体振り返り（CVR・業界別比較・テスト結果まとめ）<br>
+              ③ 来期に向けたLP改善優先度の再設計<br>
+              ④ ルーキーズクラブ訴求CTAの追加テスト
+            </div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">新規ターゲット向けLP検討</div>
+            <div class="field-value">「はじめての高卒採用」層（中途しかやってこなかった企業）向けの入口LPを来期に向けて企画。12月以降の仕込みとして</div>
+          </div>
+          <div class="field">
+            <div class="field-label">CTA最適化（来期）</div>
+            <div class="field-value">来期採用計画の策定を促す「採用計画相談」CTA。来年の準備を今すぐ始めることを後押しする文言に</div>
+          </div>
+        </div>
+        <div class="phase-col">
+          <div class="field">
+            <div class="field-label">KPI</div>
+            <div class="field-value">
+              <span class="kpi-tag">6ヶ月総括CVR比較</span>
+              <span class="kpi-tag">業界別LP最終評価</span>
+              <span class="kpi-tag">来期LP企画書完成</span>
+            </div>
+          </div>
+          <div class="field">
+            <div class="field-label">成果物</div>
+            <div class="field-value">6ヶ月LP施策総括レポート、来期改善計画書</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- FVコピー設計 -->
+  <div class="section">
+    <div class="section-title">04 時期別 FVコピー設計案</div>
+    <div class="copy-table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th style="width:60px">時期</th>
+            <th style="width:100px">市場の状況</th>
+            <th>メインコピー案</th>
+            <th>サブコピー / 補足</th>
+            <th style="width:100px">CTA優先</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="font-weight:700">現状（通年）</td>
+            <td>通年固定</td>
+            <td><div class="copy-main" style="color:#888">'若手人材不足'に高卒採用という解決策を</div></td>
+            <td><div class="copy-sub">汎用。時期・業界の訴求なし</div></td>
+            <td>WP / 相談</td>
+          </tr>
+          <tr>
+            <td style="font-weight:700; color:#15803d">6月</td>
+            <td>求人受付開始</td>
+            <td><div class="copy-main">7月解禁まで1ヶ月。今年の高卒採用、準備できていますか？</div></td>
+            <td><div class="copy-sub">「準備した企業だけが採用を制する」という問いかけ型。焦りと行動を促す</div></td>
+            <td>WP（準備ガイド）</td>
+          </tr>
+          <tr>
+            <td style="font-weight:700; color:#15803d">7月</td>
+            <td>求人解禁！</td>
+            <td><div class="copy-main">求人解禁。今動かない会社に、高校生は来ない。</div></td>
+            <td><div class="copy-sub">「解禁後2週間が勝負」という緊急性と、既に動いている競合企業との差分を意識させる</div></td>
+            <td>WP（業界特化）</td>
+          </tr>
+          <tr>
+            <td style="font-weight:700">8月</td>
+            <td>職場見学期</td>
+            <td><div class="copy-main">職場見学に来た高校生を、応募につなげる方法。</div></td>
+            <td><div class="copy-sub">「見学には来るが応募されない」という担当者の悩みを直撃。ノウハウ提供でWP誘導</div></td>
+            <td>WP（職場見学）</td>
+          </tr>
+          <tr>
+            <td style="font-weight:700; color:#15803d">9月</td>
+            <td>応募・選考開始</td>
+            <td><div class="copy-main">応募がゼロ。でも、2次募集でまだ挽回できる。</div></td>
+            <td><div class="copy-sub">失敗を認めた上で解決策を提示。「諦めなくていい」という安心と希望を与える</div></td>
+            <td>相談（2次対策）</td>
+          </tr>
+          <tr>
+            <td style="font-weight:700; color:#854d0e">10月</td>
+            <td>2次募集期</td>
+            <td><div class="copy-main">1次募集で採れなかった。2次で逆転する企業の戦略とは。</div></td>
+            <td><div class="copy-sub">「逆転できる」という可能性と具体的な戦略感を同時に提示。Fes誘導も添える</div></td>
+            <td>相談 / Fes誘導</td>
+          </tr>
+          <tr>
+            <td style="font-weight:700">11月</td>
+            <td>来期仕込み</td>
+            <td><div class="copy-main">今年うまくいかなかった理由は、準備の差だった。</div></td>
+            <td><div class="copy-sub">今年の失敗を振り返り、来年への行動を促す。自責感ではなく「来年は変えられる」メッセージ</div></td>
+            <td>WP（来期準備）</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- 業界特化LP設計仕様 -->
+  <div class="section">
+    <div class="section-title">05 業界特化LP 設計仕様</div>
+    <div class="alert-info" style="margin-bottom:14px;">
+      業界特化LPは汎用LPと構成を共有しつつ、FV・事例・数値・コピーのみ業界別に差し替える設計にする。工数を最小化しながら「メッセージの一致」だけを実現する。
+    </div>
+    <div class="lp-spec-grid">
+      <div class="lp-spec-card">
+        <div class="lp-spec-title">建設業特化LP（7月公開目標）</div>
+        <div class="spec-row"><div class="spec-key">H1コピー</div><div>「現場が回る。高卒採用で若手職人を確保」</div></div>
+        <div class="spec-row"><div class="spec-key">FV数値</div><div>建設業での採用実績数・職場見学受入企業数（クライアント提供）</div></div>
+        <div class="spec-row"><div class="spec-key">課題例示</div><div>「現場監督の高齢化」「5年後に現場を動かす人がいなくなる」「工期延長リスク」</div></div>
+        <div class="spec-row"><div class="spec-key">事例</div><div>建設業での採用成功事例（社名・採用人数・課題→結果）を1〜2件掲載</div></div>
+        <div class="spec-row"><div class="spec-key">WP誘導</div><div>建設業特化WP（7月制作予定）へのCTA</div></div>
+        <div class="spec-row"><div class="spec-key">公開期限</div><div>2026年7月1日（求人解禁に合わせる）</div></div>
+      </div>
+      <div class="lp-spec-card">
+        <div class="lp-spec-title">製造業特化LP（8月公開目標）</div>
+        <div class="spec-row"><div class="spec-key">H1コピー</div><div>「夜勤が回る。高卒採用で24時間体制を維持」</div></div>
+        <div class="spec-row"><div class="spec-key">FV数値</div><div>製造業での採用実績数・導入企業数（クライアント提供）</div></div>
+        <div class="spec-row"><div class="spec-key">課題例示</div><div>「昼夜交代が回らない」「受注できない案件が発生している」「専門職の後継者がいない」</div></div>
+        <div class="spec-row"><div class="spec-key">事例</div><div>製造業での採用成功事例（ライン復旧・夜勤体制維持など）を1〜2件掲載</div></div>
+        <div class="spec-row"><div class="spec-key">WP誘導</div><div>製造業特化WP（7月制作予定）へのCTA</div></div>
+        <div class="spec-row"><div class="spec-key">公開期限</div><div>2026年8月1日</div></div>
+      </div>
+      <div class="lp-spec-card">
+        <div class="lp-spec-title">物流業特化LP（10月公開目標）</div>
+        <div class="spec-row"><div class="spec-key">H1コピー</div><div>「配送が止まらない。高卒採用でドライバー不足を解消」</div></div>
+        <div class="spec-row"><div class="spec-key">FV数値</div><div>物流業での採用実績数（クライアント提供）</div></div>
+        <div class="spec-row"><div class="spec-key">課題例示</div><div>「ドライバー不足で配送量が限界」「2024年問題の影響」「若手ドライバーが来ない」</div></div>
+        <div class="spec-row"><div class="spec-key">事例</div><div>物流業での採用成功事例（ドライバー確保・配送量改善）を1〜2件掲載</div></div>
+        <div class="spec-row"><div class="spec-key">WP誘導</div><div>物流業特化WP（7月末〜制作予定）へのCTA</div></div>
+        <div class="spec-row"><div class="spec-key">公開期限</div><div>2026年10月1日</div></div>
+      </div>
+      <div class="lp-spec-card">
+        <div class="lp-spec-title">共通：差し替え不要セクション</div>
+        <div style="font-size:12px; color:#444; line-height:1.8; margin-bottom:10px;">以下は全業界LP共通で維持。工数削減のため変更しない。</div>
+        <div class="spec-row"><div class="spec-key">維持①</div><div>サービス概要・ジョブドラフトNaviの説明</div></div>
+        <div class="spec-row"><div class="spec-key">維持②</div><div>全体採用実績数値（3,800社・2,214名など）</div></div>
+        <div class="spec-row"><div class="spec-key">維持③</div><div>フッターCTA（相談フォーム）</div></div>
+        <div class="spec-row"><div class="spec-key">維持④</div><div>会社概要・プライバシーポリシーリンク</div></div>
+        <div style="margin-top:10px; font-size:11px; color:#888;">
+          ※ 制作工数目安：1LP あたりクライアント素材収集1〜2時間 + 制作2〜3時間（Genspark/LP制作ツール活用）
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- A/Bテスト計画 -->
+  <div class="section">
+    <div class="section-title">06 A/Bテスト計画</div>
+    <div class="test-grid">
+      <div class="test-card">
+        <span class="test-priority badge-high" style="background:#fee2e2; color:#991b1b;">最優先・7月</span>
+        <div class="test-title">テスト①：CTA構成（4択 vs 2択）</div>
+        <div style="font-size:12px; color:#333; line-height:1.7;">
+          <strong>A案（現状）：</strong>WP2種・価格・相談の4択<br>
+          <strong>B案（改善）：</strong>WPメイン1択 ＋ 相談サブ<br>
+          <strong>判定期間：</strong>2週間<br>
+          <strong>判定指標：</strong>CTAクリック率 / WP DL率 / 相談CV率
+        </div>
+      </div>
+      <div class="test-card">
+        <span class="test-priority badge-high" style="background:#fee2e2; color:#991b1b;">最優先・7月</span>
+        <div class="test-title">テスト②：FVコピー（汎用 vs 業界特化）</div>
+        <div style="font-size:12px; color:#333; line-height:1.7;">
+          <strong>A案：</strong>汎用LPへ流入<br>
+          <strong>B案：</strong>建設業特化LPへ流入（建設業クリエイティブから）<br>
+          <strong>判定期間：</strong>1ヶ月<br>
+          <strong>判定指標：</strong>CVR / 直帰率 / 滞在時間
+        </div>
+      </div>
+      <div class="test-card">
+        <span class="test-priority" style="background:#fef9c3; color:#854d0e; border:none; font-size:10px; font-weight:700; padding:1px 7px; border-radius:2px; display:inline-block; margin-bottom:8px;">中優先・8月</span>
+        <div class="test-title">テスト③：FVビジュアル（実績数値前面 vs ターゲットコール前面）</div>
+        <div style="font-size:12px; color:#333; line-height:1.7;">
+          <strong>A案：</strong>現状（3,800社・2,214名が大きく表示）<br>
+          <strong>B案：</strong>「建設業の経営者へ」などターゲットコールをFV最上部に<br>
+          <strong>判定期間：</strong>2週間<br>
+          <strong>判定指標：</strong>ページ滞在時間 / CVR
+        </div>
+      </div>
+      <div class="test-card">
+        <span class="test-priority" style="background:#fef9c3; color:#854d0e; border:none; font-size:10px; font-weight:700; padding:1px 7px; border-radius:2px; display:inline-block; margin-bottom:8px;">中優先・9月</span>
+        <div class="test-title">テスト④：CTAコピー（ノウハウ訴求 vs 危機感訴求）</div>
+        <div style="font-size:12px; color:#333; line-height:1.7;">
+          <strong>A案：</strong>「まずはWPをダウンロード」<br>
+          <strong>B案：</strong>「応募ゼロを防ぐ方法を無料で確認する」<br>
+          <strong>判定期間：</strong>2週間<br>
+          <strong>判定指標：</strong>WP DL率 / CTA クリック率
+        </div>
+      </div>
+      <div class="test-card">
+        <span class="test-priority" style="background:#f3f4f6; color:#374151; border:none; font-size:10px; font-weight:700; padding:1px 7px; border-radius:2px; display:inline-block; margin-bottom:8px;">低優先・10月以降</span>
+        <div class="test-title">テスト⑤：役職別CTA（経営者向け vs 人事担当者向け）</div>
+        <div style="font-size:12px; color:#333; line-height:1.7;">
+          <strong>A案：</strong>経営者向け「事業課題として確認する」CTA<br>
+          <strong>B案：</strong>人事向け「採用実務のノウハウを確認する」CTA<br>
+          ※クリエイティブ側のターゲティングと組み合わせて計測<br>
+          <strong>判定指標：</strong>役職別CVR比較
+        </div>
+      </div>
+      <div class="test-card">
+        <span class="test-priority" style="background:#f3f4f6; color:#374151; border:none; font-size:10px; font-weight:700; padding:1px 7px; border-radius:2px; display:inline-block; margin-bottom:8px;">低優先・11月以降</span>
+        <div class="test-title">テスト⑥：業界別数値訴求（全体実績 vs 業界別実績）</div>
+        <div style="font-size:12px; color:#333; line-height:1.7;">
+          <strong>A案：</strong>現状「3,800社・2,214名」<br>
+          <strong>B案：</strong>「建設業で○社が採用成功」等の業界別数値<br>
+          ※クライアントから業界別データを取得できた場合に実施<br>
+          <strong>判定指標：</strong>CVR / 直帰率
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <!-- 全体KPIと進捗管理 -->
+  <div class="section">
+    <div class="section-title">07 KPI設定と進捗管理</div>
+    <table>
+      <thead>
+        <tr>
+          <th>KPI項目</th>
+          <th>現状（ベースライン）</th>
+          <th>3ヶ月後目標（8月末）</th>
+          <th>6ヶ月後目標（11月末）</th>
+          <th>計測方法</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>汎用LP CVR（WP DL率）</td>
+          <td>要計測（6月に基準値取得）</td>
+          <td>基準値 +10%</td>
+          <td>基準値 +20%</td>
+          <td>GA4 / LP計測ツール</td>
+        </tr>
+        <tr>
+          <td>業界特化LP CVR</td>
+          <td>—（6月時点で0本）</td>
+          <td>建設LP CVR ≥ 汎用LP</td>
+          <td>業界3LP 全て ≥ 汎用LP</td>
+          <td>GA4 / UTMパラメータ</td>
+        </tr>
+        <tr>
+          <td>相談フォームCV率</td>
+          <td>要計測</td>
+          <td>基準値 +5%</td>
+          <td>基準値 +15%</td>
+          <td>フォーム送信コンバージョン</td>
+        </tr>
+        <tr>
+          <td>直帰率</td>
+          <td>要計測</td>
+          <td>−5%pt 改善</td>
+          <td>−10%pt 改善</td>
+          <td>GA4</td>
+        </tr>
+        <tr>
+          <td>業界特化LP公開本数</td>
+          <td>0本</td>
+          <td>2本（建設・製造）</td>
+          <td>3本（建設・製造・物流）</td>
+          <td>LP一覧管理</td>
+        </tr>
+        <tr>
+          <td>FVコピー切り替え実施回数</td>
+          <td>0回</td>
+          <td>3回（6・7・8月）</td>
+          <td>6回（全月）</td>
+          <td>実施記録</td>
+        </tr>
+        <tr>
+          <td>A/Bテスト実施本数</td>
+          <td>0本</td>
+          <td>2本完了</td>
+          <td>4〜6本完了</td>
+          <td>テスト管理表</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- 注記 -->
+  <div class="alert">
+    <strong>構造的課題（LP単体では解決できない論点）：</strong><br>
+    LPのCVR改善は「来訪者の質×LP訴求力」で決まる。現状のCPA高騰はLabページのトラフィック激減によるリタゲ母数の枯渇が根本原因で、どんなLP改善をしてもリタゲ母数が増えなければ構造的な改善には限界がある。業界特化LPとFVコピー最適化を進めながら、並行してLabページへの集客回復（SEO・コンテンツ）をクライアントと中長期議題として持ち込むことが重要。
+  </div>
+
+  <div class="doc-footer">
+    <span>ジョブドラフト LP施策ロードマップ 2026年6月〜11月</span>
+    <span>REHATCH株式会社 CS担当</span>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1069 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LPO施策計画 | いえとち本舗 香川建売LP</title>
+<style>
+  :root {
+    --primary: #1a3a5c;
+    --accent: #e85d04;
+    --accent2: #2d6a4f;
+    --accent3: #7b2d8b;
+    --bg: #f8f9fb;
+    --surface: #ffffff;
+    --border: #e2e8f0;
+    --text: #1e293b;
+    --muted: #64748b;
+    --phase0: #0ea5e9;
+    --phase1: #22c55e;
+    --phase2: #f59e0b;
+    --phase3: #ef4444;
+    --phase4: #8b5cf6;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Hiragino Kaku Gothic ProN', 'Meiryo', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  /* ---- Header ---- */
+  .doc-header {
+    background: var(--primary);
+    color: #fff;
+    padding: 36px 48px 32px;
+  }
+  .doc-header .tag {
+    display: inline-block;
+    background: rgba(255,255,255,0.2);
+    border-radius: 4px;
+    padding: 2px 10px;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    margin-bottom: 12px;
+  }
+  .doc-header h1 { font-size: 26px; font-weight: 700; margin-bottom: 8px; }
+  .doc-header .meta { color: rgba(255,255,255,0.65); font-size: 12px; }
+  .doc-header .meta span { margin-right: 20px; }
+
+  /* ---- Layout ---- */
+  .container { max-width: 1100px; margin: 0 auto; padding: 40px 48px; }
+  .section { margin-bottom: 52px; }
+  .section-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--primary);
+    border-left: 4px solid var(--accent);
+    padding-left: 12px;
+    margin-bottom: 20px;
+  }
+
+  /* ---- Summary Cards ---- */
+  .summary-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+  .summary-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+  }
+  .summary-card .label { font-size: 11px; color: var(--muted); margin-bottom: 6px; text-transform: uppercase; letter-spacing: 0.06em; }
+  .summary-card .value { font-size: 22px; font-weight: 700; color: var(--primary); }
+  .summary-card .desc { font-size: 11px; color: var(--muted); margin-top: 4px; }
+
+  /* ---- LP Overview ---- */
+  .lp-overview {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px 28px;
+    margin-bottom: 28px;
+  }
+  .lp-overview h3 { font-size: 14px; color: var(--muted); margin-bottom: 12px; }
+  .lp-flow {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  .lp-block {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 12px;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .lp-block.cta { background: #fff3e0; border-color: #f59e0b; color: #92400e; font-weight: 700; }
+  .lp-block.fv { background: #e8f4fd; border-color: #0ea5e9; color: #075985; font-weight: 700; }
+  .arrow { color: var(--muted); font-size: 18px; }
+
+  /* ---- Issues ---- */
+  .issues-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+  .issue-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 22px;
+  }
+  .issue-card .issue-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .issue-card .issue-icon {
+    width: 32px; height: 32px;
+    border-radius: 8px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 16px;
+    flex-shrink: 0;
+  }
+  .issue-card .issue-title { font-size: 14px; font-weight: 700; }
+  .issue-list { list-style: none; }
+  .issue-list li {
+    display: flex;
+    gap: 8px;
+    padding: 7px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .issue-list li:last-child { border-bottom: none; }
+  .issue-list .badge {
+    flex-shrink: 0;
+    margin-top: 1px;
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 9px;
+    font-weight: 700;
+    color: #fff;
+  }
+  .badge-high { background: #ef4444; }
+  .badge-mid { background: #f59e0b; }
+  .badge-low { background: #94a3b8; }
+  .impact-label {
+    margin-left: auto;
+    flex-shrink: 0;
+    font-size: 10px;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-weight: 700;
+  }
+  .impact-high { background: #fee2e2; color: #991b1b; }
+  .impact-mid { background: #fef3c7; color: #92400e; }
+  .impact-low { background: #f1f5f9; color: #475569; }
+
+  /* ---- Roadmap ---- */
+  .roadmap-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .roadmap-table th {
+    background: var(--primary);
+    color: #fff;
+    font-size: 12px;
+    padding: 12px 16px;
+    text-align: left;
+    font-weight: 600;
+  }
+  .roadmap-table td {
+    padding: 13px 16px;
+    font-size: 13px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .roadmap-table tr:last-child td { border-bottom: none; }
+  .roadmap-table tr:hover td { background: #f8fafc; }
+  .phase-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .ph0 { background: #e0f2fe; color: #0369a1; }
+  .ph1 { background: #dcfce7; color: #166534; }
+  .ph2 { background: #fef9c3; color: #854d0e; }
+  .ph3 { background: #fee2e2; color: #991b1b; }
+  .ph4 { background: #f3e8ff; color: #6b21a8; }
+
+  .cost-dot {
+    display: inline-flex;
+    gap: 2px;
+  }
+  .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+  }
+  .dot-filled { background: var(--accent); }
+  .dot-empty { background: #e2e8f0; }
+
+  /* ---- Detail Cards ---- */
+  .detail-section { margin-top: 48px; }
+  .phase-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+    padding: 14px 20px;
+    border-radius: 10px;
+  }
+  .phase-header.ph0-bg { background: #e0f2fe; }
+  .phase-header.ph1-bg { background: #dcfce7; }
+  .phase-header.ph2-bg { background: #fef9c3; }
+  .phase-header.ph3-bg { background: #fee2e2; }
+  .phase-header.ph4-bg { background: #f3e8ff; }
+  .phase-header .ph-num { font-size: 28px; font-weight: 900; opacity: 0.3; }
+  .phase-header .ph-info h3 { font-size: 16px; font-weight: 700; }
+  .phase-header .ph-info p { font-size: 12px; opacity: 0.7; margin-top: 2px; }
+
+  .施策cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 36px;
+  }
+  .施策card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px 22px;
+  }
+  .施策card .card-num {
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--muted);
+    letter-spacing: 0.1em;
+    margin-bottom: 6px;
+  }
+  .施策card h4 { font-size: 14px; font-weight: 700; margin-bottom: 10px; color: var(--primary); }
+  .施策card .row { display: flex; gap: 6px; margin-bottom: 8px; flex-wrap: wrap; }
+  .tag-sm {
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 600;
+  }
+  .tag-problem { background: #fee2e2; color: #991b1b; }
+  .tag-goal { background: #dcfce7; color: #166534; }
+  .tag-action { background: #e0f2fe; color: #0369a1; }
+  .施策card .detail-text {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.7;
+    border-top: 1px solid var(--border);
+    padding-top: 10px;
+    margin-top: 6px;
+  }
+  .施策card .metrics {
+    display: flex;
+    gap: 12px;
+    margin-top: 10px;
+  }
+  .metric-item { text-align: center; }
+  .metric-item .m-label { font-size: 10px; color: var(--muted); }
+  .metric-item .m-val { font-size: 13px; font-weight: 700; }
+
+  /* ---- KPI Table ---- */
+  .kpi-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .kpi-table th {
+    background: #f1f5f9;
+    color: var(--primary);
+    font-size: 12px;
+    padding: 10px 16px;
+    text-align: left;
+    font-weight: 700;
+    border-bottom: 1px solid var(--border);
+  }
+  .kpi-table td {
+    padding: 11px 16px;
+    font-size: 13px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: middle;
+  }
+  .kpi-table tr:last-child td { border-bottom: none; }
+  .kpi-table .primary-kpi { font-weight: 700; color: var(--primary); }
+
+  /* ---- Before/After ---- */
+  .ba-row {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 10px;
+    align-items: start;
+    margin-top: 10px;
+  }
+  .ba-box {
+    border-radius: 6px;
+    padding: 10px 12px;
+    font-size: 12px;
+    line-height: 1.6;
+  }
+  .before { background: #fee2e2; border: 1px solid #fca5a5; }
+  .after { background: #dcfce7; border: 1px solid #86efac; }
+  .ba-arrow { font-size: 20px; color: var(--muted); align-self: center; text-align: center; }
+  .before-label, .after-label {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    margin-bottom: 4px;
+  }
+  .before-label { color: #991b1b; }
+  .after-label { color: #166534; }
+
+  /* ---- Footer ---- */
+  .doc-footer {
+    background: var(--primary);
+    color: rgba(255,255,255,0.5);
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    margin-top: 60px;
+  }
+
+  /* ---- Legend ---- */
+  .legend {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .legend-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+  }
+
+  /* ---- Checklist ---- */
+  .checklist {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 12px;
+  }
+  .checklist li {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 12px;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+  }
+  .check-icon { flex-shrink: 0; margin-top: 1px; }
+</style>
+</head>
+<body>
+
+<div class="doc-header">
+  <div class="tag">LPO STRATEGY DOCUMENT</div>
+  <h1>いえとち本舗 香川建売LP — LPO施策計画</h1>
+  <div class="meta">
+    <span>対象LP: https://ietochihonpo.jp/lp/kagawa_tateuri01/</span>
+    <span>作成日: 2026-05-28</span>
+    <span>担当: REHATCH CS</span>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- ======== 1. EXECUTIVE SUMMARY ======== -->
+  <div class="section">
+    <div class="section-title">Executive Summary</div>
+
+    <div class="summary-grid">
+      <div class="summary-card">
+        <div class="label">施策フェーズ数</div>
+        <div class="value">5</div>
+        <div class="desc">Phase 0〜4のロードマップ</div>
+      </div>
+      <div class="summary-card">
+        <div class="label">特定した問題点</div>
+        <div class="value">18</div>
+        <div class="desc">4カテゴリに分類</div>
+      </div>
+      <div class="summary-card">
+        <div class="label">クイックウィン施策</div>
+        <div class="value">6</div>
+        <div class="desc">1〜2週間で実装可能</div>
+      </div>
+      <div class="summary-card">
+        <div class="label">最優先改善箇所</div>
+        <div class="value">FV & CTA</div>
+        <div class="desc">インパクト最大・即効性あり</div>
+      </div>
+    </div>
+
+    <div class="lp-overview">
+      <h3>現状LP構成（上から下）</h3>
+      <div class="lp-flow">
+        <div class="lp-block fv">FV（スライダー3枚）</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">建売メリット3つ</div>
+        <div class="arrow">→</div>
+        <div class="lp-block cta">CTA①</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">月5万円〜訴求</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">販売実績（5物件）</div>
+        <div class="arrow">→</div>
+        <div class="lp-block cta">CTA②</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">家の3ポイント</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">お客様の声（2件）</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">来店案内・店舗情報</div>
+        <div class="arrow">→</div>
+        <div class="lp-block cta">CTA③</div>
+        <div class="arrow">→</div>
+        <div class="lp-block">FAQ（8問）</div>
+        <div class="arrow">→</div>
+        <div class="lp-block cta">CTA④（最終）</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== 2. 現状課題分析 ======== -->
+  <div class="section">
+    <div class="section-title">現状課題分析</div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> 高優先度（CVR直撃）</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> 中優先度（中長期改善）</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#94a3b8"></div> 低優先度（付加的改善）</div>
+    </div>
+    <div class="issues-grid">
+
+      <!-- A. FV -->
+      <div class="issue-card">
+        <div class="issue-header">
+          <div class="issue-icon" style="background:#fee2e2;">🖼️</div>
+          <div class="issue-title">A. ファーストビュー（FV）</div>
+        </div>
+        <ul class="issue-list">
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>「月5万円〜」という最強の訴求がFVに入っていない。スクロールしないと見えない</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>「四国No.1の実績」の根拠・出典が一切ない。主観的な主張として読まれる</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-mid">!</div>
+            <span>FVのメインコピーが「建売住宅」というカテゴリ名で止まっており、ターゲットの課題・ベネフィット訴求になっていない</span>
+            <span class="impact-label impact-mid">中</span>
+          </li>
+          <li>
+            <div class="badge badge-low">!</div>
+            <span>スライダー3枚が自動ローテーションしており、ユーザーの注意が分散する</span>
+            <span class="impact-label impact-low">低</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- B. CTA -->
+      <div class="issue-card">
+        <div class="issue-header">
+          <div class="issue-icon" style="background:#fff3e0;">📣</div>
+          <div class="issue-title">B. CTA（行動喚起）</div>
+        </div>
+        <ul class="issue-list">
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>「来店予約」と「会員登録」が常に並列で表示。優先CTAが不明確でユーザーが迷う</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>スクロール追従CTAがない。ページ中盤で来店予約ボタンが視野から消える</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-mid">!</div>
+            <span>電話番号CTAがない。「まず電話で聞いてみたい」層の離脱につながっている</span>
+            <span class="impact-label impact-mid">中</span>
+          </li>
+          <li>
+            <div class="badge badge-mid">!</div>
+            <span>CTA文言が「〜はこちらから」と誘導型のみ。具体的なベネフィットが弱い</span>
+            <span class="impact-label impact-mid">中</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- C. 社会的証明 -->
+      <div class="issue-card">
+        <div class="issue-header">
+          <div class="issue-icon" style="background:#f0fdf4;">⭐</div>
+          <div class="issue-title">C. 社会的証明・信頼性</div>
+        </div>
+        <ul class="issue-list">
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>お客様の声が2件のみ。高額購買の意思決定には圧倒的に不足している</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>お客様の声に写真がなく、テキストのみ。信憑性・リアリティが低い</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-mid">!</div>
+            <span>「しつこい営業なし」という重要な不安解消が、FAQの7問目に埋没している</span>
+            <span class="impact-label impact-mid">中</span>
+          </li>
+          <li>
+            <div class="badge badge-low">!</div>
+            <span>Googleマップ口コミや外部評価サイトへの誘導がなく、第三者評価が見えない</span>
+            <span class="impact-label impact-low">低</span>
+          </li>
+        </ul>
+      </div>
+
+      <!-- D. コンテンツ・構成 -->
+      <div class="issue-card">
+        <div class="issue-header">
+          <div class="issue-icon" style="background:#ede9fe;">📋</div>
+          <div class="issue-title">D. コンテンツ・ページ構成</div>
+        </div>
+        <ul class="issue-list">
+          <li>
+            <div class="badge badge-high">!</div>
+            <span>購入の流れ（ステップ形式）が一切掲載されていない。「どうすれば買えるの？」という不安が残る</span>
+            <span class="impact-label impact-high">高</span>
+          </li>
+          <li>
+            <div class="badge badge-mid">!</div>
+            <span>月額5万円〜の算出根拠が※注釈のみ。本文での丁寧な説明がなく信頼性が低下している</span>
+            <span class="impact-label impact-mid">中</span>
+          </li>
+          <li>
+            <div class="badge badge-mid">!</div>
+            <span>太陽光発電の説明がMerit・Point・FAQの3箇所に分散しており、訴求が薄まっている</span>
+            <span class="impact-label impact-mid">中</span>
+          </li>
+          <li>
+            <div class="badge badge-low">!</div>
+            <span>物件情報が外観写真のみで内観・間取り図がなく、購入後の生活イメージが湧かない</span>
+            <span class="impact-label impact-low">低</span>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ======== 3. ロードマップ ======== -->
+  <div class="section">
+    <div class="section-title">LPO施策ロードマップ</div>
+
+    <table class="roadmap-table">
+      <thead>
+        <tr>
+          <th style="width:120px">フェーズ</th>
+          <th style="width:160px">期間</th>
+          <th>主な施策</th>
+          <th style="width:120px">目的</th>
+          <th style="width:100px">実装コスト</th>
+          <th style="width:110px">期待CVR影響</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="phase-badge ph0">Phase 0</span></td>
+          <td>即日〜3日</td>
+          <td>計測基盤整備（Microsoft Clarity / GA4 イベント設定）</td>
+          <td>現状把握・ベースライン確立</td>
+          <td><div class="cost-dot"><span class="dot dot-filled"></span><span class="dot dot-empty"></span><span class="dot dot-empty"></span></div></td>
+          <td style="color:var(--muted)">直接なし（必須）</td>
+        </tr>
+        <tr>
+          <td><span class="phase-badge ph1">Phase 1</span></td>
+          <td>1〜2週間</td>
+          <td>スクロール追従CTA追加 / 「月5万円〜」FV追加 / 「四国No.1」根拠明示 / 電話CTA追加 / 「営業なし」訴求移動 / QUOカード訴求強化</td>
+          <td>クイックウィン（低コストで即効）</td>
+          <td><div class="cost-dot"><span class="dot dot-filled"></span><span class="dot dot-empty"></span><span class="dot dot-empty"></span></div></td>
+          <td style="color:#166534;font-weight:700">+10〜20%見込</td>
+        </tr>
+        <tr>
+          <td><span class="phase-badge ph2">Phase 2</span></td>
+          <td>2〜4週間</td>
+          <td>お客様の声を5〜10件に拡充（写真付き） / 購入の流れセクション追加 / 物件内観写真追加 / FAQ拡充（15問程度）</td>
+          <td>コンテンツ強化・不安解消</td>
+          <td><div class="cost-dot"><span class="dot dot-filled"></span><span class="dot dot-filled"></span><span class="dot dot-empty"></span></div></td>
+          <td style="color:#166534;font-weight:700">+15〜25%見込</td>
+        </tr>
+        <tr>
+          <td><span class="phase-badge ph3">Phase 3</span></td>
+          <td>1〜2ヶ月</td>
+          <td>FVコピー全面改訂（ベネフィット訴求型） / LP構成見直し / CTA優先度の再設計 / モバイル体験最適化</td>
+          <td>抜本的なCV構造改善</td>
+          <td><div class="cost-dot"><span class="dot dot-filled"></span><span class="dot dot-filled"></span><span class="dot dot-filled"></span></div></td>
+          <td style="color:#166534;font-weight:700">+30〜50%見込</td>
+        </tr>
+        <tr>
+          <td><span class="phase-badge ph4">Phase 4</span></td>
+          <td>継続（月次）</td>
+          <td>FVコピーA/Bテスト / CTAボタン色・文言テスト / 社会的証明の配置テスト / ヒートマップ定点観測</td>
+          <td>データドリブンな継続改善</td>
+          <td><div class="cost-dot"><span class="dot dot-filled"></span><span class="dot dot-empty"></span><span class="dot dot-empty"></span></div></td>
+          <td style="color:#6b21a8;font-weight:700">累積+</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ======== 4. 施策詳細 ======== -->
+  <div class="section detail-section">
+    <div class="section-title">施策詳細</div>
+
+    <!-- Phase 0 -->
+    <div class="phase-header ph0-bg">
+      <div class="ph-num">0</div>
+      <div class="ph-info">
+        <h3>Phase 0 — 計測基盤整備</h3>
+        <p>即日〜3日 ／ すべての施策判断の前提。まずここから始める</p>
+      </div>
+    </div>
+    <div class="施策cards">
+      <div class="施策card">
+        <div class="card-num">PHASE0 - 01</div>
+        <h4>Microsoft Clarity（ヒートマップ）導入</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: ユーザー行動が不明</span>
+          <span class="tag-sm tag-goal">目的: 離脱・熟読箇所の特定</span>
+        </div>
+        <div class="detail-text">
+          無料ツール。CTAのクリック率・スクロール深度・セッション録画で「どこで離脱しているか」を可視化する。<br>
+          <strong>設定すべき計測：</strong>「来店予約ボタン」クリック / ページ50%・80%スクロール到達 / 「会員登録ボタン」クリック
+        </div>
+        <div class="metrics">
+          <div class="metric-item"><div class="m-label">実装時間</div><div class="m-val">〜1h</div></div>
+          <div class="metric-item"><div class="m-label">コスト</div><div class="m-val">無料</div></div>
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE0 - 02</div>
+        <h4>GA4 コンバージョンイベント精緻化</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: CVR実数値が不明</span>
+          <span class="tag-sm tag-goal">目的: 施策効果の定量評価</span>
+        </div>
+        <div class="detail-text">
+          「来店予約ページ到達」をコンバージョンゴールに設定。CTAボタン別（①〜④）のクリック数をそれぞれイベントで計測し、どのCTAが機能しているかを特定する。<br>
+          <strong>ベースライン：</strong>計測開始から1〜2週間でCVR基準値を取得する。
+        </div>
+        <div class="metrics">
+          <div class="metric-item"><div class="m-label">実装時間</div><div class="m-val">〜2h</div></div>
+          <div class="metric-item"><div class="m-label">コスト</div><div class="m-val">無料</div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Phase 1 -->
+    <div class="phase-header ph1-bg">
+      <div class="ph-num">1</div>
+      <div class="ph-info">
+        <h3>Phase 1 — クイックウィン</h3>
+        <p>1〜2週間 ／ コストを最小化しつつCVR改善インパクトが大きい施策を先行実施</p>
+      </div>
+    </div>
+    <div class="施策cards">
+      <div class="施策card">
+        <div class="card-num">PHASE1 - 01 ★最優先</div>
+        <h4>スクロール追従CTA（固定ボタン）の追加</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: CTA見失い離脱</span>
+          <span class="tag-sm tag-goal">目的: いつでも予約できる導線確保</span>
+          <span class="tag-sm tag-action">実装: CSS/JS追加</span>
+        </div>
+        <div class="ba-row">
+          <div class="ba-box before"><div class="before-label">BEFORE</div>スクロールするとCTAが視野から消える。下部まで読んだ意欲的なユーザーが予約できずに離脱</div>
+          <div class="ba-arrow">→</div>
+          <div class="ba-box after"><div class="after-label">AFTER</div>スマホ画面下部に「来店予約（QUOカード5,000円）」ボタンを常時固定表示。どこにいても1タップで予約へ</div>
+        </div>
+        <div class="detail-text">
+          スマホでは画面下部にボタン固定が標準パターン。PCはヘッダー固定が自然。「会員登録」はフローティングボタンには含めず、来店予約のみを強調する。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE1 - 02 ★最優先</div>
+        <h4>FVに「月5万円〜」訴求を追加</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: コスト訴求がFV不在</span>
+          <span class="tag-sm tag-goal">目的: 価格訴求を0秒で伝える</span>
+          <span class="tag-sm tag-action">実装: FV画像・テキスト修正</span>
+        </div>
+        <div class="ba-row">
+          <div class="ba-box before"><div class="before-label">BEFORE</div>「四国No.1の実績 香川で選ばれる建売住宅」— カテゴリ訴求のみ。家賃と比較できない</div>
+          <div class="ba-arrow">→</div>
+          <div class="ba-box after"><div class="after-label">AFTER</div>「月々5万円〜の新築マイホーム」「今の家賃と変わらない負担で、自分の資産に」をFVに追加表示</div>
+        </div>
+        <div class="detail-text">
+          不動産LPにおいて月額返済額は最強の訴求。FVに入れるだけで想定顧客層の「自分ごと化」が加速する。根拠の※注釈も同じFV内に小さく掲載する。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE1 - 03</div>
+        <h4>「四国No.1の実績」の根拠を明示</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 主観的主張で信頼性ゼロ</span>
+          <span class="tag-sm tag-goal">目的: 権威性の担保</span>
+          <span class="tag-sm tag-action">実装: テキスト追加</span>
+        </div>
+        <div class="ba-row">
+          <div class="ba-box before"><div class="before-label">BEFORE</div>「四国No.1の実績」— 根拠・出典なし。競合比較か、何の指標でNo.1かが不明</div>
+          <div class="ba-arrow">→</div>
+          <div class="ba-box after"><div class="after-label">AFTER</div>「〇〇調べ、四国エリア建売販売棟数No.1（2024年）」など出典と指標を明記。または販売棟数（累計〇〇棟）に置き換え</div>
+        </div>
+        <div class="detail-text">
+          根拠が出せない場合は「四国No.1」の表現自体を「累計〇〇棟の実績」「香川県内〇〇家族が選んだ」など数値訴求に切り替えることも検討。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE1 - 04</div>
+        <h4>「しつこい営業なし」訴求をFV直下へ移動</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: FAQ7問目に埋没</span>
+          <span class="tag-sm tag-goal">目的: 来店ハードルの早期解消</span>
+          <span class="tag-sm tag-action">実装: テキスト移動</span>
+        </div>
+        <div class="ba-row">
+          <div class="ba-box before"><div class="before-label">BEFORE</div>「しつこい営業はありませんか？」への回答がFAQ（Q7）に埋もれており、CTAボタン近くで見えない</div>
+          <div class="ba-arrow">→</div>
+          <div class="ba-box after"><div class="after-label">AFTER</div>「しつこい営業は一切ありません。まずは話を聞くだけでOK」をCTAボタンの直下に常設する</div>
+        </div>
+        <div class="detail-text">
+          住宅購入検討者の最大の不安は「営業されること」。CTAの近くに置くことでクリック率が上がる。「まずは無料相談」「話を聞くだけOK」の訴求と組み合わせる。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE1 - 05</div>
+        <h4>電話番号CTAの追加</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: WEB予約のみで電話導線なし</span>
+          <span class="tag-sm tag-goal">目的: 検討初期層の離脱防止</span>
+          <span class="tag-sm tag-action">実装: HTML追加</span>
+        </div>
+        <div class="detail-text">
+          「WEB予約は少しハードルが高い」層に電話CTAを提供。スマホでは「tel:」リンクで1タップ発信できるようにする。電話番号（0120-180-290）はすでに店舗情報に記載あり。追従CTAエリアまたはCTAセクションに「電話で気軽に相談」ボタンを追加。
+        </div>
+        <div class="metrics">
+          <div class="metric-item"><div class="m-label">実装時間</div><div class="m-val">〜30min</div></div>
+          <div class="metric-item"><div class="m-label">コスト</div><div class="m-val">無料</div></div>
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE1 - 06</div>
+        <h4>CTA優先度の視覚的差別化</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 来店予約と会員登録が並列</span>
+          <span class="tag-sm tag-goal">目的: 来店予約への誘導集中</span>
+          <span class="tag-sm tag-action">実装: CSS修正</span>
+        </div>
+        <div class="ba-row">
+          <div class="ba-box before"><div class="before-label">BEFORE</div>「来店予約」と「会員登録」が同サイズ・同デザインで横並び。ユーザーが迷う</div>
+          <div class="ba-arrow">→</div>
+          <div class="ba-box after"><div class="after-label">AFTER</div>来店予約：大きく・暖色（オレンジ/赤系）で強調。会員登録：小さく・アウトラインボタンでサブ表示</div>
+        </div>
+        <div class="detail-text">
+          Primary / Secondary CTAの視覚的階層を明確にする。来店予約が最終CVなので、こちらを圧倒的に目立たせる。文言も「今すぐ無料で来店予約する → QUOカード5,000円プレゼント」に改訂することで緊急性と得感を同時訴求。
+        </div>
+      </div>
+    </div>
+
+    <!-- Phase 2 -->
+    <div class="phase-header ph2-bg">
+      <div class="ph-num">2</div>
+      <div class="ph-info">
+        <h3>Phase 2 — コンテンツ強化</h3>
+        <p>2〜4週間 ／ 信頼性と情報量を底上げして検討度の高いユーザーを取りこぼさない</p>
+      </div>
+    </div>
+    <div class="施策cards">
+      <div class="施策card">
+        <div class="card-num">PHASE2 - 01 ★重要</div>
+        <h4>お客様の声を5〜10件に拡充（写真付き）</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 2件・写真なしで信頼性低</span>
+          <span class="tag-sm tag-goal">目的: 社会的証明の強化</span>
+          <span class="tag-sm tag-action">実装: 取材・写真撮影→HTML追加</span>
+        </div>
+        <div class="detail-text">
+          <strong>理想形：</strong>購入者写真（顔）+ 家族構成 + 購入前の不安 + 購入後の具体的な変化（「電気代が月〇〇円下がった」など数値入り）+ 星評価。<br>
+          <strong>最低ライン：</strong>外観写真 + テキスト証言 + 名前（イニシャルOK）を5件以上。Google口コミへの誘導リンクも追加する。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE2 - 02 ★重要</div>
+        <h4>「購入の流れ」セクションを追加</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: プロセスが不明で不安</span>
+          <span class="tag-sm tag-goal">目的: 「自分でも買えそう」感の醸成</span>
+          <span class="tag-sm tag-action">実装: 新セクション追加</span>
+        </div>
+        <div class="detail-text">
+          STEP1〜6程度のステップ形式で「来店相談 → 物件見学 → ローン審査 → 契約 → 引き渡し → 入居」の流れをシンプルに図示する。各ステップに所要期間（〇週間目安）を付けると具体性が増す。「最短〇ヶ月で入居できる」という訴求文も加える。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE2 - 03</div>
+        <h4>物件情報の内観写真・間取り図追加</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 外観のみで生活イメージ不足</span>
+          <span class="tag-sm tag-goal">目的: 購入後の生活を想像させる</span>
+          <span class="tag-sm tag-action">実装: 写真追加・物件カード改修</span>
+        </div>
+        <div class="detail-text">
+          現状の物件スライダーには外観写真と価格しかない。LDK・主寝室・洗面など内観写真3〜4枚と間取り図を追加。「見学したくなる」ビジュアル情報量に底上げする。特にZEH基準の断熱・太陽光のビジュアルも追加すると価値訴求が強まる。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE2 - 04</div>
+        <h4>FAQ拡充（8問→15問程度）</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 想定される不安が未網羅</span>
+          <span class="tag-sm tag-goal">目的: 来店前の不安を全解消</span>
+          <span class="tag-sm tag-action">実装: テキスト追加</span>
+        </div>
+        <div class="detail-text">
+          <strong>追加すべき質問例：</strong><br>
+          「子育て世代向けの補助金・給付金は使えますか？」<br>
+          「アフターサービス・保証はどうなっていますか？」<br>
+          「ペットは飼えますか？」<br>
+          「駐車場は何台停められますか？」<br>
+          「近隣の学校・商業施設は？」
+        </div>
+      </div>
+    </div>
+
+    <!-- Phase 3 -->
+    <div class="phase-header ph3-bg">
+      <div class="ph-num">3</div>
+      <div class="ph-info">
+        <h3>Phase 3 — 抜本的リニューアル</h3>
+        <p>1〜2ヶ月 ／ Phase 1〜2の効果データをもとにLP全体の構成・コピーを再設計する</p>
+      </div>
+    </div>
+    <div class="施策cards">
+      <div class="施策card">
+        <div class="card-num">PHASE3 - 01</div>
+        <h4>FVコピーのベネフィット訴求型への全面改訂</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: カテゴリ訴求でベネフィット不明</span>
+          <span class="tag-sm tag-goal">目的: 0秒で「自分ごと」化させる</span>
+        </div>
+        <div class="ba-row">
+          <div class="ba-box before"><div class="before-label">BEFORE</div>「四国No.1の実績 香川で選ばれる建売住宅」</div>
+          <div class="ba-arrow">→</div>
+          <div class="ba-box after"><div class="after-label">AFTER（案）</div>「月5万円〜、家賃と変わらない負担で 自分の資産になるマイホームへ」または「香川で〇〇棟実績。太陽光付きで光熱費が下がる新築マイホーム」</div>
+        </div>
+        <div class="detail-text">
+          ターゲットは「賃貸に家賃を払い続けることに疑問を感じている30代世帯」。彼らの本音（賃貸と変わらない負担で持ち家が持てる）をキャッチコピーに直結させる。FVは3秒以内に「自分ごと」と思わせるかどうかがすべて。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE3 - 02</div>
+        <h4>LP構成の見直し（情報の順番を最適化）</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 月額訴求・信頼性の順番が最適でない</span>
+          <span class="tag-sm tag-goal">目的: AIDMA流れに沿った構成設計</span>
+        </div>
+        <div class="detail-text">
+          <strong>推奨構成（案）：</strong><br>
+          FV（月額＋ベネフィット訴求）→ 不安解消バナー（営業なし・頭金相談可）→ 月額シミュレーション →物件一覧（内観写真付き）→ 選ばれる理由3つ → お客様の声（5件以上）→ 購入の流れ → 来店でできること → FAQ → 最終CTA<br>
+          現在「なぜ建売か」の説明が最初にある構成は、すでに検討意欲のある人には冗長。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE3 - 03</div>
+        <h4>会員登録CTAの訴求強化</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: 「お役立ち情報配信中」だけでは弱い</span>
+          <span class="tag-sm tag-goal">目的: 来店前段階のナーチャリング強化</span>
+        </div>
+        <div class="detail-text">
+          会員登録はナーチャリング（検討中ユーザーの温め）として重要だが、現状の訴求が弱い。「会員限定の非公開物件情報をお届け」「物件情報が出たらLINE・メールでいち早くお知らせ」など限定感・希少性を訴求することで登録率を改善する。
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE3 - 04</div>
+        <h4>モバイル体験の最適化</h4>
+        <div class="row">
+          <span class="tag-sm tag-problem">問題: スマホ表示の最適化が不明確</span>
+          <span class="tag-sm tag-goal">目的: モバイルユーザーのCVR向上</span>
+        </div>
+        <div class="detail-text">
+          Clarityのヒートマップデータをもとに：①フォントサイズ・タップ領域の最適化 ②スマホでの物件スライダーの操作性改善 ③表の横スクロール解消 ④画像読み込み速度改善（WebP変換・遅延読み込み）を実施。
+        </div>
+      </div>
+    </div>
+
+    <!-- Phase 4 -->
+    <div class="phase-header ph4-bg">
+      <div class="ph-num">4</div>
+      <div class="ph-info">
+        <h3>Phase 4 — 継続的A/Bテスト</h3>
+        <p>継続（月次） ／ データに基づいて仮説を立て、A/Bテストで継続的にCVRを改善する</p>
+      </div>
+    </div>
+    <div class="施策cards">
+      <div class="施策card">
+        <div class="card-num">PHASE4 - 01</div>
+        <h4>FVコピーのA/Bテスト</h4>
+        <div class="row">
+          <span class="tag-sm tag-action">テスト変数: キャッチコピー・サブコピー</span>
+        </div>
+        <div class="detail-text">
+          <strong>テストパターン案：</strong><br>
+          A案：コスト訴求「月5万円〜で新築マイホーム」<br>
+          B案：感情訴求「家賃を払い続けるか、資産を作るか」<br>
+          C案：地域訴求「香川の子育て世帯に選ばれている理由」
+        </div>
+      </div>
+      <div class="施策card">
+        <div class="card-num">PHASE4 - 02</div>
+        <h4>CTAボタンの文言・色テスト</h4>
+        <div class="row">
+          <span class="tag-sm tag-action">テスト変数: ボタン文言・ボタン色</span>
+        </div>
+        <div class="detail-text">
+          <strong>文言テスト案：</strong><br>
+          「来店予約はこちらから」vs「無料で来店予約する」vs「QUOカード5,000円プレゼント → 予約する」<br>
+          <strong>色テスト：</strong>オレンジ vs 赤 vs 緑（現状色から変更）
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ======== 5. KPI & モニタリング ======== -->
+  <div class="section">
+    <div class="section-title">KPI & モニタリング計画</div>
+    <table class="kpi-table">
+      <thead>
+        <tr>
+          <th>KPI</th>
+          <th>計測方法</th>
+          <th>現状（推定）</th>
+          <th>Phase1後目標</th>
+          <th>Phase3後目標</th>
+          <th>確認頻度</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="primary-kpi">来店予約CVR</td>
+          <td>GA4 コンバージョン</td>
+          <td>計測後確定</td>
+          <td>+10〜20%</td>
+          <td>+30〜50%</td>
+          <td>週次</td>
+        </tr>
+        <tr>
+          <td>CTAクリック率（来店予約）</td>
+          <td>GA4 イベント</td>
+          <td>計測後確定</td>
+          <td>+15%</td>
+          <td>+40%</td>
+          <td>週次</td>
+        </tr>
+        <tr>
+          <td>ページ離脱率（FV）</td>
+          <td>Clarity ヒートマップ</td>
+          <td>計測後確定</td>
+          <td>-10%</td>
+          <td>-25%</td>
+          <td>週次</td>
+        </tr>
+        <tr>
+          <td>スクロール深度（80%到達率）</td>
+          <td>GA4 スクロール深度</td>
+          <td>計測後確定</td>
+          <td>+5%</td>
+          <td>+15%</td>
+          <td>月次</td>
+        </tr>
+        <tr>
+          <td>会員登録CVR</td>
+          <td>GA4 コンバージョン</td>
+          <td>計測後確定</td>
+          <td>Phase3以降に改善</td>
+          <td>+20%</td>
+          <td>月次</td>
+        </tr>
+        <tr>
+          <td>電話問い合わせ数</td>
+          <td>tel: リンク クリック数</td>
+          <td>計測後確定</td>
+          <td>Phase1で計測開始</td>
+          <td>増加傾向</td>
+          <td>月次</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ======== 6. 実施チェックリスト ======== -->
+  <div class="section">
+    <div class="section-title">Phase 0〜1 実施チェックリスト</div>
+    <ul class="checklist">
+      <li><span class="check-icon">☐</span> Microsoft Clarity をサイトに導入する</li>
+      <li><span class="check-icon">☐</span> GA4 来店予約コンバージョンを設定する</li>
+      <li><span class="check-icon">☐</span> CTAボタン（①〜④）のクリックイベントを計測する</li>
+      <li><span class="check-icon">☐</span> ベースラインCVRを1〜2週間分計測する</li>
+      <li><span class="check-icon">☐</span> スクロール追従CTAをスマホに実装する</li>
+      <li><span class="check-icon">☐</span> FVに「月5万円〜」訴求を追加する</li>
+      <li><span class="check-icon">☐</span> 「四国No.1」の根拠を明示または文言変更する</li>
+      <li><span class="check-icon">☐</span> 「しつこい営業なし」をCTAボタン直下に移動する</li>
+      <li><span class="check-icon">☐</span> 電話番号CTAを追加する</li>
+      <li><span class="check-icon">☐</span> 来店予約ボタンを視覚的に会員登録より強調する</li>
+    </ul>
+  </div>
+
+</div>
+
+<div class="doc-footer">
+  いえとち本舗 香川建売LP — LPO施策計画 | 作成: 2026-05-28 | REHATCH CS
+</div>
+
+</body>
+</html>
