@@ -105,7 +105,7 @@ Example：
 　2. Sakura supported Naruto all the way, even when others doubted his plan to save Sasuke.
 
 ### reach out
-ミス：×
+ミス：××
 重要度：★★★★★
 Meaning：To contact someone, especially to ask for help, give support, or start communication.（連絡を取る／声をかける）
 Example：When Naruto noticed that Sasuke was struggling alone, he decided to reach out and offer his help, no matter how many times he was pushed away.
@@ -137,7 +137,7 @@ Meaning：To be remembered or thought of.（思い浮かぶ）
 Example：When danger comes, Kakashi immediately comes to mind as a leader.
 
 ### get around to
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：To finally do something delayed.（ようやく～する）
 Example：Naruto finally got around to learning advanced chakra control.
@@ -148,7 +148,7 @@ Meaning：To depend on something.（結局～にかかっている）
 Example：The battle came down to who had more chakra.
 
 ### live up to
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：To meet expectations.（期待に応える）
 Example：Naruto lived up to everyone’s expectations as Hokage.
@@ -169,7 +169,7 @@ Meaning：To describe something as larger, better, worse, or more important than
 Example：Naruto exaggerated his battle with a rogue ninja to Iruka, saying, “I took down ten shadow clones at once!” even though it was only three.
 
 ### crypto
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. Cryptocurrency—a digital form of money online, secured with cryptography.（仮想通貨）
@@ -190,7 +190,7 @@ Example：
 　3. Sasuke ground his teeth as he watched Itachi disappear into the night.
 
 ### crack
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. A line or fracture on a surface where something is breaking.（ひび／割れ目）
@@ -202,13 +202,13 @@ Example：
 　3. Shikamaru managed to crack the enemy’s formation strategy, allowing Team 10 to outmaneuver them easily.
 
 ### cliché
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：An idea, phrase, or expression that is overused and unoriginal.（陳腐な表現／ありきたり）
 Example：When Naruto says, “Believe it!” at the start of every mission, some of the older ninjas think it’s a bit of a cliché, even though it inspires his teammates.
 
 ### what’s up with that
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：Asking for clarification about something unusual, surprising, or confusing.（それどういうこと？）
 Example：Naruto sees Sasuke training with a new forbidden jutsu and says, “Hey, what’s up with that? I’ve never seen you do this before!”
@@ -219,7 +219,7 @@ Meaning：Not connected with the matter being considered.（無関係な）
 Example：During a mission briefing, Kakashi says, “Naruto, your story about ramen is irrelevant to the plan to infiltrate the enemy base.”
 
 ### unpack
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：To explain something complicated step by step.（詳しく説明する）
 Example：Shikamaru asked Kakashi to unpack the enemy’s battle strategy so the entire Konoha squad could understand the hidden traps within the genjutsu.
@@ -240,7 +240,7 @@ Meaning：To force someone to leave a place.（追い出す）
 Example：When Naruto kept painting graffiti on the Hokage Monument, the villagers wanted to kick him out of the marketplace for causing trouble.
 
 ### right off the bat
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：Immediately; from the very beginning.（いきなり／最初から）
 Example：Right off the bat, Naruto activated his Shadow Clone Jutsu to overwhelm the enemy before they could react.
@@ -292,7 +292,7 @@ Meaning：To move repeatedly between two places or positions.（行ったり来�
 Example：Naruto had to go back and forth between the training field and Ichiraku Ramen while preparing his Rasengan.
 
 ### intimidating
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：Making someone feel scared or less confident.（威圧的な・怖がらせるような）
 Example：When Sasuke activated his Sharingan during the Chunin Exams, his cold stare was so intimidating that many opponents froze before even attacking.
@@ -318,14 +318,14 @@ Meaning：To simplify something to its most essential point.（〜に要約さ�
 Example：Shikamaru listened to the long battle report and said, “When you boil it down to the basics, the mission failed because we underestimated the enemy.”
 
 ### fuck up
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：To make a serious mistake or ruin something.（やらかす／台無しにする）
 Nuance／Usage：Very informal and offensive in polite settings.
 Example：Naruto says, “I really fucked up the Shadow Clone jutsu this time—half of them disappeared before hitting the target!”
 
 ### take in
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. To absorb or understand information.（理解する／取り入れる）
@@ -370,13 +370,13 @@ Meaning：In the past, especially a time the speaker remembers fondly.（昔は�
 Example：Back in the day, Kakashi used to train with his old Team Minato—he often tells Naruto stories about his rivalry with Obito.
 
 ### know-it-all
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：A person who acts like they know everything, often annoyingly.（知ったかぶり／何でも知っているふりをする人）
 Example：Naruto rolled his eyes and muttered, “Sasuke acts like such a know-it-all whenever Kakashi explains a new jutsu.”
 
 ### hop on
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. To get onto something (a vehicle, a ride).（乗り込む）
@@ -396,7 +396,7 @@ Meaning：To receive recognition or praise for something you did (or sometimes d
 Example：Naruto didn’t care who got the credit for saving the village—as long as his friends were safe, that was enough for him.
 
 ### flex
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. (Slang) To show off something you have or have done.（自慢する／見せびらかす）
@@ -406,7 +406,7 @@ Example：
 　2. Rock Lee flexed his arms to show the result of his daily taijutsu training.
 
 ### deliberate
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. (Adjective) Done on purpose; intentional.（意図的な）
@@ -416,7 +416,7 @@ Example：
 　2. Tsunade deliberated for hours before sending Team 7 on the dangerous S-rank mission.
 
 ### petty
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：Caring too much about small, unimportant things; small-minded or mean over minor issues.（ささいなことにこだわる／器が小さい）
 Example：Sasuke called Naruto petty for getting upset about who finished their ramen faster, but Naruto refused to let it go.
