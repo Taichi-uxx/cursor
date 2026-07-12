@@ -1072,7 +1072,7 @@ Meaning：内向的な人／外向的な人
 Example：I'm more of an introvert.
 
 ### persuade / convince
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. persuade + 人 + to do：（行動を）説得する
@@ -1082,31 +1082,31 @@ Example：
 　2. I convinced her that it was the right call.
 
 ### on second thought
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：やっぱり／よく考えたら
 Example：On second thought, I'll pass.
 
 ### It's too much work / It's troublesome
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：作業量が多くてだるい／面倒
 Example：Filing taxes manually is just too much work.
 
 ### didn't even bother (doing)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：わざわざ〜しなかった、やる気すら起きなかった
 Example：I didn't even bother replying.
 
 ### cozy
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：居心地がいい／暖かい
 Example：This café is so cozy in winter.
 
 ### crisp
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（空気が）ひんやり爽やか／パリッとした
 Example：The morning air was crisp and clear.
@@ -1117,13 +1117,13 @@ Meaning：つらい／悲惨な
 Example：The flight was absolutely miserable.
 
 ### a blast of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：突然の強い〜
 Example：A blast of cold air hit me when I opened the door.
 
 ### up to ~ / at most ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：最大で〜／最大でも〜
 Example：It costs up to $50. / At most, it takes an hour.
@@ -1139,62 +1139,62 @@ Meaning：妥当な／正当な（意見・理由）
 Example：That's a valid point.
 
 ### bring (something) to the table
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：貢献する／価値を提供する
 Example：What do you bring to the table?
 
 ### That's fair
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：それは妥当だね／納得
 Example：— I'll cover this round, you get the next. — That's fair.
 
 ### I didn't mean anything by it / I mean no harm
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：悪意はなかった／そういう意図はない
 Example：I didn't mean anything by it — just teasing.
 
 ### put on an act / put on a front
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：猫をかぶる／繕う
 Example：He puts on an act around his boss.
 
 ### argue over trivial things / bicker
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：些細なことで言い争う
 Example：They bicker over the dumbest things.
 
 ### quarrel over nothing
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：何でもないことで口論する
 Example：We always quarrel over nothing when we're tired.
 
 ### grounding principle
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：拠り所となる基本原則
 Example：Honesty is a grounding principle for me.
 
 ### assemble / build / construct / put together
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：組み立てる
 Example：I put together the bookshelf in an hour.
 Nuance：assemble=家具・機械、build=広く作る、construct=フォーマル、put together=日常会話。
 
 ### over the course of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜の期間を通して（変化・プロセスに焦点）
 Example：Over the course of a year, I improved my English.
 
 ### hold on to (core values / something)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（価値観などを）守り続ける／手放さない
 Example：He holds on to his core values even in tough times.
@@ -1205,25 +1205,25 @@ Meaning：自分らしくいる／自分に正直でいる
 Example：I want to stay true to myself no matter what.
 
 ### stay on your toes
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：気を抜かない／常に警戒する
 Example：You need to stay on your toes in this industry.
 
 ### end game
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：最終目的／ゴール
 Example：There's no end game yet.
 
 ### unheard of
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：前代未聞の／ありえないほど珍しい
 Example：That kind of behavior is unheard of in Japan.
 
 ### get around / go around
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. get around：（街・地域を）移動する
@@ -1233,7 +1233,7 @@ Example：
 　2. I went around the island by ferry.
 
 ### in that respect / in this respect
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：その点では／〜という点に関して
 Example：Kazakhstan is similar to Mongolia in that respect.
@@ -1265,19 +1265,19 @@ Meaning：ベッドでだらだらする
 Example：I just lie in bed scrolling and watching Netflix.
 
 ### treat (oneself) to ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：自分にご褒美をあげる
 Example：I'll treat myself to a nice breakfast.
 
 ### screw up / mess up / fuck up
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：やらかす／台無しにする（fuck up は強め・カジュアル）
 Example：I really screwed up the presentation.
 
 ### superficial / on the surface
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. superficial：表面的な（やや批判的）
@@ -1287,43 +1287,43 @@ Example：
 　2. On the surface, it looks fine, but…
 
 ### be shaped by ~ / be influenced by ~ / be rooted in ~ / stem from ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（性格・文化が）〜によって形成される／影響を受ける／根付く／起源を持つ
 Example：People's behavior is shaped by geography, history, and politics.
 
 ### have an impact on / influence / affect
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：影響を与える
 Example：Geography has a strong impact on culture.
 
 ### be tied to ~ / be connected to ~ / be based on ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜に結びつく／関連する／基づく
 Example：Cultural traits are deeply tied to history.
 
 ### play a major role in ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜で大きな役割を果たす
 Example：Geography plays a major role in shaping culture.
 
 ### lead to / result in
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜につながる／〜という結果になる
 Example：These policies led to strong social pressure.
 
 ### not so much A as B / rather than
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：AというよりむしろB／〜よりむしろ
 Example：It's not so much about perfection as it is about perception. / It's about perception rather than perfection.
 
 ### collectivist / individualist
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：集団主義的な／個人主義的な
 Example：Japan is often described as a collectivist society. / Western societies tend to be more individualist.
@@ -1334,7 +1334,7 @@ Meaning：〜に対して責任がある
 Example：You are responsible for your actions.
 
 ### make up for ~ / compensate for ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. make up for ~：（カジュアル）埋め合わせる／取り返す
@@ -1345,19 +1345,19 @@ Example：
 Nuance：意味はほぼ同じだが、ビジネス文脈やフォーマル文書では compensate for が好まれる。
 
 ### I can relate / I totally get it
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：共感できる／めっちゃわかる
 Example：— Work has been so draining. — Yeah, I can relate.
 
 ### holidays are back-to-back / a stretch of holidays
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：休みが連続している／連休
 Example：Golden Week is a stretch of holidays in early May.
 
 ### There's got to be more to life than ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：人生は〜以上のものがある
 Example：There's got to be more to life than work.
@@ -1368,7 +1368,7 @@ Meaning：年を取るほど〜
 Example：The older I get, the more I value sleep.
 
 ### It's not until ~ that ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜して初めて〜
 Example：It's not until you study abroad that you realize how big the world is.
@@ -1379,13 +1379,13 @@ Meaning：長期戦／長期的戦略
 Example：We're playing the long game here.
 
 ### second to none
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：誰にも劣らない／最高
 Example：Their service is second to none.
 
 ### take a shortcut / cut corners
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. take a shortcut：近道する
@@ -1393,61 +1393,61 @@ Meaning：
 Example：Don't cut corners on safety checks.
 
 ### streamline / eliminate waste
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：効率化する／無駄をなくす
 Example：AI helps us streamline repetitive tasks.
 
 ### repetitive / mundane / menial tasks
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：単調な／退屈な／低レベルな作業
 Example：AI can take over the mundane tasks.
 
 ### my head's not in the game
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：集中できていない
 Example：Sorry, my head's not in the game today.
 
 ### I'm drowning in ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜に押しつぶされそう
 Example：I'm drowning in emails.
 
 ### banging my head against the wall
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：どうにもならず苦戦している
 Example：I've been banging my head against this bug all day.
 
 ### essence / core / crux
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：本質／核心／問題の最重要点
 Example：The crux of the matter is timing. / At its core, this is about trust.
 
 ### cautious / risk-averse / conservative
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：慎重な／リスクを避ける／保守的な
 Example：They took a cautious approach. / He's risk-averse with money.
 
 ### built / jacked / ripped / muscular
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（スラング）ガタイがいい／筋肉質
 Example：He's pretty jacked. / She's ripped.
 
 ### flat broke
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：一文無し
 Example：I'm flat broke after the trip.
 
 ### low key
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：さりげなく／実はちょっと
 Example：I low key like that song.
@@ -1462,37 +1462,37 @@ Example：
 　2. The milk is spoiled.
 
 ### aggravated
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：イライラした／悪化した
 Example：I'm getting aggravated with all these delays.
 
 ### devoted
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：献身的な／一途な
 Example：He's devoted to his work.
 
 ### snob
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：気取った人
 Example：He's a total wine snob.
 
 ### disembark
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（乗り物から）降りる（フォーマル）
 Example：Passengers disembarked from the front.
 
 ### swarming
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：群がっている
 Example：Fans were swarming the stage.
 
 ### strain
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：負担／プレッシャー／無理
 Example：under financial strain / muscle strain
@@ -1504,13 +1504,13 @@ Meaning：見た感じでは
 Example：By the looks of it, he's already left.
 
 ### hypothetically
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：仮の話だけど／仮定として
 Example：Hypothetically speaking, what would you do?
 
 ### beats me
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：わからん／さあね
 Example：— Why is he late? — Beats me.

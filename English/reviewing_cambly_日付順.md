@@ -1,11 +1,9 @@
 # Cambly Reviewing Notes
 
 ## 2/3
-
-### 英語学習まとめ（touch someone’s heart から Kaiとの会話まで）
+英語学習まとめ（touch someone’s heart から Kaiとの会話まで）
 
 ### 1. 感情を表す表現
-
 - 英語: `touch someone’s heart`
   - 日本語: 心に触れる、感情に訴える
   - 例文・ポイント: I was touched by her kindness.
@@ -27,11 +25,9 @@
 - 英語: `a touching story / a moving speech / an inspiring message`
   - 日本語: 感動的な（形容詞）
   - 例文・ポイント: 形容詞として話題の最初に置くと自然
-
 💡 ポイント: 感情表現は受動態＋過去形で「自分が動かされた」を表すのが自然。
 
 ### 2. 悔しい・必死・努力の表現
-
 - 英語: `I was frustrated / I felt disappointed`
   - 日本語: 悔しかった
   - 例文・ポイント: 文脈に応じてニュアンス調整
@@ -43,7 +39,6 @@
   - 例文・ポイント: I had to push myself to speak Spanish.
 
 ### 3. 提案・意見を言うときのフレーズ
-
 - 英語: `How about ~? / Why don’t we ~?`
   - 日本語: 〜しませんか？
   - 例文: Why don’t we organize our trip?
@@ -52,7 +47,6 @@
   - 例文: What if we go to the Czech Republic first?
 
 ### 4. 旅行・お金・経験の表現
-
 - 英語: `I mostly spend my money on travel`
   - 日本語: 主に旅行にお金を使う
   - 例文・ポイント: The money I spend, I mostly spend on travel.
@@ -79,7 +73,6 @@
   - 例文・ポイント: I love the food in the Mediterranean countries.
 
 ### 5. 社会・文化の話
-
 - 英語: `welfare`
   - 日本語: 公的支援
   - 例文・ポイント: The government spends money on welfare.
@@ -88,7 +81,6 @@
   - 例文・ポイント: I saw the large gap between the wealthy and the poor.
 
 ### 6. 言語学習・思考の表現
-
 - 英語: `translate from Japanese to English`
   - 日本語: 日本語から英語に翻訳する
   - 例文・ポイント: It takes me time because I translate from Japanese to English.
@@ -103,7 +95,6 @@
   - 例文・ポイント: Learning a new language is part of the journey.
 
 ### 7. 食べ物・文化の話
-
 - 英語: `puffer fish`
   - 日本語: フグ
   - 例文・ポイント: I wanted to try puffer fish but I was afraid.
@@ -115,7 +106,6 @@
   - 例文・ポイント: Puffer fish is very expensive.
 
 ### 8. 旅行先での体験
-
 - 英語: `Czech Republic`
   - 日本語: チェコ
   - 例文・ポイント: Favorite country—good food, nice landscape, safe
@@ -136,7 +126,6 @@
   - 例文・ポイント: 食文化の話題で登場
 
 ### 9. 便利フレーズまとめ
-
 - 英語: `so far`
   - 日本語: これまでのところ
   - 例文: So far, I’ve visited 14 countries.
@@ -168,43 +157,34 @@
 ## 2/4
 
 ### 【Key Vocabulary】
-
 今回よく出てきて、今後も使える重要語・表現
 
 #### close to ~
-
 - 感覚的に「近い」
 - Thailand is relatively close to Japan.
 
 #### about / roughly / around
-
 - 正確じゃない時間・距離
 - It takes about five hours.
 
 #### bucket list
-
 - 死ぬまでにやりたいことリスト
 - Egypt is at the top of my bucket list.
 
 #### worth it / worth traveling
-
 - 行く価値がある
 - It was worth the journey.
 
 #### be bothered
-
 - 気にする／面倒に思う
 - I’m not bothered by crowds.
 
 #### I would guess ~
-
 - 推測だけど〜だと思う
 - I would guess it took around six hours.
 
 ### 【Phrases to Master】
-
 「言いたかったこと」をネイティブっぽく言う定番フレーズ
-
 - Egypt is one of the countries I really want to visit.
 - It took about as long as flying from Japan to Thailand.
 - If I remember correctly, it took around six or seven hours in total.
@@ -213,9 +193,7 @@
 - That makes sense.
 
 ### 【リアクション強化メモ】
-
 （受け身にならないための引き出し）
-
 - 軽い同意：Right / I get that / That makes sense
 - 強い同意：Absolutely / Couldn’t agree more
 - 共感＋一言：
@@ -226,79 +204,66 @@
 ### 1. Travel / Places
 
 #### off the beaten path
-
 - 「観光地じゃない場所」「定番ルートから外れた場所」
 - 例: I like places that are off the beaten path.
 - 学習ポイント: touristic の反対語として旅行会話でよく使う。
 
 #### laid-back
-
 - 「のんびりしている、気楽な」
 - 人にも場所にも使える
 - 例: This town is very laid-back. / He’s a laid-back person.
 
 #### old-fashioned
-
 - 「古風な、時代遅れ」
 - ポジティブもネガティブもある
 - 例: old-fashioned charm（昔ながらの魅力）、old-fashioned thinking（時代遅れの考え）
 
 #### Albania / Small town life
-
 - 静かでゆったりした生活
 - 人が親切で informal（ラフ）
 - 夏は観光客で賑やか、冬は静か
 - 「Avash, avash」 = ゆっくり、ゆっくり
 
 #### Examples of conversation points
-
 - Italians come for a month, rent apartments → beach / restaurant daily
 - Small town (~25,000) vs summer explosion (~600,000 tourists)
 
 ### 2. Common Expressions / Phrases
 
 #### I wouldn't blame you if I were ~
-
 - 「もし私が〜ならそうするのも当然」
 - 共感を示す表現
 - 例: I wouldn't blame you if I were you. / I wouldn't blame you if I were in your situation
 
 #### informal / casual style
-
 - ネイティブ感覚: 服装や靴にこだわらない文化
 - 例: I go everywhere with no shoes.
 
 ### 3. Personality / Behavior Words
 
 #### hostility / hostile
-
 - 敵意、敵対的な態度
 - 例: They were hostile toward us.
 
 #### see someone as an enemy
-
 - 誰かを敵視する
 - 例: They see us as enemies.
 
 #### antagonistic
-
 - フォーマルな「対立的」
 - 例: He became antagonistic.
 
 #### have it in for someone
-
 - 口語：誰かに敵意を持っている
 - 例: My boss has it in for me.
 
 ### 4. Travel & Culture Insights
-
 - Japan: quiet, toned-down culture
 - Brazil: vibrant, energetic, party personality
 - Europe: multiple small countries → English is universal for travel / business
 - Japan → Europe distance affects travel destination choices → Italy, France, UK more common than Albania
 
 ### 5. Key Takeaways for English Learners
-
 - 旅行会話で使える表現
   - off the beaten path, laid-back, informal, old-fashioned
 - 共感表現は会話を自然にする
@@ -316,7 +281,6 @@
 ### 【Key Vocabulary】
 
 #### ■ 政治・システム
-
 - imperial family：皇室
   - → Japan has an imperial family.
 - emperor：天皇
@@ -329,7 +293,6 @@
   - → Japan is a democratic country.
 
 #### ■ 文化・起源
-
 - come from ~：〜由来である
   - → Cakes come from the West.
 - be introduced from ~：〜から伝わる
@@ -340,18 +303,15 @@
 ### 【Phrases to Master】
 
 #### ■ 日本のシステム説明
-
 - We have an emperor, but he’s just a symbolic figure.
 - Japan has an imperial family, but they don’t have political power.
 - Political power belongs to the government.
 
 #### ■ 文化説明（今回のコア）
-
 - I don’t think Japan has traditional cakes because they came from the West.
 - They were originally introduced from Western countries.
 
 #### ■ 日常会話で使える
-
 - I mainly want to practice ~
 - I’m not very familiar with ~
 - There’s a bit of lag
@@ -362,7 +322,6 @@
 ### 【Key Vocabulary】
 
 #### ■ YouTube・動画系
-
 - travel vlog：旅行系動画
   - → I’m making a travel vlog.
 - shoot / film a video：動画を撮る
@@ -373,14 +332,12 @@
   - → It has over a million subscribers.
 
 #### ■ 会話で強い表現
-
 - That’s not really a thing：それはあまり一般的じゃない
 - do their own thing：各自好きなことをする
 - It depends on how you feel：気分による
 - The thing with A is…：Aのポイントはね
 
 #### ■ 表現力アップ
-
 - perspective(s)：視点
   - → from different perspectives
 - attract / draw people in：人を惹きつける
@@ -388,39 +345,32 @@
   - → this kind of content
 
 #### ■ 日常英語
-
 - get sick：体調を崩す（最重要）
 - bacteria：細菌（複数扱い）
 
 ### 【Phrases to Master】
-
 👉 そのまま使える完成フレーズ
 
 #### ■ 動画説明
-
 - I’m planning to make a travel video focusing on local food.
 - We filmed everything, so we’re ready to start editing.
 
 #### ■ 意見・説明
-
 - Food is something everyone connects with.
 - I want to show different perspectives, like culture.
 
 #### ■ 日常会話
-
 - I just chilled and watched YouTube.
 - Sounds like a nice Sunday.
 - That’s not really a thing in Japan.
 
 #### ■ フィリピンの話
-
 - People in the slums were much nicer than I expected.
 - I thought I might get sick, but I didn’t.
 
 ## 3/11
 
 ### 【Key Vocabulary / 表現】
-
 - `さっき / just now / a moment ago / earlier`
   - 日本語: さっき（直前の出来事を指す）
   - 例文: I saw him just now.（さっき彼を見た）
@@ -453,7 +403,6 @@
   - 例文: Be careful, there are a lot of scammers around.
 
 ### 【Correction Log / 修正ポイント】
-
 - But I can't finish the job till 7pm.
   - → 締め切り感を出すなら by 7pm が自然。
 - The product strength is…
@@ -464,7 +413,6 @@
   - I've heard Cairo can be pretty chaotic, with lots of people trying to hassle you and plenty of scammers around.
 
 ### 【Phrases to Master / 今日使える表現】
-
 - From that point on, I changed my perspective.
   - （その時からものの見方が変わった）
 - I plan to visit Egypt next year.
@@ -479,7 +427,6 @@
 ## 3/24
 
 ### 【Key Vocabulary】
-
 - Islam：イスラム教
 - Hinduism：ヒンドゥー教
 - Christianity：キリスト教
@@ -509,77 +456,67 @@
 ### 【Key Vocabulary】
 
 #### ■ bother
-
 - 意味: 面倒をかける / 気にする / わざわざやる
 - I can't be bothered to cook.
 
 #### ■ persuade / convince
-
 - persuade + 人 + to do（行動させる）
 - convince + 人 + that（納得させる）
 
 #### ■ On second thought
-
 - 意味: やっぱり / よく考えたら
 - On second thought, I'll pass.
 
 ### 【Key Expressions：「めんどくさい」完全整理】
 
 #### 🔹① やる気が出ない系（かなり重要）
-
 - I can't be bothered.
-- 👉 一番ネイティブっぽい「めんどくさい」
+  - 👉 一番ネイティブっぽい「めんどくさい」
 - I don't feel like it.
-- 👉 気分じゃない（ややソフト）
+  - 👉 気分じゃない（ややソフト）
 
 #### 🔹② 手間・労力がめんどくさい
-
 - It's a hassle.
-- 👉 手間がかかる
+  - 👉 手間がかかる
 - It's too much work.
-- 👉 作業量が多くてだるい
+  - 👉 作業量が多くてだるい
 - It's troublesome.
-- 👉 少しフォーマル
+  - 👉 少しフォーマル
 
 #### 🔹③ イライラ・うざい系
-
 - What a pain.
-- 👉 ちょい強めの「めんどくさ…」
+  - 👉 ちょい強めの「めんどくさ…」
 - That's annoying.
-- 👉 イラっとする
+  - 👉 イラっとする
 - This is such a pain in the neck.
-- 👉 かなり強め（カジュアル）
+  - 👉 かなり強め（カジュアル）
 
 #### 🔹④ 行動しないニュアンス
-
 - I didn't even bother.
-- 👉 やる気すら起きなかった
+  - 👉 やる気すら起きなかった
 
 ### 【Phrases to Master】
-
 実際に使える形👇
-
 - I can't be bothered to do it.
-- （めんどくさくてやる気しない）
+  - （めんどくさくてやる気しない）
 - It's a hassle to do that.
-- （それやるの面倒）
+  - （それやるの面倒）
 - I don't feel like doing it.
-- （やる気にならない）
+  - （やる気にならない）
 - What a pain.
-- （めんどくさ…）
+  - （めんどくさ…）
 - I didn't even bother replying.
-- （返信する気にもならなかった）
+  - （返信する気にもならなかった）
 - On second thought, I'll pass.
-- （やっぱやめる）
+  - （やっぱやめる）
 - I persuaded him to go.
-- （行くよう説得した）
+  - （行くよう説得した）
 
 ## 3/26
 
 ### 【Key Vocabulary】
 
 #### ■ 同意・会話のつなぎ
-
 - That’s true – 確かに
 - That’s true, but it’s expensive.
 - Fair enough – まあ確かにね
@@ -587,72 +524,59 @@
 - I see what you mean – 言いたいこと分かる
 
 #### ■ 振り返り・気づき
-
 - Come to think of it – 思い返すと
 - Now that I think about it – よく考えると
 - escape my mind – 思い出せない
 - It escaped my mind.
 
 #### ■ 数・程度
-
 - up to ~ – 最大で
 - at most ~ – 最大でも
 
 #### ■ 時期・イベント
-
 - the New Year holidays – 年末年始
 - the holiday season – ホリデーシーズン
 
 #### ■ 状態・感覚
-
 - cozy – 居心地がいい、暖かい
 - crisp –（空気が）ひんやりして爽やか
 - unbearable – 耐えられない
 - miserable – つらい、悲惨
 
 #### ■ 強さ・変化
-
 - a blast of ~ – 突然の強い〜
 - a blast of cold air
 
 #### ■ 表現（我慢できない）
-
 - I can't take it (anymore). – もう無理
 - I can't stand it. – 我慢できない
 
 ### 【Phrases to Master】
 
 #### ■ 「たしかに〜だけど」
-
 - That’s true, but 〜
 - I see what you mean, but 〜
 - You’ve got a point, but 〜
 
 #### ■ 「思い返すと」
-
 - Come to think of it, 〜
 
 #### ■ 「最大で」
-
 - up to ~
 
 #### ■ 「年末年始」
-
 - during the New Year holidays
 
 #### ■ 「ギャップが大きい」
-
 - There’s a big / huge gap between A and B.
 - There’s a stark contrast.
 
 #### ■ 「耐えられない」
-
 - It’s unbearable.
 - I can’t stand it.
 - I can’t take it anymore.
 
 #### ■ 「それ以上に／それ以外は」
-
 - beyond that
 
 ## 3/27
@@ -660,22 +584,18 @@
 ### 【Key Vocabulary】
 
 #### valid
-
 - 妥当な／正当な（意見・理由など）
 - 有効な（書類・チケットなど）
 - 例：That’s a valid point.（それは妥当な意見だ）
 
 #### bring to the table
-
 - 貢献する／価値・スキルを提供する
 - 例：What do you bring to the table?（あなたは何を貢献できる？）
 
 ### 【Correction Log】
-
 ※今回は英語文の添削はなし（単語・表現の学習中心）
 
 ### 【Phrases to Master】
-
 - I didn’t mean anything by it.
   - 悪意はなかった（特に意図はない）
 - I mean no harm.
@@ -692,14 +612,12 @@
 ### 【Key Vocabulary】
 
 #### ■ 会話の出だし・近況
-
 - What did you get up to?
   - 👉 何してたの？（特に最近・週末など）
 - What are you up to?
   - 👉 「今何してるの？」「（今日・今週末）何か予定ある？」「最近どう？」
 
 #### ■ ディズニー体験の表現
-
 - I went to Disneyland for the first time in years.
 - I actually went to Disneyland — it had been like 6 or 7 years.
 - It was really refreshing.
@@ -708,11 +626,9 @@
 - It brought back a lot of memories.
 
 #### ■ immerse [someone] (in something)
-
 - 👉 誰かを（何かに）没頭させる、完全に浸らせる
 
 #### ■ sophisticated / refined / polished
-
 - sophisticated
   - 👉 高度でスマート・都会的・完成度が高い（デザイン・考え方・人に使える万能表現）
   - a sophisticated design
@@ -727,12 +643,10 @@
   - → 洗練されたプレゼン
 
 #### ■ pros and cons
-
 - 👉 物事・選択・状況のメリットデメリット
 - There are pros and cons to traveling alone.
 
 #### ■ 性格・関係性で使う表現
-
 - put on an act / put on a front
   - 👉 「猫をかぶる」（めちゃ自然）
 - argue over trivial things
@@ -743,55 +657,41 @@
   - → 「ほとんど何もないこと」で口論するニュアンス
 
 #### ■ 補助表現
-
 - let's say
   - 「例えば…」「仮に…としましょう」というニュアンス
 - make some compromises
   - 直訳すると「妥協する」、もう少し自然に言うと「お互いに歩み寄る」「譲り合う」
 
 #### ■ 地理説明
-
 - Miyazaki is in the south of Japan, but it’s a little north of Okinawa.
   - → 宮崎は日本の南部にありますが、沖縄より少し北です。
 - Miyazaki is located in southern Japan, slightly north of Okinawa.
   - → 宮崎は日本の南部に位置しており、沖縄より少し北です。
 
 #### ■ その他重要語
-
 - brilliant
   - 素晴らしい / 最高に良い、頭の良い / 才能ある（人に対して）
 
 ### 【Phrases to Master】
 
 #### ■ ディズニーの没入感を説明
-
 - Tokyo Disneyland is perfectly designed.
 - For example, you can’t see highways or buildings under construction from inside, so you feel completely cut off from the outside world—it really feels like a true fantasy land.
-
 Option 2（少しカジュアル）:
-
 - Tokyo Disneyland is perfectly built.
 - For instance, from inside, you can’t see highways or construction sites, so it’s completely separated from the real world, making it feel like a true dream world.
-
 Option 3（もう少し洗練）:
-
 - Tokyo Disneyland is meticulously designed.
 - From inside, you can’t catch a glimpse of highways or buildings under construction, so it feels entirely isolated from the outside world—a place that truly embodies a fantasy land.
 
 #### ■ 旅行で本性が見える
-
 - Usually, people tend to act a little differently in front of their boyfriend or girlfriend, but when you travel together, you really see their true personality.
-
 Option 2（少しカジュアル）
-
 - Normally, people put on a bit of an act in front of their partner, but traveling shows who they really are.
-
 Option 3（ちょい洗練）
-
 - People often put on a bit of a front in relationships, but traveling reveals their true character.
 
 #### ■ 例文（健康・リスク）
-
 - Southeast Asian dogs often carry diseases.
   - → 東南アジアの犬はよく病気を持っている
 - If you get bitten by one, you could get rabies.
@@ -802,25 +702,21 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### ■ Grounding principle
-
 - 基本原則・拠り所となる考え方
 - 例：a grounding principle for decision-making
 - → 判断や行動の「軸」
 
 #### ■ fuck up（スラング）
-
 - やらかす / 台無しにする
 - mess up / screw up より強めでカジュアル
 - 例：I fucked up the presentation.
 
 #### ■ reach enlightenment
-
 - 悟りを開く / 深い理解に達する
 - 哲学・宗教・自己啓発系で使う
 - 例：He reached enlightenment after years of meditation.
 
 #### ■ assemble / build / construct / put together（組み立てる）
-
 - assemble：部品を組み立てる（機械・家具など）
 - build：広く「作る・組み立てる」
 - construct：フォーマル（建築・設計）
@@ -831,47 +727,39 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### over the course of 〜
-
 - 意味：〜の期間を通して
 - 例：Over the course of a year, I improved my English.
 - ポイント：「変化・プロセス」に焦点
 
 #### hold on to core values
-
 - 意味：核となる価値観を守り続ける
 - 例：He holds on to his core values even in tough times.
 - ポイント：「手放さない」という強いニュアンス
 
 #### stay true to myself
-
 - 意味：自分らしくいる／自分に正直でいる
 - 例：I want to stay true to myself no matter what.
 - ポイント：他人に流されない姿勢
 
 #### stay on your toes
-
 - 意味：気を抜かずにいる／常に警戒している
 - 例：You need to stay on your toes in this job.
 - ポイント：緊張感・臨場感のある注意力
 
 #### end game
-
 - 意味：最終目的、ゴール
 - 例：There is no end game yet.
 - ポイント：ビジネスや戦略でよく使う
 
 #### unheard of
-
 - 意味：前代未聞の／ありえないほど珍しい
 - 例：Such behavior is unheard of.
 - ポイント：強い驚き・異常さを表す
 
 ### 【Correction Log】
-
 （今回の英語表現は短語中心のため大きな修正なし）
 
 ### 【Phrases to Master】
-
 - Over the course of my life, I want to stay true to myself.
   - （人生を通して自分らしくいたい）
 - It’s important to hold on to your core values.
@@ -888,72 +776,58 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary / Expressions】
 
 #### I don't know what it's called
-
 - → 名前や呼び方がわからないときに使う
 - 例：I went to the main part of the Philippines, but I don't know what it's called.
 
 #### as normal
-
 - → 普通通りに、いつも通りに
 - 例：Everything in Thailand was open as normal.
 
 #### skip my memory / slip my mind
-
 - → 思い出せない、ど忘れする
 - 例：Sorry, the name slipped my mind.
 
 #### stress me out
-
 - → ストレスを感じさせる
 - 例：Crowded places stress me out.
 
 #### the downside is ~
-
 - → ～の欠点は…
 - 例：The downside is the salary is not great.
 
 #### the upside / the good thing is ~
-
 - → ～の良い点は…（the downside の逆）
 - 例：The upside is the work hours are very nice.
 
 #### get around
-
 - → 移動する（町・島・国などで）
 - 例：If you don't have a scooter, it's hard to get around.
 
 #### go around
-
 - → ぐるっと回る、巡る
 - 例：I went around the island by scooter.
 
 #### headache（頭痛以外）
-
 - → 厄介な問題、悩み
 - 例：Applying for a visa was a headache.
 
 #### blend / fusion / mix
-
 - → 融合する、混ざる
 - 例：It's a mix of nature, animals, and people.
 
 #### in this/that respect
-
 - → その点では、～という点に関して
 - 例：Kazakhstan is similar to Mongolia in that respect.
 
 #### park / terminal / pier（フェリーや船の発着所）
-
 - → 船の停留所・発着所は pier / ferry terminal が自然
 - 例：I went to the pier near the sea and got on a ferry to Ko Chang.
 
 #### laid-back
-
 - → のんびりしている、リラックスした
 - 例：Thailand is very laid-back compared to Kazakhstan.
 
 ### 【Phrases to Master / 使える表現】
-
 - Sorry for being late. → 遅れてすみません
 - Free conversation is okay. → 自由に会話したい時
 - I’m getting used to the long flight. → 長いフライトに慣れてきた
@@ -967,14 +841,12 @@ Option 3（ちょい洗練）
 - laid-back → のんびり、リラックスした雰囲気を表す
 
 ### 【例文】
-
 - I took a bus from Bangkok to a coastal town, and from there I took a ferry to Koh Chang.
 - I took a bus from Bangkok to a town near the sea, and then took a ferry to Koh Chang.
 
 ## 3/8
 
 ### 【Key Vocabulary】
-
 - aspect（側面）
   - We need to consider every aspect of the problem.
 - concept（概念）
@@ -1004,10 +876,7 @@ Option 3（ちょい洗練）
 
 ## 3/14
 
-### 【Summary：本セッションまとめ】
-
 ### 🧠 【Key Vocabulary】
-
 - take a walk
   - → 散歩する
   - I take a walk every evening.
@@ -1040,7 +909,6 @@ Option 3（ちょい洗練）
   - I binge-watch Netflix.
 
 ### 【Phrases to Master】
-
 - My mood depends on the weather.
   - → 気分は天気に左右される
 - What time I wake up really affects my day.
@@ -1055,9 +923,9 @@ Option 3（ちょい洗練）
   - → 本題に入ろう
 
 ## 4/9
+英語学習まとめ（表現・フレーズ・五人組ディスカッション）
 
-### 英語学習まとめ（表現・フレーズ・五人組ディスカッション）
-
+### ⓪ 冒頭メモ
 - screw it up 👉 「台無しにする」「やらかす」「ミスる」
 - theory /ˈθɪəri/（シアリーっぽい発音）
 - surpass IPA: /sərˈpæs/ カタカナ感覚：サァパス（弱くサー＋強くパス）
@@ -1065,30 +933,24 @@ Option 3（ちょい洗練）
 ### ① キーコンセプト（今回のテーマ軸）
 
 #### ■ 表面的な
-
 - superficial（やや批判的）
 - on the surface（中立・よく使う）
 - apparent（フォーマル）
-
 👉 重要：
-
 - on the surface ≠ 本質ではない見た目
 
 #### ■ 本質・形成
-
 - be shaped by（形成される）
 - be influenced by（影響を受ける）
 - stem from（起源）
 - be rooted in（深く根付く）
 
 #### ■ 影響
-
 - have an impact on（強い・中立）
 - influence（万能）
 - affect（直接的変化）
 
 #### ■ 関係性
-
 - be tied to（密接に結びつく）
 - be connected to（広く使える）
 - be based on（根拠・判断基準 ※原因には弱い）
@@ -1096,26 +958,20 @@ Option 3（ちょい洗練）
 ### ② 重要フレーズまとめ（そのまま使える）
 
 #### 🔹 文化・社会系
-
 ⭐ 基本主張（最重要）
-
 - People’s behavior and values are shaped by geography, history, and politics.
 - What we see on the surface is actually shaped by deeper factors.
-
 ⭐ ディスカッション用
-
 - I tend to think that cultural traits are largely shaped by historical and geographical conditions.
 - A country's characteristics are deeply rooted in its history and social systems.
 
 #### 🔹 比較・対比
-
 - not so much A as B
 - It’s not so much about perfection as it is about social perception.
 - rather than
 - It’s about perception rather than perfection.
 
 #### 🔹 説明・因果関係
-
 - play a major role in ~
 - Geography plays a major role in shaping culture.
 - lead to / result in
@@ -1124,78 +980,60 @@ Option 3（ちょい洗練）
 ### ③ 五人組（Gonin-gumi）まとめ（超重要ストーリー素材）
 
 #### 🔹 コア説明
-
 - The Gonin-gumi was a neighborhood system in Edo-period Japan where people were grouped into units of five households.
 
 #### 🔹 機能（そのまま使える）
 
 ##### ■ 責任
-
 - Each group was collectively responsible for taxes and behavior.
 
 ##### ■ 税
-
 - Taxes were paid in rice, textiles, and other goods instead of money.
 
 ##### ■ 連帯責任
-
 - If one person fell short, the others had to make up for it.
 
 #### 🔹 社会的影響（超重要）
-
 - The system created strong peer pressure within communities.
 - People were closely monitored by their neighbors.
 - It encouraged conformity and social harmony.
 
 #### 🔹 現代への影響
-
 - This historical system still influences modern neighborhood associations in Japan.
 
 ### ④ collectivist / individualist（超頻出概念）
 
 #### 🔹 collectivist
-
 - 集団主義的な社会
-
 例文
-
 - Japan is often described as a collectivist society.
 - In collectivist cultures, group harmony is prioritized over individual opinion.
 
 #### 🔹 individualist
-
 - 個人主義的な社会
-
 例文
-
 - Western societies tend to be more individualist.
-
 🔥 超重要セット
-
 - collectivist → group harmony重視
 - individualist → personal freedom重視
 
 ### ⑤ responsible for / make up for
 
 #### 🔹 be responsible for
-
 - Each group was responsible for tax payment.
 - You are responsible for your actions.
 
 #### 🔹 make up for（補う）
-
 - The others had to make up for the shortfall.
 - I tried to make up for my mistake.
 
 ### ⑥ 会話で使える「共感・反応」
-
 - I totally get it.
 - I can relate.
 - That makes sense.
 - I see what you mean.
 
 ### 例文
-
 - What we see on the surface as a country's personality or national character is actually shaped by its history, geography, and political background.
 - What appears to be a country's personality on the surface is deeply rooted in its history, geography, and political background.
 - I think Japanese people care more about how they're perceived than about being perfect.
@@ -1209,26 +1047,19 @@ Option 3（ちょい洗練）
 - I tend to think that a country's geography, history, and political background play a major role in shaping people's behavior and values.
 
 ## 4/13
-
-### 総まとめ】今回の内容（Golden Week〜表現・イディオム）
+【総まとめ】今回の内容（Golden Week〜表現・イディオム）
 
 ### 🟡 ① 休日・Golden Weekの表現
-
 ✔ 「複数の休日がまとまっている」
-
 - holidays are grouped together
 - holidays fall close together
 - holidays are back-to-back
 - a holiday period
 - a stretch / run of holidays
-
 👉 自然さの違い：
-
 - period＝説明・フォーマル（万能）
 - stretch / run＝ネイティブっぽい口語
-
 ✔ “period” は短くてもOK？
-
 - OK（数日〜数週間のまとまりに普通に使う）
 - ただし会話では：
   - stretch（自然）
@@ -1236,97 +1067,64 @@ Option 3（ちょい洗練）
 - もよく使われる
 
 ### 🟡 ② Golden Weekの英語説明
-
 ✔ 自然な言い方
-
 - Golden Week is a period when several holidays fall together
 - a stretch of consecutive holidays in early May
 
 ### 🟡 ③ よく使う重要イディオム・表現
-
 ✔ fair enough
-
 👉「なるほどね」「それなら納得」
-
 - 軽い同意・受け入れ・会話のクッション
-
 ✔ There’s got to be more to life than ~
-
 👉「人生は〜以上のものがある」
-
 - 哲学的・口語的フレーズ（かなり自然）
-
 ✔ more to life than meets the eye
-
 👉「見た目以上のものがある」
 
 ### 🟡 ④ 年齢・変化の表現
-
 ✔ 年をとるほど〜
-
 - The older I get, the more ~
 - As I get older, I’ve become more ~
-
 👉 超重要パターン
-
 - The older I get, the more I become interested in X
 
 ### 🟡 ⑤ “it’s not until ~”
-
 ✔ 意味
-
 👉「〜して初めて」「〜になってようやく」
-
 ✔ 構造
-
 - It’s not until A that B happens
-
 ✔ ニュアンス
-
 - 遅れて気づく・強調
 
 ### 例文
-
 - It’s not until you study abroad that you realize how big the world is.（留学して初めて世界の広さを実感する）
 
 ## 4/23
 
-### 【今日の復習まとめ】
-
 ### 【Key Vocabulary】
 
 #### ■ under the impression
-
 意味：〜だと思っている（やや不確か）
-
 - I was under the impression that he left.
 - 👉 彼はもう帰ったと思ってた
 
 #### ■ owe it to someone
-
 意味：〜のおかげだ／〜に恩がある
-
 - I owe my success to my parents.
 - 👉 成功は親のおかげ
 
 #### ■ long game
-
 意味：長期戦・長期的戦略
-
 - We’re playing the long game.
 - 👉 長期戦でいってる
 
 #### ■ second to none
-
 意味：最高レベル・誰にも劣らない
-
 - Their service is second to none.
 - 👉 サービスはトップクラス
 
 #### ■ since then（← from then till now の改善）
-
 意味：それ以来ずっと
-
 - I’ve been busy since then.
 - 👉 それ以来ずっと忙しい
 
@@ -1335,7 +1133,6 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 🏙️ 都市・環境・自然
-
 - packed / crowded：ぎゅうぎゅう・混雑している
 - The city is packed in summer.
 - all the way down / to the bottom：下まで全部見える
@@ -1346,14 +1143,12 @@ Option 3（ちょい洗練）
 - The sea gets polluted.
 
 #### 🏭 環境・工場・廃棄物
-
 - industrial waste：産業廃棄物
 - be discharged into ~：〜に排出される
 - dump waste：ゴミを投棄する
 - contribute to pollution：汚染の原因になる
 
 #### 🧠 思考・人間性
-
 - the ability to think：考える能力
 - what makes us human：人間らしさの本質
 - the core of humanity：人間の核心・本質
@@ -1362,7 +1157,6 @@ Option 3（ちょい洗練）
 - prioritize ~：〜を優先する・重視する
 
 #### ⚡ 仕事・効率・AI
-
 - take a shortcut：近道をする
 - cut corners：手を抜く（重要🔥）
 - streamline：効率化する
@@ -1371,7 +1165,6 @@ Option 3（ちょい洗練）
 - menial tasks：低レベルの単純作業
 
 #### 😵 感情・状態
-
 - my head’s not in the game：集中できていない
 - I’m drowning in ~：〜に押しつぶされそう
 - banging my head against the wall：どうにもならず苦戦している
@@ -1379,19 +1172,16 @@ Option 3（ちょい洗練）
 - can’t keep up：ついていけない
 
 #### 🕰️ 時間表現
-
 - six months ago：半年前
 - a year and a half ago：1年半前
 - 18 months ago：18ヶ月前
 
 #### 💼 ビジネス・価値
-
 - increase / enhance company value：企業価値を上げる
 - improve shareholder value：株主価値を高める
 - grow company value：企業価値を成長させる
 
 ### 例文
-
 - AI can help companies enhance their value by improving efficiency.
 - The ability to think is a gift of being human.
 - Being able to think is what makes us human.
@@ -1401,17 +1191,16 @@ Option 3（ちょい洗練）
 ## 5/3
 
 ### 【Key Vocabulary】
-
 - essence：本質・核心
-- The essence of the problem is communication.
+  - The essence of the problem is communication.
 - core：中心・核（抽象的な本質）
-- At its core, this issue is about trust.
+  - At its core, this issue is about trust.
 - crux (of the matter)：問題の核心・最重要点
-- The crux of the matter is timing.
+  - The crux of the matter is timing.
 - cautious：慎重な
-- They took a cautious approach.
+  - They took a cautious approach.
 - risk-averse：リスクを避ける性質の
-- He is risk-averse with money.
+  - He is risk-averse with money.
 - conservative：保守的な
 - built（スラング）：体がしっかりしている・筋肉質
 - jacked（スラング）：かなり筋肉質
@@ -1419,13 +1208,11 @@ Option 3（ちょい洗練）
 - muscular：筋肉質（中立）
 
 ## 5/4
-
-### Summary（本日のまとめ）
+Summary（本日のまとめ）
 
 ### 【Key Vocabulary】
 
 #### ■ 状態・感情・評価
-
 - flat broke = 一文無し
 - I’m flat broke after the trip.
 - low key = さりげなく／実はちょっと
@@ -1440,7 +1227,6 @@ Option 3（ちょい洗練）
 - He’s a wine snob.
 
 #### ■ 動き・行動・状態変化
-
 - disembark = 乗り物から降りる（フォーマル）
 - Passengers disembarked.
 - get pushy = 押しが強くなる
@@ -1451,7 +1237,6 @@ Option 3（ちょい洗練）
 - financial strain / muscle strain
 
 #### ■ 判断・推測・会話表現
-
 - by the looks of it = 見た感じでは
 - By the looks of it, he’s gone.
 - hypothetically = 仮に言えば
@@ -1462,7 +1247,6 @@ Option 3（ちょい洗練）
 - I’d wager he’s right.
 
 #### ■ 比較・評価・抽象概念
-
 - caliber = レベル・質
 - a person of high caliber
 - corresponding = 対応する
@@ -1475,7 +1259,6 @@ Option 3（ちょい洗練）
 - under strain
 
 #### ■ 比喩・イディオム
-
 - reach across the aisle = 対立を超えて協力する
 - the bar is low / set the bar low = 基準が低い／下げる
 - out cold = 完全に気絶・熟睡
@@ -1487,7 +1270,6 @@ Option 3（ちょい洗練）
 - vicious = 残酷な／悪循環の
 
 ### 【Phrases to Master】
-
 - I wasn’t expecting anyone else here besides ~
 - It’s a cinch
 - Beats me
@@ -1503,57 +1285,42 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. for the time being
-
 - 意味：当分の間 / とりあえず今は
 - 例：I’ll stay here for the time being.
 - 👉 ポイント：一時的な状態をややフォーマルに言う
-
 言い換え
-
 - for now（最も自然・会話向き）
 - temporarily（フォーマル）
 
 #### 2. malice
-
 - 意味：悪意
 - 例：He acted with malice.
 - 👉 ポイント：冷たい意図的な悪意
-
 言い換え
-
 - bad intentions（カジュアル）
 - ill intent（フォーマル）
 - spite（感情的な仕返し）
 
 #### 3. innate
-
 - 意味：生まれつきの
 - 例：innate ability / innate talent
 - 👉 ポイント：後天的でなく本能的・先天的
-
 言い換え
-
 - natural（会話で最頻出）
 - inborn（やや硬い）
 - hardwired（本能レベル強調）
 
 #### 4. dwelling
-
 - 名詞：住居（フォーマル・日常ではあまり使わない）
 - 動詞：dwelling on ~（〜を引きずる）
-
 例：
-
 - Stop dwelling on the past.
-
 言い換え（重要）
-
 - get hung up on（超自然・会話向き）
 - obsess over（強め）
 - keep thinking about（普通）
 
 ### 【Phrases to Master】
-
 - for now（とりあえず）
 - don’t get hung up on it（気にしすぎるな）
 - innate ability（生まれつきの能力)
@@ -1564,338 +1331,222 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. sage
-
 意味
-
 - 賢者
 - 賢明な（形容詞）
 - セージ（ハーブ）
-
 例文
-
 - He gave me some sage advice.
   - （彼は賢明なアドバイスをくれた。）
-
 類義語
-
 - wise
 - prudent
 
 #### 2. rouse
-
 意味
-
 - 奮い立たせる
 - 呼び起こす
 - 目を覚まさせる
-
 例文
-
 - The speech roused the crowd.
 - The noise roused me from sleep.
-
 コロケーション
-
 - rouse interest
 - rouse suspicion
 - rouse the crowd
-
 類義語
-
 - stir
 - awaken
 - provoke
 
 #### 3. viscous
-
 意味
-
 - 粘性のある
 - ドロッとした
-
 例文
-
 - Honey is highly viscous.
-
 類義語
-
 - thick
 - syrupy
-
 関連語
-
 - viscosity（粘度）
 
 #### 4. assimilate
-
 意味
-
 - 知識を吸収する
 - 同化する
 - 馴染む
-
 例文
-
 - It takes time to assimilate new information.
 - He struggled to assimilate into the new culture.
-
 類義語
-
 - absorb
 - integrate
 - adapt
 
 #### 5. excruciating
-
 意味
-
 - 耐え難いほど痛い
 - めちゃくちゃつらい
-
 例文
-
 - I had excruciating back pain.
 - The wait was excruciating.
-
 コロケーション
-
 - excruciating pain
 - excruciatingly awkward
 - excruciatingly slow
-
 類義語
-
 - agonizing
 - unbearable
 - intense
 
 #### 6. initiate
-
 意味
-
 - 開始する
 - 着手する
 - 導入する
-
 例文
-
 - We need to initiate a discussion.
-
 コロケーション
-
 - initiate a project
 - initiate a discussion
 - initiate a process
-
 類義語
-
 - begin
 - start
 - launch
 
 #### 7. restraint
-
 意味
-
 - 自制
 - 抑制
-
 例文
-
 - She showed remarkable restraint.
-
 コロケーション
-
 - exercise restraint
 - self-restraint
 - lack of restraint
-
 類義語
-
 - self-control
 - discipline
-
 対義語
-
 - impulsiveness
 - excess
 
 #### 8. swirl
-
 意味
-
 - 渦を巻く
 - 頭の中をぐるぐる巡る
-
 例文
-
 - Smoke swirled into the air.
 - Thoughts were swirling in her head.
-
 コロケーション
-
 - swirl around
 - emotions swirl
 - thoughts swirl
 
 #### 9. be stricken
-
 意味
-
 - 打ちひしがれる
 - 見舞われる
-
 例文
-
 - He was stricken with guilt.
 - The area was stricken by drought.
-
 定番表現
-
 - stricken with grief
 - stricken with fear
 - stricken with guilt
-
 類義語
-
 - devastated
 - overwhelmed
 
 #### 10. rack up
-
 意味
-
 - 積み上げる
 - どんどん増やす
-
 例文
-
 - The video racked up millions of views.
-
 コロケーション
-
 - rack up debt
 - rack up points
 - rack up wins
 - rack up experience
-
 類義語
-
 - accumulate
 - build up
 
 #### 11. perk
-
 意味
-
 - 特典
 - 福利厚生
 - おまけのメリット
-
 例文
-
 - One of the perks of the job is free lunch.
-
 コロケーション
-
 - job perks
 - employee perks
 - one of the perks of ~
-
 類義語
-
 - benefit
 - advantage
 
 ### 【Phrases to Master】
 
 #### 1. It goes without saying
-
 意味
-
 - 言うまでもなく
-
 例文
-
 - It goes without saying that practice is important.
-
 言い換え
-
 - Needless to say
 - Obviously
 - Of course
 
 #### 2. with a jolt
-
 意味
-
 - ハッとして
 - ビクッとして
-
 例文
-
 - I woke up with a jolt.
 - He realized with a jolt that he had forgotten his wallet.
-
 類義表現
-
 - suddenly
 - startled
 - in shock（ニュアンス違い）
 
 #### 3. is highly frowned upon
-
 意味
-
 - 強く嫌われている
 - マナー違反とされる
-
 例文
-
 - Talking loudly in a library is highly frowned upon.
-
 言い換え
-
 - is considered rude
 - is discouraged
 - is not acceptable
 
 #### 4. save me some trouble
-
 意味
-
 - 手間を省いてくれる
-
 例文
-
 - That would save me some trouble.
-
 超頻出
-
 - save me the trouble of ~ing
-
 例文
-
 - That would save me the trouble of explaining everything.
 
 #### 5. perk up
-
 意味
-
 - 元気を出す
 - シャキッとする
-
 例文
-
 - Coffee always perks me up.
 - She perked up after hearing the news.
 
 ### 【Correction Log】
-
 - ❌ save me some troubles
 - ✅ save me some trouble
   - 理由: "trouble" はこの意味では通常不可算名詞。
-
 - △ get brash
 - ✅ become brash / start acting brash / get cocky
   - 理由: 文法的には可能でも、ネイティブは "get brash" をあまり使わない。
@@ -1903,7 +1554,6 @@ Option 3（ちょい洗練）
 ### 【Pronunciation Notes】
 
 #### perk vs park
-
 - perk
   - IPA: /pɝːk/
   - work / word / bird / learn と同じ母音
@@ -1912,7 +1562,6 @@ Option 3（ちょい洗練）
   - car / star / hard / father と同じ母音
 
 ### 【High-Value Expressions（そのまま覚えたい）】
-
 - sage advice
 - rouse interest
 - rouse suspicion
@@ -1936,206 +1585,145 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary & Natural Expressions（強化版）】
 
 #### ① 気づかなかった（認識できなかった）
-
 - `I didn’t realize it was you.`
 - `I didn’t recognize you at first.`
 - `I didn’t even notice it was you.`
-
 📌 例：
-
 - Oh sorry, I didn’t recognize you at first!
 - I didn’t realize it was you until you spoke.
 
 #### ② 沖縄は4〜5回目だった
-
 - `It was my fourth or fifth time visiting Okinawa.`
 - `I’ve been to Okinawa about four or five times.`
 - `That was probably my fourth or fifth trip to Okinawa.`
-
 📌 例：
-
 - I’ve been there several times, maybe four or five.
 
 #### ③ 彼女と行くのは初めてで新鮮だった
-
 - `It was my first time going there with her, so it felt fresh.`
 - `It was a new experience in that sense.`
 - `It felt different going there with her for the first time.`
-
 📌 例：
-
 - Even though I’ve been there before, going with her made it feel new.
 
 #### ④ 海が綺麗
-
 - `The sea was crystal clear.`
 - `You could see the seabed with the naked eye.`
 - `The water was unbelievably transparent.`
-
 📌 例：
-
 - The ocean was so clear it looked unreal.
 
 #### ⑤ 暮らしのスピード（重要）
-
 - `the pace of life`
 - `a slower pace of life`
 - `Life moves at a slower pace in Okinawa.`
 - `There’s a more relaxed pace of life there.`
-
 📌 例：
-
 - Tokyo has a fast-paced lifestyle.
 - Okinawa has a much slower pace of life.
 
 #### ⑥ 東京との違い（人の雰囲気）
-
 - `People are more laid-back.`
 - `People don’t sweat the small stuff.`
 - `People are less stressed about small things.`
 - `People seem more relaxed overall.`
-
 📌 例：
-
 - People in Okinawa are very laid-back compared to Tokyo.
 
 #### ⑦ アメリカの支配・歴史背景（重要）
-
 - `Okinawa was under U.S. control after World War II.`
 - `Okinawa was the last part of Japan to be returned to Japan from U.S. administration.`
 - `It remained under U.S. administration longer than mainland Japan.`
-
 📌 例：
-
 - Historically, Okinawa had a different political background from mainland Japan.
 - The U.S. military presence is still strong there.
 
 #### ⑧ ストレスを減らす
-
 - `relieve stress`
 - `reduce stress`
 - `de-stress`
-
 📌 例：
-
 - Walking by the sea helps me relieve stress.
 - I like to de-stress by listening to music.
 
 #### ⑨ 緩和・和らげる
-
 - `ease`（万能）
 - `soothe`（感情・体）
 - `alleviate`（フォーマル）
 - `mitigate`（問題）
-
 📌 例：
-
 - Music helps ease my anxiety.
 - Tea can soothe your mind.
 
 #### ⑩ It happens（超重要）
-
 - `It happens.`
 - `That happens.`
 - `These things happen.`
-
 📌 例：
-
 - Don’t worry, it happens to everyone.
 
 #### ⑪ things pass（人生観）
-
 - `Things pass.`
 - `This will pass.`
 - `Stressful moments eventually pass.`
-
 📌 例：
-
 - Just remember that bad times pass.
 
 #### ⑫ unwind（リラックス）
-
 - `unwind`
 - `relax and unwind`
 - `clear my mind`
-
 📌 例：
-
 - I go to the beach to unwind.
 - It helps me clear my mind.
 
 #### ⑬ small talk
-
 - `small talk`
 - `casual conversation`
-
 📌 例：
-
 - Weather is a common topic for small talk.
 
 #### ⑭ sketchy
-
 - `sketchy` = 怪しい
-
 📌 例：
-
 - That place looks a bit sketchy.
 
 #### ⑮ authentic / sophisticated
-
 - `authentic` = 本場の
 - `sophisticated` = 洗練された
-
 📌 例：
-
 - authentic Mexican tacos
 - a sophisticated culture
 
 #### ⑯ fast-paced / laid-back
-
 - `fast-paced life`
 - `laid-back lifestyle`
-
 📌 例：
-
 - Tokyo is very fast-paced.
 - Okinawa feels laid-back.
 
 #### ⑰ sweat the small stuff（最重要イディオム）
-
 - `don’t sweat the small stuff`
-
 📌 例：
-
 - They don’t sweat the small stuff at all.
 
 #### ⑱ stay consistent
-
 - `stay consistent`
 - `keep it up`
 - `stick with it`
-
 📌 例：
-
 - It’s hard to stay consistent with habits.
 
 #### ⑲ mix / combine
-
 - `a mix of A and B`
 - `combine A and B`
-
 📌 例：
-
 - Yoga is a mix of meditation and exercise.
 
 ### 【Final Natural English (あなたの最終文)】
-
 日本語
-
 - もし海沿いに住んでたら、私も何も考えず海を眺めてストレス解消すると思います
-
 自然な英語（強化版）
-
 - If I lived by the sea, I think I’d just stare at the ocean and de-stress without thinking about anything.
 - If I lived near the coast, I’d probably spend time just looking at the sea and clearing my mind.
 - If I lived by the ocean, I’d definitely use it as a way to unwind and relieve stress.
@@ -2145,334 +1733,216 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. be caught off guard
-
 - 意味：不意を突かれる、面食らう
-
 例文
-
 - I was caught off guard by his question.
   - （彼の質問に不意を突かれた）
 - Sorry, you caught me off guard there.
   - （ごめん、その質問は不意打ちだった）
-
 類義語
-
 - take someone by surprise
 - catch someone unaware
 - I didn't see that coming
 
 #### 2. you bet
-
 意味
-
 - もちろん
 - その通り
-
 例文
-
 - Can you help me tomorrow?
 - You bet.
-
 類義語
-
 - Absolutely.
 - Definitely.
 - For sure.
 - Of course.
 
 #### 3. keep track of
-
 意味
-
 - 管理する
 - 把握する
 - 追い続ける
-
 例文
-
 - I use an app to keep track of my expenses.
-
 重要表現
-
 - lose track of
   - （見失う・把握できなくなる）
-
 例文
-
 - I lost track of time.
 
 #### 4. affinity
-
 意味
-
 - 親和性
 - 強い興味
 - 自然な適性
-
 頻出形
-
 - have an affinity for ~
-
 例文
-
 - I've always had an affinity for languages.
-
 類義語
-
 - be drawn to
 - have a knack for
 - have a natural feel for
 
 #### 5. propel
-
 意味
-
 - 推進する
 - 前進させる
 - 後押しする
-
 例文
-
 - Social media propelled him to fame.
 - Curiosity propelled me to learn English.
-
 類義語
-
 - drive
 - fuel
 - boost
 - accelerate
 
 #### 6. weirdo
-
 意味
-
 - 変な人
 - 変わり者
-
 例文
-
 - You're such a weirdo.
 - He's kind of a weirdo.
-
 類義語
-
 - oddball
 - quirky person
-
 関連語
-
 - weird
 - quirky
 - odd
-
 対義語
-
 - normal
 - ordinary
 
 #### 7. autograph
-
 意味
-
 - 有名人のサイン
 - サインする
-
 例文
-
 - Can I get your autograph?
 - He autographed my book.
-
 関連語
-
 - sign
 - signature
 
 #### 8. initiation
-
 意味
-
 - 開始
 - 導入
 - 通過儀礼
-
 例文
-
 - the initiation of the project
 - an initiation ceremony
-
 関連語
-
 - initiate
 - initiative
 - initial
 
 #### 9. stinky
-
 意味
-
 - くさい
-
 例文
-
 - My socks are stinky.
-
 類義語
-
 - smelly
 - foul-smelling
 
 #### 10. get the hang of
-
 意味
-
 - コツをつかむ
 - 要領を得る
-
 例文
-
 - I'm starting to get the hang of it.
 - Once you get the hang of it, it's easy.
-
 類義語
-
 - figure out
 - get comfortable with
-
 関連表現
-
 - get used to
   - （慣れる）
 
 #### 11. ick
-
 意味
-
 - 一気に冷めるポイント
-
 例文
-
 - That gave me the ick.
 - What's your biggest ick?
 
 #### 12. turn-off
-
 意味
-
 - 魅力を感じなくなる要素
-
 例文
-
 - Smoking is a huge turn-off for me.
-
 対義語
-
 - turn-on
 
 #### 13. pompous
-
 意味
-
 - 偉そうな
 - 尊大な
-
 例文
-
 - He sounds really pompous.
-
 類義語
-
 - arrogant
 - self-important
 - pretentious
-
 違い
-
 - pompous → 偉そう
 - pretentious → 気取っている
 - arrogant → 見下している
 
 #### 14. complacency
-
 意味
-
 - 慢心
 - 油断
-
 例文
-
 - Success can lead to complacency.
 - We can't afford complacency.
-
 頻出形
-
 - become complacent
 - avoid complacency
 - fall into complacency
-
 類義語
-
 - overconfidence
 - self-satisfaction
-
 対義語
-
 - vigilance
 - alertness
 
 #### 15. oblige
-
 意味①
-
 - 義務づける
-
 例文
-
 - The law obliges companies to disclose information.
-
 頻出形
-
 - oblige A to do
-
 意味②
-
 - 快く応じる
-
 例文
-
 - I'd be happy to oblige.
-
 関連語
-
 - obligation
 - obliged
 - obligatory
 
 #### 16. pristine
-
 意味
-
 - 完璧にきれいな
 - 新品同様の
 - 手つかずの
-
 例文
-
 - The car is in pristine condition.
 - The island has pristine beaches.
-
 頻出表現
-
 - pristine condition
-
 類義語
-
 - immaculate
 - spotless
 - untouched
 
 ### 【Correction Log】
-
 - Chances are that I never would've gotten this strong.
   - 構造
     - Chances are (that) ～
@@ -2487,24 +1957,18 @@ Option 3（ちょい洗練）
     - There's a good chance I wouldn't be this strong now.
 
 ### 【Phrases to Master】
-
 超頻出会話表現
-
 - be caught off guard
 - you bet
 - keep track of
 - lose track of time
 - get the hang of it
 - I'd be happy to oblige.
-
 恋愛・雑談テーマ
-
 - What's your biggest ick?
 - What's a major turn-off for you?
 - What food can't you stand?
-
 ワンランク上の語彙
-
 - affinity for ~
 - propel ~ forward
 - complacency
@@ -2513,7 +1977,6 @@ Option 3（ちょい洗練）
 - pristine condition
 
 ### 【発音メモ】
-
 - weirdo
   - /ˈwɪr.doʊ/
   - 「ウィアドウ」
@@ -2535,120 +1998,78 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. nonchalant（平然とした・動じない風の）
-
 - 意味: 気にしていないように見える、余裕がある・クール
-
 例文:
-
 - He was surprisingly nonchalant about the situation.
   - （彼はその状況に驚くほど平然としていた。）
-
 類義語:
-
 - calm（冷静な）
 - unfazed（動じない）
 - laid-back（のんびりした）
-
 対比:
-
 - calm → 本当に冷静
 - nonchalant → “気にしてない風”の演出を含む
 
 #### 2. diligently（熱心に・コツコツと）
-
 - 意味: 真面目に、継続的に努力して
-
 例文:
-
 - She worked diligently to improve her English.
   - （彼女は英語上達のためにコツコツ努力した。）
-
 類義語:
-
 - consistently（継続的に）
 - conscientiously（誠実に・丁寧に）
 - thoroughly（徹底的に）
-
 対比:
-
 - hardworking（性格）
 - diligent/diligently（行動の仕方）
 
 #### 3. render（〜にする／提供する／描画する）
-
 意味①: 〜にする（結果を生む）
-
 - The news rendered him speechless.
   - （そのニュースで彼は言葉を失った。）
-
 意味②: 提供する（フォーマル）
-
 - They render services to clients.
   - （サービスを提供する）
-
 意味③: 描画する（IT）
-
 - The software renders images in real time.
   - （ソフトが画像を描画する）
-
 類義語:
-
 - make（〜にする）
 - provide（提供する）
 - generate（生成する）
-
 対比:
-
 - make → カジュアル
 - render → フォーマル・結果強調
 
 #### 4. recuperating（回復している・療養中）
-
 - 意味: 病気・疲労・ダメージから回復中
-
 例文:
-
 - He is recuperating after surgery.
   - （手術後に療養中）
-
 類義語:
-
 - recovering（一般的）
 - healing（癒える）
 - bouncing back（立ち直る）
-
 ニュアンス:
-
 - recuperating → “休みながらじわじわ回復”
 
 #### 5. I expected no less（当然だと思ってた）
-
 - 意味: 期待通り・それくらい当然
-
 例文:
-
 - I expected no less from you.
   - （君なら当然そうすると思ってたよ）
-
 類義語:
-
 - As expected（予想通り）
 - I knew it（やっぱり）
 - That’s what I thought（そう思ってた）
-
 バリエーション:
-
 - I expected nothing less（より強い）
 - I wouldn’t expect anything less from you（自然で会話向き）
 
 ### 【Correction Log（ポイント整理）】
-
 今回の単語群の共通テーマ：
-
 - “態度・状態・評価”を表す高度語彙
-
 特に重要な対比：
-
 - nonchalant → 外見の態度（気にしてない風）
 - diligent → 行動の質（コツコツ努力）
 - render → 結果を作るフォーマル動詞
@@ -2656,9 +2077,7 @@ Option 3（ちょい洗練）
 - I expected no less → 評価・期待の表現
 
 ### 【Phrases to Master】
-
 すぐ使える自然な英語：
-
 - I’ve been diligently working on my English.
 - He looked nonchalant, but I knew he was nervous.
 - The situation rendered him speechless.
@@ -2668,7 +2087,6 @@ Option 3（ちょい洗練）
 ## 5/10
 
 ### 【Key Vocabulary】
-
 - `I was just thinking, ...`
   - ふと思ったんだけど（最重要・会話頻出）
 - `random thought, but ...`
@@ -2701,7 +2119,6 @@ Option 3（ちょい洗練）
   - 〜で通勤する
 
 ### 【Correction Log】
-
 - ❌ on the way to home
   - ✔ on my way home
 - ❌ I’m living in Shibuya（習慣）
@@ -2732,48 +2149,33 @@ Option 3（ちょい洗練）
 ### 【重要な“解説”パート（追加）】
 
 #### ① Camblyのシステム説明（英訳の自然版）
-
 あなたの文：
-
 - こんなシステムだって知らないかもしれないけど、Camblyではプランによって持ち時間があって、仮にレッスンの12時間前以降にキャンセルしてしまうと15分持ち時間が減る（≒15分使ったと見なされる）
-
 自然な英語：
-
 - You might not know this, but on Cambly, depending on your plan, you have a certain amount of lesson time. If you cancel a lesson less than 12 hours before it starts, 15 minutes is deducted from your time — basically, it counts as if you used 15 minutes.
-
 ポイント
-
 - You might not know this, but... = 導入として超自然
 - depending on your plan = プランによって
 - is deducted = 差し引かれる（自然）
 - it counts as if... = 〜と見なされる
 
 #### ②「その表現の仕方、その言い方好きです」
-
 自然な英語：
-
 - I like the way you put it.
-
 または：
-
 - I really like how you phrased that.
 - I like how you said that.
-
 ポイント
-
 - 英語は「二重説明」をしない
   - ❌ that expression + way of saying it（重複）
 - the way you put it が最もネイティブ的
-
 ニュアンス
-
 - I like the way you put it.
   - → 言い回しが上手い・しっくりくる
 - I like how you phrased that.
   - → 少し分析的・丁寧
 
 ### 【Phrases to Master】
-
 - I was just thinking, maybe…
 - Random thought, but…
 - It really depends on the situation / vibe
@@ -2792,219 +2194,143 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. knock it off
-
 - 意味: やめて、いい加減にして
-
 例文
-
 - Knock it off. You're being annoying.
 - Hey, knock it off!
-
 類義語
-
 - Cut it out.
 - Quit it.
 - Stop messing around.
 
 #### 2. contracting
-
 ① 収縮する
-
 - Your muscles are contracting.
-
 ② 病気にかかる
-
 - He contracted COVID last year.
 - risk of contracting the virus
-
 ③ 請負業
-
 - He works in contracting.
 
 #### 3. my money is on 〜
-
 - 意味: ～だと思う、～に賭けるならこれ
-
 例文
-
 - My money is on John.
 - My money's on them winning.
 - My money is on it being delayed again.
-
 類義語
-
 - I bet ～
 - I'd bet on ～
 - My guess is ～
 - Chances are ～
 
 #### 4. get an itch / get the itch
-
 - 意味: ～したくてうずうずする
-
 例文
-
 - I'm getting an itch to travel again.
 - I've got the itch to start something new.
-
 関連表現
-
 - scratch the itch
   - Traveling scratched my itch for adventure.
 
 #### 5. resort to ～
-
 - 意味: 仕方なく～する、最終手段として頼る
-
 例文
-
 - He resorted to lying.
 - We had to resort to Plan B.
 - Some people resort to violence.
-
 よく使う組み合わせ
-
 - resort to violence
 - resort to force
 - resort to cheating
 - resort to desperate measures
-
 類義語
-
 - rely on
 - turn to
 
 #### 6. underhanded
-
 - 意味: 卑怯な、裏でこそこそやる
-
 例文
-
 - That was an underhanded tactic.
 - He used underhanded methods to get promoted.
-
 類義語
-
 - shady
 - sneaky
 - deceitful
 - manipulative
-
 対義語
-
 - honest
 - straightforward
 - transparent
 
 #### 7. forfeit
-
 意味
-
 - 棄権する
 - 権利を失う
 - 没収される
-
 例文
-
 - They had to forfeit the match.
 - He forfeited his chance.
 - You may forfeit your deposit.
-
 便利表現
-
 - You forfeit the right to complain.
-
 類義語
-
 - surrender
 - relinquish
 - give up
 
 #### 8. incapacitate
-
 - 意味: 行動不能にする、無力化する
-
 例文
-
 - The injury incapacitated him for months.
 - Police used a device to incapacitate the suspect.
-
 類義語
-
 - disable
 - paralyze
 - immobilize
-
 口語
-
 - knock out
 
 #### 9. wary
-
 - 意味: 警戒している、用心深い
-
 例文
-
 - I'm wary of strangers online.
 - Be wary of scams.
 - She seemed wary at first.
-
 重要形
-
 - be wary of ～
-
 類義語
-
 - cautious
 - careful
 - vigilant
-
 対義語
-
 - trusting
 - careless
 
 #### 10. acute
-
 ① 激しい
-
 - acute pain
-
 ② 鋭い
-
 - acute hearing
 - an acute observer
-
 ③ 深刻な
-
 - an acute shortage of doctors
-
 ④ 鋭角の
-
 - acute angle
-
 対義語（医療）
-
 - chronic
 
 #### 11. hone / be honed
-
 - 意味: 磨く、研ぎ澄ます
-
 例文
-
 - His skills are well honed.
 - She honed her communication skills.
 - Their instincts are finely honed.
-
 よく使う形
-
 - well-honed skills
 - honed instinct
 - finely honed judgment
-
 類義語
-
 - refine
 - sharpen
 - polish
@@ -3012,100 +2338,74 @@ Option 3（ちょい洗練）
 ### 【Important Phrases】
 
 #### Every fraction of a second counts.
-
 - 意味: コンマ数秒が勝負だ。
-
 例文
-
 - In racing, every fraction of a second counts.
 - In surgery, every fraction of a second counts.
-
 類似表現
-
 - Every second counts.
 - Time is critical.
 - It comes down to milliseconds.
 
 #### escape one's notice
-
 - 意味: 気づかれずに済む、見逃される
-
 例文
-
 - It escaped my notice.
 - Nothing escapes his notice.
 
 #### go unnoticed
-
 - 意味: 気づかれない
-
 例文
-
 - The mistake went unnoticed.
 
 #### slip past someone unnoticed
-
 - 意味: 気づかれずにすり抜ける
-
 例文
-
 - It slipped past me unnoticed.
 
 #### escape without someone noticing
-
 - 意味: 誰かが気づかないまま逃れる
-
 例文
-
 - It escaped without anyone noticing.
 
 ### 【Phrases to Master】
 
 #### 推測・予想
-
 - My money is on him.
 - My money is on it being delayed.
 - I'd bet on that.
 
 #### うずうずする
-
 - I've got the itch to travel.
 - I'm getting an itch to start a business.
 
 #### 最終手段
-
 - We had to resort to Plan B.
 - He resorted to lying.
 
 #### 警戒する
-
 - I'm wary of scams.
 - Be wary of trusting strangers.
 
 #### 能力を磨く
-
 - I've honed my English skills.
 - My communication skills are well honed.
 
 ### 【発音注意】
 
 #### wary vs weary
-
 - wary /ˈweri/ = 警戒している
 - weary /ˈwɪri/ = 疲れ切った
 
 #### knock it off
-
 - 実際はかなり崩れて
   - knock-it-off → "nah-kid-off"
 - のように聞こえることが多い。
 
 #### acute
-
 - ə-KYOOT
 
 #### honed
-
 - hoʊnd
 
 ## 5/12
@@ -3113,111 +2413,72 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. next level
-
 - 意味: さらに上の段階・別格にすごい
-
 - Your English is next level.
-
 類義語: on another level / a whole new level
 
 #### 2. what's the tea / spill the tea
-
 - 意味: ゴシップ・裏話・真相
-
 - What's the tea?（何があったの？）
 - Spill the tea!（全部話して！）
-
 類義語: gossip, tell me everything
 
 #### 3. hypothetical / hypothetically
-
 - 意味: 仮定の・もし〜なら
-
 - Hypothetically, what would you do?
-
 類義語: in theory, what if, let's say
 
 #### 4. compatible
-
 - 意味: 相性がいい・互換性がある
-
 - We're compatible.
-
 対義語: incompatible
 類義語: fit, match, go well together
 
 #### 5. with flying colors
-
 - 意味: 余裕で成功する
-
 - She passed the exam with flying colors.
-
 類義語: easily, successfully
-
 ❌ ※"red flying colors"は誤り
 
 #### 6. apprehend
-
 - 意味①: 逮捕する（正式）
 - 意味②: 理解する（古風・フォーマル）
-
 - The suspect was apprehended.
-
 類義語: arrest / understand / grasp
 
 #### 7. if I feel up to it
-
 - 意味: 余裕があれば・気分・体調が良ければ
-
 - I'll go if I feel up to it.
-
 類義語: if I'm up for it / if I feel like it
 
 #### 8. palpable
-
 - 意味: はっきり感じられる（空気・感情）
-
 - The tension was palpable.
-
 類義語: noticeable, obvious, you could feel it
 
 #### 9. streak
-
 - 意味①: 連続記録（勝ち・習慣）
 - 意味②: 線・筋
 - 意味③: 速く動く
-
 - winning streak / Snap streak
-
 類義語: series, run
 
 #### 10. bottom of the barrel
-
 - 意味: 最低品質・残りカスレベル
-
 - bottom-of-the-barrel candidates
-
 類義語: low-quality, the worst
-
 ❌ 対義語として "top of the barrel" は使わない
 ✔ 正しい対義: top-notch / first-rate / cream of the crop
 
 #### 11. blossom
-
 - 意味: 花が咲く／人・関係が成長する
-
 - She blossomed in college.
-
 類義語: bloom / flourish / thrive
 
 #### 12. that is where the problem lies
-
 - 意味: 問題の核心はそこにある
-
 - That is where the problem lies.
-
 類義語:
-
 - That's the issue.
 - That's where things go wrong.
 - That's the root cause.
@@ -3225,16 +2486,13 @@ Option 3（ちょい洗練）
 ### 【Correction / Usage Insights】
 
 #### ❌ "red flying colors"
-
 - ✔ 正: with flying colors（固定表現）
 
 #### ❌ "top of the barrel"
-
 - ✔ 自然表現なし（イディオムではない）
 - ✔ 代替: top-notch / first-rate / cream of the crop
 
 ### 【Phrases to Master】
-
 - next level → 別格にすごい
 - spill the tea → ゴシップ教えて
 - hypothetically speaking → 仮に言うと
@@ -3251,165 +2509,102 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. deficit（不足・赤字）
-
 - 意味: 必要量に足りない状態 / 財政赤字
-
 例文
-
 - a sleep deficit（睡眠不足）
 - budget deficit（財政赤字）
 - There's a deficit of skilled workers.（熟練労働者が不足している）
-
 類義語
-
 - shortage（物の不足）
 - lack（欠如）
-
 対義語
-
 - surplus（余剰）
 
 #### 2. determined（決意している・決定された）
-
 意味①（意志）
-
 - 強く決意している
-
 例文
-
 - I'm determined to improve my English.
 - She gave a determined look.
-
 意味②（決定済み）
-
 - The date has been determined.
-
 類義語
-
 - driven（やる気に満ちた）
 - committed（献身的）
-
 対義語
-
 - indecisive（優柔不断）
 
 #### 3. fickle（気まぐれな・変わりやすい）
-
 - 意味: 気持ちや興味がすぐ変わる
-
 例文
-
 - People can be fickle.
 - Social media trends are fickle.
-
 類義語
-
 - flaky（当てにならない）
 - moody（気分屋）
-
 対義語
-
 - consistent（一貫した）
 
 #### 4. vigilant（警戒している）
-
 - 意味: 常に注意して危険を監視する
-
 例文
-
 - Stay vigilant online.
 - The police remained vigilant.
-
 類義語
-
 - alert（すぐ反応できる）
 - watchful（注意深い）
-
 対義語
-
 - careless（不注意な）
 
 #### 5. plead（懇願する・申し立てる）
-
 意味①
-
 - 必死に頼む
-
 例文
-
 - I pleaded with him to stay.
 - She pleaded for another chance.
-
 意味②（法廷）
-
 - plead guilty / not guilty
-
 類義語
-
 - beg（強く頼む）
 - request（依頼する）
-
 対義語
-
 - demand（要求する）
 
 #### 6. impartial（公平な・中立の）
-
 - 意味: どちらにも偏らない
-
 例文
-
 - an impartial judge
 - remain impartial
-
 類義語
-
 - unbiased（偏見がない）
 - neutral（中立）
-
 対義語
-
 - biased（偏った）
 
 #### 7. prudent（慎重な・賢明な）
-
 - 意味: 将来を考えて賢く行動する
-
 例文
-
 - It's prudent to save money.
 - a prudent decision
-
 類義語
-
 - cautious（慎重な）
 - wise（賢い）
-
 対義語
-
 - reckless（無謀な）
 
 #### 8. interpretation（解釈・表現）
-
 - 意味: 物事の理解の仕方・意味づけ
-
 例文
-
 - Everyone has their own interpretation.
 - open to interpretation
 - simultaneous interpretation（同時通訳）
-
 類義語
-
 - explanation（説明）
 - meaning（意味）
-
 対義語
-
 - fact（事実）
 
 ### 【Phrases to Master】
-
 - sleep deficit（睡眠不足）
 - be determined to ~（〜する決意がある）
 - a fickle nature（気まぐれな性質）
@@ -3421,27 +2616,18 @@ Option 3（ちょい洗練）
 - open to interpretation（解釈の余地がある）
 
 ### 【Key Insight（まとめ）】
-
 今回の単語は大きく分けるとこの4グループ：
-
 ① 状態・性質
-
 - deficit（不足）
 - fickle（不安定）
-
 ② 判断・思考
-
 - determined（意志）
 - prudent（賢明）
 - interpretation（解釈）
-
 ③ 行動・態度
-
 - vigilant（警戒）
 - plead（懇願）
-
 ④ 公平性
-
 - impartial（中立）
 
 ## 5/14
@@ -3449,283 +2635,183 @@ Option 3（ちょい洗練）
 ### ① カジュアルスラング・日常表現
 
 #### 🔹 inspo
-
 - inspirationの略（SNSで多用）
 - 意味：インスピレーション・参考・アイデア
-
 例
-
 - fashion inspo → ファッション参考
 - You're my inspo → あなたは刺激的な存在
 
 #### 🔹 be cooked
-
 - 終わった・詰んだ・ボロボロ
 - 疲れすぎて頭が回らない
-
 例
-
 - I'm cooked → もう無理
 - We're cooked → 終わった
 
 #### 🔹 no sweat
-
 - 問題ないよ・余裕だよ
-
 例
-
 - No sweat → 気にしないで
 
 #### 🔹 twerp
-
 - バカ・生意気なやつ（軽い悪口）
-
 例
-
 - Don't be a twerp → バカなことするな
 
 #### 🔹 brag
-
 - 自慢する（やや嫌味）
-
 例
-
 - He's bragging about his car
-
 類義語
-
 - show off（見せびらかす）
 - flex（スラング自慢）
 
 #### 🔹 in a good mood
-
 - 機嫌がいい・気分がいい
-
 例
-
 - I'm in a good mood today
-
 対義
-
 - in a bad mood（機嫌悪い）
 
 #### 🔹 on the fritz
-
 - 機械が壊れてる・調子悪い
-
 例
-
 - My phone is on the fritz
-
 類義
-
 - acting up（カジュアルで自然）
 - broken（完全に壊れてる）
 
 #### 🔹 just out of curiosity
-
 - ただの興味本位で
-
 例
-
 - Just out of curiosity, why did you quit?
-
 類似
-
 - just wondering（軽い）
 - I was curious（説明的）
 
 #### 🔹 no big deal系
-
 - make a big deal about = 大げさにする
-
 例
-
 - Don't make a big deal about it
-
 対義
-
 - no big deal（大したことない）
 
 #### 🔹 no sweat（再整理）
-
 - no problemよりさらに軽い
 
 ### ② 状態・感情・状況
 
 #### 🔹 in a bind
-
 - 困った状況・ピンチ
-
 例
-
 - I'm in a bind → 困ってる
-
 類義
-
 - stuck（詰まってる）
 - in a tight spot（似てる）
 
 #### 🔹 get the feeling that
-
 - なんとなく〜な気がする
-
 例
-
 - I get the feeling that he's lying
-
 類義
-
 - I feel like ~（一番自然）
 - I have a feeling that ~
 
 #### 🔹 fall behind
-
 - 遅れる・置いていかれる
-
 例
-
 - fall behind in studies
-
 類義
-
 - lag behind（ややフォーマル）
 - not keep up（ついていけない）
 
 #### 🔹 on the verge of
-
 - 〜寸前
-
 例
-
 - on the verge of tears（泣きそう）
 - on the verge of collapse（崩壊寸前）
-
 類義
-
 - about to ~（カジュアル）
 - at the brink of ~（フォーマル・強い）
 
 ### ③ フォーマル・知的表現
 
 #### 🔹 eradicate
-
 - 根絶する・完全になくす
-
 例
-
 - eradicate disease / poverty
-
 類義
-
 - eliminate（排除する）
 - wipe out（口語で強い）
 
 #### 🔹 ingratiate (oneself with)
-
 - 取り入る・媚びる
-
 例
-
 - ingratiate himself with the boss
-
 類義
-
 - suck up to（口語・媚びる）
 - butter someone up（お世辞）
 
 #### 🔹 pitted against
-
 - 対戦させられる・対立させられる
-
 例
-
 - teams pitted against each other
-
 類義
-
 - go up against（自分から挑む）
 - compete against（普通）
 
 ### ④ 感情・性格・反応
 
 #### 🔹 get on one's nerves
-
 - イライラさせる
-
 例
-
 - That noise gets on my nerves
-
 類義
-
 - annoy（一般的）
 - irritate（やや硬い）
 
 #### 🔹 be on the verge of
-
 - 〜しかけている（感情・状態）
-
 例
-
 - on the verge of crying
 
 #### 🔹 make a big deal about
-
 - 大げさに扱う
-
 例
-
 - Don't make a big deal about it
-
 類義
-
 - overreact（反応しすぎる）
 - blow it out of proportion（誇張する）
 
 #### 🔹 in a good mood（再整理）
-
 - 気分が良い状態
 
 ### ⑤ 人・評価・侮辱系
 
 #### 🔹 imbecile
-
 - 大バカ（強め・やや古風）
-
 例
-
 - You imbecile!
-
 類義
-
 - idiot（一般的）
 - moron（強め）
 
 #### 🔹 twerp（再整理）
-
 - 小物・ガキっぽいバカ
 
 ### ⑥ 復讐・対立系（重要）
 
 #### 🔹 revenge
-
 - 復讐（個人的）
-
 例
-
 - take revenge on him
 
 #### 🔹 avenge
-
 - 仇を討つ（誰かのため・正義寄り）
-
 例
-
 - He avenged his brother
 
 #### ⚖️ 違いまとめ
-
 |     | revenge | avenge |
 | --- | --- | --- |
 | 感情 | 個人的怒り | 正義・義務 |
@@ -3733,9 +2819,7 @@ Option 3（ちょい洗練）
 | 使い方 | get/take revenge | avenge someone |
 
 ### 🎯 最重要セット（今回の核）
-
 これだけはセットで覚えると強い：
-
 - fall behind / keep up / catch up
 - on the verge of / about to
 - get on one's nerves / annoy
@@ -3749,203 +2833,137 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary & Phrases】
 
 #### 1. grab a bite
-
 - 意味: 軽く何か食べる
-
 例:
-
 - Let's grab a bite after work.
   - 仕事後に軽く食べに行こう
-
 類義語:
-
 - grab some food（カジュアル）
 - get a quick bite（素早く食べる）
 
 #### 2. have it in for someone
-
 - 意味: 誰かを目の敵にする・悪意を持って嫌う
-
 例:
-
 - My boss has it in for me.
   - 上司が自分を目の敵にしている
-
 類義語:
-
 - be out to get someone（陥れようとする）
 - have a grudge against someone（恨みを持つ）
 
 #### 3. have the edge on / over
-
 - 意味: 〜より少し優位にある
-
 例:
-
 - They have the edge over competitors.
   - 競合より少し優れている
-
 類義語:
-
 - be better than（単純に上）
 - have an advantage over（よりフォーマル）
 
 #### 4. sort out
-
 意味:
-
 - ① 問題を解決する
 - ② 整理する
 - ③ 状況を整える
-
 例:
-
 - We need to sort this out.（解決する）
 - I sorted out my room.（片付ける）
 - Sort yourself out.（立て直せ）
-
 類義語:
-
 - solve（解決する）
 - organize（整理する）
 
 #### 5. could use
-
 - 意味: 〜があると助かる・欲しい（やんわり）
-
 例:
-
 - I could use a coffee.
   - コーヒー欲しいな
-
 類義語:
-
 - need（強い）
 - want（普通）
 
 #### 6. nowhere near
-
 - 意味: 〜には全然及ばない
-
 例:
-
 - I'm nowhere near fluent.
   - 全然流暢じゃない
-
 類義語:
-
 - not even close（口語的・強い）
 - far from ~（ややフォーマル）
 
 #### 7. be positive / I'm positive
-
 意味:
-
 - ① 前向きでいる
 - ② 絶対そうだと思う（確信）
-
 例:
-
 - Be positive.（前向きに）
 - I'm positive he's right.（間違いない）
-
 類義語:
-
 - be optimistic（前向き）
 - I'm sure（確信）
 
 #### 8. swamped
-
 - 意味: 忙殺されている・手一杯
-
 例:
-
 - I'm swamped with work.
   - 仕事で手一杯
-
 類義語:
-
 - busy（軽い）
 - overwhelmed（精神的にも圧倒）
 
 #### 9. put off
-
 - ① 延期する
   - We put off the meeting.
   - 会議を延期した
 - ② 嫌にさせる
   - The smell put me off.
   - 匂いで嫌になった
-
 類義語:
-
 - postpone（延期・フォーマル）
 - discourage（やる気を削ぐ）
 
 #### 10. I mean it
-
 - 意味: 本気だよ・冗談じゃない
-
 例:
-
 - Stop it. I mean it.
   - やめて、本気だから
-
 類義語:
-
 - I'm serious（事実ベース）
 - I'm not joking（冗談じゃない）
 
 #### 11. bite the bullet
-
 - 意味: 嫌だけど覚悟してやる
-
 例:
-
 - I'll bite the bullet and do it.
   - 覚悟してやる
-
 類義語:
-
 - face it（向き合う）
 - deal with it（対処する）
 
 #### 12. run into
-
 - ① 偶然出会う
   - I ran into my friend.
   - 友達に偶然会った
 - ② 問題にぶつかる
   - We ran into a problem.
   - 問題が発生した
-
 類義語:
-
 - bump into（偶然会う・カジュアル）
 - encounter（ややフォーマル）
 
 ### 【重要ニュアンスまとめ】
-
 ■「弱い〜強い表現」
-
 - I want → 普通の欲求
 - I could use → やんわり欲しい
 - I need → 必須
-
 ■「確信レベル」
-
 - I think → 弱い
 - I'm sure → 強い
 - I'm positive → かなり強い（ほぼ確信）
-
 ■「問題系」
-
 - sort out → なんとか整理して解決
 - run into a problem → 問題にぶつかる
 - bite the bullet → 嫌だけど受け入れて対処
-
 ■「人間関係」
-
 - have it in for → 嫌って攻撃的
 - run into → 偶然会う（中立）
 
@@ -3954,175 +2972,121 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### deduct
-
 - ＝ 差し引く / 天引きする
-
 - 15 minutes will be deducted from your balance.
 - Taxes are deducted from your salary.
 
 #### a set amount of 〜
-
 - ＝ 決まった量の〜
-
 - My plan comes with a set amount of lesson time.
 - You only have a set amount of data each month.
 
 #### restless
-
 - ＝ 落ち着かない
-
 - I get restless if I stay home all day.
 
 #### guilty
-
 - ＝ 罪悪感を感じる
-
 - I feel guilty when I’m not being productive.
 
 #### work-related
-
 - ＝ 仕事関連の
-
 - I attended a work-related event.
 
 #### all the way up
-
 - ＝ かなり上の方まで / 高いところまで
-
 - They pour the tea from all the way up here.
 
 ### 【Correction Log】
 
 #### ❌ I've done working out.
-
 あなたが言いたかった：
-
 - 「今日はもう筋トレ済ませた」
-
 ✅ Natural Versions
-
 - I already worked out today.
 - I’ve already worked out today.
 - I already got my workout in today.
 - I finished my workout earlier.
-
 💡 “I’ve done working out” は不自然。
 “work out” を普通の動詞として使う。
 
 #### ❌ Mostly, I do job, job, job, job.
-
 ✅ Better
-
 - I’ve just been working.
 - It was mostly work, work, work.
 - I basically worked all week.
 
 #### ❌ I know your feeling.
-
 ✅ Better
-
 - I know how you feel.
 - I totally get how you feel.
 
 #### ❌ I'm not so comfortable with if I stay home a whole day.
-
 ✅ Better
-
 - I’m not comfortable staying home all day.
 - I get restless if I stay home all day.
 
 #### ❌ there was a event
-
 ✅ Better
-
 - there was an event
 
 #### ❌ I have one an hour for per week.
-
 ✅ Better
-
 - I get one hour per week.
 - I have one hour of lesson time each week.
 
 #### ❌ Do you have many coffee?
-
 ✅ Better
-
 - Do you have a lot of good coffee shops?
 - Are there many nice cafes there?
 
 ### 【Camblyシステム説明まとめ】
-
 あなたが説明したかった内容
-
 - Camblyではプランごとに使えるレッスン時間が決まっている
 - 12時間以内のキャンセルだとペナルティがある
 - 15分消費扱いになる
 - そのせいで今週は15分しか残っていない
-
 かなり複雑な内容だったけど、相手はちゃんと理解できていたので、コミュニケーションとしては成功してる 👍
-
 ✅ 自然な説明テンプレ
-
 基本説明
-
 - On Cambly, we have a set amount of lesson time depending on our plan.
   - （Camblyではプランによって決まったレッスン時間があります）
-
 キャンセルルール
-
 - If we cancel a lesson less than 12 hours before it starts, 15 minutes get deducted from our balance.
   - （12時間以内にキャンセルすると15分差し引かれます）
-
 カジュアル版
-
 - If you cancel late, they take away 15 minutes from your lesson time.
-
 「15分使った扱い」
-
 - It’s treated as if you used 15 minutes.
-
 「今週は15分しか残ってない」
-
 - I only have 15 minutes left this week.
   - これ超自然。
-
 「30分予約してキャンセルした」
-
 - I originally booked a 30-minute lesson, but I canceled it.
-
 「予定を変更しなきゃいけなかった」
-
 - I had to reschedule it because of a work-related event.
 
 ### 【Phrases to Master】
 
 #### 「仕事ばかりだった」
-
 - work, work, work
 - I basically worked all week.
 
 #### 「何か生産的なことをしなきゃ」
-
 - I feel like I need to do something productive.
 - I can’t relax unless I’m doing something productive.
 
 #### 「落ち着かない」
-
 - I get restless if I stay home all day.
 
 #### 「ちょうど良い」
-
 - just right
 - the right amount of 〜
-
 例：
-
 - It has just the right amount of caffeine.
 - The atmosphere is just right.
 
 #### Cambly説明で使える表現
-
 - a set amount of lesson time
 - cancel within 12 hours
 - 15 minutes get deducted from your balance
@@ -4131,7 +3095,6 @@ Option 3（ちょい洗練）
 - reschedule a lesson
 
 #### カフェ・コーヒー会話
-
 - I worked out earlier.
 - I usually avoid caffeine at night.
 - Coffee keeps me awake.
@@ -4141,49 +3104,33 @@ Option 3（ちょい洗練）
 ### 【Natural Native-like Expressions】
 
 #### get my workout in
-
 - ＝ 運動ノルマを済ませる
-
 - I already got my workout in today.
-
 かなりネイティブっぽい。
 
 #### work, work, work
-
 - ＝ 仕事ばっかり
-
 - It’s been work, work, work lately.
 
 #### all the way
-
 - ＝ わざわざ / ずっと / かなり
-
 - I came all the way from Tokyo.
 - They pour tea from all the way up here.
 
 ### 【Good Points】
-
 今回かなり良かった点：
-
 - 複雑なCamblyのシステムを英語で説明できた
 - 相手に質問を返せてる
 - 会話を止めずに続けられてる
 - 「理解してもらうまで説明する力」がある
-
 特に：
-
 - “言い換えながら伝える力”
-
 がかなり良い。
-
 途中で英語が崩れても、
-
 - example を使う
 - 言い直す
 - shorter sentence にする
-
 を自然にできている。
-
 これは実際の英会話でかなり重要。
 
 ## 5/17
@@ -4191,104 +3138,70 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. backlash
-
 - 意味：反発・強い批判
 - 例文：The company got backlash for the policy.
 - 類義語：criticism, outrage, response
-
 違い
-
 - criticism：一般的な批判
 - backlash：感情的・集団的な反発（強め）
 
 #### 2. butcher
-
 - 意味①：肉屋
 - 意味②：めちゃくちゃにする、台無しにする
 - 例文：I butchered his name.
-
 類義語
-
 - mess up（軽いミス）
 - ruin（台無しにする）
-
 ニュアンス
-
 - butcher = 「形が崩壊するレベルの失敗」
 
 #### 3. have the nerve (to ~)
-
 - 意味：よくそんなことできるな（図々しさ・呆れ）
 - 例文：He had the nerve to blame me.
-
 類義語
-
 - have the guts to（勇気がある）
 - be bold enough to（ややフォーマル）
-
 対比
-
 - nerve → ネガティブ（厚かましい）
 - guts → ポジティブにも使える
 
 #### 4. iron out
-
 - 意味：問題・細かい点を調整して解決する
 - 例文：We need to iron out the details.
-
 類義語
-
 - resolve（解決する）
 - sort out（片付ける）
-
 ニュアンス
-
 - 「話し合いでスムーズに整える」
 
 #### 5. click with ~
-
 - 意味：気が合う・相性がいい
 - 例文：I really clicked with her.
-
 類義語
-
 - hit it off（初対面で意気投合）
 - get along with（長期的に仲が良い）
-
 ニュアンス
-
 - click = 直感的にフィットする感じ
 
 #### 6. slack off
-
 - 意味：サボる・手を抜く
 - 例文：Don't slack off at work.
-
 類義語
-
 - be lazy（性格的に怠け者）
 - cut corners（質を落として手抜き）
-
 対比
-
 - slack off = 行動的なサボり
 
 #### 7. make progress
-
 - 意味：進歩する・前進する
 - 例文：I'm making progress in English.
-
 類義語
-
 - improve（能力が上がる）
 - advance（前進する・ややフォーマル）
-
 ニュアンス
-
 - 少しずつ前に進むプロセス重視
 
 ### 【Phrases to Master（使える形）】
-
 - I'm finally making progress in English.
   - （やっと英語が伸びてきた）
 - We need to iron out the details.
@@ -4309,115 +3222,79 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. futile（形容詞）
-
 - 意味：無駄な、むなしい、効果がない
 - コアイメージ：頑張っても結果が変わらない
-
 例文
-
 - It was a futile attempt to convince him.
 - All my efforts felt futile.
 - It's futile to argue with him.
-
 類義語
-
 - useless（役に立たない）
 - pointless（意味がない）
 - hopeless（望みがない）
-
 対義語
-
 - effective（効果的な）
 - worthwhile（やる価値がある）
 
 #### 2. hold a grudge（熟語）
-
 - 意味：恨みを持ち続ける、根に持つ
 - コアイメージ：怒りを長期間保持する
-
 例文
-
 - She still holds a grudge against him.
 - I don't hold any grudge against you.
 - He tends to hold grudges.
-
 類義語
-
 - bear a grudge（ややフォーマル）
 - resent（恨む・不満を持つ）
-
 対義語
-
 - forgive（許す）
 - let go（手放す）
 
 #### 3. wrong call（熟語）
-
 - 意味：判断ミス、誤った決断
 - コアイメージ：「その判断は違った」
-
 例文
-
 - That was a wrong call.
 - Cancelling the meeting was a wrong call.
 - You made the wrong call.
-
 類義語
-
 - bad decision（悪い判断）
 - mistake（ミス）
 - misjudgment（誤判断）
-
 対義語
-
 - good call（良い判断）
 - smart move（賢い選択）
 
 #### 4. infiltrate（動詞）
-
 - 意味：潜入する、こっそり入り込む
 - コアイメージ：気づかれず内部に入る
-
 例文
-
 - The spy infiltrated the organization.
 - Hackers infiltrated the system.
 - Ideas infiltrated the company culture.
-
 類義語
-
 - sneak into（こっそり入る）
 - penetrate（深く入り込む・やや硬い）
-
 対義語
-
 - exit（出る）
 - expel（追い出す）
 
 #### 5. things have unfolded
-
 - 意味：物事が展開してきた／事態が進んできた
 - コアイメージ：折りたたまれたものが開く→展開する
-
 例文
-
 - I'm happy with how things have unfolded.
 - Things unfolded very quickly.
 - I didn't expect things to unfold this way.
-
 類義語
-
 - develop（発展する）
 - progress（進む）
 - evolve（変化する）
-
 対義語
-
 - stagnate（停滞する）
 - freeze（止まる）
 
 ### 【Phrases to Master】
-
 - It was a futile attempt
 - hold a grudge against someone
 - That was a wrong call
@@ -4425,7 +3302,6 @@ Option 3（ちょい洗練）
 - how things have unfolded
 
 ### 【使い分けの感覚まとめ】
-
 - futile → 結果が出ない「むなしさ」
 - hold a grudge → 恨みを長く持つ
 - wrong call → 判断ミス（カジュアル）
@@ -4437,328 +3313,219 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. be no object
-
 - 意味：問題ではない／制約にならない
-
 例文
-
 - Money is no object.（お金は問題じゃない）
 - Time is no object.（時間は気にしない）
-
 類義語
-
 - not a problem
 - not an issue
 - doesn’t matter
-
 対義語
-
 - be a concern（問題になる）
 - be a limitation（制約になる）
 
 #### 2. get around to ~
-
 - 意味：後回しにしていたことにようやく取りかかる
-
 例文
-
 - I finally got around to cleaning my room.
 - I haven’t gotten around to replying yet.
-
 類義語
-
 - get to ~
 - deal with ~
 - attend to ~
-
 対義語
-
 - put off ~（先延ばしする）
 - procrastinate（習慣的に先延ばし）
 
 #### 3. out of my league
-
 - 意味：自分には釣り合わない／格上すぎる
-
 例文
-
 - She is out of my league.
 - That team is out of our league.
-
 類義語
-
 - too good for me
 - way above my level
 - I don’t stand a chance
-
 対義語
-
 - in my league（同レベル）
 
 #### 4. jump the gun
-
 - 意味：先走る・フライングする
-
 例文
-
 - Don’t jump the gun.
 - We jumped the gun on the decision.
-
 類義語
-
 - rush into ~
 - act prematurely
 - get ahead of yourself
-
 対義語
-
 - wait and see
 - hold off
 
 #### 5. retaliate
-
 - 意味：報復する・やり返す
-
 例文
-
 - They retaliated against the attack.
 - He retaliated by cutting prices.
-
 類義語
-
 - fight back
 - get back at ~
 - hit back
-
 対義語
-
 - forgive
 - let it go
 - ignore
 
 #### 6. generous
-
 - 意味：気前がいい・惜しまず与える
-
 例文
-
 - She is very generous.
 - a generous portion of food
-
 類義語
-
 - kind
 - giving
 - big-hearted
-
 対義語
-
 - stingy（ケチ）
 - selfish
 - tight-fisted
 
 #### 7. infuse
-
 - 意味：染み込ませる・吹き込む
-
 例文
-
 - Tea infused with herbs
 - infuse hope into people
-
 類義語
-
 - inject
 - add
 - incorporate
-
 対義語
-
 - remove
 - strip away
 
 #### 8. have skyrocketed
-
 - 意味：急上昇した
-
 例文
-
 - Prices have skyrocketed.
 - Demand has skyrocketed.
-
 類義語
-
 - shoot up
 - go through the roof
 - surge
 - blow up
-
 対義語
-
 - drop
 - decline
 - fall
 
 #### 9. strip down
-
 意味
-
 - ① 服を脱ぐ
 - ② 簡素化する／削る
 - ③ 分解する
-
 例文
-
 - strip down to basics
 - strip the design down
-
 類義語
-
 - simplify
 - trim down
 - streamline
-
 対義語
-
 - complicate
 - expand
 
 #### 10. hold up your end of the bargain
-
 - 意味：自分の約束・役割を果たす
-
 例文
-
 - I held up my end of the bargain.
-
 類義語
-
 - keep your word
 - do your part
 - follow through
-
 対義語
-
 - break a promise
 - fail your duty
 
 #### 11. carve out one’s own destiny
-
 - 意味：自力で人生を切り開く
-
 類義語
-
 - forge your own path
 - make your own way
 - build your future
-
 対義語
-
 - be controlled by others
 - follow others’ path
 
 #### 12. steer one’s own ship
-
 - 意味：人生の舵を自分で取る
-
 類義語
-
 - take control of your life
 - be in the driver’s seat
 - call the shots
-
 対義語
-
 - be controlled
 - be dependent on others
 
 #### 13. be imprisoned by ~
-
 - 意味：〜に囚われる・縛られる
-
 例文
-
 - be imprisoned by fear
 - be imprisoned by expectations
-
 類義語
-
 - be trapped by
 - be stuck in
 - be constrained by
-
 対義語
-
 - be free from
 - break free from
 
 #### 14. pound
-
 意味
-
 - 強く叩く
 - 心臓がドキドキする
 - 体重・通貨単位
-
 例文
-
 - My heart is pounding.
 - pound on the door
-
 類義語
-
 - hit
 - bang
 - beat
-
 対義語
-
 - (明確な反対語なし)
 
 #### 15. strip down / stripped-down
-
 - 意味：シンプル化された
-
 例文
-
 - a stripped-down version of the app
-
 類義語
-
 - minimal
 - simplified
 - basic
 
 #### 16. jump the gun（復習強調）
-
 - 👉 「タイミングが早すぎる」
 
 #### 17. infuse A with B
-
 - 👉 「AにBを染み込ませる」
 
 #### 18. have skyrocketed
-
 - 👉 「ロケットのように急上昇」
 
 #### 19. out of my league
-
 - 👉 「自分には格上すぎる」
 
 #### 20. retaliate
-
 - 👉 「やられたらやり返す（計画的・強め）」
 
 #### 21. generous
-
 - 👉 「惜しまず与える人・状態」
 
 #### 22. be no object
-
 - 👉 「それは問題ではない（制約なし）」
 
 #### 23. get around to ~
-
 - 👉 「後回し→ようやくやる」
 
 ## 5/20
@@ -4766,49 +3533,42 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. glimpse（ちらっと見る・垣間見る）
-
 - 意味：一瞬だけ見る／少しだけ理解する
 - 例文：I caught a glimpse of her in the crowd.
 - 類義語：glance（さっと見る）, peek（のぞく）
 - 対義語：stare（じっと見る）
 
 #### 2. full picture（全体像・全貌）
-
 - 意味：すべての情報を含んだ全体の状況
 - 例文：We don't have the full picture yet.
 - 類義語：the big picture（大局）, the whole story（全事情）
 - 対義語：partial view（部分的な見方）
 
 #### 3. blow off steam（ストレス発散する）
-
 - 意味：うっぷんを晴らす
 - 例文：I went for a run to blow off steam.
 - 類義語：unwind（くつろぐ）, de-stress（ストレスを減らす）
 - 対義語：bottle up emotions（感情をため込む）
 
 #### 4. get a kick out of ~（〜を楽しむ・面白がる）
-
 - 意味：〜に強い楽しさ・面白さを感じる
 - 例文：I get a kick out of watching old movies.
 - 類義語：enjoy（楽しむ）, be amused by（面白がる）
 - 対義語：be bored by（退屈する）
 
 #### 5. a 20-minute walk（20分の徒歩）
-
 - 意味：20分かかる距離／20分歩くこと
 - 例文：It's a 20-minute walk from the station.
 - 類義語：a short walk（短い散歩）, walking distance（徒歩圏内）
 - 対義語：a long walk（長い距離）
 
 #### 6. think through ~（〜をじっくり考える）
-
 - 意味：最後まで含めて深く検討する
 - 例文：You should think this through.
 - 類義語：consider carefully（よく考える）, weigh up（比較検討する）
 - 対義語：rush into（よく考えずに飛び込む）
 
 ### 【Phrases to Master】
-
 - I got a glimpse of ~
   - （〜をちらっと見た）
 - We don't have the full picture yet
@@ -4823,9 +3583,7 @@ Option 3（ちょい洗練）
   - （ちゃんと考えさせて）
 
 ### 【Correction Log】
-
 今回のポイントはすべて「自然な英語のコアイメージの違い」
-
 - glimpse → 一瞬・断片的
 - full picture → 全体・完成形
 - blow off steam → 感情の放出
@@ -4836,186 +3594,122 @@ Option 3（ちょい洗練）
 ## 5/21
 
 ### ① stuck in a rut
-
 - 意味: マンネリ化している／停滞している状態
-
 コアイメージ
-
 - 同じ「わだち（rut）」にはまり続けて抜け出せない
-
 例文
-
 - I feel stuck in a rut.
   - マンネリ気味だ。
 - My job has me stuck in a rut.
   - 仕事が単調で停滞している。
-
 類義語
-
 - feel stagnant（停滞している）
 - be in a slump（調子が悪い）
-
 対義語
-
 - be on a roll（絶好調）
 - move forward（前進する）
 
 ### ② kick in
-
 - 意味: 効き始める／発動する／作用する
-
 例文
-
 - The medicine kicked in.（薬が効いた）
 - Panic kicked in.（パニックになり始めた）
 - The law kicks in next month.（法律が施行される）
-
 類義語
-
 - start working
 - take effect
-
 対義語
-
 - wear off（効果が切れる）
 
 ### ③ blow it
-
 - 意味: 失敗する／チャンスを台無しにする
-
 例文
-
 - I blew it.（やらかした）
 - Don't blow it.（失敗するな）
 - He blew a great opportunity.
-
 類義語
-
 - mess up
 - screw up（強め）
 - ruin it
-
 対義語
-
 - nail it（完璧にやる）
 
 ### ④ fill in
-
 - 意味①: 記入する
   - Fill in this form.（記入する）
 - 意味②: 補足する
   - Fill me in later.（あとで教えて）
 - 意味③: 代役をする
   - She filled in for me.（代わりをした）
-
 類義語
-
 - complete（記入）
 - explain（説明）
 - substitute（代役）
 
 ### ⑤ fill someone in on ~
-
 - 意味: ～について詳しく説明する
-
 例文
-
 - Can you fill me in on what happened?
 - I'll fill you in on the details.
-
 ニュアンス
-
 - 「抜けている情報を補う」
-
 類義語
-
 - bring up to speed
 - update
 - explain
 
 ### ⑥ lose it
-
 - 意味①: キレる／取り乱す
 - 意味②: 爆笑する
 - 意味③: 正気を失う
-
 例文
-
 - He lost it.（ブチギレた）
 - I lost it laughing.（爆笑した）
 - I'm losing it.（限界きてる）
-
 類義語
-
 - freak out（パニック）
 - snap（キレる）
 - break down（崩れる）
-
 対義語
-
 - stay calm（落ち着く）
 
 ### ⑦ have no intention of ~ing
-
 - 意味: ～するつもりは全くない
-
 例文
-
 - I have no intention of quitting.
 - She has no intention of apologizing.
-
 類義語
-
 - don't plan to
 - won't
-
 強調ポイント
-
 - 👉 強い否定（意思が固い）
 
 ### ⑧ have every right to ~
-
 - 意味: ～するのは当然の権利がある
-
 例文
-
 - You have every right to be angry.
 - She has every right to refuse.
-
 類義語
-
 - be entitled to ~
 - be justified in ~
-
 ニュアンス
-
 - 👉 「道徳的にも正当」
-
 対義語
-
 - have no right to ~
 
 ### ⑨ blend in
-
 - 意味: 周囲に溶け込む／目立たず馴染む
-
 例文
-
 - I tried to blend in.
 - He blends in easily.
 - The spy blended in with the crowd.
-
 類義語
-
 - fit in（人間関係に馴染む）
 - integrate
-
 対義語
-
 - stand out（目立つ）
 
 ### 【重要まとめ（コアイメージ）】
-
 - stuck in a rut → 同じ場所で停滞
 - kick in → スイッチが入る
 - blow it → チャンスを壊す
@@ -5031,72 +3725,51 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. be going to / was going to
-
 - 意味：〜する予定だ / するつもりだった
-
 - I was going to call you.
   - （電話する予定でした）
-
 類義表現
-
 - had planned to 〜（計画していた）
 - was supposed to 〜（本来そうするはずだった）
-
 対義・反対ニュアンス
-
 - I ended up V-ing
   - → 結果的に〜した（予定と違う）
-
 例：
-
 - I was going to go out, but I ended up staying home.
   - （外出する予定だったが、結局家にいた）
 
 #### 2. finest
-
 - 意味：最高の・最上級の・極上の
-
 - the finest ingredients（最高級の材料）
 - one of the finest teachers（最高の先生の一人）
-
 類義語
-
 - best（最も一般的）
 - excellent（非常に良い）
 - top-quality（高品質）
 - premium（高級な）
-
 対義語
-
 - worst（最悪の）
 - low-quality（低品質の）
 - inferior（劣った）
 
 ### 【Correction / Usage Notes】
-
 ● finest のニュアンス
-
 - “good” よりかなり格上の褒め言葉
 - フォーマル・広告・レビューでよく使う
 - 日常会話でも強調したいときに使う
 
 ### 【Phrases to Master】
-
 ■ 予定の表現
-
 - I was going to + 動詞
 - I had planned to + 動詞
 - I was supposed to + 動詞
 - I ended up + V-ing
-
 ■ finest の自然な使い方
-
 - one of the finest + 名詞
 - the finest + 名詞
 - at one’s finest（絶好調）
 
 ### 【Example Sentences】
-
 - I was going to study, but I got distracted.
   - （勉強する予定だったが気が散った）
 - She is one of the finest doctors in the country.
@@ -5109,70 +3782,51 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### I went through a breakup
-
 - 失恋した・別れを経験した
-
 - I recently went through a breakup.
   - 最近別れたんだ。
 
 #### fluffy
-
 - ふわふわした、もふもふした
-
 - This puppy is so fluffy.
   - この子犬、もふもふだね。
 
 #### growing up
-
 - 子どもの頃、育つ過程で
-
 - Growing up, I wanted to travel around the world.
   - 子どもの頃、世界旅行をしたかった。
 
 #### Where are you off to?
-
 - これからどこへ行くの？
-
 - Where are you off to today?
   - 今日どこへ行くの？
 
 #### I'm off to ~
-
 - 〜へ行くところです
-
 - I'm off to meet my girlfriend.
   - 彼女に会いに行くところです。
 
 #### on my own
-
 - 独力で、自力で
-
 - I learned English on my own.
   - 英語を独学で学んだ。
 
 #### by myself
-
 - 一人で
-
 - I traveled by myself.
   - 一人旅をした。
 
 #### for myself
-
 - 自分のために
-
 - I cook for myself.
   - 自分で食べるために料理する。
 
 #### every continent
-
 - すべての大陸
-
 - I want to visit every continent in the world.
   - 世界中のすべての大陸を訪れたい。
 
 ### 【Correction Log】
-
 - ❌ I'll explain the reason why I'm on Cambly.
   - ✅ Let me explain why I'm on Cambly.
 - ❌ I have a plan to explore the world this year.
@@ -5203,7 +3857,6 @@ Option 3（ちょい洗練）
 ### 【Phrases to Master】
 
 #### 世界旅行について
-
 - I'm planning to quit my job and travel around the world.
   - 仕事を辞めて世界一周する予定です。
 - Before I turn 30, I want to travel around the world.
@@ -5214,7 +3867,6 @@ Option 3（ちょい洗練）
   - 世界中のすべての大陸を訪れたいです。
 
 #### 音楽・フェスについて
-
 - I listen to pretty much everything.
   - いろんなジャンルの音楽を聴きます。
 - I'm not really into huge festivals.
@@ -5223,21 +3875,18 @@ Option 3（ちょい洗練）
   - もっと小規模でアットホームなイベントの方が好きです。
 
 #### 食文化について
-
 - I'm more interested in the culture than the food itself.
   - 食べ物そのものより文化に興味があります。
 - I like eating where the locals eat.
   - 地元の人が食べる場所で食べるのが好きです。
 
 #### 自炊について
-
 - I usually cook for myself.
   - 普段は自炊しています。
 - I'm trying not to rely on convenience stores.
   - コンビニに頼りすぎないようにしています。
 
 #### 旅行中によく使う表現
-
 - Where are you off to?
   - これからどこへ行くの？
 - I'm off to meet my girlfriend.
@@ -5251,406 +3900,260 @@ Option 3（ちょい洗練）
 ### 【総まとめ】
 
 #### ① on the same page
-
 意味
-
 - 認識が一致している
 - 同じ理解を共有している
-
 例文
-
 - Are we on the same page?
 - Let’s make sure we’re on the same page.
-
 類似
-
 - see eye to eye（意見一致）
 - be in sync（感覚が合う）
 
 #### ② adversity
-
 - 意味：逆境・困難・試練
-
 例文
-
 - He faced a lot of adversity.
 - She overcame adversity.
-
 コロケーション
-
 - face adversity
 - overcome adversity
 - through adversity
-
 類語
-
 - hardship（苦難）
 - setback（挫折）
 - struggle（苦闘）
 
 #### ③ maneuver
-
 意味
-
 - うまく動く／操作する
 - 駆け引きする・立ち回る
-
 例文
-
 - She maneuvered the car into a tight space.
 - He maneuvered his way into management.
-
 表現
-
 - maneuver through a situation（切り抜ける）
 - maneuver around an issue（回避する）
-
 類語
-
 - navigate（より自然・一般的）
 - strategize（戦略的に考える）
 
 #### ④ do you happen to know ~
-
 - 意味：もし知っていたら教えてほしい
-
 例文
-
 - Do you happen to know where he is?
 - You happen to know a good place?
-
 類似
-
 - by any chance
 - Would you happen to know ~?（より丁寧）
 
 #### ⑤ casualties
-
 - 意味：死傷者（dead + injured）
-
 例文
-
 - The attack caused many casualties.
 - Heavy casualties were reported.
-
 関連
-
 - civilian casualties（民間人被害）
-
 対比
-
 - deaths（死者のみ）
 
 #### ⑥ come clean
-
 - 意味：白状する・正直に打ち明ける
-
 例文
-
 - He finally came clean.
 - It’s time to come clean.
-
 類語
-
 - confess（罪を認める）
 - tell the truth（事実を言う）
 
 #### ⑦ do over
-
 - 意味：やり直す（カジュアル）
-
 例文
-
 - Let’s do it over.
 - Can I do a do-over?
-
 類語
-
 - redo（フォーマル）
 - start over（最初から）
 
 #### ⑧ buttoned up
-
 - 意味：きっちりした・隙がない・真面目
-
 例文
-
 - He is very buttoned-up.
 - The company is well buttoned up.
-
 ニュアンス
-
 - ポジティブ：professional / polished
 - ネガティブ：stiff / uptight
 
 #### ⑨ leaving aside ~
-
 - 意味：〜はさておき／ひとまず置いておく
-
 例文
-
 - Leaving aside the cost, it’s great.
 - Leaving aside emotions...
-
 類語
-
 - putting aside
 - setting aside
 - aside from that
 
 #### ⑩ homogeneous
-
 - 意味：均質な・同じ性質のものからなる
-
 例文
-
 - Japan is a homogeneous society.
 - The group is too homogeneous.
-
 対義語
-
 - heterogeneous（多様な・異質な）
-
 類語
-
 - uniform（均一）
 - similar（似ている）
 
 ### 【全体イメージまとめ】
-
 ■ 感情・人生系
-
 - adversity（逆境）
 - come clean（告白）
-
 ■ 思考・議論系
-
 - on the same page（認識一致）
 - leaving aside（論点整理）
-
 ■ 行動・操作系
-
 - maneuver（立ち回る）
 - do over（やり直す）
-
 ■ 状態・性質系
-
 - buttoned up（きっちりした）
 - homogeneous（均質な）
-
 ■ フォーマルな言い方
-
 - casualties（死傷者）
 - do you happen to ~（丁寧な質問）
 
 ## 5/27
 
 ### 【1. off of】
-
 意味
-
 - ～をもとにして（カジュアル）
 - based on に近い
-
 例文
-
 - It wasn’t just off of what he said.
   - → 「彼の言ったこと“だけ”が根拠じゃなかった」
-
 使い方
-
 - judge off of ~（〜を基準に判断する）
 - go off of ~（〜をもとにする）
-
 類義語
-
 - based on（標準・フォーマル）
 - according to（やや客観）
 
 ### 【2. fine-tune】
-
 - 意味：微調整する／最適化する
-
 例文
-
 - I’m fine-tuning my English pronunciation.
   - → 「英語発音を微調整している」
-
 類義語
-
 - tweak（軽くいじる）
 - refine（洗練させる）
 - polish（仕上げる）
-
 対義語
-
 - overhaul（大きく作り直す）
 
 ### 【3. squeeze】
-
 コア意味
-
 - ギュッと押す／圧力をかける／無理に入れる
-
 例文
-
 - She squeezed my hand.
   - → 「彼女が手をぎゅっと握った」
-
 フレーズ
-
 - squeeze in（ねじ込む）
 - squeeze by（ギリギリ通る）
 - squeeze someone（抱く／圧力をかける）
 
 ### 【4. squeeze by】
-
 意味
-
 - ギリギリ通る
 - ギリギリで切り抜ける
-
 例文
-
 - Can I squeeze by?
   - → 「通っていい？」
 - We barely squeezed by on the test.
   - → 「テストをギリギリ通過した」
-
 類義語
-
 - get by（なんとかやる）
 - slip through（すり抜ける）
 
 ### 【5. regardless】
-
 - 意味：関係なく／それでも
-
 例文
-
 - I’ll go regardless of the weather.
   - → 「天気に関係なく行く」
-
 フレーズ
-
 - regardless of ~（〜に関係なく）
-
 類義語
-
 - anyway（口語・軽い）
 - despite / in spite of（フォーマル）
 
 ### 【6. scam】
-
 - 意味：詐欺／ぼったくり
-
 例文
-
 - I got scammed.
   - → 「だまされた」
-
 使い方
-
 - online scam（ネット詐欺）
 - phone scam（電話詐欺）
-
 類義語
-
 - fraud（フォーマル）
 - rip-off（ぼったくり）
 - con artist（詐欺師）
 
 ### 【7. just to put it out there】
-
 意味
-
 - 一応言っておくと
 - 軽く共有すると
-
 例文
-
 - Just to put it out there, I think this might not work.
   - → 「一応言うと、これうまくいかないかも」
-
 類義語
-
 - just saying（ややカジュアル・皮肉可）
 - for what it’s worth（控えめ意見）
 
 ### 【8. a whisper of ~】
-
 意味
-
 - かすかな〜／わずかな気配
-
 例文
-
 - a whisper of hope
   - → 「かすかな希望」
-
 類義語
-
 - a hint of ~（軽い・日常的）
 - a trace of ~（痕跡・客観的）
-
 対義語
-
 - obvious / clear（明確な）
 
 ### 【9. insensitive】
-
 - 意味：無神経な／配慮がない
-
 例文
-
 - That was insensitive.
   - → 「それは無神経だった」
-
 使い方
-
 - insensitive comment（無神経な発言）
 - be insensitive to ~（〜に鈍感）
-
 類義語
-
 - rude（失礼）
 - mean（意地悪）
 - inconsiderate（思いやりがない）
-
 重要フレーズ
-
 - I didn’t mean to be insensitive.
   - → 「無神経なつもりじゃなかった」
 
 ### 【全体まとめ（重要コア）】
-
 ① 変化・調整系
-
 - fine-tune（微調整）
 - tweak（軽い修正）
 - refine（洗練）
-
 ② 物理・圧力系
-
 - squeeze（押す・無理に入れる）
 - squeeze by（ギリギリ通る）
-
 ③ 判断・根拠系
-
 - off of（based on）
 - regardless（関係なく）
-
 ④ コミュニケーション系
-
 - just to put it out there（前置き）
 - insensitive（配慮の欠如）
-
 ⑤ 状態の微妙さ
-
 - a whisper of ~（かすかな兆し）
-
 ⑥ トラブル・リスク
-
 - scam（詐欺）
 
 ## 5/31
@@ -5658,33 +4161,27 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### ■ find myself doing ~
-
 - 意味：気づいたら〜している／いつの間にか〜している
 - ポイント：無意識・後から気づく行動
-
 例文
-
 - I often find myself checking my phone.
   - よく気づいたらスマホを見ている
 - I found myself laughing at his jokes.
   - 気づいたら笑っていた
 
 ### 【Correction Log】
-
 今回の内容では特に英語の修正ミスはなし
 （新しい自然表現のインプット回）
 
 ### 【Phrases to Master】
 
 #### ① find myself doing ~（中心表現）
-
 - I find myself thinking about it a lot.
   - → 気づけばそれについてよく考えている
 - I find myself getting distracted easily.
   - → 気づけばすぐ気が散っている
 
 #### ② find myself + -ing の応用
-
 - `find myself wondering ~`
   - I find myself wondering if this is the right choice.
   - → これが正しい選択なのか考えてしまう自分に気づく
@@ -5696,28 +4193,19 @@ Option 3（ちょい洗練）
   - → 選択肢がない状況にいると気づいた
 
 #### ③ 類似表現との比較
-
 ■ end up doing ~
-
 - 意味：結果として〜することになる
 - ニュアンス：結果・流れ
-
 例：
-
 - I ended up staying home.
   - → 結局家にいた
-
 ■ find myself doing ~
-
 - ニュアンス：無意識・気づき
-
 例：
-
 - I found myself staying home every weekend.
   - → 気づいたら毎週末家にいた
 
 #### ④ よく使う自然表現
-
 - I find myself doing that a lot.
   - → それよくやってるなと気づく
 - I find myself doing the same thing again.
@@ -5728,340 +4216,212 @@ Option 3（ちょい洗練）
 ## 6/1
 
 ### 1. fall under
-
 意味
-
 - 〜に分類される
 - 〜の対象になる
 - 〜の管轄下にある
-
 例文
-
 - This issue falls under customer support.
 - Immigration falls under the Ministry of Justice.
-
 類義語
-
 - be classified as ~（分類される）
 - be under ~ jurisdiction（管轄下）
-
 ポイント
-
 - 👉 フォーマル寄り・ビジネスで頻出
 - 👉 「どのカテゴリか」を言うときに便利
 
 ### 2. have someone over
-
 意味
-
 - 人を家に招く
-
 例文
-
 - We had friends over for dinner.
 - I like having people over on weekends.
-
 類義語
-
 - invite someone over（招待する）
 - host someone（もてなす・ややフォーマル）
-
 ポイント
-
 - 👉 「家で一緒に過ごす」ニュアンス
 - 👉 日常会話で超頻出
 
 ### 3. I was under the impression that ~
-
 意味
-
 - 〜だと思っていた（認識・理解）
-
 例文
-
 - I was under the impression that the meeting was at 3.
 - I was under the impression that this was free.
-
 類義語
-
 - I thought ~（単純な思考）
 - I understood that ~（理解していた）
-
 ポイント
-
 - 👉 誤解・認識違いを丁寧に言う表現
 - 👉 ビジネスでもよく使う
 
 ### 4. in the same boat
-
 意味
-
 - 同じ状況・問題にいる
-
 例文
-
 - We're all in the same boat.
 - I'm in the same boat as you.
-
 類義語
-
 - in the same situation（より普通）
 - going through the same thing
-
 ポイント
-
 - 👉 共感フレーズとして超重要
 - 👉 英会話で頻出
 
 ### 5. swing by
-
 意味
-
 - ちょっと立ち寄る
-
 例文
-
 - I'll swing by your place.
 - I swung by the store.
-
 類義語
-
 - stop by（少し寄る）
 - drop by（ふらっと寄る）
 - pop by（軽く訪問）
-
 ポイント
-
 - 👉 カジュアル・自然な日常表現
 
 ### 6. It can wait
-
 意味
-
 - 後回しでいい
 - 急がなくていい
-
 例文
-
 - Don't worry. It can wait.
 - It's not urgent. It can wait.
-
 類義語
-
 - No rush（急がなくていい）
 - Take your time（ゆっくりでいい）
 - It's not urgent（緊急じゃない）
-
 ポイント
-
 - 👉 相手を安心させる一言
 
 ### 7. on the fence
-
 意味
-
 - 決めかねている
 - 迷っている
-
 例文
-
 - I'm on the fence about buying it.
 - I'm still on the fence.
-
 類義語
-
 - undecided（未決定）
 - torn between A and B（強い迷い）
-
 派生表現
-
 - sit on the fence（中立を保つ／態度を決めない）
-
 ポイント
-
 - 👉 意見を求められたとき万能
 
 ### 🔥 全体まとめ（イメージ別）
-
 📌 分類・ビジネス系
-
 - fall under
 - I was under the impression that ~
-
 📌 人間関係・日常
-
 - have someone over
 - swing by
 - in the same boat
-
 📌 状況・感情
-
 - it can wait
 - on the fence
 
 ### 💡 すぐ使える会話セット
-
 ① 共感
-
 - We're all in the same boat.
-
 ② 誘い
-
 - I'll swing by your place later.
-
 ③ 誤解
-
 - I was under the impression that it was free.
-
 ④ 迷い
-
 - I'm still on the fence about it.
-
 ⑤ 気遣い
-
 - Don't worry, it can wait.
 
 ## 6/2
 
 ### 1. snap at
-
 意味
-
 - （イライラして）〜にきつく言う、怒る
-
 使い方
-
 - snap at + 人
-
 ニュアンス
-
 - 普段は普通でも、ストレス・疲れで一瞬きつくなる
-
 例文
-
 - I snapped at my coworker.
 - Sorry, I didn’t mean to snap at you.
-
 関連表現
-
 - snap back（言い返す）
-
 類義語
-
 - bark at（怒鳴るように言う）
 - lash out at（感情的に攻撃する）
-
 対義語
-
 - stay calm（落ち着いている）
 - be patient（我慢する）
 
 ### 2. no-go
-
 意味
-
 - 無理なこと、ダメなこと、却下事項
-
 使い方
-
 - (be) a no-go
 - That's a no-go
-
 例文
-
 - Smoking here is a no-go.
 - That’s a definite no-go.
-
 ニュアンス
-
 - 「選択肢として存在しない」くらい強い拒否感
-
 類義語
-
 - not an option（選択肢にない）
 - off-limits（立入禁止・禁止事項）
 - impossible（不可能）
-
 対義語
-
 - go-ahead（許可）
 - acceptable（許容される）
 
 ### 3. on top of that
-
 意味
-
 - その上に、さらに、それに加えて
-
 使い方
-
 - 文頭で追加情報を強調
-
 例文
-
 - It was raining. On top of that, I lost my wallet.
 - The food was expensive, and on top of that, not good.
-
 ニュアンス
-
 - 「追加ダメージ」「追い打ち」っぽい感じでも使える
-
 類義語
-
 - in addition（加えて）
 - besides that（その上）
 - what’s more（さらに）
 - to make matters worse（悪化させることに）※悪い流れ限定
-
 対義語
-
 - however（しかし）
 - on the other hand（その一方で）
 
 ### 4. turn-off（スラング）
-
 意味
-
 - 冷める要素、魅力を失うポイント
-
 使い方
-
 - be a turn-off
 - a big/huge turn-off
-
 例文
-
 - Bad manners are a turn-off.
 - Smoking is a huge turn-off for me.
-
 ニュアンス
-
 - 恋愛・好みの話でよく使う
 - 「一気に興味がなくなる」感じ
-
 関連表現
-
 - turn on（魅力を感じさせるもの）
-
 類義語
-
 - deal-breaker（絶対無理な条件）
 - off-putting（引いてしまう）
 - unattractive（魅力がない）
-
 対義語
-
 - turn-on（魅力ポイント）
 - attractive（魅力的）
 
 ### 【セットで使える自然な会話例】
-
 - I was really stressed today, so I snapped at my coworker.
 - On top of that, the meeting went overtime, so it was kind of a no-go day for me.
 - And honestly, people snapping at others is a huge turn-off.
 
 ### 【今日のコアイメージまとめ】
-
 - snap at → 感情が「一瞬爆発」
 - no-go → 「そもそも無理」
 - on top of that → 「追い打ちで追加」
@@ -6072,43 +4432,35 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary / Phrases】
 
 #### 1. It's been a long day
-
 - 意味: 長い一日だった（疲れた・忙しかった）
 - 例文: It's been a long day. I need to rest.
 - 類義語: I'm exhausted / I'm beat / I'm worn out
 
 #### 2. more often than not
-
 - 意味: たいていは、かなりの頻度で
 - 例文: More often than not, I work from home.
 - 類義語: usually / most of the time / in most cases
 
 #### 3. win back
-
 - 意味: 信頼・人・支持などを取り戻す
 - 例文: He tried to win back her trust.
 - 類義語: regain / earn back
 - コロケーション: win back trust / customers / support
 
 #### 4. zone out
-
 - 意味: ぼーっとする、上の空になる
 - 例文: Sorry, I zoned out for a second.
 - 類義語: space out / daydream / lose focus
 
 #### 5. let off steam
-
 - 意味: ストレス発散する
 - 例文: I go to the gym to let off steam.
 - 類義語: blow off steam / unwind / de-stress
-
 ニュアンス差
-
 - let off steam = 発散する
 - unwind = リラックスする
 
 #### 6. same difference
-
 - 意味: どっちでも同じ、細かい違いは重要じゃない
 - 例文:
   - A: It's a sandwich, not a burger.
@@ -6117,30 +4469,25 @@ Option 3（ちょい洗練）
 - 注意: 軽い会話向け（ややカジュアル・皮肉）
 
 #### 7. fix A up with B
-
 - 意味: AにBを紹介する（恋愛）
 - 例文: My friend fixed me up with her cousin.
 - 類義語: set A up with B ⭐（より一般的）
 - 関連: be fixed up (by someone)
 
 #### 8. take someone up on something
-
 - 意味: 提案・申し出を受ける
 - 例文: I'll take you up on that offer.
 - 類義語: accept an offer / say yes to / go for it
 - ニュアンス: 好意をありがたく受ける
 
 #### 9. no better than
-
 - 意味: ～と同じくらい良くない（実質同じレベル）
 - 例文: This is no better than the old version.
 - 類義語: no different from / just as bad as / as bad as
 - 注意: 批判的・強い表現になりやすい
 
 ### 【Phrases to Master（実戦用）】
-
 すぐ使える万能フレーズ：
-
 - It's been a long day, so I just want to relax.
 - More often than not, I study English at night.
 - Sorry, I zoned out for a second.
@@ -6154,94 +4501,74 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary & Phrases】
 
 #### 1. stream online
-
 - 意味: オンライン配信する
 - 例文: The concert was streamed online.
   - （そのコンサートはオンライン配信された。）
-
 類義語
-
 - livestream
 - broadcast online
-
 関連表現
-
 - tune in（視聴する）
   - Millions of people tuned in.
   - （何百万人もの人が視聴した。）
 
 #### 2. tune in
-
 - 意味: 視聴する
 - 例文: Millions of people tuned in to watch the concert.
 
 #### 3. draw millions of viewers
-
 - 意味: 何百万人もの視聴者を集める
 - 例文: The livestream drew millions of viewers.
 
 #### 4. have a lot going for someone
-
 - 意味: 魅力や長所がたくさんある
 - 例文: They have a lot going for them.
   - （彼らにはたくさんの魅力がある。）
-
 類義語
-
 - have many strengths
 - have a lot of appealing qualities
 
 #### 5. appealing
-
 - 意味: 魅力的な
 - 例文: They have many appealing qualities.
 
 #### 6. chemistry
-
 - 意味: （人間関係の）相性・ケミストリー
 - 例文: The members have great chemistry.
   - （メンバー同士の相性がとても良い。）
 
 #### 7. genuinely close
-
 - 意味: 本当に仲が良い
 - 例文: They seem genuinely close.
 
 #### 8. relatable
-
 - 意味: 親しみやすい
 - 例文: They're very relatable despite their fame.
 
 #### 9. stay humble
-
 - 意味: 謙虚であり続ける
 - 例文: They've stayed humble despite their success.
 
 #### 10. put on a show
-
 - 意味: パフォーマンスをする
 - 例文: They always put on an amazing show.
 
 ### 【解散・活動終了】
 
 #### disband
-
 - 意味: 解散する
 - 例文: The group disbanded.
 - 類義語: break up
 
 #### break up
-
 - 意味: （グループが）解散する
 - 例文: The band broke up.
 
 #### end one's activities
-
 - 意味: 活動終了する
 - 例文: The group ended their activities.
 
 #### go on hiatus
-
 - 意味: 活動休止する
 - 例文: The group went on hiatus.
 - 対義語: resume activities / make a comeback
@@ -6249,51 +4576,41 @@ Option 3（ちょい洗練）
 ### 【批判・非難】
 
 #### criticism
-
 - 意味: 批判
 - 例文: He came under criticism.
 
 #### come under criticism
-
 - 意味: 批判を受ける
 - 例文: He came under criticism for his remarks.
 
 #### target of criticism
-
 - 意味: 批判の対象
 - 例文: He became the target of criticism.
 
 #### be under fire
-
 - 意味: 激しい非難を受ける
 - 例文: He is under fire for his actions.
 
 ### 【比較・優れている】
 
 #### twice as ... as ...
-
 - 意味: ～の2倍...
 - 例文: He is twice as good as I am.
   - （彼は私の2倍優れている。）
-
 パターン
-
 - twice as fast as
 - twice as expensive as
 - twice as popular as
 
 #### way better than
-
 - 意味: ずっと優れている
 - 例文: He's way better than me.
 
 #### much better than
-
 - 意味: かなり優れている
 - 例文: He's much better than I am.
 
 #### superior to
-
 - 意味: ～より優れている
 - 例文: This method is superior to the old one.
 - 注意: 人について言うと少し硬く聞こえる。
@@ -6301,115 +4618,83 @@ Option 3（ちょい洗練）
 - 対義語: inferior to
 
 #### inferior to
-
 - 意味: ～より劣っている
 - 例文: The product is inferior to its competitors.
 
 ### 【忙しい？】
 
 #### kind of
-
 - 意味: まあまあかな
 - 例文:
   - Busy?
   - Kind of.
 
 #### somewhat
-
 - 意味: ある程度
 - 例文: Yeah, somewhat.
 
 #### have a lot going on
-
 - 意味: いろいろある
 - 例文: I've had a lot going on lately.
 
 #### have a lot on one's plate
-
 - 意味: やることがたくさんある
 - 例文: I've had a lot on my plate recently.
 
 #### keep busy
-
 - 意味: 忙しくしている
 - 例文: I've been keeping busy lately.
 
 ### 【仕事で使える表現】
 
 #### submit
-
 - 意味: 提出する
 - 例文: I need to submit a report.
 - 類義語: hand in / turn in
 
 #### hand in
-
 - 意味: 提出する
 - 例文: I have to hand in my report tomorrow.
 
 #### turn in
-
 - 意味: 提出する（米）
 - 例文: I forgot to turn in my homework.
 
 #### proposal
-
 - 意味: 提案書
 - 例文: I'm working on a proposal.
 
 #### report
-
 - 意味: 報告書・レポート
 - 例文: I have a report to submit.
 
 ### 【今回のCamblyで言いたかった表現】
-
 最近かなり忙しい
-
 - I've been pretty busy lately.
-
 めちゃくちゃ忙しいわけではない
-
 - I wouldn't say I'm super busy, but I've had a lot going on lately.
-
 そのコンサートはオンライン配信された
-
 - The concert was streamed online.
-
 数百万人が見たらしい
-
 - Apparently millions of people watched it.
 - Millions of people tuned in.
-
 彼らにはたくさんの魅力がある
-
 - They have a lot going for them.
-
 メンバー同士の仲が良い
-
 - The members have great chemistry.
 - They seem genuinely close.
-
 そのグループは解散した
-
 - The group disbanded.
-
 そのグループは活動終了した
-
 - The group ended their activities.
-
 彼は批判の対象になった
-
 - He became the target of criticism.
-
 彼は私よりずっと優れている
-
 - He's way better than me.
 - He's much better than I am.
 - He's twice as good as I am.
 
 ### 【Correction Log】
-
 - ❌ I heard that the show is on air online.
   - ✅ I heard the concert was streamed online.
 - ❌ The group were born in the same year.
@@ -6424,7 +4709,6 @@ Option 3（ちょい洗練）
   - ✅ They are one of the most popular groups in Japan.
 
 ### 【Phrases to Master】
-
 - stream online
 - tune in
 - draw millions of viewers
@@ -6454,281 +4738,177 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### undergo
-
 - 意味：〜を受ける／経験する（フォーマル）
 - コアイメージ：自分の意思というより「何かを受けて変化する」
-
 例
-
 - undergo surgery（手術を受ける）
 - undergo change（変化を経験する）
-
 類義語
-
 - experience（一般的）
 - go through（カジュアル・苦難）
 
 #### goldfish
-
 - 記憶力が悪い人（比喩）
 - goldfish memory = 忘れっぽい
-
 例
-
 - I have the memory of a goldfish.
-
 対義
-
 - sharp memory（記憶がいい）
 
 #### binge / binge-watching
-
 - binge = むさぼるように一気にやる
 - binge-watch = 一気見する
-
 例
-
 - I binge-watched Netflix.
 - I’ve been binging on YouTube.
-
 類義語
-
 - marathon watch（ややフォーマル）
 - watch a lot（普通）
 
 #### what I was born into
-
 - 生まれた環境・条件全体
-
 例
-
 - I didn’t choose what I was born into.
-
 類義語
-
 - background（背景）
 - upbringing（育ち）
 
 #### blow one’s mind
-
 - 衝撃を与える・驚かせる
-
 例
-
 - That blew my mind.
-
 強さ
-
 - surprised < amazed < blew my mind
 
 #### go ballistic
-
 - 激怒する・ブチ切れる
-
 例
-
 - My boss went ballistic.
-
 類義語
-
 - lose temper
 - freak out
 - hit the roof
 
 #### ask out
-
 - デートに誘う
-
 例
-
 - He asked her out.
-
 対義
-
 - get rejected（断られる）
-
 類義語
-
 - invite out（恋愛以外も含む）
 
 #### you have my word
-
 - 約束する（強い誠意）
-
 例
-
 - You have my word.
-
 類義語
-
 - I promise（普通）
 - I swear（強め）
 
 #### on the plus side
-
 - 良い面を見ると
-
 例
-
 - On the plus side, it’s cheap.
-
 類義語
-
 - on the bright side
 - the upside is
 
 #### rein in
-
 - 抑える・コントロールする
-
 例
-
 - rein in spending
-
 類義語
-
 - control
 - restrain
 - keep in check
 
 #### without further ado
-
 - 前置きなしで本題へ
-
 例
-
 - Without further ado, let’s start.
-
 類義語
-
 - let’s get started
 
 #### next to nothing
-
 - ほとんどゼロ
-
 例
-
 - It costs next to nothing.
-
 類義語
-
 - almost nothing
 - very little
 
 #### side hustle
-
 - 副業（カジュアル）
-
 例
-
 - I have a side hustle.
-
 類義語
-
 - side job
 - freelance work
 
 #### bottom line
-
 - 結論・一番重要な点
-
 例
-
 - The bottom line is...
-
 類義語
-
 - in short
 - conclusion
 
 #### crack someone up
-
 - 爆笑させる
-
 例
-
 - He cracks me up.
-
 類義語
-
 - make someone laugh
 - be funny
 
 #### quite a bit
-
 - かなり多い（中程度）
-
 例
-
 - I travel quite a bit.
-
 類義語
-
 - a lot（強い）
 - a little（弱い）
 
 #### have yet to
-
 - まだ〜していない（フォーマル）
-
 例
-
 - I have yet to decide.
-
 類義語
-
 - not yet
 - haven’t done yet
 
 #### stung
-
 - 刺された／心がグサッときた
-
 例
-
 - That really stung.
-
 類義語
-
 - hurt
 - upset
 
 #### caliber
-
 - 能力・レベル・格
-
 例
-
 - a person of high caliber
-
 類義語
-
 - quality
 - level
 
 #### be in for
-
 - これから〜が起こる（確実な未来）
-
 例
-
 - You’re in for a surprise.
-
 類義語
-
 - going to experience
 - likely to face
 
 ### 【Correction Log（重要な違い）】
-
 - ask out = 恋愛的に誘う（inviteとは違う）
 - rein in = 抑える（controlより“暴走を止める”感）
 - have yet to = not yetよりフォーマル
 - be in for = 単なる未来ではなく“確実に起こる流れ”
 
 ### 【Phrases to Master（そのまま使える）】
-
 - I have yet to decide.
 - That blew my mind.
 - He cracks me up.
@@ -6745,84 +4925,60 @@ Option 3（ちょい洗練）
 ### 【Key Vocabulary】
 
 #### 1. bull（＝bullshitの省略）
-
 - 意味: デタラメ・くだらないこと（カジュアル・やや乱暴）
-
 - `That’s bull.`
   - それはデタラメだ／ありえない
-
 類義語
-
 - nonsense（ややマイルド）
 - bullshit（強い・汚い）
 - rubbish（UK）
-
 対義語
-
 - truth（真実）
 - fact（事実）
 
 #### 2. give away
-
 ① 無料であげる・譲る
-
 - `give away old clothes`
   - 古着を譲る
 - `They're giving away free samples.`
   - 無料サンプルを配っている
-
 ② 秘密・ネタをばらす
-
 - `Don’t give away the ending.`
   - 結末をバラさないで
 - `He gave away the surprise.`
   - サプライズを台無しにした
-
 ③ 本心・感情が表に出る
-
 - `His smile gave him away.`
   - 笑顔でバレた
 - `Her expression gave her away.`
   - 表情でバレた
-
 関連表現
-
 - `give yourself away`（自滅的にバレる）
   - You gave yourself away.
 - `dead giveaway`（決定的な証拠）
   - His accent was a dead giveaway.
-
 類義語
-
 - reveal（明かす）
 - expose（暴露する）
 - leak（情報が漏れる）
 
 #### 3. 数字を追い求める（表現）
-
 最も自然
-
 - `chase numbers`
   - 数字を追いかける
-
 例文
-
 - Many influencers are chasing numbers.
   - 多くのインフルエンサーは数字を追っている
 - I don’t want to chase numbers.
   - 数字を追いかけたくない
-
 よく使う関連表現
-
 - `obsess over numbers`
   - 数字に取りつかれる
 - `focus too much on the numbers`
   - 数字にこだわりすぎる
 - `get caught up in chasing numbers`
   - 数字にのめり込む
-
 pursue / demand との違い
-
 - ❌ pursue numbers（不自然）
   - pursue = 夢・目標・キャリア向き
   - OK: pursue success / growth / goals
@@ -6841,7 +4997,6 @@ pursue / demand との違い
 | demand numbers | × | 意味が違う |
 
 ### 【Phrases to Master】
-
 - That’s bull.
 - Don’t give away the ending.
 - Her expression gave her away.
