@@ -198,6 +198,7 @@ Meaning：To finally do something delayed.（ようやく～する）
 Example：Naruto finally got around to learning advanced chakra control.
 
 ### come down to
+ミス：×
 重要度：★★★★
 Meaning：To depend on something.（結局～にかかっている）
 Example：The battle came down to who had more chakra.
@@ -420,6 +421,7 @@ Example：
 　2. Tsunade decided to overlook Naruto’s prank this time because his Rasengan training had improved so much.
 
 ### back in the day
+ミス：×
 重要度：★★★★
 Meaning：In the past, especially a time the speaker remembers fondly.（昔は／あの頃は）
 Example：Back in the day, Kakashi used to train with his old Team Minato—he often tells Naruto stories about his rivalry with Obito.
@@ -477,6 +479,7 @@ Meaning：Caring too much about small, unimportant things; small-minded or mean 
 Example：Sasuke called Naruto petty for getting upset about who finished their ramen faster, but Naruto refused to let it go.
 
 ### tempt
+ミス：×
 重要度：★★★★
 Meaning：To make someone want to do something, often something they shouldn’t.（誘惑する／そそる）
 Example：Orochimaru tried to tempt Sasuke with the promise of greater power, knowing how badly he wanted revenge against Itachi.

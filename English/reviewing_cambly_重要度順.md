@@ -898,6 +898,86 @@ Meaning：いろいろある／やることがたくさんある
 Example：I've had a lot going on lately. / She has a lot on her plate right now.
 Nuance：忙しさを上品に説明できる頻出フレーズ。
 
+### pick up
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. （人を）迎えに行く
+　2. （物を）買ってくる・拾う
+　3. （言語・スキルを）身につける
+　4. （雰囲気・感情などに）気づく
+Example：
+　1. I'll pick you up at the station.
+　2. Can you pick up some milk on your way home?
+　3. I picked up a lot of English while traveling abroad.
+　4. I picked up on his frustration.
+Nuance：日常会話最頻出の phrasal verb。[[drop off]] とセットで覚える。"pick up on ~" は「察する・気づく」で頻出。
+
+### drop off
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. （人を）送る・降ろす
+　2. （物を）届ける
+　3. 居眠りする
+　4. 減少する
+Example：
+　1. I'll drop you off at the airport.
+　2. Can you drop off this package at the post office?
+　3. I dropped off during the movie.
+　4. Sales dropped off after the holidays.
+Nuance：[[pick up]] と対で使う。"I'll pick you up at 6 and drop you off after dinner." が定番の対比構文。
+
+### might as well
+新規：✓
+重要度：★★★★★
+Meaning：どうせなら〜しよう／〜したほうがいいかも
+Example：We're already here, so we might as well eat. / Might as well try — you've got nothing to lose.
+Nuance："may as well" とほぼ同義。「もう避けられないから／どうせだから」と受け入れる時の口癖。会話で超頻出。
+
+### drive someone crazy
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. イライラさせる／気を狂わせるほど困らせる
+　2. 夢中にさせる（恋愛・比喩）
+Example：
+　1. The noise is driving me crazy.
+　2. She's driving me crazy — I can't stop thinking about her.
+Nuance："drive someone nuts / mad / insane / wild" と同型の構文。annoy より感情が強い。日常会話・恋愛両方で頻出。
+
+### deep down
+新規：✓
+重要度：★★★★★
+Meaning：本心では／心の奥では
+Example：Deep down, I knew he was right, but I didn't want to admit it.
+Nuance：「表向きは違うけど、本音の部分では」というニュアンス。at heart / secretly と近いが、より内省的・感情的。
+
+### haven't seen you in a while / Long time no see
+新規：✓
+重要度：★★★★★
+Meaning：久しぶり
+Example：— Hey, haven't seen you in a while! How've you been? — I know, right? It's been forever.
+Nuance："Long time no see." は文法的にはブロークンだがネイティブ超頻出。"It's been a while." もほぼ同じ。全てカジュアル。
+
+### hopefully
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. 願わくば／うまくいけば
+　2. 希望を持って（副詞として）
+Example：
+　1. Hopefully, it won't rain tomorrow.
+　2. She looked at him hopefully, waiting for an answer.
+Nuance：文頭で使う「うまくいけば」がダントツ頻出。"I hope" より軽くて自然。会話の枕詞的に使える。
+
+### Don't get me wrong
+新規：✓
+重要度：★★★★★
+Meaning：誤解しないでね／悪く取らないで
+Example：Don't get me wrong, I like him — but he can be annoying sometimes.
+Nuance：批判・反対意見・微妙なコメントの前置きに使う超頻出フレーズ。「〜だけど誤解しないで、〜」の型で言い訳・フォローに便利。
+
 ---
 
 ## ★★★★（週に何度かは出会う／使う）
@@ -1516,39 +1596,39 @@ Meaning：わからん／さあね
 Example：— Why is he late? — Beats me.
 
 ### wager
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：賭ける／〜だと思う
 Example：I'd wager he's right.
 発音：ウェイジャァ
 
 ### caliber
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：レベル／質
 Example：a person of high caliber
 
 ### eligibility / expire
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：資格・適格性／期限切れになる
 Example：Check eligibility before applying. / My passport expires next month.
 
 ### reach across the aisle
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：対立を超えて協力する
 Example：Politicians need to reach across the aisle more often.
 発音：aisleはアイル
 
 ### set the bar low / high
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：基準を低く／高く設定する
 Example：He set the bar pretty low with that excuse.
 
 ### out cold
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：完全に気絶／熟睡
 Example：He was out cold after the long flight.
@@ -1559,56 +1639,56 @@ Meaning：〜を守る・続ける
 Example：Stick to the plan.
 
 ### give (someone) the edge
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：優位を与える／有利にする
 Example：His experience gives him the edge.
 
 ### cinch
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：楽勝
 Example：The test was a cinch.
 発音：スィンチ
 
 ### slippery
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：滑りやすい／信用しづらい（人にも）
 Example：He's a slippery character.
 
 ### vicious
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：残酷な／悪循環の
 Example：a vicious cycle
 
 ### malice
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：悪意
 Example：He acted with no malice.
 
 ### innate
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：生まれつきの／本能的な
 Example：She has an innate ability for languages.
 
 ### dwell on ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜を引きずる／くよくよ考える
 Example：Stop dwelling on the past.
 
 ### stung
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：刺された／心がグサッときた
 Example：That comment really stung.
 
 ### rein in ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：抑える／コントロールする
 Example：I need to rein in my spending.
@@ -1619,31 +1699,31 @@ Meaning：前置きなしで本題へ
 Example：Without further ado, let's start.
 
 ### goldfish memory
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：忘れっぽい
 Example：I have the memory of a goldfish.
 
 ### what I was born into
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：生まれた環境・条件
 Example：I didn't choose what I was born into.
 
 ### go ballistic
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：激怒する／ブチ切れる
 Example：My boss went ballistic.
 
 ### you have my word
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：約束する（強い誠意）
 Example：You have my word — I'll be there.
 
 ### dead giveaway
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：決定的にバレる証拠
 Example：His accent was a dead giveaway.
@@ -1664,13 +1744,13 @@ Meaning：透明な／透けて見える
 Example：The water was unbelievably transparent.
 
 ### ease / soothe / alleviate / mitigate
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：和らげる
 Example：Music helps ease my anxiety. / Tea soothes the mind. / alleviate symptoms（フォーマル） / mitigate risk（問題向け）
 
 ### combine A and B / a mix of A and B
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：AとBを組み合わせる／混ぜたもの
 Example：Yoga is a mix of meditation and exercise.
@@ -1681,75 +1761,75 @@ Meaning：（船・フェリーの）発着所
 Example：I went to the pier and got on a ferry.
 
 ### plain broke / under strain
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：金欠 / 負担がかかっている
 Example：The company is under strain.
 
 ### a year and a half ago
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：1年半前（口語2パターン）
 Example：I started learning English a year and a half ago.
 
 ### finest
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：最高の／最上級の／極上の
 Example：This is the finest coffee I've ever had. / She's one of the finest doctors in the country.
 Nuance：「good」よりかなり格上の褒め言葉。日常で大げさめに称賛したいときに自然。
 
 ### jump the gun
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：先走る／フライングする／早まる
 Example：Don't jump the gun — let's wait for the official announcement.
 Nuance：判断や行動が「早すぎ」というニュアンス。rush into よりイディオム感が強い。
 
 ### generous
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：気前がいい／惜しまず与える／量がたっぷり
 Example：She's very generous with her time. / a generous portion of pasta
 Nuance：人の性格にも、料理の量にも使える。対義は stingy（ケチ）。
 
 ### skyrocket / have skyrocketed
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：急上昇する／急騰する
 Example：Prices have skyrocketed this year.
 Nuance：go through the roof / surge と同義の口語的表現。値段・需要・人気で頻出。
 
 ### come clean
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：白状する／正直に打ち明ける
 Example：He finally came clean about the mistake.
 Nuance：confess よりカジュアル。「観念して話す」感じ。
 
 ### do over / do-over
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：やり直す／やり直し（カジュアル）
 Example：Let's do it over. / Can I have a do-over?
 Nuance：redo より口語的。ゲームや軽い場面の「もう一回」感。
 
 ### snap at (someone)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（イライラして）〜にきつく言う／一瞬怒鳴る
 Example：Sorry, I didn't mean to snap at you.
 Nuance：普段穏やかな人がストレスで一瞬きつくなる感じ。bark at より日常的。
 
 ### no-go
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：無理／ダメ／却下事項
 Example：Smoking here is a no-go. / That's a definite no-go.
 Nuance：not an option より口語的でカジュアル。「そもそも論外」感。
 
 ### turn-off / turn-on
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. turn-off：（恋愛・好み）一気に冷める要素
@@ -1773,14 +1853,14 @@ Example：I got scammed. / It's an online scam.
 Nuance：scammer（人）はすでに収録済み。動詞 get scammed が日常で頻出。
 
 ### fine-tune
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：微調整する／最適化する
 Example：I'm fine-tuning my pronunciation. / We fine-tuned the plan.
 Nuance：tweak より「精度を上げる」響き。仕事・学習・趣味どこでも使える。
 
 ### insensitive
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：無神経な／配慮がない
 Example：That was insensitive. / I didn't mean to be insensitive.
@@ -1794,21 +1874,21 @@ Example：She's out of my league. / That team is out of our league.
 Nuance：恋愛・スポーツ・仕事すべてで使える。対義は in my league。
 
 ### off of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜をもとにして／〜から（カジュアルな based on）
 Example：It wasn't just off of what he said. / I'm going off of the data we have.
 Nuance：based on のくだけた形。アメリカ英語の口語でよく出る。
 
 ### Do you happen to know ~? / Do you happen to ~?
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：もし知っていたら〜／もしかして〜（丁寧な質問）
 Example：Do you happen to know where the station is? / Do you happen to have a charger?
 Nuance：by any chance と同じく丁寧クッション。初対面でも自然。
 
 ### pound
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. （強く）叩く／ドンドン打つ
@@ -1821,7 +1901,7 @@ Example：
 Nuance：感情・身体描写で2の用法が頻出。
 
 ### hold back (laughter / tears / emotions)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（笑い・涙・感情を）こらえる／抑える
 Example：I tried to hold back my laughter. / She couldn't hold back her tears.
@@ -1834,14 +1914,14 @@ Example：I couldn't help laughing. / I couldn't help noticing.
 Nuance：感情・反応が抑えきれなかったときの定番。
 
 ### get promoted / promotion
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：昇進する／昇進
 Example：He just got promoted. / I'm hoping for a promotion this year.
 Nuance：受け身の get + 過去分詞 が口語的に最頻出。
 
 ### restless
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：落ち着かない／じっとしていられない
 Example：I get restless if I stay home all day.
@@ -1855,28 +1935,28 @@ Example：I feel guilty when I'm not being productive.
 Nuance：罪を犯した（guilty of crime）以外に、日常の小さな後ろめたさにも使う。
 
 ### work-related
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：仕事関連の
 Example：I attended a work-related event. / It's a work-related question.
 Nuance：「〜-related」は何でも作れる便利な接尾辞（health-related など）。
 
 ### deduct / be deducted from ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：差し引く／天引きする
 Example：Taxes are deducted from your salary. / 15 minutes will be deducted from your balance.
 Nuance：金額・時間・残量を「自動的に引かれる」場面で頻出。
 
 ### a set amount of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：決まった量の〜／一定の〜
 Example：My plan comes with a set amount of lesson time. / You only have a set amount of data each month.
 Nuance：プラン・契約・配給の話で出る固定フレーズ。
 
 ### just right / the right amount of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：ちょうど良い／ぴったりの量の〜
 Example：It has just the right amount of caffeine. / The atmosphere is just right.
@@ -1895,7 +1975,7 @@ Example：I recently went through a breakup.
 Nuance：go through ~（〜を経験する）の超頻出コロケーション。
 
 ### fluffy
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：ふわふわした／もふもふした
 Example：This puppy is so fluffy. / a fluffy pancake
@@ -1914,56 +1994,56 @@ Example：I already got my workout in today.
 Nuance：かなりネイティブっぽい言い回し。仕事や家事の前後でサラッと出るとカッコいい。
 
 ### ick / give (someone) the ick
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：一気に冷めるポイント／生理的に無理になる瞬間
 Example：That gave me the ick. / What's your biggest ick?
 Nuance：恋愛系スラングとして爆発的に普及中。Z世代頻出。
 
 ### weirdo
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：変な人／変わり者
 Example：You're such a weirdo. / He's kind of a weirdo.
 Nuance：カジュアル。軽口・親密な間柄で使う。
 
 ### stinky
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：くさい
 Example：My socks are stinky.
 Nuance：smelly よりも子どもっぽくカジュアル。
 
 ### propel / propel ~ forward
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：推進する／後押しする／前進させる
 Example：Curiosity propelled me to learn English. / Social media propelled him to fame.
 Nuance：drive / fuel と近い。「勢いで押し進める」響き。
 
 ### affinity / have an affinity for ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：親和性／強い興味／自然な適性
 Example：I've always had an affinity for languages.
 Nuance：「ピンとくる」「相性がいい」感。be drawn to と近い。
 
 ### pompous
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：偉そうな／尊大な
 Example：He sounds really pompous.
 Nuance：pretentious（気取った）/ arrogant（見下す）と微妙に違う。pompous は「もったいぶってる」。
 
 ### pristine / pristine condition
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：完璧にきれいな／新品同様の／手つかずの
 Example：The car is in pristine condition. / The island has pristine beaches.
 Nuance：中古品・自然・部屋など、汚れがない状態を強く言いたいときに。
 
 ### oblige / I'd be happy to oblige
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. （oblige A to do）義務づける
@@ -1974,63 +2054,63 @@ Example：
 Nuance：意味②は丁寧でやや上品。日常で使えると一気にレベル感が上がる。
 
 ### nonchalant
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：平然とした／気にしてない風の／余裕がある
 Example：He was surprisingly nonchalant about the situation.
 Nuance：本当に冷静（calm）ではなく、「気にしてない演出」を含む点が肝。
 
 ### diligently / diligent
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：熱心に／コツコツと／真面目に
 Example：She worked diligently to improve her English.
 Nuance：hardworking（性格）と違い、diligent は「行動の質」を指す。
 
 ### I expected no less / I wouldn't expect anything less
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：当然だと思ってた／君ならそれくらいやると思った
 Example：— I finished it last night. — I expected no less from you.
 Nuance：相手を持ち上げる軽い褒めフレーズ。
 
 ### Chances are (that) ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：たぶん〜だろう／〜の可能性が高い
 Example：Chances are she's already left. / Chances are I wouldn't have made it without his help.
 Nuance：probably より「賭けるとしたらそう思う」感が強い。会話で頻出。
 
 ### my money is on ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜だと思う／〜に賭けるならこれ
 Example：My money is on John. / My money's on them winning.
 Nuance：I bet ~ より若干カジュアル。予想を強気に言うときに。
 
 ### get an itch / get the itch (to ~)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜したくてうずうずする
 Example：I'm getting an itch to travel again. / I've got the itch to start something new.
 Nuance：scratch the itch（うずきを満たす）とセットで覚える。
 
 ### resort to ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：仕方なく〜する／最終手段として頼る
 Example：He resorted to lying. / We had to resort to Plan B.
 Nuance：rely on / turn to よりネガティブで「最後の手段」感が強い。
 
 ### wary / be wary of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：警戒している／用心深い
 Example：I'm wary of strangers online. / Be wary of scams.
 Nuance：weary（疲れ切った）と発音が違うので注意。/ˈweri/。
 
 ### acute
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. 激しい（acute pain）
@@ -2041,49 +2121,49 @@ Example：acute pain / an acute observer / an acute shortage of doctors
 Nuance：医療では chronic（慢性）と対比。
 
 ### compatible / incompatible
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：相性がいい／互換性がある（incompatible: 反対）
 Example：We're compatible. / The new app is compatible with iOS.
 Nuance：恋愛・人間関係・テクノロジーいずれにも使える。
 
 ### with flying colors
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：余裕で／見事に成功する
 Example：She passed the exam with flying colors.
 Nuance：固定表現。"red flying colors" は誤り。試験・難関突破の話で頻出。
 
 ### if I feel up to it / if I'm up for it
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：余裕があれば／気分・体調が良ければ
 Example：I'll go if I feel up to it.
 Nuance：参加・誘いへの曖昧返事の定番。
 
 ### inspo
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：インスピレーション／参考／アイデア（inspirationの略）
 Example：fashion inspo / You're my inspo
 Nuance：SNS発のスラング。Z世代頻出。
 
 ### be cooked
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：終わった／詰んだ／疲れ果ててボロボロ
 Example：I'm cooked after that workout. / We're cooked.
 Nuance：スラング。困窮・疲労どちらにも使える。
 
 ### in a bind / in a tight spot
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：困った状況／ピンチ
 Example：I'm in a bind. / She's in a tight spot at work.
 Nuance：stuck より「板挟み」感がある。
 
 ### fall behind / catch up / keep up
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. fall behind：遅れる／置いていかれる
@@ -2093,112 +2173,112 @@ Example：I'm falling behind in class. / I need to catch up.
 Nuance：3点セットで覚えると勉強・仕事の進捗話で万能。
 
 ### on the verge of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜寸前／〜しかけている
 Example：on the verge of tears / on the verge of collapse
 Nuance：about to よりドラマチック。感情・状況の緊迫を強調。
 
 ### revenge / take revenge on ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：復讐／仕返し（個人的怒り）
 Example：He took revenge on his rival.
 Nuance：avenge（誰かのために仇を討つ）と区別。get/take revenge の形が定番。
 
 ### have the nerve (to ~)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：よくそんなことできるな（図々しさ・呆れ）
 Example：He had the nerve to blame me.
 Nuance：ネガティブ評価。have the guts（勇気がある）はポジティブ寄り。
 
 ### click with (someone) / hit it off
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：気が合う／意気投合する
 Example：I really clicked with her. / We hit it off immediately.
 Nuance：直感的にフィットする感じ。初対面〜長期的どちらでも使える。
 
 ### slack off
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：サボる／手を抜く
 Example：Don't slack off at work.
 Nuance：cut corners（質を落とす）と違い、行動的なサボり全般。
 
 ### hold a grudge
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：恨みを持ち続ける／根に持つ
 Example：She still holds a grudge against him. / I don't hold any grudges.
 Nuance：bear a grudge と同義（ややフォーマル）。
 
 ### wrong call / good call
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：判断ミス／良い判断
 Example：That was a wrong call. / Cancelling was a good call.
 Nuance：bad decision よりカジュアル。スポーツ実況・日常で頻出。
 
 ### glimpse / catch a glimpse of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：ちらっと見る／一瞬だけ見える
 Example：I caught a glimpse of her in the crowd.
 Nuance：glance（さっと意図的に見る）と区別。「偶然視界に入る」感じ。
 
 ### full picture / the big picture
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：全体像／全貌
 Example：We don't have the full picture yet. / Look at the big picture.
 Nuance：細部より全体を見るときの定番。
 
 ### blow off steam / let off steam
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：ストレス発散する／うっぷんを晴らす
 Example：I went for a run to blow off steam. / I go to the gym to let off steam.
 Nuance：unwind より「感情の放出」感が強い。
 
 ### get a kick out of ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜を楽しむ／面白がる／快感を得る
 Example：I get a kick out of watching old movies. / He gets a kick out of teasing me.
 Nuance：enjoy よりやや変態的・クセのある楽しみ。
 
 ### think (it) through
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（最後まで）じっくり考える／深く検討する
 Example：You should think this through. / Let me think it through.
 Nuance：consider carefully より「結論まで詰める」感じ。
 
 ### stuck in a rut
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：マンネリ化／停滞している
 Example：I feel stuck in a rut. / My job has me stuck in a rut.
 Nuance：be in a slump と同義。同じ場所で空回りしている感。
 
 ### kick in
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：効き始める／発動する／（法律が）施行される
 Example：The medicine kicked in. / Panic kicked in. / The law kicks in next month.
 Nuance：wear off（効果が切れる）と対。
 
 ### blow it / blow a chance
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：失敗する／チャンスを台無しにする
 Example：I blew it. / Don't blow it. / He blew a great opportunity.
 Nuance：mess up / screw up と同義だが、特に「チャンス・好機を逃した」場面で使う。
 
 ### fill in
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. （書類を）記入する
@@ -2208,14 +2288,14 @@ Example：Fill in this form. / Fill me in later. / She filled in for me.
 Nuance：British: fill in / American: fill out（書類はどちらも可）。
 
 ### fill (someone) in on ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜について詳しく教える／情報共有する
 Example：Can you fill me in on what happened? / I'll fill you in on the details.
 Nuance：bring up to speed と同義。情報共有の鉄板。
 
 ### lose it
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. キレる／取り乱す
@@ -2231,84 +2311,84 @@ Example：I have no intention of quitting. / She has no intention of apologizing
 Nuance：「意思が固い」強い否定。don't plan to より強い。
 
 ### have every right to ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜するのは当然の権利だ／正当だ
 Example：You have every right to be angry. / She has every right to refuse.
 Nuance：「道徳的にも正当」というニュアンス込み。
 
 ### blend in / fit in
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：周囲に溶け込む／目立たず馴染む
 Example：I tried to blend in. / He blends in easily.
 Nuance：stand out（目立つ）と対。fit in は特に「人間関係」寄り。
 
 ### it can wait
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：後回しでいい／急がなくていい
 Example：Don't worry. It can wait.
 Nuance：相手を安心させる気遣いフレーズ。
 
 ### on the fence
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：決めかねている／迷っている
 Example：I'm on the fence about buying it. / I'm still on the fence.
 Nuance：sit on the fence は「中立を保つ／態度を決めない」。
 
 ### win back
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（信頼・人・支持を）取り戻す
 Example：He tried to win back her trust. / We need to win back customers.
 Nuance：regain と同義だが、「努力して取り返す」感が強い。
 
 ### zone out
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：ぼーっとする／上の空になる
 Example：Sorry, I zoned out for a second.
 Nuance：space out と同義。集中が切れた瞬間に使う。
 
 ### same difference
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：どっちでも同じ／細かい違いは重要じゃない
 Example：— It's a sandwich, not a burger. — Same difference.
 Nuance：カジュアル・やや皮肉。close enough と同義。
 
 ### set (someone) up with / fix (someone) up with
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（人を）紹介する／お見合いさせる
 Example：My friend set me up with her cousin. / Can you fix me up with someone?
 Nuance：恋愛のセッティングで頻出。set up が一般的、fix up はやや古め。
 
 ### take (someone) up on ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（提案・申し出を）ありがたく受ける
 Example：I'll take you up on that offer. / I might take you up on that.
 Nuance：好意を受け入れる丁寧フレーズ。
 
 ### have a lot going for (someone)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（人・物に）魅力や長所がたくさんある
 Example：They have a lot going for them.
 Nuance：誉め言葉。have many strengths と同義。主語とforの後に続くのは同一のもの。
 
 ### appealing
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：魅力的な／心を引きつける
 Example：They have many appealing qualities. / It's an appealing idea.
 Nuance：attractive より「興味をそそる」感。
 
 ### chemistry / great chemistry
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：（人間関係の）相性／ケミストリー
 Example：The members have great chemistry. / We just don't have chemistry.
@@ -2321,14 +2401,14 @@ Example：They've stayed humble despite their success.
 Nuance：成功談・人柄評価で頻出。
 
 ### put on a show / put on an amazing show
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：素晴らしいパフォーマンスをする
 Example：They always put on an amazing show.
 Nuance：performance より口語的・賛辞寄り。
 
 ### superior to ~
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：〜より優れている
 Example：This method is superior to the old one.
@@ -2342,14 +2422,14 @@ Example：I've been keeping busy lately.
 Nuance：「忙しい」を控えめに伝えるときの定番。
 
 ### swamped
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：忙殺されている／手一杯
 Example：I'm swamped with work.
 Nuance：busy / overwhelmed より口語的で強い。
 
 ### be positive / I'm positive (that ~)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：
 　1. 前向きでいる
@@ -2358,25 +2438,233 @@ Example：Be positive. / I'm positive he's right.
 Nuance：意味②は I'm sure より強い確信。
 
 ### sort (it) out
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：問題を解決する／整理する／状況を整える
 Example：We need to sort this out. / Sort yourself out.
 Nuance：solve / organize の両方を兼ねる万能語。
 
 ### bite the bullet
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：嫌だけど覚悟してやる／腹をくくる
 Example：I'll bite the bullet and do it.
 Nuance：face it / deal with it より「歯を食いしばる」感が強い。
 
 ### avenge / avenge (someone)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：仇を討つ（誰かのため・正義寄り）
 Example：He avenged his brother.
 Nuance：revenge（個人的怒り）と区別。映画・物語で頻出。
+
+### call off
+新規：✓
+重要度：★★★★
+Meaning：中止する／取りやめる
+Example：They called off the meeting because of the storm. / The game was called off due to the rain.
+Nuance："cancel" よりカジュアル寄り。"put off"（延期）と混同注意（call off は中止、put off は延期）。受動態 "was called off" も頻出。
+
+### out and about
+新規：✓
+重要度：★★★★
+Meaning：外出している／出歩いている／元気に活動している
+Example：I was out and about all day running errands. / It's good to see you out and about again after your illness.
+Nuance：「病気やケガから回復して活動再開」の文脈でもよく使う。単に "be out" より活動的で健康的なニュアンス。
+
+### on good terms with
+新規：✓
+重要度：★★★★
+Meaning：〜と仲が良い／〜と良好な関係にある
+Example：I'm still on good terms with my ex-coworkers. / They broke up, but they remain on good terms.
+Nuance：get along with より「関係性の状態」に焦点。フォーマルにも使えるが会話でも普通に使う。対義：on bad terms with。
+
+### pet peeve
+新規：✓
+重要度：★★★★
+Meaning：（自分にとって特に）イライラすること／地雷ポイント
+Example：My biggest pet peeve is people chewing loudly. / One of my pet peeves is when people don't return calls.
+Nuance："What's your biggest pet peeve?" は雑談・自己紹介の定番質問。[[ick]] は恋愛限定だが pet peeve はイライラ全般。
+
+### props
+新規：✓
+重要度：★★★★
+Meaning：賞賛・敬意（スラング）
+Example：Props to you for learning English every day! / Give him props for trying.
+Nuance："kudos" よりカジュアル、"hat's off to" より若者っぽい。「リスペクト！」的な軽い称賛。
+
+### hella
+新規：✓
+重要度：★★★★
+Meaning：めっちゃ／すごく（スラング）
+Example：It's hella hot today. / She's hella cool.
+Nuance：カリフォルニア発祥のスラングだが全米で使われる。very / really のカジュアル版。若者・SNS頻出。
+
+### be through / be through with
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 終わっている／やり終えた
+　2. （be through with）もう〜とは終わり／〜にうんざり
+Example：
+　1. I'm through with my homework.
+　2. I'm through with him — he's lied to me one too many times.
+Nuance："I'm through" は「作業が終わった」も「関係を切る」も両方あり得るので文脈判断が必要。[[go through]] は「経験するプロセス」で別物。
+
+### go through
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 経験する（特に辛い出来事）
+　2. 一通り確認する／目を通す
+　3. 通過する（法案など）
+Example：
+　1. She went through a lot last year.
+　2. Let's go through the plan one more time.
+　3. The bill went through the Senate.
+Nuance：[[be through]] は「終わった状態」、go through は「経験するプロセス」。"went through a lot"（色々あった）は日常頻出。
+
+### wrap one's head around
+新規：✓
+重要度：★★★★
+Meaning：（難しいことを）理解する／腹落ちする
+Example：I can't wrap my head around this concept. / I'm still trying to wrap my head around the news.
+Nuance："can't wrap my head around ~" の否定形が超頻出。「頭が追いつかない・理解が及ばない」ニュアンス。figure out より感覚的な戸惑い感が強い。
+
+### in a way / in a sort of way
+新規：✓
+重要度：★★★★
+Meaning：ある意味では／言ってみれば
+Example：In a way, he's right. / In a sort of way, I understand what you mean.
+Nuance：断定を避けて相手の意見を部分的に認める便利な相槌。"in a way" が最頻出。kind of / sort of とほぼ同じニュアンス。
+
+### blow (something) out of proportion
+新規：✓
+重要度：★★★★
+Meaning：大げさにする／誇張する
+Example：You're blowing this out of proportion — it's not that serious. / The media blew the story out of proportion.
+Nuance："make a big deal out of ~" と同じニュアンス。対義は "keep in perspective"（冷静に捉える）や "downplay"（控えめに言う）。
+
+### couldn't be / couldn't have been + 比較級
+新規：✓
+重要度：★★★★
+Meaning：
+　1. couldn't be + 比較級：今が最高／最悪
+　2. couldn't have been + 比較級：あの時が最高／最悪（過去）
+Example：
+　1. I couldn't be happier. / Things couldn't be worse.
+　2. The timing couldn't have been worse. / It couldn't have gone better.
+Nuance："couldn't be happier"（この上なく幸せ）／"couldn't have asked for more"（これ以上望めない＝最高）など決まり文句が多い。文法パターンで覚える。
+
+### self-taught
+新規：✓
+重要度：★★★★
+Meaning：独学の
+Example：I'm self-taught — I never took formal English lessons. / He's a self-taught programmer.
+Nuance："I taught myself to ~" の形容詞版。自己紹介・経歴紹介で頻出。ポジティブな響き。[[learn ... on one's own]] と同じ独学系。
+
+### learn ... on one's own
+新規：✓
+重要度：★★★★
+Meaning：独学で学ぶ／自力で覚える
+Example：I learned English on my own. / She learned coding on her own.
+Nuance：[[self-taught]] の動詞版。"by myself" と近いが、on my own の方が「他人に頼らず」感が強い。
+
+### get ahead
+新規：✓
+重要度：★★★★
+Meaning：成功する／出世する／他人より有利になる
+Example：She works hard to get ahead in her career. / It's difficult to get ahead without learning new skills.
+Nuance：[[forge ahead]]（前進するプロセス）に対して、get ahead は「他人より先に行く（結果・優位）」に焦点。"get ahead of someone"（〜を追い抜く）も頻出。
+
+### Cut me some slack
+新規：✓
+重要度：★★★★
+Meaning：大目に見て／勘弁して／少し手加減して
+Example：Cut me some slack — I just started this job. / Can you cut me some slack this time?
+Nuance："Give me a break." / "Go easy on me." と同義。相手にちょっとの寛容さを求める時の定番フレーズ。カジュアル。
+
+### play one's cards right
+新規：✓
+重要度：★★★★
+Meaning：うまく立ち回る／賢く行動する
+Example：If you play your cards right, you could get promoted. / She played her cards right and landed a great job.
+Nuance：カードゲーム比喩。「持ってる手札（状況・スキル）を戦略的に使う」ニュアンス。ビジネス・キャリアの話で頻出。
+
+### steep
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 急な（坂・角度）
+　2. 高すぎる（値段）
+　3. （茶葉などを）抽出する
+Example：
+　1. That's a steep hill to climb.
+　2. The price is a bit steep for a coffee.
+　3. Let the tea steep for 3 minutes.
+Nuance："steep learning curve"（学習曲線が急＝習得が難しい）は超頻出コロケーション。値段の「高い」も日常会話でよく使う。
+
+### a while back
+新規：✓
+重要度：★★★★
+Meaning：少し前に／しばらく前に
+Example：I met him a while back at a conference. / I quit smoking a while back.
+Nuance："the other day"（つい先日）より少し前、"a long time ago"（かなり前）より最近、というちょうど中間くらいのニュアンス。時期をぼかしたい時に便利。
+
+### silver lining
+新規：✓
+重要度：★★★★
+Meaning：不幸中の幸い／救い
+Example：The silver lining is that nobody was hurt. / Every cloud has a silver lining.
+Nuance：ことわざ "Every cloud has a silver lining"（どんな雲にも銀の縁がある＝どんな不幸にも良い面がある）から。ポジティブ思考の会話で頻出。
+
+### be behind
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 遅れている（仕事・スケジュール）
+　2. 背後にある（原因・仕掛け人）
+　3. 支援する／味方する
+Example：
+　1. I'm behind on my work this week.
+　2. What's behind his decision to quit?
+　3. Whatever you decide, I'm behind you.
+Nuance：文脈で意味が大きく変わる基本語だが、日常会話で3つとも頻出。"I'm behind you." は励まし・支援の定番フレーズ。
+
+### feel left out
+新規：✓
+重要度：★★★★
+Meaning：仲間外れにされた気がする／自分だけ取り残された気分
+Example：I felt left out when they went to lunch without me. / Don't make her feel left out.
+Nuance：be excluded より感情寄りの表現。子供っぽく聞こえない自然な言い方。SNS・グループの話でよく出る。
+
+### I'd kill for ~
+新規：✓
+重要度：★★★★
+Meaning：〜が喉から手が出るほど欲しい／どうしても〜したい
+Example：I'd kill for a cold beer right now. / I'd kill for some sleep.
+Nuance："I'm dying for ~" と同じ強い欲求表現。文字通り「殺してでも」ではなく比喩。カジュアル会話で頻出。
+
+### (time) sharp
+新規：✓
+重要度：★★★★
+Meaning：〜時ちょうどに（時刻の後に置く副詞）
+Example：Be here at 7 sharp. / The meeting starts at 9 sharp.
+Nuance：exactly / promptly と同じだが "sharp" は時刻専用。ビジネス・約束事で「遅れるな」のニュアンスも含む。
+
+### now that ~
+新規：✓
+重要度：★★★★
+Meaning：もう〜だから／〜した今となっては
+Example：Now that you're here, let's start. / Now that I think about it, he was acting strange.
+Nuance：接続詞的用法。「〜という新しい状況が起きたから」の意味。会話・書き言葉両方で頻出。"now" は他に話題転換（Now, let's begin）や納得（Now I get it）にも使う。
+
+### have the gall to / have the audacity to
+新規：✓
+重要度：★★★★
+Meaning：厚かましく〜する／よくもまあ〜する
+Example：He had the gall to lie to my face. / She had the audacity to ask for a raise after being late every day.
+Nuance：既存の [[have the nerve (to ~)]] とほぼ同義。gall / audacity は「厚かましさ」の強調度が高く、nerve より驚き・呆れが濃い。悪意ある行為を非難する時に使う。
 
 ---
 
@@ -3048,6 +3336,150 @@ Meaning：〜より少し優位にある
 Example：They have the edge over competitors. / He has the edge on us.
 Nuance：have an advantage over より口語的。
 
+### be what's behind ~
+新規：✓
+重要度：★★★
+Meaning：〜の背後にある／〜の原因である／〜を引き起こしている
+Example：Stress is what's behind many health problems. / Consistency is what's behind my improvement.
+Nuance："A is what's behind B" の形で「AがBの本当の原因」と強調する構文。"be responsible for" より掘り下げるニュアンス。
+
+### disguise oneself (as ~)
+新規：✓
+重要度：★★★
+Meaning：変装する／正体を隠す
+Example：He disguised himself as a delivery man. / The spy was in disguise.
+Nuance："be in disguise"（変装している）／"conceal one's identity"（身元を隠す）も頻出。dress up as は仮装・コスプレ寄りで別ニュアンス。
+
+### It doesn't concern me.
+新規：✓
+重要度：★★★
+Meaning：私には関係ない／私の問題ではない
+Example：Whether he quits his job doesn't concern me. / That doesn't concern you.
+Nuance："It's none of my business."（もっとカジュアル・突き放し感強め）と "That has nothing to do with me." の中間的なトーン。冷たすぎず突き放す時に便利。
+
+### go a tad far
+新規：✓
+重要度：★★★
+Meaning：少しやり過ぎる
+Example：I think you're going a tad far with the jokes. / He went a tad far with that comment.
+Nuance："go too far" のマイルド版。tad = 「少し」の口語表現。角の立たない指摘・優しい注意で使える。
+
+### out in the open
+新規：✓
+重要度：★★★
+Meaning：公然と／隠されていない／表沙汰に
+Example：Let's put everything out in the open. / The truth is finally out in the open.
+Nuance：「隠さず全部さらけ出す」ニュアンス。会話・議論・関係修復の場面で使う。openly / publicly より情緒的で人間関係寄り。
+
+### hit the sack / hit the hay
+新規：✓
+重要度：★★★
+Meaning：寝る／床につく（カジュアル）
+Example：I'm gonna hit the sack. / Time to hit the hay.
+Nuance：ネイティブがよく使うくだけた寝る表現。"go to bed" のスラング版。sack の方がやや一般的、hay は少し古風な響き。
+
+### off day
+新規：✓
+重要度：★★★
+Meaning：
+　1. 調子が悪い日／絶不調の日
+　2. （文脈によっては）休みの日
+Example：
+　1. I'm having an off day — nothing's going right.
+　2. Everyone has off days.
+Nuance："day off"（休み）と語順が違うだけで意味が変わる。日常会話では「不調の日」の意味が主。
+
+### stroll
+新規：✓
+重要度：★★★
+Meaning：のんびり歩く／散歩する
+Example：We strolled along the beach at sunset. / Let's take a stroll after dinner.
+Nuance：walk より遅くリラックスした歩き方。"take a stroll" が定番。wander（あてもなく）とは違い、目的なくとも意識的なリラックス歩行。
+
+### have no regard for ~
+新規：✓
+重要度：★★★
+Meaning：〜を全く気にかけない／〜を尊重しない／〜を軽視する
+Example：He has no regard for other people's feelings. / They showed no regard for the rules.
+Nuance：disregard の名詞的表現。「rule / safety / feelings / consequences」との組み合わせが定番。批判的なトーン。
+
+### from what I've gathered
+新規：✓
+重要度：★★★
+Meaning：私が聞いた限りでは／私の理解では／集めた情報によると
+Example：From what I've gathered, he's leaving the company. / From what I've gathered, the meeting has been postponed.
+Nuance：断定を避けて「今まで得た情報では」と言い添える便利な前置き。ニュース・ビジネスでも使える。"apparently" と近いが、より自分の情報収集を含意。
+
+### teach oneself to / teach oneself how to
+新規：✓
+重要度：★★★
+Meaning：独学で〜できるようになる／〜のやり方を独学で学ぶ
+Example：I taught myself to play the guitar. / She taught herself how to use Photoshop.
+Nuance："to + 動詞" は能力・結果に、"how to + 動詞" は方法・手順に焦点。日常会話ではどちらも頻出、ほぼ交換可能。[[self-taught]] の動詞版。
+
+### forge ahead
+新規：✓
+重要度：★★★
+Meaning：困難や障害があっても前へ進む／突き進む
+Example：We decided to forge ahead despite the setbacks. / Just forge ahead and do your best.
+Nuance：[[get ahead]]（結果として先んじる）と対で覚える。forge ahead は「前進するプロセス」に焦点。push ahead / press ahead と同義。
+
+### wage a war on / wage a battle against
+新規：✓
+重要度：★★★
+Meaning：〜と戦う／〜に対して徹底的に取り組む
+Example：The government waged a war on drugs. / She's waging a battle against cancer.
+Nuance："wage on" ❌ は誤り。"wage a war on ~" / "wage a battle against ~" が正しい形。社会問題・病気・悪習との闘いの文脈で使う。
+
+### have a screw loose
+新規：✓
+重要度：★★★
+Meaning：頭がおかしい／ちょっと変わっている（比喩）
+Example：He must have a screw loose to do that. / You've got a screw loose!
+Nuance：文字通り「ネジが緩んでる」→「まともじゃない」の比喩。カジュアル・親しい間柄限定。フォーマルには使わない。
+
+### nuisance
+新規：✓
+重要度：★★★
+Meaning：面倒なもの／厄介者／迷惑
+Example：Mosquitoes are a nuisance in summer. / Sorry to be a nuisance.
+Nuance：発音は「ニューサンス」。annoyance / hassle と近いが、"nuisance" は「継続的にウザい存在」というニュアンス。人にも物にも使える。
+
+### stir up
+新規：✓
+重要度：★★★
+Meaning：かき立てる／引き起こす／煽る（感情・問題）
+Example：Don't stir up trouble. / His speech stirred up strong emotions in the crowd.
+Nuance：物理的に「かき混ぜる」から比喩的に「感情・議論を引き起こす」。"cause" より扇動的・波風を立てるニュアンス。
+
+### with good intentions / mean well
+新規：✓
+重要度：★★★
+Meaning：善意で／悪気なく／良かれと思って
+Example：He said it with good intentions. / I know she means well, but her advice isn't helping.
+Nuance："with the best of intentions" も同じ。"mean well" は「悪気はないんだけど結果的にズレてる」というニュアンス頻出。"with great intention" ❌ は間違い。
+
+### raise one's voice
+新規：✓
+重要度：★★★
+Meaning：声を荒げる／大声を出す
+Example：Don't raise your voice at me. / He rarely raises his voice.
+Nuance：shout / yell より抑えたトーン。「怒りで声を強める」ニュアンス。子育て・議論の場面で頻出。
+
+### throw a tantrum
+新規：✓
+重要度：★★★
+Meaning：癇癪を起こす／駄々をこねる
+Example：The child threw a tantrum in the store. / Stop throwing a tantrum like a five-year-old.
+Nuance：本来は子供の癇癪だが、大人が幼稚に怒っている様子にも比喩的に使う。lose one's temper / freak out より「幼稚さ」を強調。
+
+### reach for the stars
+新規：✓
+重要度：★★★
+Meaning：大きな夢を追う／高い目標を目指す
+Example：Don't be afraid to reach for the stars. / She always tells her kids to reach for the stars.
+Nuance："aim high" / "dream big" / "shoot for the stars" と同義。励まし・自己啓発の定番フレーズ。少しクリシェ気味。
+
 ---
 
 ## ★★（文脈限定／やや専門・フォーマル寄り）
@@ -3222,6 +3654,38 @@ Nuance：sneak into より「内部に深く入り込む」感。スパイ・ハ
 Meaning：活動終了する／活動休止する
 Example：The group ended their activities. / The band went on hiatus.
 Nuance：芸能・音楽グループの話で頻出。go on hiatus は復帰の余地あり。
+
+### crack the whip
+新規：✓
+重要度：★★
+Meaning：厳しく管理する／尻を叩く／号令をかける
+Example：The boss started cracking the whip after sales dropped. / Time to crack the whip and get this project done.
+Nuance：馬の鞭を鳴らす比喩。「怠けた集団に喝を入れる」ニュアンス。ビジネス・スポーツの文脈で使う。
+
+### bloodlust
+新規：✓
+重要度：★★
+Meaning：殺意／血に飢えた状態／激しい攻撃欲
+Example：The soldiers were driven by bloodlust. / In his bloodlust, he lost all sense of reason.
+Nuance：文学的・ドラマチックな響き。日常会話では稀だが、映画・小説・ニュースで見かける。rage / fury より原始的・野性的。
+
+### rupture
+新規：✓
+重要度：★★
+Meaning：
+　1. 破裂する（動詞）／破裂（名詞）
+　2. 決裂する（関係）
+Example：
+　1. The pipe ruptured under pressure.
+　2. Their relationship ruptured after years of tension.
+Nuance：関連語：disrupt / interrupt / bankrupt（すべて "rupt" = 壊す語幹）。医学・工学・国際関係の文脈でよく出る。
+
+### paunchy
+新規：✓
+重要度：★★
+Meaning：お腹の出た／ビール腹の
+Example：a paunchy middle-aged man / He's gotten a bit paunchy since he stopped working out.
+Nuance：pot-bellied / beer belly と同義だがやや文語寄り。中年男性の見た目描写でよく使う。侮蔑的ニュアンスあり。
 
 ---
 

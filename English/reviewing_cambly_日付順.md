@@ -5004,3 +5004,1305 @@ pursue / demand との違い
 - It was a dead giveaway.
 - I don’t want to chase numbers.
 - It’s easy to get caught up in chasing numbers.
+
+## 6/8
+
+### 【Key Vocabulary & Phrases】
+
+#### 1. be what's behind ~
+**意味**
+- ～の背後にある
+- ～の原因である
+- ～を引き起こしている
+
+**基本形**
+> **A is what's behind B.**（AがBの原因だ）
+
+**例文**
+- Stress is what's behind many health problems.
+- Lack of communication is what's behind most misunderstandings.
+- Consistency is what's behind my improvement.
+
+**よく使う形**
+- What's behind the recent price increase?
+- What's behind their decision?
+
+**類義表現**
+- be responsible for ~
+- be the reason for ~
+- lead to ~
+- result in ~
+
+#### 2. disguise oneself (as ~)
+**意味**
+- 変装する
+- 正体を隠す
+
+**基本形**
+> disguise oneself as + 人・職業
+
+**例文**
+- He disguised himself as a delivery man.
+- She disguised herself as an old woman.
+- The spy disguised himself as a waiter.
+
+**関連表現**
+- be in disguise（変装している）
+- conceal one's identity（身元を隠す）
+
+**類義語との違い**
+
+| 表現               | ニュアンス        |
+| ---------------- | ------------ |
+| disguise oneself | 正体を隠すために変装する |
+| dress up as      | 仮装・コスプレする    |
+| wear a mask      | マスクを着ける      |
+
+#### 3. call off
+**意味**
+- 中止する
+- 取りやめる
+
+**基本形**
+> call off + 名詞
+
+**例文**
+- They called off the meeting.
+- We had to call off the picnic.
+- She called off the wedding.
+
+**受動態も頻出**
+- The game was called off because of the rain.
+
+**call off と似た表現**
+
+| 表現        | 意味             |
+| --------- | -------------- |
+| call off  | 中止する           |
+| cancel    | キャンセルする（最も一般的） |
+| put off   | 延期する           |
+| postpone  | 延期する（ややフォーマル）  |
+| shut down | 停止・閉鎖する        |
+
+#### 4. get a kick out of ~ing
+（※「kick out of ～ing」ではなくこちらが正しい）
+
+**意味**
+- ～するのがすごく楽しい
+- ～してワクワクする
+
+**基本形**
+> get a kick out of + 動名詞
+
+**例文**
+- I get a kick out of trying new things.
+- She gets a kick out of teasing her brother.
+- He gets a kick out of extreme sports.
+
+**ニュアンス**
+- 普通の enjoy より「面白くてたまらない」「ワクワクする」
+
+**類義語**
+
+| 表現                  | ニュアンス    |
+| ------------------- | -------- |
+| get a kick out of   | 面白くて楽しい  |
+| enjoy               | 一般的に楽しむ  |
+| have fun            | 楽しく過ごす   |
+| get a thrill out of | スリルを感じる  |
+| be into             | ～にハマっている |
+
+**注意！**
+- **kick someone out of ~** = ～から追い出す
+- 例：They kicked him out of the club.
+
+#### 5. out and about
+**意味**
+- 外出している
+- 出歩いている
+- 元気に活動している
+
+**例文**
+- I was out and about all day.
+- You'll see a lot of people out and about on weekends.
+- He was out and about again after a few weeks.
+
+**よく使う場面**
+- 病気やケガから回復した人
+- 一日中外出していたことを表すとき
+
+**類義語**
+
+| 表現                | ニュアンス    |
+| ----------------- | -------- |
+| out and about     | 外出して活動中  |
+| be out            | 外出している   |
+| be on the go      | 忙しく動き回る  |
+| get around        | あちこち移動する |
+| be up and running | 元通りに動ける  |
+
+### 【Phrases to Master】
+
+#### 原因・背景
+- Consistency is what's behind my improvement.
+- Stress is what's behind many health problems.
+- What's behind their decision?
+
+#### 変装
+- He disguised himself as a tourist.
+- She disguised herself as an old woman.
+- The spy was in disguise.
+
+#### 中止
+- We had to call off the meeting.
+- They called off the wedding.
+- The event was called off because of the weather.
+
+#### 楽しむ
+- I get a kick out of trying new things.
+- She gets a kick out of teasing her brother.
+- He gets a thrill out of extreme sports.
+
+#### 外出
+- I was out and about all day.
+- I like being out and about on weekends.
+- It's good to see you out and about again.
+
+### 【Frequently Confused】
+
+| 正しい表現                 | 間違えやすい表現                 |
+| --------------------- | ------------------------ |
+| get a kick out of ~   | ❌ kick out of ~          |
+| disguise oneself as ~ | disguise + 人（目的語）との違いに注意 |
+| call off              | put off（延期）              |
+| out and about         | go out（単に外出する）           |
+
+### 【Useful Collocations】
+
+#### behind
+- be what's behind ~
+- the reason behind ~
+- leave something behind
+- behind schedule
+- behind someone's back
+
+#### disguise
+- disguise oneself
+- disguise oneself as
+- be in disguise
+- disguise one's voice
+
+#### call off
+- call off a meeting
+- call off a trip
+- call off a wedding
+- call off a strike
+
+#### get a kick out of
+- get a kick out of watching movies
+- get a kick out of traveling
+- get a kick out of learning English
+
+#### out and about
+- be out and about
+- spend the day out and about
+- see people out and about
+
+### 【Next Step】
+今回学んだ表現はすべて**ネイティブの日常会話でよく使われる口語表現**。特に次の5つはそのまま使えるようにしておくと表現の幅が大きく広がる。
+1. **be what's behind ~**（～の原因・背景である）
+2. **disguise oneself as ~**（～に変装する）
+3. **call off ~**（～を中止する）
+4. **get a kick out of ~ing**（～してすごく楽しむ）
+5. **be out and about**（外出して活動している）
+
+## 6/9
+
+### 【Key Vocabulary】
+
+#### 1. pick up
+
+**意味**
+- （人を）迎えに行く
+- （物を）買ってくる・拾う
+- （言語・スキルを）身につける
+- （雰囲気・感情などに）気づく
+
+**よく使うコロケーション**
+- pick someone up
+- pick something up
+- pick up English
+- pick up a habit
+- pick up on something
+
+**例文**
+- I'll pick you up at the station.
+- Can you pick up some milk on your way home?
+- I picked up a lot of English while traveling abroad.
+- I picked up on his frustration.
+
+**類義語**
+- collect（迎えに行く・回収する）
+- acquire（習得する）
+- notice（気づく）
+
+#### 2. drop off
+
+**意味**
+- （人を）送る・降ろす
+- （物を）届ける
+- 居眠りする
+- 減少する
+
+**よく使うコロケーション**
+- drop someone off
+- drop something off
+- drop off at ~
+
+**例文**
+- I'll drop you off at the airport.
+- Can you drop off this package at the post office?
+- I dropped off during the movie.
+- Sales dropped off after the holidays.
+
+**類義語**
+- deliver（届ける）
+- decline（減少する）
+- doze off（うたた寝する）
+
+#### pick up と drop off のセット
+
+**迎える ↔ 送る**
+> I'll pick you up at 6 and drop you off after dinner.
+> （6時に迎えに行って、夕食後に送るよ。）
+
+> My dad picked me up from school and dropped me off at soccer practice.
+> （父は学校へ迎えに来て、そのあとサッカーの練習場まで送ってくれた。）
+
+#### 3. on good terms with
+
+**意味**
+- 〜と仲が良い
+- 〜と良好な関係にある
+
+**よく使う形**
+- be on good terms with
+- stay on good terms with
+- remain on good terms with
+
+**例文**
+- I'm on good terms with my neighbors.
+- Are you still on good terms with your ex-girlfriend?
+- I've always been on good terms with my coworkers.
+- Japan is on good terms with many countries.
+
+**類義表現**
+- get along with
+- have a good relationship with
+- be close to
+
+**対義表現**
+- be on bad terms with
+- not get along with
+
+### 【Phrases to Master】
+
+- I'll pick you up at the station.
+- Can you pick up some milk on your way home?
+- I picked up a lot of English while traveling abroad.
+- I picked up on his frustration.
+- I'll drop you off at the airport.
+- Can you drop off this package at the post office?
+- I dropped off during the movie.
+- Sales dropped off after the holidays.
+- I'm on good terms with my coworkers.
+- I try to stay on good terms with my former coworkers.
+- They broke up, but they remain on good terms.
+
+### 【使い分けのポイント】
+
+#### pick up vs drop off
+
+| pick up | drop off |
+| ------- | -------- |
+| 迎えに行く   | 送る・降ろす   |
+| 買ってくる   | 届ける      |
+| 身につける   | 減少する     |
+| 気づく     | 居眠りする    |
+
+#### on good terms with と get along with
+- **get along with**：一緒にいてうまくやっていることを表す（会話でより頻出）
+- **on good terms with**：関係そのものが良好であることを表す
+
+例：
+- **I get along well with my boss.**（上司とうまくやっている。）
+- **I'm on good terms with my boss.**（上司と良好な関係にある。）
+
+### 【Next Step】
+
+今回の内容では、まず以下の3つを自然に使えるようになることを目標にする。
+1. **pick someone up / drop someone off**
+2. **pick up English / pick up on ~**
+3. **be on good terms with ~**
+
+## 6/10
+
+### ① It doesn't concern me.
+
+**意味**
+- 私には関係ない
+- 私の問題ではない
+
+**よく使う形**
+- It doesn't concern me.
+- This doesn't concern you.
+- That doesn't concern us.
+
+**類義表現**
+- It's none of my business.（私の知ったことではない）
+- That has nothing to do with me.
+- It isn't my concern.（ややフォーマル）
+
+**例文**
+> Whether he quits his job doesn't concern me.
+
+### ② go a tad far
+
+**意味**
+- 少しやり過ぎる
+- = take it a little too far
+
+**類義語**
+- go too far
+- take it too far
+- overdo it
+
+**例文**
+> I think you're going a tad far.
+
+### ③ ick
+
+**意味**
+- ① 生理的に冷めるポイント（恋愛で頻出）
+- ② 「うわっ」と思うもの
+
+**よく使う形**
+- get the ick
+- give someone the ick
+- What's your biggest ick?
+
+**類義語**
+- turn-off
+- deal-breaker（決定打）
+
+**例文**
+> Seeing him litter gave me the ick.
+
+### ④ pet peeve
+
+**意味**
+- 自分が特にイライラすること
+
+**よく使う形**
+- My biggest pet peeve is...
+- What's your biggest pet peeve?
+
+**類義語**
+- annoyance
+- irritation
+
+**ickとの違い**
+- **ick** → 恋愛で冷めるポイント
+- **pet peeve** → イライラすること全般
+
+**例文**
+> My biggest pet peeve is people chewing loudly.
+
+### ⑤ props
+
+**意味**
+- 賞賛・敬意
+
+**よく使う形**
+- Props to you.
+- Give someone props.
+
+**類義語**
+- kudos
+- respect
+- hat's off to
+
+**例文**
+> Props to you for learning English every day.
+
+### ⑥ hella
+
+**意味**
+- めっちゃ / すごく
+- = very / really
+
+**使い方**
+- hella good
+- hella busy
+- hella cold
+
+**類義語**
+- super / so / really / crazy（crazy good）
+
+**例文**
+> It's hella hot today.
+
+### ⑦ might as well
+
+**意味**
+- どうせなら〜しよう
+- 〜したほうがいいかも
+
+**よく使う形**
+- might as well go
+- might as well try
+- might as well stay
+
+**類義語**
+- may as well
+- should（ニュアンスは少し違う）
+
+**例文**
+> We're already here, so we might as well eat.
+
+### ⑧ be through
+
+**意味**
+- 終わっている
+- やり終えた
+
+**よく使う形**
+- I'm through.
+- I'm through with it.
+- Are you through?
+
+**例文**
+> I'm through with my homework.
+
+**be through with**
+- もう〜とは終わり
+- 〜にうんざり
+> I'm through with him.
+
+### ⑨ go through
+
+**意味**
+- 経験する
+- 一通り確認する
+- 通過する
+
+**よく使う形**
+- go through a hard time
+- go through the plan
+- go through surgery
+
+**例文**
+> She went through a lot.
+
+### be through と go through の違い
+
+| be through | go through |
+| ---------- | ---------- |
+| 終わった状態     | 経験・プロセス    |
+| 完了         | 過程         |
+
+### ⑩ out in the open
+
+**意味**
+- 公然と
+- 隠されていない
+
+**よく使う形**
+- put it out in the open
+- The truth is out in the open.
+
+**類義語**
+- openly / publicly / in the open / above board
+
+**例文**
+> Let's put everything out in the open.
+
+### ⑪ hit the sack / hit the hay
+
+**意味**
+- 寝る
+
+**ニュアンス**
+- かなりカジュアル
+
+**類義語**
+- go to bed / get some sleep / crash / conk out
+
+**例文**
+> I'm gonna hit the sack.
+> Time to hit the hay.
+
+### ⑫ off day
+
+**意味①**：調子が悪い日
+> I'm having an off day.
+
+**意味②**：休みの日（文脈による）
+
+**day off との違い**
+
+| day off | off day       |
+| ------- | ------------- |
+| 休みの日    | 不調の日（または休みの日） |
+
+**例文**
+> Everyone has off days.
+
+### ⑬ crack the whip
+
+**意味**
+- 厳しく管理する
+- 尻を叩く
+
+**類義語**
+- push hard / lay down the law / tighten control
+
+**例文**
+> The boss started cracking the whip.
+
+### ⑭ wrap one's head around
+
+**意味**
+- 難しいことを理解する
+
+**よく使う形**
+- can't wrap my head around
+- trying to wrap my head around
+- still wrapping my head around
+
+**類義語**
+- get one's head around / make sense of / figure out
+
+**例文**
+> I can't wrap my head around this.
+
+### 【重要な比較】
+
+#### ① ick vs pet peeve
+
+| ick        | pet peeve  |
+| ---------- | ---------- |
+| 恋愛で冷めるポイント | イライラすること全般 |
+
+#### ② be through vs go through
+
+| be through | go through |
+| ---------- | ---------- |
+| 終わった状態     | 経験・過程      |
+
+#### ③ day off vs off day
+
+| day off | off day            |
+| ------- | ------------------ |
+| 休み      | 不調の日（※文脈によっては休みの日） |
+
+#### ④ hit the sack vs hit the hay
+
+| hit the sack | hit the hay |
+| ------------ | ----------- |
+| 寝る（やや一般的）    | 寝る（少し古風な響き） |
+
+#### ⑤ props / kudos / hat's off to
+
+| 表現               | ニュアンス             |
+| ---------------- | ----------------- |
+| **props**        | 最もカジュアルな「リスペクト！」  |
+| **kudos**        | カジュアル〜ややフォーマルな称賛  |
+| **hat's off to** | 「脱帽です」という少し上品な言い方 |
+
+### 【Phrases to Master】
+
+- It doesn't concern me.
+- You're going a tad far.
+- That gave me the ick.
+- What's your biggest pet peeve?
+- Props to you!
+- It's hella good.
+- We might as well go.
+- I'm through with it.
+- She went through a lot.
+- Let's put everything out in the open.
+- I'm gonna hit the sack.
+- I'm having an off day.
+- The boss cracked the whip.
+- I can't wrap my head around it.
+
+### 【Next Step】
+
+次の8つは会話で頻出。
+1. It doesn't concern me.
+2. might as well
+3. I'm through with ~
+4. go through
+5. out in the open
+6. I'm having an off day.
+7. Props to you!
+8. I can't wrap my head around ~.
+
+## 6/12
+
+### 【Key Vocabulary】
+
+#### 1. in a sort of way
+
+**意味**
+- ある意味では
+- 言ってみれば
+
+**よく使われる表現**
+- **in a way**（最も一般的）
+- in a sort of way
+- kind of
+- sort of
+
+**例文**
+- **In a way, he's right.**（ある意味では彼は正しい）
+- **In a sort of way, I understand what you mean.**（ある意味では言いたいことは分かる）
+
+**類義語**
+- in a way / to some extent / kind of / sort of
+
+★覚えるなら "in a way" が最優先。
+
+#### 2. stroll
+
+**意味**
+- のんびり歩く
+- 散歩する
+
+**よく使うコロケーション**
+- stroll around
+- stroll along
+- take a stroll
+
+**例文**
+- We strolled along the beach.
+- Let's take a stroll after dinner.
+
+**類義語**
+
+| 単語     | ニュアンス     |
+| ------ | --------- |
+| walk   | 普通に歩く     |
+| stroll | のんびり歩く    |
+| wander | あてもなく歩く   |
+| hike   | ハイキングする   |
+| pace   | 行ったり来たり歩く |
+
+#### 3. have no regard for ~
+
+**意味**
+- ～を全く気にかけない
+- ～を尊重しない
+- ～を軽視する
+
+**よくある組み合わせ**
+- have no regard for others
+- have no regard for safety
+- have no regard for the law
+- have no regard for people's feelings
+- have no regard for the consequences
+
+**例文**
+- He has no regard for other people's feelings.
+- They showed no regard for the rules.
+
+**類義語**
+- disregard / not care about / show no respect for
+
+**反対表現**
+- have regard for / show respect for / care about
+
+#### 4. blow (something) out of proportion
+
+**意味**
+- 大げさにする
+- 誇張する
+
+**超頻出フレーズ**
+- You're blowing it out of proportion.
+- Let's not blow this out of proportion.
+
+**例文**
+- The media blew the story out of proportion.
+- You're blowing things out of proportion.
+
+**類義語**
+- exaggerate / overreact / make a big deal out of~ / overstate
+
+**対義語**
+- **keep things in perspective**（物事を冷静に捉える）
+- **downplay**（控えめに言う、重要性を小さく見せる）
+
+#### 5. drive someone crazy
+
+**意味**
+- ① イライラさせる
+- ② 夢中にさせる
+
+**例文**
+- The noise is driving me crazy.
+- You're driving me crazy!
+- She's driving me crazy.（恋愛）
+
+**類義語**
+- annoy / get on one's nerves / drive someone nuts
+
+#### 6. from what I've gathered
+
+**意味**
+- 私が聞いた限りでは
+- 私の理解では
+- 集めた情報によると
+
+**ニュアンス**
+「断定ではないけれど、今まで得た情報では」
+
+**例文**
+- From what I've gathered, he's leaving the company.
+- From what I've gathered, the meeting has been postponed.
+
+**類義語**
+- from what I know / from what I understand / as far as I can tell / apparently
+
+### 【Grammar / Expressions】
+
+#### couldn't be + 比較級
+**意味**：現在の状態が最高・最悪
+
+例文
+- It couldn't be better.
+- Things couldn't be worse.
+
+#### couldn't have been + 比較級
+**意味**：過去の出来事について「あれ以上〜だったはずがない」
+
+例文
+- It couldn't have been better.
+- The timing couldn't have been worse.
+
+#### 違い
+
+| 表現                        | 意味        |
+| ------------------------- | --------- |
+| couldn't be better        | 今が最高      |
+| couldn't have been better | あの時が最高だった |
+
+### 【Phrases to Master】
+
+- In a way, you're right.
+- Let's take a stroll.
+- He has no regard for other people's feelings.
+- You're blowing it out of proportion.
+- Don't make a big deal out of it.
+- The noise is driving me crazy.
+- From what I've gathered, it's true.
+- It couldn't be better.
+- It couldn't have been better.
+
+### 【類義語・対義語まとめ】
+
+| 表現                      | 類義語                                      | 対義語                           |
+| ----------------------- | ---------------------------------------- | ----------------------------- |
+| stroll                  | walk, wander                             | rush, hurry                   |
+| have no regard for      | disregard, ignore                        | have regard for, respect      |
+| blow out of proportion  | exaggerate, overreact                    | keep in perspective, downplay |
+| drive crazy             | drive nuts, annoy                        | get along with, please        |
+| from what I've gathered | from what I know, from what I understand | —                             |
+
+### 【今日の重要ポイント】
+
+⭐ **regard**：「尊重・配慮」という意味で頻出。
+- regard for safety / regard for others / with regard to ~
+
+⭐ **gather**：「集める」は物だけでなく情報にも使える。
+- gather information / gather evidence / gather data
+- → **From what I've gathered...** はニュース・ビジネスでも頻出。
+
+⭐ **drive + 人 + 形容詞**：「人を〜の状態にする」構文。
+- drive me crazy / drive me mad / drive me insane / drive me wild（夢中にさせる）
+
+⭐ **blow out of proportion**：ネイティブ頻出イディオム。
+- 一緒に覚える表現：make a big deal out of ~ / overreact / exaggerate
+
+⭐ **couldn't be / couldn't have been**：比較級とセット。
+- couldn't be happier / couldn't be more excited / couldn't have gone better / couldn't have asked for more（これ以上望めなかった＝最高だった）
+
+## 6/13
+
+### 【Key Vocabulary】
+
+#### 1. teach oneself to ~
+**意味**：独学で〜できるようになる（能力・結果に焦点）
+
+例文
+- I taught myself to play the guitar.
+- I'm teaching myself to code.
+- I taught myself to swim.
+
+**ポイント**：**to + 動詞**で「〜できるようになることを独学で身につける」。
+
+#### 2. teach oneself how to ~
+**意味**：〜のやり方を独学で学ぶ（方法・手順に焦点）
+
+例文
+- I taught myself how to play the guitar.
+- She taught herself how to use Photoshop.
+- I taught myself how to swim.
+
+**ポイント**：**how to + 動詞**で「〜する方法・やり方」を表す。
+
+#### 3. self-taught
+**意味**：独学の
+
+例文
+- I'm self-taught.
+- He's a self-taught programmer.
+
+類義表現
+- learn ... on one's own
+
+#### 4. learn ... on one's own
+**意味**：独学で学ぶ
+
+例文
+- I learned English on my own.
+
+#### 5. forge ahead
+**意味**：困難や障害があっても前へ進む／突き進む
+
+例文
+- We decided to forge ahead despite the setbacks.
+- The company forged ahead with its expansion plans.
+- Just forge ahead and do your best.
+
+類義語
+- push ahead / press ahead / move forward
+
+#### 6. get ahead
+**意味**：成功する／出世する／他人より有利になる
+
+例文
+- She works hard to get ahead in her career.
+- It's difficult to get ahead without learning new skills.
+- He is trying to get ahead financially.
+
+よく使う表現
+- get ahead in life
+- get ahead in business
+- get ahead financially
+- get ahead of someone（〜を追い抜く）
+
+類義語
+- succeed / advance / move up / make progress
+
+### 【使い分け】
+
+#### teach myself to vs teach myself how to
+
+**teach myself to** → 能力・結果に焦点
+- I taught myself to swim.（泳げるようになった）
+
+**teach myself how to** → 方法・やり方に焦点
+- I taught myself how to swim.（泳ぎ方を学んだ）
+
+※ 実際の会話ではどちらも非常によく使われる。
+
+#### forge ahead vs get ahead
+
+**forge ahead** → **前進すること**に焦点（プロセス）
+- We forged ahead despite the problems.
+
+**get ahead** → **成功すること**に焦点（結果）
+- He worked hard to get ahead.
+
+### 【Phrases to Master】
+
+- teach myself to code
+- teach myself how to code
+- be self-taught
+- learn English on my own
+- forge ahead despite the setbacks
+- forge ahead with a plan
+- get ahead in life
+- get ahead in business
+- get ahead financially
+- get ahead of someone
+
+## 6/16
+
+### 【Key Vocabulary & Phrases】
+
+#### 1. Cut me some slack
+**意味**
+- 大目に見てよ
+- 勘弁してよ
+- 少し手加減して
+
+**例文**
+- Cut me some slack. I just started this job.
+- Can you cut me some slack this time?
+
+**類義語**
+- Give me a break.
+- Go easy on me.
+- Don't be so hard on me.
+
+#### 2. bloodlust
+**意味**
+- 殺意
+- 血に飢えた状態
+- 激しい攻撃欲
+
+**例文**
+- The soldiers were driven by bloodlust.
+- In his bloodlust, he lost all sense of reason.
+
+**類義語**
+- rage / fury / killer instinct
+
+#### 3. wage a war on / wage a battle against
+**意味**
+- ～と戦う
+- ～に対して徹底的に取り組む
+
+**例文**
+- wage a war on drugs
+- wage a battle against cancer
+
+**ポイント**
+- ❌ wage on は基本的に使わない。
+
+#### 4. play one's cards right
+**意味**
+- 上手く立ち回る
+- 賢く行動する
+
+**例文**
+- If you play your cards right, you could get promoted.
+- She played her cards right and landed a great job.
+
+**類義語**
+- make smart moves / be strategic / navigate carefully
+
+#### 5. steep
+- 急な：a steep hill
+- 高すぎる：The price is too steep.
+- 抽出する：Steep the tea.
+
+**重要表現**
+- steep learning curve
+
+#### 6. have a screw loose
+**意味**
+- 頭がおかしい
+- ちょっと変わっている
+
+**例文**
+- He must have a screw loose.
+
+**類義語**
+- be nuts / be out of one's mind / be crazy
+
+#### 7. a while back
+**意味**
+- 少し前に
+- しばらく前に
+
+**例文**
+- I met him a while back.
+
+**比較**
+- the other day / a long time ago
+
+#### 8. nuisance
+**意味**
+- 面倒なもの
+- 厄介者
+
+**例文**
+- Mosquitoes are a nuisance.
+- Sorry to be a nuisance.
+
+**類義語**
+- annoyance / hassle
+
+#### 9. deep down
+**意味**
+- 本心では
+- 心の奥では
+
+**例文**
+- Deep down, I knew he was right.
+
+**比較**
+- at heart / secretly / in my heart
+
+#### 10. silver lining
+**意味**
+- 不幸中の幸い
+- 救い
+
+**例文**
+- The silver lining is that nobody was hurt.
+
+**ことわざ**
+- Every cloud has a silver lining.
+
+**類義語**
+- bright side / upside
+
+#### 11. be behind
+- 遅れている：I'm behind on my work.
+- 背後にある：What's behind his decision?
+- 支援する：I'm behind you.
+
+#### 12. stir up
+**意味**
+- かき立てる
+- 引き起こす
+- 煽る
+
+**例文**
+- stir up trouble
+- stir up emotions
+- stir up controversy
+
+**類義語**
+- cause / provoke
+
+#### 13. haven't seen you in a while
+**意味**
+- 久しぶり
+
+**類義語**
+- Long time no see.
+- It's been a while.
+
+#### 14. feel left out
+**意味**
+- 仲間外れにされた気がする
+
+**例文**
+- I felt left out.
+- Don't make her feel left out.
+
+**類義語**
+- be excluded / feel isolated / feel like an outsider
+
+#### 15. hopefully
+- 願わくば：Hopefully, it won't rain.
+- 希望を持って：She looked at him hopefully.
+
+**比較**
+- I hope / hopefully
+
+#### 16. kill for
+**意味**
+- 喉から手が出るほど欲しい
+
+**例文**
+- I'd kill for a beer.
+- I'd kill for some sleep.
+
+**類義語**
+- I'm dying for / I'd love
+
+#### 17. rupture
+- 破裂する：The pipe ruptured.
+- 決裂する：Their relationship ruptured.
+- 名詞：a rupture in relations
+
+**関連語**
+- disrupt / interrupt / bankrupt
+
+#### 18. paunchy
+**意味**
+- お腹の出た
+
+**例文**
+- a paunchy middle-aged man
+
+**類義語**
+- pot-bellied / beer belly
+
+#### 19. (時間) sharp
+**意味**
+- ～時ちょうど
+
+**例文**
+- Be here at 7 sharp.
+- The meeting starts at 9 sharp.
+
+**類義語**
+- exactly / promptly / right at
+
+#### 20. reach for the stars
+**意味**
+- 大きな夢を追う
+
+**類義語**
+- aim high / dream big / shoot for the stars
+
+#### 21. Don't get me wrong
+**意味**
+- 誤解しないでね
+
+**例文**
+- Don't get me wrong, but...
+
+**用途**
+- 批判・反対意見の前置き
+
+#### 22. with good intentions
+- ❌ with great intention
+- ✅ with good intentions
+- ✅ with the best of intentions
+
+**mean well** も超頻出。
+
+#### 23. now（今以外）
+- 話題転換：Now, let's begin.
+- 注意を引く：Now, listen.
+- now that：Now that you're here...
+- 納得：Now I get it. / Now I see.
+
+#### 24. raise one's voice
+**意味**
+- 声を荒げる
+
+**例文**
+- Don't raise your voice.
+
+**比較**
+- shout / yell
+
+#### 25. throw a tantrum
+**意味**
+- 癇癪を起こす
+- 駄々をこねる
+
+**例文**
+- The child threw a tantrum.
+
+**類義語**
+- lose one's temper / freak out / make a scene
+
+#### 26. have the gall to do
+**意味**
+- よくもまあ～する
+- 厚かましく～する
+
+**例文**
+- He had the gall to lie to me.
+
+**類義語**
+- have the nerve to
+- have the audacity to
+- How dare you!
+
+### 【Correction Log】
+
+- ❌ wage on
+  - ✅ wage **a war on**
+  - ✅ wage **a battle against**
+- ❌ with great intention
+  - ✅ with good intentions
+  - ✅ with the best of intentions
+  - ✅ mean well
+
+### 【Phrases to Master】
+
+- Cut me some slack.
+- Play your cards right.
+- Deep down...
+- The silver lining is...
+- I'm behind you.
+- Stir up trouble.
+- Haven't seen you in a while.
+- I feel left out.
+- Hopefully...
+- I'd kill for...
+- Be here at 7 sharp.
+- Reach for the stars.
+- Don't get me wrong...
+- With good intentions.
+- Now that...
+- Don't raise your voice.
+- Throw a tantrum.
+- Have the gall to...
+
+### 【Important Synonym Sets】
+
+**厚かましい**
+- have the gall to
+- have the nerve to
+- have the audacity to
+
+**仲間外れ**
+- feel left out
+- be excluded
+- feel isolated
+
+**声を荒げる**
+- raise one's voice
+- shout
+- yell
+
+**高い目標**
+- reach for the stars
+- aim high
+- dream big
+- shoot for the stars
+
+**不幸中の幸い**
+- silver lining
+- bright side
+- upside
+
+**欲しくてたまらない**
+- I'd kill for...
+- I'm dying for...
+- I'd love...
+
+### 【High-Priority Expressions（★★★★★）】
+
+ネイティブが特によく使う、優先度高：
+- Cut me some slack.
+- Play your cards right.
+- Deep down...
+- The silver lining is...
+- I'm behind you.
+- Stir up trouble.
+- Haven't seen you in a while.
+- I feel left out.
+- Hopefully...
+- I'd kill for...
+- Be here at 7 sharp.
+- Don't get me wrong.
+- Now that...
+- Don't raise your voice.
+- Throw a tantrum.
+- With good intentions.
+- Have the nerve to...（※ have the gall to より口語的）
+
+### 【Next Step】
+
+特に会話頻度の高い7つ：
+- Don't get me wrong, but...
+- Deep down, ...
+- Hopefully, ...
+- I'd kill for ...
+- The silver lining is ...
+- I felt left out.
+- Cut me some slack.
