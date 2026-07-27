@@ -978,6 +978,159 @@ Meaning：誤解しないでね／悪く取らないで
 Example：Don't get me wrong, I like him — but he can be annoying sometimes.
 Nuance：批判・反対意見・微妙なコメントの前置きに使う超頻出フレーズ。「〜だけど誤解しないで、〜」の型で言い訳・フォローに便利。
 
+### I'm down
+新規：✓
+重要度：★★★★★
+Meaning：いいよ／やるよ／賛成
+Example：— Want to grab dinner? — I'm down. / I'm not down for it.（気が進まない）
+Nuance：I'm in / I'm up for it / Sounds good と同義。誘いへのカジュアルなOKで超頻出。
+
+### go-to
+新規：✓
+重要度：★★★★★
+Meaning：定番の／一番頼りになる／迷ったらこれ
+Example：Coffee is my go-to drink. / He's my go-to person for advice.
+Nuance：favorite より「迷った時にまず選ぶ」感が強い。飲食・人・場所・音楽など何にでも付けられる。
+
+### man（間投詞）
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. （文頭・感嘆詞）いやー／うわー
+　2. （呼びかけ）おい／なあ
+Example：
+　1. Man, I'm tired. / Man, that's crazy. / Man, that was close.
+　2. Thanks, man. / Come on, man.
+Nuance：文頭の感嘆詞は相手の性別に関係なく使える。呼びかけは主に男性同士。性別問わず使うなら [[dude]] が無難。
+
+### as long as ~
+新規：✓
+重要度：★★★★★
+Meaning：〜である限り／〜なら（条件）
+Example：As long as it's warm, I don't care how it looks. / You can buy anything as long as it's within the budget.
+Nuance：「条件を満たせばOK」というニュアンス。provided that / as far as と類似。
+
+### As far as I know / As far as I can tell
+新規：✓
+重要度：★★★★★
+Meaning：私の知る限りでは／私が判断できる限り
+Example：As far as I know, the meeting is still on. / As far as I can tell, it's correct.
+Nuance：100%断言を避けるクッション。To my knowledge（フォーマル）／ As far as I'm aware（丁寧）と類似。
+
+### When it comes to ~
+新規：✓
+重要度：★★★★★
+Meaning：〜のことになると／〜という分野では
+Example：When it comes to English, he's strong. / When it comes to money, I'm careful.
+Nuance：一般論・得意不得意・特徴を話す時に自然。話題を「その分野に絞る」感じ。
+
+### In terms of ~
+新規：✓
+重要度：★★★★★
+Meaning：〜という観点では／〜の面で
+Example：In terms of quality, this one is better. / In terms of speed, A is faster.
+Nuance：比較・分析・ビジネス寄りだが日常会話でも頻出。項目ごとに評価する時の定番。
+
+### used to + 動詞
+新規：✓
+重要度：★★★★★
+Meaning：昔は〜だった／以前は〜した（今はしていない）
+Example：I used to live here. / It doesn't grow as much as it used to.
+Nuance：比較対象が動作なら be を付けない（❌ as much as it used to be ⭕ as much as it used to）。過去との対比で超頻出。
+
+### Let me look it up / Let me check if ~
+新規：✓
+重要度：★★★★★
+Meaning：ちょっと調べるね／〜か確認させて
+Example：Let me look it up. / I looked up the word in a dictionary. / Let me check if it's open.
+Nuance：look up は情報検索（辞書・ネット）、check if は状態確認。会話の間繋ぎとして超頻出。Let me find out（答えを探す）／ Let me look into it（詳しく調査）も類似。
+
+### I'll see if ~
+新規：✓
+重要度：★★★★★
+Meaning：〜かどうか見てみるね／確認してみる
+Example：I'll see if he's available. / I'll see if I can help.
+Nuance：Let me check if より「試して確認する」ニュアンス。予定・可否の返事を保留する時に自然。
+
+### get off work
+新規：✓
+重要度：★★★★★
+Meaning：仕事が終わる／退勤する
+Example：What time do you get off work? / I just got off work.
+Nuance：会話で圧倒的に自然。finish work（仕事完了）／ leave work（職場を出る）／ clock out（タイムカード的）と類似。
+
+### That's a good point / Good point
+新規：✓
+重要度：★★★★★
+Meaning：それはいい指摘だね／確かに／なるほど
+Example：— We should leave earlier. — That's a good point.
+Nuance：単なる同意ではなく「相手の視点・指摘を評価する」ニュアンス。That makes sense / I see what you mean と類似。[[You've got a point]] と同系統。
+
+### get someone something（get + 人 + 物）
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. （人）のために用意する／取ってくる／買ってくる
+　2. （get 人 to 動詞）人に〜させる
+Example：
+　1. I'll get you a drink. / I got him a present. / Can you get me some water?
+　2. I got him to study.（彼に勉強させた。）
+Nuance：give は「渡す」、get は「相手のために用意する」。日常会話で最頻出の使役・世話系動詞。
+
+### forget to do / forget doing
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. forget to do：〜するのを忘れる（未来・まだしていない）
+　2. forget doing：〜したことを忘れる（過去・すでに行動済み）
+Example：
+　1. I forgot to lock the door.（鍵をかけるのを忘れた。）
+　2. I forgot locking the door.（鍵をかけたことを忘れていた。）
+Nuance：to = 未来／-ing = 過去 の原則。日常で言い間違えると意味が真逆になるので必須。
+
+### remember to do / remember doing
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. remember to do：忘れずに〜する（未来）
+　2. remember doing：〜したことを覚えている（過去）
+Example：
+　1. Remember to call your mom.
+　2. I remember calling my mom.
+Nuance：[[forget to do / forget doing]] と同じ to/-ing の対応。指示・回想の場面で頻出。
+
+### hardly / hardly ever
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. hardly：ほとんど〜ない（ほぼゼロ）
+　2. hardly ever：めったに〜ない（頻度）
+Example：
+　1. I hardly watch TV. / I can hardly hear you.（ほとんど聞こえない）
+　2. I hardly ever drink alcohol.
+Nuance：barely（かろうじて＝少しはある）と対比。頻度・程度の否定で最頻出。almost never は強調版、rarely はややフォーマル。
+
+### barely
+新規：✓
+重要度：★★★★★
+Meaning：かろうじて／ぎりぎり（少しはある）
+Example：I barely slept. / I can barely hear you.（かろうじて聞こえる）
+Nuance：hardly（ほぼゼロ）との対比が重要。「なんとか達成」「ギリギリある」の場面で頻出。
+
+### give it a try / give it a shot
+新規：✓
+重要度：★★★★★
+Meaning：試してみる／やってみる
+Example：I'll give it a try. / Just give it a shot.
+Nuance：try it より軽く前向きなニュアンス。give it a go は英寄り。挑戦・新しいことを提案する時の定番。
+
+### No, thank you.（お礼を返す用法）
+新規：✓
+重要度：★★★★★
+Meaning：いえ、こちらこそ（ありがとう）
+Example：— Thanks for helping me. — No, thank you for helping me. / I should be thanking you.
+Nuance：単なる遠慮（結構です）ではなく、お礼を返す用法。強調するなら「I should be thanking you.（お礼を言うべきなのは私）」がよりネイティブ。フォーマルなら「The pleasure is mine.」
+
 ---
 
 ## ★★★★（週に何度かは出会う／使う）
@@ -2666,6 +2819,232 @@ Meaning：厚かましく〜する／よくもまあ〜する
 Example：He had the gall to lie to my face. / She had the audacity to ask for a raise after being late every day.
 Nuance：既存の [[have the nerve (to ~)]] とほぼ同義。gall / audacity は「厚かましさ」の強調度が高く、nerve より驚き・呆れが濃い。悪意ある行為を非難する時に使う。
 
+### come across
+新規：✓
+重要度：★★★★
+Meaning：偶然出会う／ふと見つける
+Example：I came across a really good song yesterday. / I came across an old photo in the drawer.
+Nuance：find（見つける）／ discover（新しい発見）と対比。「偶然性」がポイント。曲・記事・人など何にでも使える。
+
+### rarely
+新規：✓
+重要度：★★★★
+Meaning：めったに〜ない（ややフォーマル）
+Example：I rarely eat fast food.
+Nuance：hardly ever と同義だが少し硬い。ライティング寄り。会話では [[hardly / hardly ever]] の方が自然。
+
+### cut to the chase
+新規：✓
+重要度：★★★★
+Meaning：本題に入る／回りくどい話をやめる
+Example：Let's cut to the chase. / Cut to the chase — what do you want?
+Nuance：get to the point / long story short / the bottom line is と類似。少し勢いがあってカジュアル。
+
+### if it weren't for ~ / if it hadn't been for ~
+新規：✓
+重要度：★★★★
+Meaning：〜がなければ／〜がいなかったら（仮定法）
+Example：If it weren't for you, I would have failed. / If it hadn't been for her advice, I'd have quit.
+Nuance：without と類似だが仮定法で感謝・感慨を強調する場面で頻出。過去なら hadn't been for。
+
+### my treat / It's on me
+新規：✓
+重要度：★★★★
+Meaning：私のおごり／私が払う
+Example：My treat. / It's on me tonight. / I'll get this.
+Nuance：会計時のカジュアル定番。既存の [[treat (oneself) to ~]] とは別用法（人に奢る）。Let me treat you もあり。
+
+### you name it
+新規：✓
+重要度：★★★★
+Meaning：（列挙の締めで）何でもある／ありとあらゆるもの
+Example：They sell coffee, tea, juice — you name it. / Movies, books, music — you name it, I love it.
+Nuance：A, B, C ... you name it の型で使う。列挙を締めて「全部揃ってる」を印象付ける。
+
+### get someone through ~
+新規：✓
+重要度：★★★★
+Meaning：（人）が困難を乗り越えるのを助ける／支える
+Example：My friends got me through a tough time. / Coffee gets me through the day.
+Nuance：物・人・習慣が「支えとなって乗り切らせてくれる」ニュアンス。help someone through / pull someone through と類似。[[see someone through]] は「最後まで見届ける」寄り。
+
+### run errands
+新規：✓
+重要度：★★★★
+Meaning：（生活上の小さな）用事を済ませる／雑用を片付ける
+Example：I need to run some errands. / I'm running errands this afternoon. / She was out running errands.
+Nuance：銀行・郵便局・スーパー・クリーニングなどをまとめて片付けるイメージ。errands はほぼ複数形。take care of some errands / get things done とも言える。
+
+### off the hook / let someone off the hook
+新規：✓
+重要度：★★★★
+Meaning：
+　1. （責任・義務・トラブルから）免れる
+　2. （let ~ off the hook）見逃す／責任を問わない
+Example：
+　1. I'm off the hook now. / My boss decided it wasn't my fault, so I'm off the hook.
+　2. My manager let me off the hook. / Don't let him off the hook. / Let me off the hook.（勘弁して）
+Nuance：get away with it / dodge responsibility / be in the clear と類似。「You're not off the hook yet.（まだ許してないよ）」も頻出。
+
+### understatement / That's an understatement
+新規：✓
+重要度：★★★★
+Meaning：控えめな表現／過小表現
+Example：— The test was a little difficult. — That's an understatement! / That's the understatement of the year.（今年一番の言わなすぎ）
+Nuance：ネイティブが軽く突っ込む時の定番。「To say that ~ is an understatement.」（〜と言うのでは足りない）の構文も頻出。動詞版は downplay。対義語は overstatement。
+
+### I'm on board (with ~)
+新規：✓
+重要度：★★★★
+Meaning：賛成／参加／協力する（同じ方向を向く）
+Example：I'm on board with that idea. / I'm totally on board. / I'm not on board with that.（賛成できない）
+Nuance：「同じ船に乗る」イメージ。I'm in / Count me in / I'm all for it と類似。会議・チーム内で合意を示す時に自然。
+
+### As far as I'm concerned
+新規：✓
+重要度：★★★★
+Meaning：私としては／私の意見では
+Example：As far as I'm concerned, it's a good idea. / As far as I'm concerned, the matter is closed.
+Nuance：「他の人はどうでもいいが、私はこう考える」という自分側視点の強調。Personally, I think / In my opinion / From my point of view と類似。
+
+### As for ~
+新規：✓
+重要度：★★★★
+Meaning：〜について言えば／〜に関しては（話題切り替え）
+Example：As for the plan, it's delayed. / As for me, I'll stay home.
+Nuance：「さて、その話だけど」と話題を絞る合図。[[When it comes to ~]] より「話題切り替え」寄り、[[In terms of ~]] より「対象を指す」寄り。
+
+### How could you ~?
+新規：✓
+重要度：★★★★
+Meaning：よくそんなことできるね／なんでそんなことしたの（失望・驚き）
+Example：How could you do that? / How could you forget my birthday?
+Nuance：How can you ~? は「今の行動への非難」、How could you ~? は「起きたことへの失望・驚き」。感情がこもる。
+
+### You're a lifesaver
+新規：✓
+重要度：★★★★
+Meaning：本当に助かった！／救世主だよ
+Example：Thanks for helping me. You're a lifesaver.
+Nuance：You saved me / I owe you one と類似。感謝を大きく伝える時の定番。ちょっと大げさに褒める軽快なフレーズ。
+
+### take place
+新規：✓
+重要度：★★★★
+Meaning：（計画された出来事が）行われる／開催される
+Example：The meeting took place yesterday. / The wedding will take place in June.
+Nuance：happen（自然発生的に起こる）／ occur（フォーマル）と対比。イベント・会議など予定された事に使う。
+
+### get congested
+新規：✓
+重要度：★★★★
+Meaning：
+　1. （道路が）渋滞する
+　2. （鼻が）詰まる
+Example：
+　1. The roads get congested during rush hour.
+　2. My nose gets congested.
+Nuance：get crowded（人で混む）／ get packed（ぎゅうぎゅう）／ get jammed（大渋滞）と類似。生活での使い勝手が高い。
+
+### stick out / stick out like a sore thumb
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 突き出る／目立つ／浮く
+　2. （stick out like a sore thumb）場違いなくらい目立つ
+Example：
+　1. His ears stick out. / She sticks out in the crowd.
+　2. He sticks out like a sore thumb.（完全に浮いている）
+Nuance：ネガティブに「浮く」を強調するイディオムが sore thumb 版。日常でよく耳にする比喩。
+
+### stand out
+新規：✓
+重要度：★★★★
+Meaning：際立つ／目立つ／他と差が出る（ポジティブ寄り）
+Example：Her performance really stood out. / Her acting stood out more than the others'.
+Nuance：shine / excel / distinguish oneself と類似。[[stick out]] は「浮く」（ネガティブ寄り）、stand out は「際立つ」（ポジティブ寄り）。[[eye-catching]] は「見た瞬間目を引く」、[[noticeable]] は「気づくほど明確」との違いを押さえる。
+
+### confident in ~ / confident that ~
+新規：✓
+重要度：★★★★
+Meaning：〜に自信がある／〜だと確信している
+Example：I'm confident in my English skills. / I'm confident in my ability to learn new things. / I'm confident that I can handle it.
+Nuance：in の後は名詞・動名詞、that の後は文。自分の実力・可能性を語る時の定番。
+
+### There's no way I can ~ unless ...
+新規：✓
+重要度：★★★★
+Meaning：〜しない限り、絶対に無理
+Example：There's no way I can buy this unless I win the lottery.
+Nuance：「There's no way ~」＝絶対無理／「unless ~」＝〜しない限り。誇張・冗談交じりの拒否表現で頻出。
+
+### How are you holding up?
+新規：✓
+重要度：★★★★
+Meaning：（大変そうだけど）大丈夫？／なんとかやってる？
+Example：You've been working a lot. How are you holding up?
+Nuance：単なる How are you? より「困難な状況がある前提」の気遣い表現。忙しい人・悲しみの中の人・病気の人などに。
+
+### have second thoughts
+新規：✓
+重要度：★★★★
+Meaning：（一度決めたことに）迷いが出る／考え直す
+Example：I'm having second thoughts about quitting my job.
+Nuance：change my mind（気が変わる）／ hesitate（決断できず迷う）との違い：second thoughts は「決めた後に不安になる」ニュアンス。
+
+### It's a long story
+新規：✓
+重要度：★★★★
+Meaning：話すと長くなる／いろいろあってね
+Example：— Why did you move? — It's a long story.
+Nuance：詳細を省略したい時の定番のはぐらかし。相手が興味を示せば話す、示さなければ深追いしない、というクッション。
+
+### To make a long story short
+新規：✓
+重要度：★★★★
+Meaning：簡単に言うと／結論から言うと／端的に言えば
+Example：To make a long story short, I didn't get the job.
+Nuance：長い説明から結論へ移る合図。要点だけ伝えたい時のフレーズ。省略形 long story short もあり。
+
+### on the flip side
+新規：✓
+重要度：★★★★
+Meaning：一方で／逆の面では／裏を返せば
+Example：It's expensive. On the flip side, it's very high quality.
+Nuance：on the other hand / however / that said と類似。メリット・デメリットの対比で自然。ややカジュアル寄り。
+
+### genuinely
+新規：✓
+重要度：★★★★
+Meaning：本当に／心から／偽りなく
+Example：I'm genuinely happy for you. / I genuinely appreciate your help.
+Nuance：really よりも「本心で・偽りなく」の気持ちが強い。truly / sincerely / honestly と類似。既存 [[genuinely close]] は「本当に仲がいい」の慣用フレーズで別用法。
+
+### try to do / try doing
+新規：✓
+重要度：★★★★
+Meaning：
+　1. try to do：〜しようと努力する（目標）
+　2. try doing：試しに〜してみる（方法を試す）
+Example：
+　1. I tried to fix my computer.
+　2. Try getting more sleep.
+Nuance：「try to fix」＝直そうと頑張る／「try fixing」＝直す方法を試す、と結果への到達度が異なる。to/-ing の使い分け必須。
+
+### get to do
+新規：✓
+重要度：★★★★
+Meaning：〜する機会を得る／〜できる（チャンスがある）
+Example：I got to meet him in person. / I didn't get to see the movie.
+Nuance：have a chance to do / have the opportunity to do と類似。「ラッキーな経験・機会」ニュアンスが強く、ただの can より生き生きする。
+
+### come to do
+新規：✓
+重要度：★★★★
+Meaning：だんだん〜するようになる（時間をかけた変化・到達）
+Example：I came to understand his feelings. / She came to love the city. / We came to realize the importance of communication.
+Nuance：gradually learn to / eventually become aware of と類似。[[get to do]]（機会を得る）と対比：get to do は「その機会があった」、come to do は「時間をかけて変化した」。
+
 ---
 
 ## ★★★（知っておくと役立つ中堅）
@@ -3480,6 +3859,190 @@ Meaning：大きな夢を追う／高い目標を目指す
 Example：Don't be afraid to reach for the stars. / She always tells her kids to reach for the stars.
 Nuance："aim high" / "dream big" / "shoot for the stars" と同義。励まし・自己啓発の定番フレーズ。少しクリシェ気味。
 
+### suck it up
+新規：✓
+重要度：★★★
+Meaning：我慢しろ／文句言わずにやれ
+Example：Suck it up and do it.
+Nuance：かなりカジュアルで少し強め。tough it out / deal with it / get over it と類似。相手を突き放す時や自分に言い聞かせる時に。
+
+### gain insights / give insights
+新規：✓
+重要度：★★★
+Meaning：気づきを得る／気づきを与える
+Example：I've gained new insights from it. / It has given me new insights. / It has made me notice new things.
+Nuance：❌「gotten me new observation」は不自然。「insights」を目的語に取る動詞は gain / give / provide が自然。学び・読書・体験を語る時の頻出コロケーション。
+
+### You're full of it
+新規：✓
+重要度：★★★
+Meaning：嘘つきだ／でたらめ言ってる／何言ってんだよ
+Example：— I won the lottery twice. — You're full of it. / Come on, you're full of it.
+Nuance：「You're full of + 名詞」の直訳ではなく慣用句。You're lying / I don't buy it / That's nonsense と類似。カジュアルで、親しい相手にツッコむ時に。
+
+### It's divine
+新規：✓
+重要度：★★★
+Meaning：最高に美味しい／素晴らしい／神レベル
+Example：This cake is divine. / The view was divine. / That smell is divine.
+Nuance：本来「神の・神聖な」だが、会話では強い褒め言葉。特に食べ物・香り・景色・音楽・雰囲気に。heavenly / amazing / out of this world と類似。
+
+### go far / go as far as ~
+新規：✓
+重要度：★★★
+Meaning：（お金・物資が）長く持つ／十分な価値がある
+Example：$100 doesn't go far these days. / Money doesn't go as far as it used to.（昔ほど価値がない）
+Nuance：not go as far as it used to は物価・生活コスト話で頻出。「昔ほど＝as much as it used to（動作）／as far as it used to（価値）」を使い分ける。
+
+### grow（お金・貯蓄が増える）
+新規：✓
+重要度：★★★
+Meaning：（お金・貯蓄・投資が）増える／成長する
+Example：Money in the bank doesn't grow like it used to. / Savings grow. / Investment grows.
+Nuance：increase より自然。動作動詞なので「as much as it used to」で be を付けない（❌ as much as it used to be）。
+
+### Remove vs Eliminate
+新規：✓
+重要度：★★★
+Meaning：
+　1. Remove：取り除く／取り外す（そこから移動させる）
+　2. Eliminate：排除する／完全になくす（remove より強い）
+Example：
+　1. Remove excess oil. / Remove your shoes. / Remove errors from the text.
+　2. Eliminate risk. / Eliminate waste.
+Nuance：Remove は物・問題など幅広く、Eliminate は問題・リスク・原因など「ゼロにする」対象に。✅ Remove excess oil. △ Eliminate excess oil.（油を消滅させるような響き）。
+
+### excess
+新規：✓
+重要度：★★★
+Meaning：過剰な／余分な
+Example：Remove excess oil. / excess salt / excess fat
+Nuance：extra（追加の）／ unnecessary（不要な）と類似。料理・健康・数値の話で頻出。
+
+### as much as possible / as much as you can
+新規：✓
+重要度：★★★
+Meaning：できるだけ／可能な限り
+Example：Remove as much excess oil as possible. / Practice as much as you can.
+Nuance：as much as you can の方が会話寄り。as ~ as possible は書き言葉寄りだが会話でも自然。
+
+### The sky is the limit
+新規：✓
+重要度：★★★
+Meaning：可能性は無限／限界などない
+Example：With your skills, the sky is the limit.
+Nuance：Anything is possible / No limits と類似。励まし・褒めの定番。ややクリシェ気味だがネイティブは普通に使う。
+
+### can't put my finger on it
+新規：✓
+重要度：★★★
+Meaning：（理由・原因を）うまく説明できない／特定できない
+Example：Something feels wrong, but I can't put my finger on it.
+Nuance：指で「これ！」と指せない → 正体を特定できない、のイメージ。I can't figure it out（分からない）／ It's on the tip of my tongue（喉まで出かかっている）と類似だがニュアンス違い。
+
+### a foot in the door
+新規：✓
+重要度：★★★
+Meaning：足がかり／最初のチャンス／入り口
+Example：This internship is a foot in the door.
+Nuance：成功そのものではなく「まず中に入るチャンス」。就職・営業・キャリアの入口で頻出。
+
+### minute（発音の使い分け）
+新規：✓
+重要度：★★★
+Meaning：
+　1. /ˈmɪnɪt/（ミニット）：1分
+　2. /maɪˈnjuːt/（マイニュート）：非常に小さい／細かい
+Example：
+　1. Wait a minute.
+　2. a minute detail / The difference is minute.
+Nuance：綴りが同じで発音が違う典型例。②の発音・意味を知らないと聞き取れない。
+
+### shell out
+新規：✓
+重要度：★★★
+Meaning：（高いお金を）払う／出費する（痛い出費）
+Example：I had to shell out $500 for repairs. / Are you willing to shell out that much money?
+Nuance：pay より「仕方なく大金を払う」ニュアンス。fork out（しぶしぶ払う）／ cough up（嫌々払う）と類似。修理費・税金・罰金の話で頻出。
+
+### eye-catching
+新規：✓
+重要度：★★★
+Meaning：人目を引く／印象的な
+Example：The advertisement was very eye-catching.
+Nuance：見た瞬間に目を引く。attention-grabbing / striking と類似。[[stand out]]（比較して際立つ）／ [[noticeable]]（気づくほど明確）との違いを押さえる。
+
+### noticeable
+新規：✓
+重要度：★★★
+Meaning：気づくほどの／顕著な／目立つ
+Example：There was a noticeable improvement in his English.
+Nuance：スペル注意（❌ noticable）。「気づくほど明確」＝客観的な差の存在に焦点。[[eye-catching]]（視覚的魅力）／ [[stand out]]（比較で際立つ）と対比。
+
+### overestimate
+新規：✓
+重要度：★★★
+Meaning：過大評価する／多く見積もりすぎる
+Example：I overestimated the time it would take.
+Nuance：時間・難易度・能力・数量が主な対象。対義語は underestimate。[[overrate]]（評価しすぎる）とは対象が違う。
+
+### overrate / overrated
+新規：✓
+重要度：★★★
+Meaning：過大評価する／評価しすぎる（人・作品・価値）
+Example：This movie is overrated. / He's overrated as a player.
+Nuance：[[overestimate]] は「見積もりすぎ」（時間・量）、overrate は「評価しすぎ」（人・作品）。SNS・レビューで頻出。対義語は underrate。
+
+### push around / boss around
+新規：✓
+重要度：★★★
+Meaning：こき使う／振り回す／言いなりにする
+Example：Don't let him push you around.
+Nuance：boss around（命令してこき使う）／ walk all over someone（完全になめられる）と類似。人間関係の抑圧を語る時に。
+
+### pick up the slack
+新規：✓
+重要度：★★★
+Meaning：（他人の）不足分を補う／カバーする
+Example：I'll pick up the slack while you're away.
+Nuance：仕事・チームワークで頻出。cover for someone / fill in for someone と類似。既存 [[pick up]]（迎え・拾う）とは別用法。
+
+### pick on someone
+新規：✓
+重要度：★★★
+Meaning：
+　1. （特定の人を）いじめる／からかう
+　2. しつこく責める／細かいことで批判する
+Example：
+　1. My classmates used to pick on me when I was in elementary school. / Why are you always picking on your little brother?
+　2. My boss always picks on me for being a few minutes late.
+Nuance：「pick = 選ぶ」→「pick on = 誰かを選んで攻撃する」。tease（からかう・仲良し可）／ bully（深刻ないじめ）／ make fun of（馬鹿にする）／ give someone a hard time（困らせる）と使い分ける。pick on は「不公平・嫌な感じ」が強い。
+
+### hold one's own
+新規：✓
+重要度：★★★
+Meaning：引けを取らない／互角にやる／十分な実力を発揮する
+Example：She can hold her own in any debate. / I managed to hold my own during the meeting. / The local team held its own against the champions. / He can hold his own against experienced professionals. / She holds her own in a male-dominated industry.
+Nuance：「勝つ」ではなく「相手が強くても自分のレベルを維持する」。keep up with（ついていく）／ stand one's ground（立場を守る）／ compete with（競争する）と類似。対義：fall behind / be outmatched。「hold your own against ~（強敵と互角）」「hold your own in ~（分野で十分やる）」の型で使う。
+
+### see someone through
+新規：✓
+重要度：★★★
+Meaning：（誰かが）困難を乗り越えられるよう最後まで支える／見届ける
+Example：My family saw me through a difficult time. / Her friends saw her through the divorce. / This money will see us through until payday.
+Nuance：help（単純に助ける）より「最後まで継続的に支える」ニュアンス。[[get someone through]] と近いが、see ~ through は「通り抜けさせて見届ける」感が強い。
+
+### regret to do / regret doing
+新規：✓
+重要度：★★★
+Meaning：
+　1. regret to do：残念ながら〜する（これから伝える内容）
+　2. regret doing：〜したことを後悔する（過去の行動）
+Example：
+　1. I regret to inform you that your application was rejected. / I regret to say that I can't help you.
+　2. I regret spending so much money. / She regrets quitting her job.
+Nuance：to = 未来／-ing = 過去 の原則。regret to do はビジネスメール・公式発表で頻出。日常での後悔は regret -ing。
+
 ---
 
 ## ★★（文脈限定／やや専門・フォーマル寄り）
@@ -3686,6 +4249,13 @@ Nuance：関連語：disrupt / interrupt / bankrupt（すべて "rupt" = 壊す�
 Meaning：お腹の出た／ビール腹の
 Example：a paunchy middle-aged man / He's gotten a bit paunchy since he stopped working out.
 Nuance：pot-bellied / beer belly と同義だがやや文語寄り。中年男性の見た目描写でよく使う。侮蔑的ニュアンスあり。
+
+### not have a penny/dollar to one's name
+新規：✓
+重要度：★★
+Meaning：一文無しである／全くお金を持っていない
+Example：I didn't have a penny to my name when I moved to Tokyo. / He started his business with barely a dollar to his name.
+Nuance：penny は英、dollar は米。「to one's name = 自分の所有として」→ 自分のものとして1円もない、のイメージ。be broke（お金がない）／ be flat broke（完全に一文無し）／ be penniless（無一文の）と類似だが、こちらはドラマチック・強調的な響き。過去の苦労話・回顧で頻出。
 
 ---
 

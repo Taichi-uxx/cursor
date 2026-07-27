@@ -6306,3 +6306,1384 @@ pursue / demand との違い
 - The silver lining is ...
 - I felt left out.
 - Cut me some slack.
+
+## 6/18
+
+### 【Key Vocabulary & Phrases】
+
+#### 1. 「こちらこそありがとう」
+
+**一番自然**
+> No, thank you.（いえ、こちらこそ。）
+
+文脈で何に対するお礼か明らかな場合はこれだけで十分自然。
+
+**相手と同じ内容のお礼を返す**
+> Thanks for helping me.
+> No, thank you for helping me.
+
+**よりネイティブ**
+> I should be thanking you.
+> お礼を言うべきなのは私の方だよ。
+
+**フォーマル**
+> The pleasure is mine.
+
+---
+
+#### 2. 「良い曲に出会う」
+
+**一番自然：come across a good song**
+偶然出会うニュアンス
+
+Example:
+> I came across a really good song yesterday.
+
+**discover**：新しい発見
+> I've discovered a lot of good songs lately.
+
+**find**：最も一般的
+> I found a great song on Spotify.
+
+**ニュアンス比較**
+
+| 表現          | ニュアンス    |
+| ----------- | -------- |
+| find        | 見つける     |
+| come across | 偶然出会う    |
+| discover    | 新しい発見をする |
+
+---
+
+#### 3. 「ほとんど〜ない」
+
+**hardly**：最もよく使う
+> I hardly watch TV.
+
+**hardly ever**：めったに〜ない
+> I hardly ever drink alcohol.
+
+**rarely**：ややフォーマル
+> I rarely eat fast food.
+
+**almost never**：かなり強調
+> I almost never get sick.
+
+**barely**：「かろうじて」
+> I barely slept.
+＝少しは寝た
+
+**比較**
+> I can hardly hear you.（ほとんど聞こえない）
+> I can barely hear you.（かろうじて聞こえる）
+
+**ポイント**
+
+| 表現     | 意味     |
+| ------ | ------ |
+| hardly | ほぼゼロ   |
+| barely | ギリギリある |
+
+頻度なら **hardly** が自然。
+
+---
+
+#### 4. give it a try
+意味：試してみる
+
+Example:
+> I'll give it a try.
+
+類義語：try it / give it a shot / give it a go（英）
+
+---
+
+#### 5. cut to the chase
+意味：本題に入る
+
+Example:
+> Let's cut to the chase.
+
+類義語：get to the point / long story short / the bottom line is
+
+ニュアンス：少し勢いがあり、カジュアル。
+
+---
+
+#### 6. I'm down
+意味：いいよ／やるよ／賛成
+
+Example:
+> Want to grab dinner?
+> I'm down.
+
+類義語：I'm in / I'm up for it / Sounds good
+
+否定：
+> I'm not down for it.（気が進まない）
+
+---
+
+#### 7. if it weren't for
+意味：〜がなければ（仮定法）
+
+Example:
+> If it weren't for you, I would have failed.
+
+過去：If it hadn't been for you...
+類義：without
+
+---
+
+#### 8. my treat
+意味：私のおごり
+
+Example:
+> My treat.
+
+類義語：It's on me. / I'll get this. / Let me treat you.
+
+---
+
+#### 9. you name it
+意味：何でもある／ありとあらゆるもの
+
+Example:
+> They sell coffee, tea, juice—you name it.
+
+パターン：A, B, C... You name it.
+
+---
+
+#### 10. go-to
+意味：定番の／一番頼りになる
+
+Examples:
+> my go-to restaurant
+> my go-to person
+> Coffee is my go-to.
+
+ニュアンス：favorite より「迷ったらこれ」
+
+---
+
+#### 11. suck it up
+意味：我慢しろ
+
+Example:
+> Suck it up and do it.
+
+類義語：tough it out / deal with it / get over it
+
+ニュアンス：かなりカジュアル、少し強め。
+
+---
+
+#### 12. get someone through
+意味：（人）が困難を乗り越えるのを助ける
+
+Examples:
+> My friends got me through a tough time.
+> Coffee gets me through the day.
+
+類義語：help someone through / pull someone through / carry someone through
+
+---
+
+#### 13. 「It has gotten me new observation」の添削
+
+❌ It has gotten me new observation.
+
+**Better Version**
+> It has given me new insights.
+> I've gained new insights from it.
+> It has made me notice new things.
+
+ポイント：英語では **gain insights** / **give insights** が自然。
+
+---
+
+#### 14. get + 人 + 物
+意味：人のために、用意する／手配する／取ってくる
+
+Examples:
+> I'll get you a drink.
+> I got him a present.
+> Can you get me some water?
+
+**give との違い**
+- give：渡す
+- get：相手のために用意する
+
+**別構文：get 人 to 動詞**
+> I got him to study.（彼に勉強させた。）
+
+---
+
+### 【使い分けまとめ】
+
+| 表現               | ニュアンス     |
+| ---------------- | --------- |
+| find             | 見つける      |
+| come across      | 偶然出会う     |
+| discover         | 新たな発見     |
+| hardly           | ほとんど〜ない   |
+| hardly ever      | めったに〜ない   |
+| barely           | かろうじて     |
+| give             | 渡す        |
+| get              | 用意してあげる   |
+| my treat         | 私のおごり     |
+| it's on me       | 私が払う      |
+| go-to            | 定番・まず選ぶもの |
+| I'm down         | いいよ・賛成    |
+| I'm in           | 参加するよ     |
+| cut to the chase | 本題に入る     |
+| get to the point | 要点を言う     |
+| suck it up       | 我慢しろ      |
+| deal with it     | 対処しろ      |
+| get over it      | 引きずるな     |
+
+---
+
+### 【Phrases to Master】
+- No, thank you.（こちらこそありがとう。）
+- I should be thanking you.（お礼を言うべきなのは私の方だよ。）
+- I came across a really good song.（いい曲に偶然出会った。）
+- I hardly ever watch TV.（テレビはほとんど見ない。）
+- I'll give it a try.（やってみるよ。）
+- Let's cut to the chase.（本題に入ろう。）
+- I'm down.（いいよ、やるよ。）
+- If it weren't for you...（あなたがいなかったら…。）
+- It's my treat.（私のおごりだよ。）
+- Coffee is my go-to drink.（コーヒーは私の定番。）
+- My friends got me through a tough time.（友達がつらい時期を支えてくれた。）
+- It has given me new insights.（それによって新しい気づきを得た。）
+
+---
+
+## 6/19
+
+### 【Key Vocabulary】
+
+#### 1. You're full of it.
+
+**意味**：嘘つきだ／でたらめを言っている／何言ってるんだよ
+
+**ニュアンス**：相手の話を信じていないときのカジュアルな表現。
+
+**例文**
+- A: I won the lottery twice.
+- B: You're full of it.
+- Come on, you're full of it.
+
+**類義語**：You're lying. / I don't buy it. / That's nonsense.
+
+**ポイント**：**You're full of...** は本来「〜でいっぱい」だが、**You're full of it.** は慣用句として「嘘ばかりだ」の意味。
+
+---
+
+#### 2. man
+
+**① 間投詞（最重要）**
+意味：「いやー」「うわー」
+相手の性別とは関係なく使える。
+
+例文：
+> Man, I'm tired.
+> Man, that's crazy.
+> Man, that was close.
+
+**② 呼びかけ**
+意味：「おい」「なあ」
+
+例文：
+> Thanks, man.
+> Come on, man.
+
+ポイント：
+- 主に男性同士で自然
+- 女性に対して使うこともあるが不自然に感じる人もいる
+- 性別を問わず使うなら **dude** の方が一般的
+
+**③ 人類・人間**
+例：the history of man / man-made
+最近は humankind / humanity / human-made がよく使われる。
+
+---
+
+#### 3. run errands
+
+**意味**：用事を済ませる／雑用を片付ける
+銀行・郵便局・スーパー・クリーニングなど、**生活上の小さな用事をまとめて済ませる**イメージ。
+
+**例文**
+> I need to run some errands.
+> I'm running errands this afternoon.
+> She was out running errands.
+
+**類似表現**：take care of some errands / get things done / do errands（*run errands* の方が一般的）
+
+**ポイント**：**errands** は通常 **複数形**で使う。
+
+---
+
+#### 4. It's divine.
+
+**意味**：最高に美味しい／素晴らしい／神レベル
+本来 **divine** は「神の・神聖な」という意味だが、会話では**「ものすごく良い」**という強い褒め言葉。
+
+**例文**
+> This cake is divine.
+> The view was divine.
+> That smell is divine.
+
+**よく使う場面**：食べ物／香り／景色／音楽／雰囲気
+
+**類義語**：heavenly / amazing / incredible / out of this world
+
+---
+
+### 【Phrases to Master】
+- You're full of it. / Come on, you're full of it.
+- Man, that's crazy. / Man, I'm tired. / Man, that was close.
+- Thanks, man. / Come on, man.
+- I need to run some errands. / I'm running errands this afternoon.
+- This cake is divine. / The view was divine.
+
+---
+
+### 【使い方・注意点】
+
+**You're full of it.**：「You're full of + 名詞」の直訳ではなく、**慣用句**として覚える。
+
+**Man, ...**：文頭に置くと「いやー」「うわー」の感嘆詞。相手の性別とは関係なく使える。
+
+**Thanks, man.**：男性相手なら自然。女性相手では避ける人もいるため **dude** の方が無難な場面も。
+
+**run errands**：**errands** はほぼ複数形。「生活の細かい用事をまとめて片付ける」ニュアンス。
+
+**It's divine.**：「神のような」→「最高に素晴らしい」の比喩。特に**食べ物・景色・香り**を褒めるときに。
+
+---
+
+## 6/22
+
+### 【Key Vocabulary】
+
+#### 1. off the hook
+
+**意味①（最重要）**：（責任・義務・トラブルから）免れる
+
+Examples:
+> I'm off the hook now.
+> My boss decided it wasn't my fault, so I'm off the hook.
+> Thanks to her, I was let off the hook.
+
+**よく使う形：let someone off the hook**（見逃す／責任を問わない）
+> My manager let me off the hook.
+> You're not off the hook yet.（まだ責任から逃れられていないよ。）
+> Don't let him off the hook.（彼を見逃すな。）
+> Let me off the hook.（勘弁して。／今回だけ許して。）
+
+**意味②**：電話の受話器が外れている
+> The phone was off the hook.
+※現在は①が圧倒的によく使われる。
+
+**類義語**：get away with it / dodge responsibility / be in the clear
+
+---
+
+#### 2. understatement
+
+**意味**：控えめな表現／過小表現
+
+**ネイティブが超よく使う表現：That's an understatement.**
+> それは控えめすぎる言い方だよ。／そんなもんじゃないよ。
+
+例：
+- A: The test was a little difficult.
+- B: That's an understatement!
+
+**強調版：That's the understatement of the year.**
+> 今年一番控えめな表現だね。／それは言わなすぎ。
+
+**超頻出構文：To say that ~ is an understatement.**
+＝「〜と言うのでは足りない」
+
+例：
+> To say I was nervous is an understatement.
+> 「緊張していたと言うのでは全然足りない。」
+
+**類義語：downplay**（軽く見せる／過小評価する）
+> He downplayed the problem.
+
+**対義語：overstatement**（誇張／大げさな表現）
+
+---
+
+### 【Phrases to Master】
+- I'm off the hook now.
+- let someone off the hook
+- You're not off the hook yet.
+- Don't let him off the hook.
+- Let me off the hook.
+- That's an understatement.
+- That's the understatement of the year.
+- To say that ~ is an understatement.
+
+---
+
+### 【Useful Example Sentences】
+
+**off the hook**
+> I forgot to submit the report on time, but luckily my manager let me off the hook.
+> My boss decided it wasn't my fault, so I'm off the hook.
+
+**understatement**
+> Tokyo is kind of crowded. — That's an understatement.
+> To say I was nervous is an understatement.
+
+---
+
+## 6/23
+
+### 【Key Vocabulary / Phrases】
+
+#### 1. I'm on board
+意味：賛成です／参加します／協力します
+ニュアンス：「同じ船に乗る」→「同じ方向を向く」イメージ。
+
+例文：
+> I'm on board with that idea.
+> I'm totally on board.
+
+類似表現：I'm in. / Count me in. / I'm all for it.
+
+反対表現：
+> I'm not on board with that.
+
+---
+
+#### 2. As far as I know
+意味：「私の知る限りでは」
+ニュアンス：100%断言ではなく、「自分の知識の範囲では」というクッション。
+
+例文：
+> As far as I know, the meeting is still on.
+> As far as I know, there are no issues.
+
+類似：To my knowledge（フォーマル）／ As far as I'm aware（丁寧）
+
+---
+
+#### 3. As far as ~
+コア：「〜の範囲では」
+
+**① 知識・判断の範囲**
+- As far as I know → 私が知る限り
+- As far as I can tell → 私が判断できる限り
+> As far as I can tell, it's correct.
+
+**② 距離**
+> We walked as far as the station.
+
+**③ 話題の範囲**
+> As far as English is concerned...
+
+---
+
+#### 4. As far as I'm concerned
+意味：私としては／私の意見では
+ニュアンス：「他の人はどうでもいいが、私はこう考える」という自分側の視点。
+
+例文：
+> As far as I'm concerned, it's a good idea.
+> As far as I'm concerned, the matter is closed.
+
+類似表現：Personally, I think... / In my opinion... / From my point of view...
+
+---
+
+#### 5. 「〜に関して言うと」の表現
+
+**A. As for ~**
+コア：話題を切り替える
+> As for the plan, it's delayed.
+イメージ：「さて、その話だけど」
+
+**B. When it comes to ~**
+コア：その分野・テーマになると
+> When it comes to English, he's strong.
+> When it comes to money, I'm careful.
+ニュアンス：一般論・得意不得意・特徴を話す時に自然。
+
+**C. In terms of ~**
+コア：「〜という観点では」
+> In terms of quality, this one is better.
+> In terms of speed, A is faster.
+ニュアンス：比較・分析・ビジネス向き。
+
+---
+
+#### 6. used to / used to be
+
+**used to + 動詞**
+意味：昔は〜だった、以前は〜した
+> I used to live here.
+> It doesn't grow as much as it used to.
+
+**注意**
+❌ as much as it used to be
+⭕ as much as it used to
+理由：比較対象が **grow（増える）という動作**だから。
+
+---
+
+#### 7. go as far as ~ / go far
+
+**go far**
+意味：（お金などが）長く持つ
+> $100 doesn't go far these days.
+
+**go as far as it used to**
+意味：昔ほど価値がない、昔ほど持たない
+> Money doesn't go as far as it used to.
+
+---
+
+#### 8. grow（お金の文脈）
+意味：増える、成長する
+
+Money grows. / Savings grow. / Investment grows.
+
+例：
+> Money in the bank doesn't grow like it used to.
+
+---
+
+#### 9. Remove
+意味：取り除く、取り外す
+ニュアンス：「そこから移動させる」
+
+例：
+> Remove excess oil.
+> Remove your shoes.
+> Remove errors from the text.
+
+---
+
+#### 10. Eliminate
+意味：排除する、完全になくす
+ニュアンス：remove より強い。
+
+例：
+> Eliminate risk.
+> Eliminate waste.
+
+---
+
+**Remove vs Eliminate**
+
+|      | Remove    | Eliminate   |
+| ---- | --------- | ----------- |
+| 意味   | 取り除く      | 完全排除する      |
+| 強さ   | 普通        | 強い          |
+| 対象   | 物・問題など幅広い | 問題・リスク・原因など |
+| イメージ | どかす       | ゼロにする       |
+
+✅ Remove excess oil.（余分な油を取る）
+△ Eliminate excess oil.（油を完全消滅させるような響き）
+
+---
+
+#### 11. Excess
+意味：過剰な、余分な
+
+例：excess oil / excess salt / excess fat
+
+類義語：extra（追加の）／ unnecessary（不要な）
+
+---
+
+#### 12. As much as possible
+意味：できるだけ
+
+例：
+> Remove as much excess oil as possible.
+
+類似：as much as you can（より会話的）
+
+---
+
+### 【Correction Log】
+
+**①**
+❌ It doesn't go as much as it used to be.
+問題：go の使い方が不自然／used to be が不要
+✅ It doesn't go as far as it used to.（昔ほど価値がない）
+
+**②**
+❌ It doesn't grow as much as it used to be.
+問題：比較対象が動詞なので be 不要
+✅ It doesn't grow as much as it used to.
+
+---
+
+## 6/24
+
+### 【Key Vocabulary / Phrases】
+
+#### 1. except (for) ～ / other than ～ / besides ～
+意味：〜以外
+
+**① except (for) 〜**：〜を除いて
+> Everyone came except Tom.
+
+**② other than 〜**：〜以外では（会話で非常によく使う）
+> Do you speak any languages other than English?
+
+**③ besides 〜**：〜に加えて
+> Besides English, I can speak Japanese.
+
+| 表現         | ニュアンス  |
+| ---------- | ------ |
+| except     | 除外     |
+| other than | 〜以外    |
+| besides    | 追加（〜も） |
+
+---
+
+#### 2. all the way
+意味：はるばる／ずっと／完全に
+
+例：
+> I came all the way from Osaka.
+> Watch the movie all the way through.
+> Turn the volume down all the way.
+
+※既存 [[all the way]] エントリと同義。
+
+---
+
+#### 3. on my way
+意味：向かっている途中
+
+例：
+> I'm on my way.
+> I'm on my way home.
+> I'm on my way to work.
+
+関連：on the way（途中で）／ by the way（ところで）
+
+※既存 [[on my way home / on my way (to) ~]] と重複。
+
+---
+
+#### 4. get congested
+意味：混雑する／詰まる／渋滞する
+
+例：
+> The roads get congested during rush hour.
+> My nose gets congested.
+
+類義語：get crowded（人で混む）／ get packed（ぎゅうぎゅう）／ get jammed（大渋滞）
+
+---
+
+#### 5. How could you ～?
+意味：よくそんなことできるね／なんでそんなことしたの
+感情（怒り・驚き）が入る。
+
+例：
+> How could you do that?
+> How could you forget my birthday?
+
+比較：
+- How can you ~? → 今の行動への非難
+- How could you ~? → 起きたことへの失望・驚き
+
+---
+
+#### 6. Let me look it up
+意味：ちょっと調べるね（look up：情報を検索する）
+
+例：
+> Let me look it up.
+> I looked up the word in a dictionary.
+
+類似表現：Let me check（確認する）／ Let me find out（答えを探す）／ Let me look into it（詳しく調査）
+
+---
+
+#### 7. I'll see if ～
+意味：〜かどうか見てみるね
+
+例：
+> I'll see if he's available.
+> I'll see if I can help.
+
+---
+
+#### 8. Let me check if ～
+意味：〜か確認させて
+
+例：
+> Let me check if it's open.
+
+違い：
+- I'll see if → 試して確認する
+- Let me check if → 今確認する
+
+---
+
+#### 9. You are a lifesaver
+意味：本当に助かった！／救世主だよ
+
+例：
+> Thanks for helping me. You're a lifesaver.
+
+類似表現：You saved me.（助かった）／ I owe you one.（借りができた）
+
+---
+
+#### 10. The sky is the limit
+意味：可能性は無限
+
+例：
+> With your skills, the sky is the limit.
+
+類似表現：Anything is possible. / No limits.
+
+---
+
+#### 11. Can't put my finger on it
+意味：理由・原因をうまく説明できない
+
+例：
+> Something feels wrong, but I can't put my finger on it.
+
+イメージ：指で「これ！」と指せない → 正体を特定できない
+
+類似：I can't figure it out.（分からない）／ It's on the tip of my tongue.（喉まで出かかっている）
+
+---
+
+#### 12. take place
+意味：行われる／開催される
+
+例：
+> The meeting took place yesterday.
+> The wedding will take place in June.
+
+類義語：happen（起こる）／ occur（発生する・フォーマル）／ take place（計画された出来事）
+
+---
+
+#### 13. a foot in the door
+意味：足がかり／最初のチャンス
+
+例：
+> This internship is a foot in the door.
+
+ニュアンス：成功そのものではなく、「まず中に入るチャンス」
+
+---
+
+#### 14. good call / bad call
+意味：判断への評価
+
+**good call**＝いい判断
+> Good call bringing an umbrella.
+
+**bad call**＝悪い判断
+> That was a bad call.
+
+類似表現：smart move / poor choice
+※既存 [[wrong call / good call]] と重複。
+
+---
+
+#### 15. get off work
+意味：仕事が終わる／退勤する
+
+例：
+> What time do you get off work?
+> I just got off work.
+
+類似：get off work（会話的）／ finish work（仕事完了）／ leave work（職場を出る）／ clock out（タイムカード的）
+
+---
+
+#### 16. minute（2つの発音）
+
+**① /ˈmɪnɪt/（ミニット）**
+意味：1分
+> Wait a minute.
+
+**② /maɪˈnjuːt/（マイニュート）**
+意味：非常に小さい／細かい
+> a minute detail
+> The difference is minute.
+
+---
+
+#### 17. stick out
+意味：突き出る／目立つ／浮く
+
+例：
+> His ears stick out.
+> She sticks out in the crowd.
+
+**重要イディオム：stick out like a sore thumb**（場違いなくらい目立つ）
+> He sticks out like a sore thumb.（彼は完全に浮いている。）
+
+---
+
+#### 18. shell out
+意味：（高いお金を）払う、出費する
+ニュアンス：「痛い出費」「仕方なく払う」
+
+例：
+> I had to shell out $500 for repairs.
+> Are you willing to shell out that much money?
+
+| 表現        | ニュアンス  |
+| --------- | ------ |
+| pay       | 普通に払う  |
+| shell out | 高額を払う  |
+| fork out  | しぶしぶ払う |
+| cough up  | 嫌々払う   |
+
+---
+
+### 【今日の特に覚えるべきネイティブ表現 TOP10】
+
+1. I'm on my way.（今向かってる）
+2. Let me look it up.（調べるね）
+3. I'll see if I can ～.（できるか見てみる）
+4. You're a lifesaver.（本当に助かった）
+5. The sky is the limit.（可能性は無限）
+6. I can't put my finger on it.（うまく説明できない）
+7. Good call.（ナイス判断）
+8. What time do you get off work?（何時に仕事終わる？）
+9. It sticks out.（目立つ）
+10. I had to shell out for ～.（〜に痛い出費をした）
+
+---
+
+## 6/25
+
+### 【Key Vocabulary】
+
+#### 1. stand out
+意味：際立つ、目立つ、他と差が出る
+
+Example:
+> Her acting stood out more than the others.
+> Her performance really stood out.
+
+類義語：shine（輝く）／ excel（秀でる）／ distinguish oneself（際立つ）
+
+---
+
+#### 2. eye-catching
+意味：人目を引く、目を引く、印象的な
+
+Example:
+> The advertisement was very eye-catching.
+
+類義語：attention-grabbing（注意を引く）／ striking（印象的な）
+
+**違い**
+- eye-catching → 見た瞬間に目を引く
+- stand out → 周囲と比べて際立つ
+
+---
+
+#### 3. noticeable
+※スペル注意：noticable ❌
+意味：気づくほどの、顕著な、目立つ
+
+Example:
+> There was a noticeable improvement in his English.
+
+関連語：notice（気づく）／ noticeably（目立って）
+
+**違い**
+- noticeable → 気づくほど明確
+- eye-catching → 魅力的で目を引く
+- stand out → 比較して際立つ
+
+---
+
+#### 4. confident in ~
+意味：〜に自信がある
+
+Example:
+> I'm confident in my English skills.
+> I'm confident in my ability to learn new things.
+
+関連：**I'm confident that S + V**（〜だと確信している）
+> I'm confident that I can handle it.
+
+---
+
+#### 5. overestimate
+意味：過大評価する、過大に見積もる
+
+Example:
+> I overestimated the time it would take.
+
+使う対象：時間／難易度／能力／数量
+
+---
+
+#### 6. overrate
+意味：過大評価する（評価・人気・価値）
+
+Example:
+> This movie is overrated.
+
+**違い**
+
+|              | 意味      | 対象      |
+| ------------ | ------- | ------- |
+| overestimate | 見積もりすぎる | 時間・能力・量 |
+| overrate     | 評価しすぎる  | 人・作品・価値 |
+
+反対語：underestimate（過小評価する）／ underrate（低く評価する）
+
+---
+
+### 【Phrases to Master】
+
+#### 7. There's no way I can ~ unless ...
+意味：〜しない限り、絶対に無理
+
+Example:
+> There's no way I can buy this unless I win the lottery.
+
+ポイント：There's no way ~ = 絶対無理／ unless = 〜しない限り
+
+---
+
+#### 8. as long as ~
+意味：〜である限り、〜なら
+
+Example:
+> As long as it's warm, I don't care how it looks.
+> You can buy anything as long as the price is within the budget.
+
+ニュアンス：「条件を満たせばOK」
+類似：provided that / as far as
+
+---
+
+#### 9. How are you holding up?
+意味：（大変そうだけど）大丈夫？なんとかやってる？
+
+Example:
+> You've been working a lot. How are you holding up?
+
+注意：普通の How are you? よりも、「困難な状況がある前提」の気遣い表現。
+
+---
+
+#### 10. push around
+意味：こき使う、振り回す、言いなりにする
+
+Example:
+> Don't let him push you around.
+
+類義語：boss around（命令してこき使う）／ walk all over someone（完全になめられる）
+
+---
+
+#### 11. pick up the slack
+意味：不足分を補う、カバーする
+
+Example:
+> I'll pick up the slack while you're away.
+
+類義語：cover for someone / fill in for someone
+よく使う場面：仕事・チームワーク
+
+---
+
+#### 12. have second thoughts
+意味：考え直す、迷いが出る
+
+Example:
+> I'm having second thoughts about quitting my job.
+
+**違い**
+
+| 表現                   | 意味         |
+| -------------------- | ---------- |
+| change my mind       | 気が変わる      |
+| have second thoughts | 決めた後に不安になる |
+| hesitate             | 決断できず迷う    |
+
+---
+
+#### 13. It's a long story.
+意味：話すと長くなる／いろいろあってね
+
+Example:
+- "Why did you move?"
+- "It's a long story."
+
+用途：詳細を省略するとき
+
+---
+
+#### 14. To make a long story short
+意味：簡単に言うと、結論から言うと
+
+Example:
+> To make a long story short, I didn't get the job.
+
+使い方：長い説明 → 結論へ移る合図
+
+---
+
+#### 15. That's a good point.
+意味：それはいい指摘だね／確かに
+
+Example:
+- "We should leave earlier."
+- "That's a good point."
+
+類似表現：Good point. / That makes sense. / I see what you mean.
+ニュアンス：単なる同意ではなく、「相手の視点・指摘を評価する」
+
+---
+
+#### 16. on the flip side
+意味：一方で、逆の面では
+
+Example:
+> It's expensive. On the flip side, it's very high quality.
+
+類義語：on the other hand / however / that said
+ニュアンス：メリット・デメリットを比較するときに自然
+
+---
+
+### 【Correction Log】
+
+❌ noticable → ✅ noticeable（スペル注意）
+
+**acting vs performance**
+- acting → 演技という技術・行為
+- performance → 作品内での総合的な演技・表現
+
+映画レビューでは：✅ Her performance stood out. がより自然。
+
+---
+
+### 【Important Comparison】「目立つ」の表現比較
+
+| 表現           | ニュアンス    |
+| ------------ | -------- |
+| stand out    | 周囲より際立つ  |
+| eye-catching | 見た瞬間目を引く |
+| noticeable   | 気づくほど明確  |
+
+Example:
+> Her performance stood out.
+> Her outfit was eye-catching.
+> There was a noticeable improvement.
+
+---
+
+## 6/29
+
+### 【Key Vocabulary & Phrases】
+
+#### 1. pick on someone
+
+**意味**
+① 〜をいじめる、からかう
+② 〜をしつこく責める、細かいことで批判する
+
+**ニュアンス**
+単なる「からかい」ではなく、**特定の人をターゲットにして繰り返し攻撃する**イメージ。
+> pick = 選ぶ
+> pick on = 「誰かを選んで攻撃する」
+
+**Examples**
+✅ My classmates used to pick on me when I was in elementary school.
+（used to + 動詞 → 昔はよく〜していた）
+
+✅ Why are you always picking on your little brother?
+（pick on + 人 → 人をターゲットにする）
+
+✅ Don't pick on him just because he's new.
+（just because A → 「Aだからというだけで」）
+
+✅ My boss always picks on me for being a few minutes late.
+（pick on someone for ~ → 「〜を理由に人を責める」）
+
+**類義語**
+
+| 表現                           | ニュアンス             |
+| ---------------------------- | ----------------- |
+| bully                        | いじめる（深刻・継続的）      |
+| tease                        | からかう（軽め、冗談の場合もある） |
+| make fun of                  | 馬鹿にする             |
+| give someone a hard time     | からかう、困らせる、いじる     |
+
+**使い分け**
+- tease：仲が良い場合もある（My friends tease me about my hairstyle.）
+- pick on：不公平・嫌な感じが強い（Everyone picks on him because he's quiet.）
+- bully：深刻な問題（He was bullied at school.）
+
+---
+
+#### 2. hold one's own
+
+**意味**：引けを取らない、互角にやる、十分な実力を発揮する
+
+**ニュアンス**
+「勝つ」ではなく、
+> 相手が強くても負けずに、自分のレベルを維持する
+
+**Examples**
+✅ She can hold her own in any debate.（hold one's own in + 分野）
+✅ Even though he was the youngest employee, he held his own.
+✅ I was nervous at first, but I managed to hold my own during the meeting.
+✅ The local team held its own against the champions.
+
+**よく使う形**
+
+**hold your own against ~**：〜相手でも互角にやる
+> He can hold his own against experienced professionals.
+
+**hold your own in ~**：〜の中で十分やる
+> She holds her own in a male-dominated industry.
+
+---
+
+### 【類義語・対義語】
+
+**類義語**
+- keep up with（ついていく）：I can barely keep up with him.
+- stand one's ground（自分の立場を守る、屈しない）：She stood her ground during the negotiation.
+- compete with（競争する）：I can compete with the best players.
+
+**対義表現**
+- fall behind（遅れを取る）：I don't want to fall behind my coworkers.
+- be outmatched（相手が強すぎてかなわない）：We were completely outmatched by the other team.
+
+---
+
+### 【Phrases to Master】
+- Why are you picking on me?（なんで私ばかり責めるの？）
+- Don't pick on someone just because ~（〜だからという理由だけで人を責めないで）
+- I can hold my own.（自分でも十分やれるよ。）
+- I can hold my own against native speakers.（ネイティブ相手でも引けを取らない。）
+
+---
+
+### 【Correction / Usage Tips】
+
+❌ I can win against him.（勝敗に焦点がある）
+✅ I can hold my own against him.（「負けない実力がある」という自然なニュアンス）
+
+❌ He always teases me.（場合によってはOK）→ ただの冗談にも聞こえる
+✅ He always picks on me.→「いつも標的にされている」という嫌なニュアンス
+
+---
+
+## 7/3
+
+### 【Key Vocabulary】
+
+#### 1. genuinely
+意味：本当に、心から、偽りなく、誠実に
+
+ニュアンス：**really** よりも「本心で」「偽りなく」という気持ちが強い。
+
+例文：
+> I'm genuinely happy for you.
+> I genuinely appreciate your help.
+
+類義語：truly（本当に）／ sincerely（心から、誠実に）／ honestly（正直に）
+対義語：fake（偽物の）／ insincerely（不誠実に）
+
+---
+
+### 【Important Phrases】
+
+#### 2. not have a penny/dollar to one's name
+意味：一文無しである、全くお金を持っていない
+
+**形**
+- 🇬🇧 not have a penny to one's name
+- 🇺🇸 not have a dollar to one's name
+
+イメージ：**to one's name = 自分の所有として** → 自分のものとして1ペニーもない → 一文無し
+
+例文：
+> I didn't have a penny to my name when I moved to Tokyo.
+> He started his business with barely a dollar to his name.
+
+類義語：be broke（お金がない）／ be flat broke（完全に一文無し）／ be penniless（無一文の）
+
+**ニュアンス比較**
+
+| 表現                             | ニュアンス       |
+| ------------------------------ | ----------- |
+| broke                          | 日常会話で一番よく使う |
+| flat broke                     | 完全にお金がない    |
+| not have a penny to one's name | ドラマチック・強調表現 |
+
+---
+
+#### 3. see someone through
+意味：誰かが困難を乗り越えられるよう最後まで支える
+イメージ：人を困難の中から「through（通り抜けて）」最後まで連れていく。
+
+例文：
+> My family saw me through a difficult time.
+> Her friends saw her through the divorce.
+> This money will see us through until payday.
+
+類義語：support（支える）／ help（助ける）／ get someone through（乗り越えさせる）
+
+**違い**
+- help → 単純に助ける
+- see someone through → 最後まで継続的に支える
+
+---
+
+### 【Grammar: to vs -ing】
+
+**基本ルール**
+- to + 動詞 ➡️ 未来・まだしていないこと
+- 動詞 + ing ➡️ 過去・すでにしたこと、経験
+
+---
+
+#### 4. forget to do / forget doing
+
+**forget to do**：「〜するのを忘れる」（まだ行動していない）
+> I forgot to lock the door.（鍵をかけるのを忘れた。）
+
+**forget doing**：「〜したことを忘れる」（すでに行動済み）
+> I forgot locking the door.（鍵をかけたことを忘れていた。）
+
+---
+
+#### 5. remember to do / remember doing
+
+**remember to do**：「忘れずに〜する」
+> Remember to call your mom.
+
+**remember doing**：「〜したことを覚えている」
+> I remember calling my mom.
+
+---
+
+#### 6. try to do / try doing
+
+**try to do**：「〜しようと努力する」（努力・目標）
+> I tried to fix my computer.
+
+**try doing**：「試しに〜してみる」（方法を試す）
+> Try getting more sleep.
+
+---
+
+### 【Related Expression】
+
+#### 7. regret to do
+意味：残念ながら〜する（これから伝えること・すること）
+
+例文：
+> I regret to inform you that your application was rejected.
+> I regret to say that I can't help you.
+
+よく使う場面：ビジネスメール／公式発表
+
+---
+
+#### 8. regret doing
+意味：〜したことを後悔する（すでに起こったこと）
+
+例文：
+> I regret spending so much money.
+> She regrets quitting her job.
+
+---
+
+### 【Grammar Comparison】
+
+| 表現             | 意味         | 時間軸 |
+| -------------- | ---------- | --- |
+| forget to do   | するのを忘れる    | 未来  |
+| forget doing   | したことを忘れる   | 過去  |
+| remember to do | 忘れずにする     | 未来  |
+| remember doing | したことを覚えている | 過去  |
+| try to do      | しようと努力する   | 未来  |
+| try doing      | 試しにする      | 経験  |
+| regret to do   | 残念ながら〜する   | 未来  |
+| regret doing   | 〜したことを後悔する | 過去  |
+
+---
+
+#### 9. get to do
+意味：〜する機会を得る／〜できる
+ニュアンス：チャンス／特権／ラッキーな経験
+
+例文：
+> I got to meet him in person.
+> I didn't get to see the movie.
+
+類義語：have a chance to do / have the opportunity to do
+
+---
+
+#### 10. come to do
+意味：だんだん〜するようになる
+ニュアンス：時間をかけた変化・到達。
+
+例文：
+> I came to understand his feelings.
+> She came to love the city.
+> We came to realize the importance of communication.
+
+類義語：gradually learn to / eventually become aware of
+
+---
+
+**get to do vs come to do**
+
+|        | get to do | come to do |
+| ------ | --------- | ---------- |
+| 中心イメージ | 機会を得る     | 変化して到達する   |
+| 時間     | その機会がある   | 時間をかける     |
+| 日本語    | 〜できる      | 〜するようになる   |
+
+比較：
+- I got to know him. → 彼と知り合う機会があった
+- I came to know him. → 時間をかけて彼を知るようになった
+
+---
+
+### 【Phrases to Master】
+
+**本心を伝える**
+- I genuinely appreciate it.
+- I'm genuinely interested in learning English.
+
+**過去の経験を話す**
+- I remember doing that.
+- I regret doing that.
+
+**変化を表す**
+- I came to realize that practice is important.
+
+**チャンスを表す**
+- I got to talk with people from different countries.
