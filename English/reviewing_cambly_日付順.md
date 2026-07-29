@@ -7687,3 +7687,709 @@ Example:
 
 **チャンスを表す**
 - I got to talk with people from different countries.
+
+## 7/2
+
+### 【Key Vocabulary / Phrases】
+
+#### 1. hassle（面倒な）
+意味：面倒なこと、厄介なこと
+
+例：
+> It's a hassle.
+> Moving is a real hassle.
+
+類義語：bothersome（わずらわしい）／ troublesome（厄介な）／ annoying（イライラする）
+
+**関連：can't be bothered**（面倒だからやりたくない）
+> I can't be bothered to cook tonight.
+
+※既存 [[hassle / hassle (someone)]] と重複、[[bother / can't be bothered]] とも重複。
+
+---
+
+#### 2. even though / even if
+
+**even though**：〜なのに（実際に起こった事実）
+> Even though it was raining, we went out.
+
+**even if**：たとえ〜でも（仮定）
+> Even if it rains, we'll go out.
+
+**違い**
+
+|    | even though | even if |
+| -- | ----------- | ------- |
+| 意味 | 〜なのに        | たとえ〜でも  |
+| 状況 | 事実          | 仮定      |
+
+---
+
+#### 3. treat（おごる）
+形：treat someone to + 食事など
+
+例：
+> I'll treat you to lunch.
+> She treated me to dinner.
+
+**関連表現**
+- It's my treat.（私のおごりです）
+- This one's on me.（今回は私が払うよ）
+- I've got this.（ここは私が払うよ）
+
+---
+
+#### 4. let alone
+意味：まして〜ない、〜どころか
+形：not A, let alone B
+
+例：
+> I can't afford a bicycle, let alone a car.（自転車すら買えない、まして車なんて。）
+
+---
+
+#### 5. overtime
+意味：残業、時間外労働
+
+**work overtime**（残業する）
+> I worked overtime yesterday.
+
+関連：overtime pay（残業代）／ stay late（遅くまで残る）／ put in extra hours
+
+---
+
+#### 6. 立ち寄る
+
+**stop by**（最も自然）
+> I'll stop by the store.
+
+類似：drop by（ちょっと寄る）／ swing by（ついでに寄る・よりカジュアル）
+
+※既存 [[swing by / stop by / drop by]] と重複。
+
+---
+
+#### 7. you bet
+意味：もちろん／どういたしまして
+
+例：
+- A: Thanks for your help.
+- B: You bet.
+
+ニュアンス：Of course よりカジュアル、フレンドリーな返答。
+
+※既存 [[you bet]] と重複。
+
+---
+
+#### 8. in the meantime
+意味：その間に
+
+例：
+> I'll cook dinner. In the meantime, you can set the table.
+
+比較：meanwhile（同時進行）／ for now（とりあえず今は）
+
+---
+
+#### 9. behind one's back
+意味：陰で、本人に内緒で
+
+例：
+> They talked about me behind my back.
+
+関連：talk behind someone's back（陰口を言う）
+
+---
+
+#### 10. keep someone in the loop
+意味：情報共有し続ける
+
+例：
+> Keep me in the loop.
+
+比較：
+
+| 表現                       | 意味       |
+| ------------------------ | -------- |
+| keep someone in the loop | 継続的な共有   |
+| update someone           | 最新情報を伝える |
+| let someone know         | 知らせる     |
+
+反対：keep someone out of the loop（情報共有しない）
+
+---
+
+#### 11. Make yourself at home
+意味：どうぞくつろいで
+
+例：
+> Come in and make yourself at home.
+
+関連：Help yourself.（ご自由にどうぞ・飲食物など）／ Get comfortable.（楽にして）
+
+---
+
+#### 12. on the spot
+
+**① その場で、即座に**
+> She was hired on the spot.
+> I made the decision on the spot.
+
+**② 困らせる：put someone on the spot**
+> Don't put me on the spot.
+
+---
+
+#### 13. patch things up
+意味：仲直りする、関係を修復する
+
+例：
+> They patched things up after the argument.
+
+比較：make up（仲直りする）／ reconcile（フォーマル）
+
+---
+
+#### 14. wrestle with
+意味：〜と葛藤する、苦しみながら取り組む
+
+例：
+> I'm wrestling with this decision.
+
+比較：
+
+| 表現            | ニュアンス |
+| ------------- | ----- |
+| deal with     | 対処する  |
+| struggle with | 苦労する  |
+| wrestle with  | 深い葛藤  |
+
+---
+
+#### 15. look good on ~
+意味：〜に似合う
+
+例：
+> That shirt looks good on you.
+
+---
+
+#### 16. You didn't!
+意味：え、本当に！？／まさか！（驚き・感激のリアクション）
+
+例：
+- A: I bought you a gift.
+- B: You didn't!
+
+※直訳「あなたはしなかった」ではない。
+
+---
+
+#### 17. That's big of you.
+意味：器が大きいね／寛大だね
+
+例：
+> That's really big of you.
+> It was big of him to apologize first.
+
+---
+
+### 【このチャットで特に覚えるべきフレーズ】
+1. It's a hassle.
+2. I can't be bothered.
+3. Even if it happens, I'll try.
+4. I'll treat you to lunch.
+5. This one's on me.
+6. I can't afford A, let alone B.
+7. I'll stop by later.
+8. You bet!
+9. Keep me in the loop.
+10. Make yourself at home.
+11. Don't put me on the spot.
+12. Let's patch things up.
+13. I'm wrestling with this decision.
+14. That looks good on you.
+15. That's big of you.
+
+---
+
+## 7/8
+
+### 【Key Vocabulary & Phrases】
+
+#### 1. out of habit
+意味：習慣で／癖で／無意識に
+
+例文：
+> I checked my phone out of habit.
+> I woke up at 6 a.m. out of habit.
+
+類義語：automatically / without thinking
+
+---
+
+#### 2. work for someone
+
+**① 〜に勤める**
+> I work for Google.
+
+**② 〜のために働く**
+> He works for the president.
+
+**③ （人）に都合がいい**
+> Does Monday work for you?
+> That doesn't work for me.
+
+**比較**
+- work for → 雇われて働く
+- work with → 一緒に働く
+
+---
+
+#### 3. cold turkey
+意味：一気にやめる／きっぱり断つ
+
+例文：
+> I quit smoking cold turkey.
+> He went cold turkey on caffeine.
+
+**比較**
+- cut back on → 減らす
+- cut down on → 量を減らす
+
+---
+
+#### 4. prolong
+意味：長引かせる／延長する
+
+例文：
+> Don't prolong the meeting.
+> This treatment can prolong your life.
+
+**比較**
+- extend → 単純に延長する
+- prolong → 終わるはずのものを長引かせる
+
+---
+
+#### 5. hella bougie
+
+**hella**：めっちゃ
+**bougie**：高級志向／セレブっぽい／お高くとまった
+
+例文：
+> This hotel is hella bougie.
+
+類義語：fancy / luxurious / posh
+
+---
+
+#### 6. mutated
+意味：変異した／変質した
+
+例文：
+> The virus mutated rapidly.
+> The idea mutated into something completely different.
+
+関連語：mutation（突然変異）／ mutant（変異体）
+
+---
+
+#### 7. cult thing
+意味：一部の人から熱狂的に支持されるもの
+
+より自然な表現：cult classic / cult following
+
+例文：
+> This movie has a cult following.
+
+---
+
+#### 8. lucrative
+意味：儲かる／利益が大きい
+
+例文：
+> a lucrative career / a lucrative opportunity / a lucrative market
+
+**比較**
+- lucrative → 儲かる
+- profitable → 利益が出る
+
+---
+
+#### 9. humid
+意味：蒸し暑い／湿度が高い
+
+例文：
+> It's hot and humid today.
+
+関連語：humidity（湿度）
+
+**比較**
+- humid → 空気（湿度）
+- damp → 少し湿っている
+- moist → しっとりしている
+
+---
+
+#### 10. blowout（多義語）
+
+① 圧勝：It was a blowout.
+② 盛大なパーティー：a blowout party
+③ タイヤの破裂：a tire blowout
+④ ブロー（美容院）
+
+---
+
+#### 11. heads up
+
+**① 念のためのお知らせ**
+> Just a heads up...
+> Thanks for the heads up.
+
+**② 気をつけて！**
+> Heads up!
+
+定番：give someone a heads up
+
+---
+
+#### 12. I'm working tomorrow.
+明日は仕事です。
+
+#### 13. I'm off tomorrow.
+明日は休みです。
+
+関連表現：I have tomorrow off. / I'm not working tomorrow.
+
+---
+
+#### 14. starring
+意味：〜主演の
+
+例文：
+> a movie starring Tom Cruise
+
+関連：star in
+> Tom Cruise starred in the movie.
+
+---
+
+#### 15. for the first time in ...
+意味：〜ぶりに
+
+例：for the first time in weeks / months / years / a long time
+> I went surfing for the first time in a few months.
+
+---
+
+#### 16. happy-go-lucky
+意味：のんきな／楽天的な
+
+例文：
+> He's a happy-go-lucky guy.
+
+**比較**
+- easygoing → おおらか
+- carefree → 心配事がない
+- optimistic → 前向き
+
+---
+
+#### 17. go off script
+意味：台本・予定から外れる／アドリブで話す
+
+例文：
+> I went off script during the presentation.
+
+比較：go off track（脱線する）
+
+---
+
+#### 18. have a lot on one's plate
+意味：手一杯／やることが多い
+
+例文：
+> I have a lot on my plate.
+> I have too much on my plate.
+
+関連：take on（引き受ける）
+
+※既存 [[have a lot going on / have a lot on (one's) plate]] と重複。
+
+---
+
+### 【Correction / Natural Expressions】
+
+**「休みです」**
+✅ I'm off tomorrow. / I have tomorrow off.
+△ I'm not working tomorrow.
+
+**「○年ぶり」**
+✅ for the first time in years
+
+**「事前に教えて」**
+✅ Give me a heads up.
+
+**「予定から外れてアドリブで」**
+✅ go off script
+
+**「忙しい」**
+"I'm busy." だけではなく ✅ I have a lot on my plate. も使う。
+
+---
+
+### 【Today's Memo】
+
+学習メモ：**end up ~ing** は便利なのに使えていないので、意識して使う。
+
+意味：結局〜することになる、最終的に〜してしまう
+
+例文：
+> I was going to stay home, but I ended up going out.
+> We ended up talking for three hours.
+> I ended up buying it even though I didn't need it.
+> I didn't mean to stay late, but I ended up working until 10.
+
+💡 予定と違う結果になった話をするときは、まず **end up ~ing** を使えないか考える癖をつける。
+
+※既存 [[end up (doing) ~]] と重複。
+
+---
+
+## 7/10
+
+### 【Key Vocabulary & Phrases】
+
+#### 1. fricking / freaking
+意味：めちゃくちゃ／マジで／くそ（強調）／**fucking のマイルド版**
+
+ニュアンス：**freaking** の方が一般的。カジュアルな会話で頻出。
+
+例文：
+> It's fricking hot today.
+> That's freaking awesome!
+> I fricking love this song.
+
+類義語：really / so / super / freaking / fricking / fucking（かなり強い）
+
+---
+
+#### 2. no later than
+意味：遅くとも〜までに／〜を過ぎないように
+
+例文：
+> Please submit it no later than Friday.
+> I'll be home no later than 8 p.m.
+
+類似：by / at the latest
+
+**違い**
+- by Friday → 金曜日までに
+- no later than Friday → **遅くとも金曜日までに（期限を強調）**
+
+---
+
+#### 3. go out for drinks
+意味：飲みに行く／お酒を飲みに出かける
+
+例文：
+> We're going out for drinks after work.
+> Do you want to go out for drinks tonight?
+
+類義語：go for drinks / grab a drink / go out for a beer
+
+---
+
+#### 4. grab a drink
+
+**① 軽く一杯飲みに行く（最も一般的）**
+**② 飲み物を買う・取りに行く**
+
+例文：
+> Let's grab a drink.
+> Do you want to grab a drink after work?
+> I'm going to grab a drink.
+
+**grab を使う便利表現**
+- grab coffee / grab lunch / grab dinner / grab a bite / grab a drink
+
+**grab =「さっと」「気軽に」**
+
+---
+
+#### 5. see the point in ~
+意味：〜する意味があると思う／〜する価値があると思う／必要性が分かる
+
+基本形：see the point in + 名詞 / 〜ing
+
+例文：
+> I don't see the point in arguing.
+> I don't see the point in buying a new phone.
+
+**よく使う形**
+- I don't see the point in ~ → 〜する意味が分からない
+- I can see your point. → 言いたいことは分かる
+- You have a point. → 一理ある
+
+---
+
+#### 6. on one's behalf
+意味：〜の代わりに／〜を代表して
+
+基本形：on my/your/his/her/our behalf
+
+例文：
+> Can you speak to my manager on my behalf?
+> My lawyer is handling everything on my behalf.
+
+**on behalf of**：〜を代表して／〜に代わって
+例：on behalf of the team / on behalf of everyone
+
+---
+
+#### 7. cilantro / coriander
+
+- cilantro（アメリカ英語）＝パクチー（葉）
+- coriander（イギリス英語）＝パクチー（葉）
+- coriander seeds ＝コリアンダーの種
+
+例文：
+> I love cilantro.
+> I'm not a fan of cilantro.
+> Could you make it without cilantro?
+
+---
+
+### 【Important Expressions】
+
+**飲みに誘う**
+- Let's grab a drink.（軽く一杯）
+- Let's go for drinks.（飲みに行く）
+- Let's go out for drinks.（外へ飲みに行く）
+
+**締め切りを表す**
+- by Friday / no later than Friday / at the latest
+
+**相手に同意するとき**
+- I can see your point. / You have a point.
+
+**「意味があると思わない」**
+- I don't see the point in worrying. / I don't see the point in arguing.
+
+**「代わりに」**
+- on my behalf / on behalf of our company
+
+---
+
+## 7/11
+
+### 【Key Vocabulary】
+
+#### 1. painfully *(adv.)*
+意味：痛々しく／痛いほど／非常に（つらいくらい）
+
+**よく使う表現**
+- painfully obvious（痛いほど明らか）
+- painfully shy（極度の人見知り）
+- painfully aware（痛いほど自覚している）
+- painfully slow（遅すぎる）
+- painfully awkward（気まずすぎる）
+- painfully honest（痛いほど正直）
+
+例文：
+> I'm painfully shy.
+> The truth was painfully obvious.
+> I'm painfully aware of my mistakes.
+
+類義語：very / extremely
+
+ニュアンス：**very** は単なる「とても」だが、**painfully** は「困るほど」「つらいほど」という感情が含まれる。
+
+---
+
+#### 2. give weight to
+意味：〜を重視する／〜を重要視する／〜に重きを置く
+
+基本形：give weight to + 名詞
+
+例文：
+> We should give more weight to customer feedback.
+> The judge gave weight to the witness's testimony.
+> We need to give more weight to the data rather than our assumptions.
+
+**よく使う形**
+- give more weight to A
+- give equal weight to A and B
+- give little weight to
+- give considerable weight to
+
+類義語：value（価値を置く）／ prioritize（優先する）／ consider / take into account
+
+**違い**：give weight to → 「重要な判断材料として扱う」
+
+---
+
+#### 3. strive to
+意味：〜しようと努力する
+形：strive to + 動詞
+
+例文：
+> I strive to improve my English every day.
+> The company strives to provide better services.
+> We strive to meet our customers' expectations.
+
+---
+
+#### 4. strive for
+意味：〜を目指して努力する
+形：strive for + 名詞
+
+例文：
+> She strives for success.
+> We should strive for excellence.
+> The team strives for continuous improvement.
+
+**strive to と strive for の違い**
+
+| 表現         | 後ろ | 意味         |
+| ---------- | -- | ---------- |
+| strive to  | 動詞 | 〜するため努力する  |
+| strive for | 名詞 | 〜を目指して努力する |
+
+比較：
+> I strive to become fluent in English.（英語が話せるよう努力）
+> I strive for fluency in English.（英語の流暢さを目指す）
+
+**よく使う組み合わせ**
+- strive for excellence / success / perfection
+- strive to improve / achieve a goal
+
+**try との違い**
+- try → やってみる
+- strive → 本気で努力し続ける
+
+---
+
+#### 5. overshadow
+意味：〜の影を薄くする／〜をかすませる／〜を圧倒する／（悪い出来事が）台無しにする
+
+よく使う形：overshadow something / be overshadowed by
+
+例文：
+> The scandal overshadowed his achievements.
+> Her performance overshadowed everyone else's.
+> The vacation was overshadowed by bad weather.
+> His younger brother has always been overshadowed by him.
+
+**コロケーション**
+- overshadow someone's achievements
+- overshadow the event
+- overshadow everything else
+- be overshadowed by
+
+**類義語**
+- outshine → 良い意味で目立つ／輝く
+- eclipse → 完全にしのぐ／圧倒する
+- overshadow → 影を落として目立たなくする（良い意味・悪い意味の両方）

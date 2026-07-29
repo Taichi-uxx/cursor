@@ -1131,6 +1131,117 @@ Meaning：いえ、こちらこそ（ありがとう）
 Example：— Thanks for helping me. — No, thank you for helping me. / I should be thanking you.
 Nuance：単なる遠慮（結構です）ではなく、お礼を返す用法。強調するなら「I should be thanking you.（お礼を言うべきなのは私）」がよりネイティブ。フォーマルなら「The pleasure is mine.」
 
+### even though / even if
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. even though：〜なのに（実際に起こった事実）
+　2. even if：たとえ〜でも（仮定）
+Example：
+　1. Even though it was raining, we went out.
+　2. Even if it rains, we'll go out.
+Nuance：though = 事実、if = 仮定 の原則。even を付けると「それでも」感が強まる。会話で頻繁に混同するので使い分け必須。
+
+### in the meantime
+新規：✓
+重要度：★★★★★
+Meaning：その間に／それまでの間
+Example：I'll cook dinner. In the meantime, you can set the table.
+Nuance：meanwhile（同時進行）／ for now（とりあえず今は）と類似だが、in the meantime は「Aが終わるまでのつなぎ時間」ニュアンスが強い。会話・メールで頻出。
+
+### keep someone in the loop
+新規：✓
+重要度：★★★★★
+Meaning：情報共有し続ける／状況を随時知らせる
+Example：Keep me in the loop. / I'll keep you in the loop.
+Nuance：仕事・プロジェクトで超頻出。update someone（最新情報を伝える）／ let someone know（知らせる）より「継続的な共有」ニュアンス。反対は keep someone out of the loop（情報を伏せる）。
+
+### Make yourself at home
+新規：✓
+重要度：★★★★★
+Meaning：どうぞくつろいで／自分の家だと思って楽にして
+Example：Come in and make yourself at home.
+Nuance：家に招く時の定番。Help yourself（飲食物にご自由に）／ Get comfortable（楽にして）と組み合わせて使う。
+
+### on the spot / put someone on the spot
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. その場で／即座に
+　2. put someone on the spot：（人を）その場で困らせる／答えを迫る
+Example：
+　1. She was hired on the spot. / I made the decision on the spot.
+　2. Don't put me on the spot.
+Nuance：①は決断・採用の即断で頻出。②は会議・質問攻めで「即答を迫る」ニュアンス。
+
+### heads up / Give me a heads up
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. 念のためのお知らせ／事前警告
+　2. （感嘆詞）気をつけて！
+Example：
+　1. Just a heads up... / Thanks for the heads up. / Give me a heads up next time.
+　2. Heads up!
+Nuance：give someone a heads up が超頻出。「事前に一言」の定番。仕事・友人関係どちらでも自然。
+
+### out of habit
+新規：✓
+重要度：★★★★★
+Meaning：習慣で／癖で／無意識に
+Example：I checked my phone out of habit. / I woke up at 6 a.m. out of habit.
+Nuance：automatically / without thinking と類似。理由を「意識せず癖で」と説明する時の定番。
+
+### work for you / does that work for you?
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. （人）に勤める
+　2. （人）のために働く
+　3. （人）に都合がいい／条件が合う
+Example：
+　1. I work for Google.
+　2. He works for the president.
+　3. Does Monday work for you? / That doesn't work for me.
+Nuance：③は予定調整で超頻出。work with（一緒に働く）と混同注意。
+
+### for the first time in ~
+新規：✓
+重要度：★★★★★
+Meaning：〜ぶりに
+Example：for the first time in weeks / months / years / a long time. / I went surfing for the first time in a few months.
+Nuance：「久しぶり」の最頻出フレーズ。年月・週数を入れる型で使う。after a long time より圧倒的に自然。
+
+### freaking / fricking
+新規：✓
+重要度：★★★★★
+Meaning：めちゃくちゃ／マジで／くそ（強調）
+Example：It's freaking hot today. / That's freaking awesome! / I fricking love this song.
+Nuance：fucking のマイルド版。freaking の方が一般的。カジュアル会話で頻出。really / so / super より感情の起伏が乗る。
+
+### grab a drink / grab coffee / grab lunch
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. 軽く一杯飲みに行く
+　2. さっと飲み物・食べ物を手に入れる
+Example：Let's grab a drink. / Do you want to grab a drink after work? / Let's grab coffee. / Let's grab lunch.
+Nuance：grab =「さっと」「気軽に」。go for drinks / go out for drinks より軽い誘い方。誘いの初手で超頻出。
+
+### no later than
+新規：✓
+重要度：★★★★★
+Meaning：遅くとも〜までに／〜を過ぎないように
+Example：Please submit it no later than Friday. / I'll be home no later than 8 p.m.
+Nuance：by より「期限を強調」する響き。ビジネスメールで頻出だが日常でも自然。at the latest と類似。
+
+### on one's behalf / on behalf of ~
+新規：✓
+重要度：★★★★★
+Meaning：〜の代わりに／〜を代表して
+Example：Can you speak to my manager on my behalf? / My lawyer is handling everything on my behalf. / On behalf of the team, thank you.
+Nuance：on my/your/his/her/our behalf の型と、on behalf of + 組織・人 の型。仕事・代理・スピーチで頻出。
+
 ---
 
 ## ★★★★（週に何度かは出会う／使う）
@@ -3045,6 +3156,114 @@ Meaning：だんだん〜するようになる（時間をかけた変化・到�
 Example：I came to understand his feelings. / She came to love the city. / We came to realize the importance of communication.
 Nuance：gradually learn to / eventually become aware of と類似。[[get to do]]（機会を得る）と対比：get to do は「その機会があった」、come to do は「時間をかけて変化した」。
 
+### let alone
+新規：✓
+重要度：★★★★
+Meaning：まして〜ない／〜どころか
+Example：I can't afford a bicycle, let alone a car.（自転車すら買えない、まして車なんて。）/ He can't even walk, let alone run.
+Nuance：「not A, let alone B」の型で使う。Bは A よりさらに難しい・程度が上のもの。誇張・強調で頻出。
+
+### work overtime
+新規：✓
+重要度：★★★★
+Meaning：残業する／時間外労働する
+Example：I worked overtime yesterday. / She's been working overtime a lot.
+Nuance：overtime pay（残業代）／ stay late（遅くまで残る）／ put in extra hours と類似。仕事の話で頻出。
+
+### behind one's back / talk behind someone's back
+新規：✓
+重要度：★★★★
+Meaning：陰で／本人に内緒で／陰口を言う
+Example：They talked about me behind my back. / Don't say things behind his back.
+Nuance：陰口・裏切りの文脈で頻出。反対は to someone's face（面と向かって）。
+
+### look good on ~
+新規：✓
+重要度：★★★★
+Meaning：（服・色・髪型が）〜に似合う
+Example：That shirt looks good on you. / Blue looks good on her.
+Nuance：suit you より会話寄り。褒める時の定番。look great on ~ にすると強調度が上がる。
+
+### You didn't! / You shouldn't have!
+新規：✓
+重要度：★★★★
+Meaning：え、本当に！？／まさか！／そんなことしなくてもよかったのに！（驚き・感激のリアクション）
+Example：— I bought you a gift. — You didn't!
+Nuance：直訳「あなたはしなかった」ではない。プレゼント・親切・サプライズを受けた時の定番リアクション。You shouldn't have! も同系統（もっと感激強め）。
+
+### humid / humidity
+新規：✓
+重要度：★★★★
+Meaning：蒸し暑い／湿度が高い（humidity＝湿度）
+Example：It's hot and humid today. / The humidity is unbearable.
+Nuance：日本の夏の話で超頻出。damp（少し湿った）／ moist（しっとり）とは違い、humid は「空気全体の湿度」に使う。
+
+### painfully（副詞）
+新規：✓
+重要度：★★★★
+Meaning：痛いほど／困るほど／つらいくらい（強調）
+Example：painfully obvious（痛いほど明らか）／ painfully shy（極度の人見知り）／ painfully aware（痛いほど自覚している）／ painfully slow / painfully awkward / painfully honest / I'm painfully aware of my mistakes.
+Nuance：very が単なる「とても」なのに対し、painfully は「困るほど」「つらいほど」の感情が含まれる。ネガティブに強調する時の定番。
+
+### see the point in ~ / You have a point / I can see your point
+新規：✓
+重要度：★★★★
+Meaning：
+　1. see the point in ~：〜する意味・価値がある
+　2. I can see your point：言いたいことは分かる
+　3. You have a point：一理ある
+Example：
+　1. I don't see the point in arguing. / I don't see the point in buying a new phone.
+　2. I can see your point, but I disagree.
+　3. You have a point there.
+Nuance：「I don't see the point in ~ing」＝「〜する意味が分からない」の否定型で超頻出。同意・反論の柔らかい導入としても使う。
+
+### patch things up
+新規：✓
+重要度：★★★★
+Meaning：仲直りする／関係を修復する
+Example：They patched things up after the argument.
+Nuance：make up（仲直り）／ reconcile（フォーマル）と類似。カジュアルな会話で「修復して丸く収める」ニュアンス。
+
+### wrestle with ~
+新規：✓
+重要度：★★★★
+Meaning：〜と葛藤する／苦しみながら取り組む
+Example：I'm wrestling with this decision. / She's wrestling with her feelings.
+Nuance：deal with（対処する）／ struggle with（苦労する）より「深い葛藤」ニュアンス。決断・感情・倫理的問題に対して。
+
+### cold turkey / go cold turkey
+新規：✓
+重要度：★★★★
+Meaning：（習慣・依存を）一気にやめる／きっぱり断つ
+Example：I quit smoking cold turkey. / He went cold turkey on caffeine.
+Nuance：徐々に減らす cut back on / cut down on と対比。禁煙・禁酒・SNS断ちなど中毒・習慣を断ち切る話で頻出。
+
+### go off script / go off track
+新規：✓
+重要度：★★★★
+Meaning：
+　1. go off script：台本・予定から外れる／アドリブで話す
+　2. go off track：話が脱線する
+Example：
+　1. I went off script during the presentation.
+　2. The meeting went off track.
+Nuance：プレゼン・会議で頻出。off script は意図的なアドリブも含む、off track は「本題から逸れる」に近い。
+
+### happy-go-lucky
+新規：✓
+重要度：★★★★
+Meaning：のんきな／楽天的な／気楽な
+Example：He's a happy-go-lucky guy.
+Nuance：easygoing（おおらか）／ carefree（心配事がない）／ optimistic（前向き）と類似だが、happy-go-lucky は「深く考えずニコニコ生きている」感じ。褒め言葉にも軽い揶揄にもなる。
+
+### go out for drinks / go for drinks
+新規：✓
+重要度：★★★★
+Meaning：飲みに行く／お酒を飲みに出かける
+Example：We're going out for drinks after work. / Do you want to go out for drinks tonight?
+Nuance：[[grab a drink]] より「腰を据えて飲む」ニュアンス。仕事終わりの誘い定番。go for drinks はやや軽め、go out for drinks は「外に出て飲む」感が強い。
+
 ---
 
 ## ★★★（知っておくと役立つ中堅）
@@ -4043,6 +4262,88 @@ Example：
 　2. I regret spending so much money. / She regrets quitting her job.
 Nuance：to = 未来／-ing = 過去 の原則。regret to do はビジネスメール・公式発表で頻出。日常での後悔は regret -ing。
 
+### That's big of you
+新規：✓
+重要度：★★★
+Meaning：器が大きいね／寛大だね／大人だね
+Example：That's really big of you. / It was big of him to apologize first.
+Nuance：相手の寛大さ・大人な対応を褒める定番。皮肉で使うこともあり文脈次第。That's very kind of you より「度量の広さ」を強調。
+
+### prolong
+新規：✓
+重要度：★★★
+Meaning：長引かせる／延長する（終わるはずのものを引き延ばす）
+Example：Don't prolong the meeting. / This treatment can prolong your life.
+Nuance：extend（単純に延長する）と対比：prolong は「終わるはずのものを引き延ばす」ネガティブ寄り／中立、extend は「予定を伸ばす」中立寄り。会議・苦痛・寿命などに。
+
+### lucrative
+新規：✓
+重要度：★★★
+Meaning：儲かる／利益が大きい
+Example：a lucrative career / a lucrative opportunity / a lucrative market
+Nuance：profitable（利益が出る）より「大きく稼げる」ニュアンス。ビジネス・キャリアの話で頻出。
+
+### mutated / mutation / mutant
+新規：✓
+重要度：★★★
+Meaning：変異した／変質した（mutation＝突然変異、mutant＝変異体）
+Example：The virus mutated rapidly. / The idea mutated into something completely different.
+Nuance：生物・ウイルスの話が中心だが、比喩で「アイデア・計画が形を変えた」にも使える。コロナ以降会話でも頻出。
+
+### cult classic / cult following
+新規：✓
+重要度：★★★
+Meaning：一部の熱狂的ファンに支持されるもの／熱狂的な支持
+Example：This movie has a cult following. / It's a cult classic.
+Nuance：単なる「cult thing」より自然。マイナーだけど熱狂的なファンがいる映画・音楽・ブランドを表現する時の定番。
+
+### blowout（多義語）
+新規：✓
+重要度：★★★
+Meaning：
+　1. 圧勝（スポーツ）
+　2. 盛大なパーティー
+　3. タイヤの破裂
+　4. ブロー（美容院）
+Example：
+　1. It was a blowout.
+　2. a blowout party
+　3. a tire blowout
+　4. get a blowout at the salon
+Nuance：文脈で意味が大きく変わる典型的な多義語。スポーツニュースでは①、パーティー話では②が多い。
+
+### starring / star in
+新規：✓
+重要度：★★★
+Meaning：〜主演の／〜に主演する
+Example：a movie starring Tom Cruise / Tom Cruise starred in the movie.
+Nuance：starring は前置修飾（分詞）、star in は動詞。映画・ドラマの話で頻出。
+
+### give weight to ~
+新規：✓
+重要度：★★★
+Meaning：〜を重視する／〜に重きを置く／重要な判断材料として扱う
+Example：We should give more weight to customer feedback. / The judge gave weight to the witness's testimony. / We need to give more weight to the data rather than our assumptions.
+Nuance：value（価値を置く）／ prioritize（優先する）／ consider / take into account と類似だが、「判断で重みを与える」ニュアンスが強い。give more/equal/little/considerable weight to のバリエーションで頻出。
+
+### strive to / strive for
+新規：✓
+重要度：★★★
+Meaning：
+　1. strive to + 動詞：〜しようと本気で努力する
+　2. strive for + 名詞：〜を目指して努力する
+Example：
+　1. I strive to improve my English every day. / The company strives to provide better services.
+　2. She strives for success. / We should strive for excellence. / The team strives for continuous improvement.
+Nuance：try（やってみる）より「本気で努力し続ける」感が強い。よく使う組み合わせ：strive for excellence / success / perfection、strive to improve / achieve a goal。
+
+### overshadow / be overshadowed by
+新規：✓
+重要度：★★★
+Meaning：〜の影を薄くする／〜をかすませる／〜を圧倒する／（悪い出来事が）台無しにする
+Example：The scandal overshadowed his achievements. / Her performance overshadowed everyone else's. / The vacation was overshadowed by bad weather. / His younger brother has always been overshadowed by him.
+Nuance：outshine（良い意味で目立つ）／ eclipse（完全にしのぐ）と類似だが、overshadow は「影を落として目立たなくする」で良い意味・悪い意味の両方に使える。be overshadowed by の受動形が特に頻出。
+
 ---
 
 ## ★★（文脈限定／やや専門・フォーマル寄り）
@@ -4256,6 +4557,24 @@ Nuance：pot-bellied / beer belly と同義だがやや文語寄り。中年男�
 Meaning：一文無しである／全くお金を持っていない
 Example：I didn't have a penny to my name when I moved to Tokyo. / He started his business with barely a dollar to his name.
 Nuance：penny は英、dollar は米。「to one's name = 自分の所有として」→ 自分のものとして1円もない、のイメージ。be broke（お金がない）／ be flat broke（完全に一文無し）／ be penniless（無一文の）と類似だが、こちらはドラマチック・強調的な響き。過去の苦労話・回顧で頻出。
+
+### hella / bougie
+新規：✓
+重要度：★★
+Meaning：
+　1. hella：めっちゃ（強調・西海岸スラング）
+　2. bougie：高級志向／セレブっぽい／お高くとまった
+Example：This hotel is hella bougie. / She's kinda bougie.
+Nuance：hella は西海岸（特にカリフォルニア）の若者スラング、really / super のカジュアル置換。bougie は bourgeois の略で「気取ってる」ややネガティブ寄り。fancy / luxurious / posh と類似。若者会話・SNSで頻出だが、フォーマルには不適。
+
+### cilantro / coriander
+新規：✓
+重要度：★★
+Meaning：
+　1. cilantro（米）／coriander（英）：パクチー（葉）
+　2. coriander seeds：コリアンダーの種
+Example：I love cilantro. / I'm not a fan of cilantro. / Could you make it without cilantro?
+Nuance：米では葉が cilantro、種が coriander で使い分け。英では葉も種も coriander。海外レストランで注文時に必須。
 
 ---
 
