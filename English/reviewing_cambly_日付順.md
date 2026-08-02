@@ -8393,3 +8393,814 @@ Example:
 - outshine → 良い意味で目立つ／輝く
 - eclipse → 完全にしのぐ／圧倒する
 - overshadow → 影を落として目立たなくする（良い意味・悪い意味の両方）
+
+## 6/7
+
+### 【Key Vocabulary】
+
+#### ① law enforcement
+意味：法執行／法執行機関／警察当局
+
+よく使う表現：law enforcement agencies / law enforcement officer / work in law enforcement / local law enforcement / federal law enforcement
+
+例文：
+> Law enforcement is investigating the case.
+> I have a lot of respect for people who work in law enforcement.
+
+類義語：police / authorities / public safety agencies
+
+---
+
+#### ② province
+意味：州／省／地方行政区
+
+例文：
+> South Africa has nine provinces.
+> Which province are you from?
+
+関連語：state / prefecture / region / district
+
+---
+
+#### ③ exclusive
+意味：排他的な／限定的な
+
+例文：
+> This club is very exclusive.
+
+対義語：inclusive
+
+---
+
+#### ④ exclusionary
+意味：制度的・社会的に排他的
+
+例文：
+> The policy is considered exclusionary.
+
+---
+
+#### ⑤ cliquish
+意味：仲間内だけで固まる／内輪っぽい
+
+例文：
+> The group seemed cliquish.
+
+---
+
+#### ⑥ colonization
+意味：植民地化
+
+関連語：colony / colonial / colonize / colonizer
+> European colonization
+
+---
+
+#### ⑦ smuggle
+意味：密輸する／密かに持ち込む
+
+よく使う表現：smuggle drugs / smuggle goods / smuggle weapons / smuggle something into 〜 / smuggle someone out of 〜
+
+例文：
+> He smuggled snacks into the movie theater.
+> People sometimes try to smuggle prohibited items across borders.
+
+類義語：sneak
+
+---
+
+### 【Correction Log】
+
+❌ I'm in Japan, Tokyo. → ✅ I'm from Tokyo, Japan. / I live in Tokyo, Japan.
+
+❌ Nothing special, but personally I have one thing I just want to ask you. → ✅ I just have one thing I'd like to ask you. / There's one thing I'd like to ask you.
+
+❌ I really want to know how South Africa is. → ✅ I really want to know what South Africa is like. / I'm curious about what South Africa is like.
+→ **What is ~ like?** ＝「〜はどんな感じ？」
+
+❌ I really want to know how you feel.（意見を聞く場面）→ ✅ I'd like to hear your opinion. / What do you think?
+
+❌ same as Tokyo → ✅ It's just like Tokyo. / Sounds a lot like Tokyo.
+
+❌ I have plan to explore, travel around the world. → ✅ I have a plan to travel around the world. / I'm planning to travel around the world.
+
+❌ I stay city. → ✅ I'm more of a city person. / I prefer cities.
+
+❌ I prefer more, like, culture. → ✅ I'm more interested in experiencing local culture. / I prefer places with a stronger local culture. / I'd rather experience authentic local culture.
+
+✔ I would definitely eat them all. → さらに自然：I'd definitely try them all. / I'd love to try them all.
+
+---
+
+### 【Phrases to Master】
+
+**仮定表現：if I were to 〜**（もし〜するとしたら）
+型：If I were to ..., I would ...
+> If I were to move abroad, I'd choose Canada.
+> If I were to travel anywhere in the world, I'd go to Antarctica.
+
+**旅行で超使える質問**
+- What is ~ like?：What's South Africa like?
+- I'd like to hear your opinion on that.
+- I'm planning to travel around the world.
+- I'm more of a city person.
+- I'm interested in experiencing local culture.
+- I'd love to try them all.
+
+---
+
+### 【旅行英会話】
+
+**場所を聞く（おすすめ）**
+✅ Do you have any places you recommend?
+✅ Are there any places I should visit?
+※ Do you have any places to go? → 「行かなきゃいけない場所ある？」の意味になりやすい。
+
+**食べ物を聞く**
+✅ Do you have any food recommendations?
+✅ What foods would you recommend trying?
+✅ What local dishes should I try?
+✅ Is there any food I should definitely try?
+❌ Do you have any foods to have?
+
+---
+
+### 【Pronunciation】
+
+- **colonization**：co-lo-ni-**ZA**-tion（**ZA** を強く）／コロナイゼイション
+- **smuggle**：**SMUG**-gle／スマグル
+
+---
+
+## 6/11
+
+### 【Key Vocabulary】
+
+#### 1. It is what it is
+意味：仕方ない／現実を受け入れるしかない
+
+例文：
+> We missed the train, but it is what it is.
+
+ニュアンス：「起きてしまったこと」に対して使う。
+類義語：That's life. / What happens, happens.
+
+---
+
+#### 2. It'll work out
+意味：なんとかなる／きっとうまくいく
+
+例文：
+> Don't worry. It'll work out.
+
+違い：未来に対する前向きな表現。
+
+---
+
+#### 3. introduce A to B
+意味：AをBに紹介する
+
+例文：
+> My friend introduced me to a client.
+
+---
+
+#### 4. get clients through agents ⭐⭐⭐
+意味：エージェント経由で仕事を得る
+
+自然な表現：
+> I mainly get clients through agents.
+
+---
+
+#### 5. bring someone clients
+意味：仕事・顧客を紹介する
+
+例文：
+> The agents bring me clients.
+
+---
+
+#### 6. refer clients to someone
+意味：顧客を紹介する
+
+例文：
+> The agents refer clients to me.
+
+---
+
+#### 7. send clients my way ⭐⭐⭐
+意味：仕事を紹介してくれる
+
+例文：
+> Agents often send clients my way.
+
+---
+
+#### 8. That's so true.
+意味：本当にそう／その通り
+
+類義語：So true. / Exactly. / I couldn't agree more.
+
+---
+
+#### 9. More importantly ⭐⭐⭐
+意味：それよりも重要なのは
+
+例文：
+> More importantly, I want more freedom.
+
+---
+
+#### 10. But more than that
+意味：でもそれ以上に
+
+例文：
+> But more than that, I wanted more freedom.
+
+---
+
+#### 11. take turns ⭐⭐⭐
+意味：順番に／交代で
+パターン：take turns doing
+
+例文：
+> We took turns driving.
+> Everyone takes turns singing.
+
+---
+
+#### 12. lead up to ⭐⭐⭐
+意味：〜までの期間／〜に向けて
+
+例文：
+> Leading up to my trip, I was really busy.
+> I was really nervous leading up to it.
+
+---
+
+#### 13. give notice ⭐⭐⭐
+意味：退職・退去の通知をする
+
+例文：
+> I gave my notice yesterday.
+
+アメリカ英語：give my two weeks' notice
+
+---
+
+#### 14. back out (of)
+意味：途中でやめる／撤回する
+
+例文：
+> I almost backed out.
+> He backed out of the deal.
+
+---
+
+#### 15. conventional ⭐⭐⭐
+意味：一般的な／従来の／型にはまった
+
+例文：
+> a conventional career
+> a conventional lifestyle
+
+対義語：unconventional / nontraditional
+
+---
+
+### 【Correction Log】
+
+❌ do my business → ✅ run my business / work on my business
+※ do my business は「トイレに行く」の意味になることもある。
+
+❌ My business is starting a little bit. → ✅ My business is starting to take off. / Things are starting to pick up.
+
+deal with clients → Better: work with clients
+
+❌ The main method is to agent. → ✅ I mainly get clients through agents.
+
+❌ money condition → ✅ the pay / the rate / the compensation
+
+❌ Introduce the project to me → ✅ introduce me to a client / send projects my way
+
+❌ I have a lot of things to be done. → ✅ I have a lot of things to do.
+
+❌ spending them → ✅ spend time with them
+
+❌ I got out of Japan → ✅ Once I leave Japan
+
+❌ I feel like I start... → ✅ I feel like I'll start...
+
+❌ The first place I would travel is Asia. → ✅ I'll probably start in Asia.
+
+❌ I can get a job.（フリーランス文脈）→ ✅ I'm confident I can find new clients.
+
+❌ What was your first reaction when you getting back... → ✅ What was your first reaction when you got back home?
+
+---
+
+### 【ネイティブがよく使うコロケーション】
+
+- get clients through agents ⭐⭐⭐
+- send clients my way ⭐⭐⭐
+- take turns doing ⭐⭐⭐
+- leading up to ⭐⭐⭐
+- give notice ⭐⭐⭐
+- back out at the last minute ⭐⭐⭐
+- a conventional career ⭐⭐⭐
+- More importantly,... / But more than that,...
+- Things are starting to pick up. / take off（事業が軌道に乗る）
+- reach out to someone / spend time with someone / Once I leave Japan...
+
+---
+
+## 6/17
+
+### 【Key Vocabulary】
+
+#### 1. get by
+意味：（お金・能力などが十分ではないが）なんとかやっていく／最低限困らない程度にこなす
+
+例文：
+> I can get by in English.
+> I can get by on my salary.
+
+類義語：manage / cope (with) / survive
+ニュアンス：完璧ではないが、「最低限なんとかなる」。
+
+---
+
+#### 2. retrieve
+意味：（情報・記憶・物を）取り出す、取り戻す、回収する
+
+例文：
+> I can't retrieve the word I want.
+> The brain retrieves stored information.
+
+類義語：recall / recover / bring back
+使い方：先生の "retrieve those words" = 頭の中から単語を取り出す
+
+---
+
+#### 3. get hold of
+意味：手に入れる／連絡を取る／（頭の中から）引き出す
+
+例文：
+> I couldn't get hold of him.
+> I need to get hold of a ticket.
+> We can get hold of those words more quickly.
+
+類義語：obtain / reach / retrieve（文脈による）
+
+---
+
+#### 4. absorb
+意味：吸収する
+
+先生の文：
+> Our brain absorbs more than you realize.
+
+---
+
+#### 5. subconsciously
+意味：無意識のうちに
+関連：subconscious（潜在意識）
+
+---
+
+#### 6. retrieve words
+意味：単語を思い出す／単語を頭から引き出す
+英会話で非常によく使われる。
+
+---
+
+#### 7. express yourself
+意味：自分の考え・気持ちを表現する
+
+例文：
+> I want to express myself more naturally.
+
+---
+
+#### 8. stall
+意味：話が止まる／言葉に詰まる
+
+先生の表現：without stalling（詰まらずに）
+
+---
+
+#### 9. flow
+意味：スムーズに話す／流れるように話す
+
+先生：
+> You just want to flow.
+
+---
+
+#### 10. soak in
+意味：（知識などを）自然に吸収する
+
+先生：
+> You've been soaking in loads of words.
+
+---
+
+#### 11. foundation
+意味：基礎
+
+先生：
+> You've got your foundation.
+
+---
+
+#### 12. opportunity
+意味：機会
+
+例文：
+> I don't have many opportunities to speak English.
+
+---
+
+#### 13. motive
+意味：動機
+
+先生：
+> What's your main motive?
+
+---
+
+#### 14. personal development
+意味：自己成長
+
+---
+
+#### 15. career purpose
+意味：キャリア目的
+
+---
+
+### 【Important Phrases】
+
+- communicate with foreign people（外国の人と交流する）
+- improve my speaking and listening skills（複数）
+- have the opportunity to do
+- get by in English
+- express myself naturally
+- say what I want to say → より自然：express what I want to say
+- travel around the world / work out / go to the gym / grab coffee / relax at cafés
+- Thank you for encouraging me to continue learning English.
+- know more than you realize（自分が思っている以上に知っている）
+- stop worrying about what other people think
+- be present（今この瞬間に集中する）
+- retrieve those words / on a subconscious level
+
+---
+
+### 【Pronunciation Notes】
+
+**three months**
+❌ 「マンスズ」
+⭕ 「マンツ」寄り
+実際には「スリー・マンツ」。最後は **th + s** がつながるため「ズ」はほとんど聞こえない。
+
+---
+
+### 【Correction Log】
+
+**自己紹介**
+❌ I've been using like for three months. → ✅ I've been using it for about three months.
+
+**住所**
+❌ I live in Japan, Tokyo. → ✅ I live in Tokyo, Japan.
+
+**英語力**
+❌ improve my English skill → ✅ improve my English skills
+
+**職業**
+❌ I am working for a marketing agency. → ✅ I work for a marketing agency.
+
+**勤続年数**
+❌ Like for two and a half years. → ✅ I've been doing it for two and a half years. / I started two and a half years ago.
+
+**目的**
+❌ I want to say what I want to say. → ✅ I want to express what I really want to say. / I want to speak more naturally and without hesitation.
+
+**趣味**
+❌ I usually I go to gym. → ✅ I usually go to the gym.
+❌ going to coffee → ✅ going to cafés / grabbing coffee
+
+**最後**
+❌ Encourage me to continues learning English. → ✅ Thank you for encouraging me to continue learning English.
+
+---
+
+### 【先生からのアドバイス（重要）】
+
+> **You know more than you realize.**
+> あなたは自分で思っている以上に英語を知っている。
+
+> **You've been soaking in loads of words.**
+> あなたはたくさんの単語を無意識に吸収している。
+
+> **When we stop worrying about what other people think, we can retrieve those words quicker.**
+> 他人がどう思うかを気にしなくなると、頭の中の単語をもっと早く引き出せる。
+
+> **Be present.**
+> 今この瞬間に集中すること。
+
+---
+
+## 7/16
+
+### 【Key Vocabulary】
+
+#### 1. technical difficulties
+「技術的な問題・機器のトラブル」
+> Sorry about the technical difficulties at the beginning.
+今回のようなマイク・通信・画面の問題に使える。
+
+---
+
+#### 2. prefecture
+「都道府県」
+> What prefecture are you calling from?
+> I'm calling from Tokyo.
+
+---
+
+#### 3. manufacturing facility / plant
+- manufacturing facility：製造施設
+- manufacturing plant：製造工場、大規模な工場
+> There was a tire manufacturing plant in my city.
+
+**類義語**
+- factory：一般的な「工場」
+- plant：大規模な工場・生産設備
+- facility：施設全般を指す比較的フォーマルな言葉
+
+---
+
+#### 4. close down
+「閉鎖する・廃業する」
+> The factory closed down earlier this year.
+
+類義語：shut down（閉鎖する、操業を停止する）／ go out of business（廃業する）
+
+---
+
+#### 5. dominate / be dominated by
+「支配する・大きな影響力を持つ」
+> Yokohama isn't dominated by one particular company.
+> Toyota dominates the local economy.
+
+類義表現：depend on（依存する）／ rely on（頼りにする）
+> Yokohama isn't as dependent on one company as Aichi is on Toyota.
+
+---
+
+#### 6. structured lessons
+「体系的に構成されたレッスン」
+> I prefer casual conversation to structured lessons.
+今回の文脈では **technical lessons** より自然。
+
+対比表現：free conversation / casual conversation（フリートーク）／ structured lessons（体系的）／ textbook-based lessons（教科書）
+
+---
+
+#### 7. landslide
+発音：/ˈlændslaɪd/「ランドスライド」
+
+**① 地滑り・土砂崩れ**
+> Heavy rain caused a landslide.
+
+**② 選挙での圧勝**
+- a landslide victory：圧勝
+- win by a landslide：大差で勝つ
+- win in a landslide：圧勝する
+
+> She won the election by a landslide.
+> Her party won in a landslide.
+
+対義：a narrow victory / a razor-thin victory
+
+---
+
+#### 8. far-right
+「極右の・極右勢力」
+
+**形容詞**
+> She is a far-right leader.
+> The party is known for its far-right policies.
+
+**名詞**（通常 **the far right**）
+> The far right has gained support.
+
+❌ She is a far right.
+✅ She is far-right. / She is a far-right politician.
+
+**関連表現と強さ**
+- conservative（保守的）
+- right-wing（右派・右翼的）
+- far-right（極右）
+
+far-right はかなり強い表現。断定を避けるなら：
+> She is considered fairly right-wing.
+> She seems like somewhat of a far-right leader.
+
+**somewhat of a ～**：「多少〜のようなところがある」（断定を和らげる）
+
+---
+
+#### 9. offensive
+「不快な・侮辱的な・攻撃的な」
+> Some of her remarks can come across as offensive.
+
+関連表現：offensive / provocative（挑発的）／ controversial（賛否を呼ぶ）／ aggressive（攻撃的）
+
+---
+
+#### 10. come across as ～
+「〜という印象を与える・〜のように受け取られる」
+> His comment came across as rude.
+話し手の意図ではなく、「相手にどう映るか」を表す。
+
+---
+
+#### 11. announcement / speech / remark / comment
+
+| 単語                          | 意味・使い方       |
+| --------------------------- | ------------ |
+| announcement                | 公式な発表・告知     |
+| speech                      | 演説、まとまったスピーチ |
+| remark                      | 個々の発言        |
+| comment                     | 意見・コメント      |
+| the things someone says     | その人の発言全般     |
+
+例：
+> The government made an announcement.
+> She gave a speech.
+> I was surprised by her remark.
+
+---
+
+#### 12. stimulate the economy
+「経済を刺激・活性化する」
+> Do you think her policies are helping stimulate the economy?
+
+類義表現：boost the economy / revitalize the economy / support economic growth
+
+---
+
+#### 13. impact / effect
+「影響・効果」
+> I haven't seen much of an impact yet.
+> I haven't really felt the effects yet.
+
+- impact：比較的大きな影響
+- effect：原因によって生じた効果・結果
+
+---
+
+#### 14. exchange rate
+「為替レート」
+> One of my biggest concerns is the current exchange rate between the yen and the dollar.
+
+---
+
+#### 15. the weak yen
+「円安・価値が弱い円」
+> The weak yen is one of my biggest concerns.
+
+関連：a strong yen（円高）／ increase the value of the yen（円の価値を高める）／ the yen is losing value（円の価値が下がっている）
+
+---
+
+#### 16. purchasing power
+「購買力＝そのお金で実際にどれくらい買えるか」
+> I'm concerned about the growing gap in purchasing power between Japan and the US.
+
+---
+
+#### 17. devalue a currency
+「通貨の価値を下げる」
+> The country may devalue its currency.
+
+反対方向：increase in value / strengthen the currency / appreciate（通貨価値が上昇）／ depreciate（通貨価値が下落）
+
+---
+
+#### 18. eye-opening
+「目を開かされるような・新しい気づきを与える」
+> Working in local politics has been eye-opening.
+
+---
+
+#### 19. come out with ～
+
+**① 新商品・作品などを発表・発売する**
+> Apple came out with a new iPhone.
+> The band came out with a new album.
+
+類義語：release / launch / announce
+
+**② 発言・意見を突然口にする**
+> He suddenly came out with a strange comment.
+> I was surprised when she came out with that remark.
+
+「唐突に言い出す」ニュアンス。
+
+**come out との違い**
+> The new iPhone came out.（商品が主語）
+> Apple came out with a new iPhone.（企業が主語）
+
+---
+
+### 【Correction Log】
+
+**1. 出身地**
+Taichi: From Yokohama. → ✅ I'm from Yokohama. / I'm originally from Yokohama, but I currently live in Tokyo.
+
+**2. 「横浜を知っていますか？」**
+❌ Do you know Yokohama? → ✅ Have you heard of Yokohama?
+
+**3. 横浜を誇りに思う**
+❌ I'm very proud of it. As a citizen of Yokohama. → ✅ As someone from Yokohama, I'm proud of my hometown. / I'm very proud of Yokohama as someone who grew up there.
+※現在は東京在住なので、a citizen of Yokohama より someone from Yokohama が自然。
+
+**4. 横浜には多くの企業がある**
+❌ There's so many companies in Yokohama. → ✅ There are so many companies in Yokohama.
+
+**5. 横浜はトヨタのような一社に支配されていない**
+❌ Not as likely as Toyota.（likely は「〜しそう」なのでこの文脈では×）
+→ ✅ Yokohama isn't dominated by one company in the same way Aichi is dominated by Toyota. / Yokohama isn't as dependent on one company as Aichi is on Toyota. / There isn't just one dominant company in Yokohama.
+
+**6. 英語を学ぶ最大の理由**
+❌ The big reason is, actually, I love traveling. → ✅ The main reason is that I love traveling. / My main motivation is my love of traveling.
+基本形：The reason is that＋文
+
+**7. 外国の人と価値観や経験を共有したい**
+❌ I want to communicate with foreign people in English and share my values, experiences.
+→ ✅ I want to communicate with people from other countries and share our experiences.
+→ ✅ I want to connect with people from different backgrounds and exchange ideas and perspectives.
+→ ✅ I want to learn about other cultures and share my own experiences.
+
+ポイント：
+- foreign people より people from other countries のほうが柔らかく自然
+- exchange values はやや不自然 → exchange ideas and perspectives が自然
+- 文化なら learn about each other's cultures も便利
+
+**8. Camblyを使う理由**
+音声認識ミス：That's why I'm on campus. → ✅ That's why I'm on Cambly. / That's why I use Cambly.
+
+**9. フリートークのほうが好き**
+❌ I'd rather play conversation than technical lessons.（play conversation とは言わない）
+→ ✅ I'd rather have free conversations than take structured lessons. / I prefer casual conversation to structured lessons. / I'd rather practice speaking through conversation than follow a textbook.
+
+使える組み合わせ：have a conversation / practice conversation / do conversation practice / take a lesson
+
+**10. 「私の意見では」**
+❌ From my opinion, I think she's a good leader. → ✅ In my opinion, she's a good leader. / From my perspective, she's a good leader. / Personally, I think she's a good leader.
+
+正しい組み合わせ：in my opinion / from my perspective
+※ from my opinion とは通常言わない。In my opinion と I think は意味が重なるためどちらか一方で十分。
+
+**11. 政治家の発言が攻撃的**
+❌ Sometimes her action, her announcement is a little bit offensive.
+→ ✅ Some of her actions and remarks can be a little offensive. / Some of the things she says can come across as offensive. / Her speaking style can sometimes be a little provocative.
+
+「テレビなどでの発言」を指す場合、announcement より：speech（演説）／ remark / comment（個々の発言）／ the things she says（発言全般）が適切。
+
+**12. 経済への効果を実感していない**
+❌ I don't feel that so much. → ✅ I haven't really felt the effects yet. / I don't really feel that her policies are helping. / I haven't seen much of an impact on the economy yet.
+
+**13. 日本人の視点から**
+❌ From a perspective as a Japanese... → ✅ From a Japanese perspective, ... / As a Japanese person, ...
+
+**14. 日本と海外のお金の価値の差**
+❌ The biggest concern is the gap between value of money in Japan and in foreign countries, especially the States.
+→ ✅ One of the biggest concerns is the weak yen, especially against the US dollar.（円安について）
+→ ✅ One of my biggest concerns is the current exchange rate between the yen and the dollar.（為替レート）
+→ ✅ I'm concerned about the growing gap in purchasing power between Japan and the US.（購買力の差）
+
+---
+
+### 【Phrases to Master】
+
+- I'm originally from Yokohama, but I currently live in Tokyo.
+- As someone from Yokohama, I'm proud of my hometown.
+- Yokohama isn't dominated by one particular company.
+- I want to connect with people from different backgrounds and exchange ideas and perspectives.
+- I'd rather have free conversations than take structured lessons.
+- From my perspective, she's a good leader.
+- Some of the things she says can come across as offensive.
+- I haven't seen much of an impact on the economy yet.
+- The weak yen is one of my biggest concerns.
+- I'm concerned about the growing gap in purchasing power between Japan and the US.
+- She won the election by a landslide.
+- She seems like somewhat of a far-right leader.
+- The company came out with a new product.
+
+### 【Next Step】
+
+政治や経済の話では、曖昧な thing / feel that を減らし、policy, remark, impact, exchange rate, purchasing power などの具体的な名詞を使うことを意識する。

@@ -1242,6 +1242,76 @@ Meaning：〜の代わりに／〜を代表して
 Example：Can you speak to my manager on my behalf? / My lawyer is handling everything on my behalf. / On behalf of the team, thank you.
 Nuance：on my/your/his/her/our behalf の型と、on behalf of + 組織・人 の型。仕事・代理・スピーチで頻出。
 
+### It'll work out / Everything will work out
+新規：✓
+重要度：★★★★★
+Meaning：なんとかなる／きっとうまくいく
+Example：Don't worry. It'll work out. / Everything will work out in the end.
+Nuance：未来に対する前向きな励まし表現。[[It is what it is]]（過去を受け入れる）と対比。work out には「解決する・うまく収まる」の意味あり。
+
+### More importantly / But more than that
+新規：✓
+重要度：★★★★★
+Meaning：それよりも重要なのは／でもそれ以上に
+Example：More importantly, I want more freedom. / But more than that, I wanted more freedom.
+Nuance：話題の重要度を段階的に上げる時の定番。何よりも伝えたいポイントを強調する時に。
+
+### take turns (doing)
+新規：✓
+重要度：★★★★★
+Meaning：順番に／交代で（〜する）
+Example：We took turns driving. / Everyone takes turns singing. / Let's take turns.
+Nuance：take turns + doing の型。会議・家事・運転など日常で頻出。alternate（フォーマル）／ go one by one と類似。
+
+### lead up to / leading up to
+新規：✓
+重要度：★★★★★
+Meaning：〜までの期間／〜に向けて（の準備期間）
+Example：Leading up to my trip, I was really busy. / I was really nervous leading up to it. / In the days leading up to the event, ...
+Nuance：イベント・締切・旅行前の「助走期間」を表す時の定番。before よりも「連続的な時間軸」ニュアンス。
+
+### reach out to someone
+新規：✓
+重要度：★★★★★
+Meaning：（人に）連絡を取る／声をかける
+Example：He reached out to me last week. / Feel free to reach out to me anytime.
+Nuance：contact よりも柔らかく親しみのある表現。仕事・営業・友人関係で超頻出。相手から連絡してもらう時にも使う。
+
+### come across as ~
+新規：✓
+重要度：★★★★★
+Meaning：〜という印象を与える／〜のように受け取られる
+Example：His comment came across as rude. / She comes across as very confident. / Some of her remarks can come across as offensive.
+Nuance：話し手の意図ではなく「相手にどう映るか」を表す。人物評・発言の印象を語る時に頻出。sound / seem より「受け手の解釈」を強調。
+
+### In my opinion / From my perspective / Personally
+新規：✓
+重要度：★★★★★
+Meaning：私の意見では／私の視点では／個人的には
+Example：In my opinion, she's a good leader. / From my perspective, it's the right choice. / Personally, I think we should wait.
+Nuance：❌ From my opinion は不自然。正しくは「in my opinion」「from my perspective」。In my opinion と I think は意味が重なるためどちらか一方で十分。
+
+### Have you heard of ~?
+新規：✓
+重要度：★★★★★
+Meaning：〜を聞いたことがある？／〜って知ってる？（存在を知っているか）
+Example：Have you heard of Yokohama? / Have you heard of that band?
+Nuance：Do you know ~? は「知り合い？」に聞こえがち。場所・人・作品などの「存在を知っているか」を尋ねるなら Have you heard of ~? が自然。
+
+### I'm more of a ~ person
+新規：✓
+重要度：★★★★★
+Meaning：私はどちらかと言うと〜派／〜寄りの人間です
+Example：I'm more of a city person. / I'm more of a morning person. / I'm more of a dog person than a cat person.
+Nuance：自分の性格・好みをカジュアルに説明する定番。I prefer ~ より柔らかく会話的。
+
+### express myself / express what I want to say
+新規：✓
+重要度：★★★★★
+Meaning：自分の考え・気持ちを表現する／言いたいことを表現する
+Example：I want to express myself more naturally. / I want to express what I really want to say. / I want to speak more naturally and without hesitation.
+Nuance：say what I want to say より「感情・考えを外に出す」感が強い。英語学習の目的を語る時の定番フレーズ。
+
 ---
 
 ## ★★★★（週に何度かは出会う／使う）
@@ -3264,6 +3334,141 @@ Meaning：飲みに行く／お酒を飲みに出かける
 Example：We're going out for drinks after work. / Do you want to go out for drinks tonight?
 Nuance：[[grab a drink]] より「腰を据えて飲む」ニュアンス。仕事終わりの誘い定番。go for drinks はやや軽め、go out for drinks は「外に出て飲む」感が強い。
 
+### It is what it is
+新規：✓
+重要度：★★★★
+Meaning：仕方ない／現実を受け入れるしかない
+Example：We missed the train, but it is what it is.
+Nuance：「起きてしまったこと」に対する諦めと受容。That's life / What happens, happens と類似。[[It'll work out]]（未来への楽観）と対比。
+
+### send ~ my way / send someone's way
+新規：✓
+重要度：★★★★
+Meaning：（仕事・チャンス・人などを）〜に紹介する／回してくれる
+Example：Agents often send clients my way. / Send some interesting projects my way. / Any good opportunities that come your way?
+Nuance：refer より会話寄り。仕事・案件・チャンスを回してもらう時のカジュアル表現。フリーランス・営業で頻出。
+
+### introduce A to B
+新規：✓
+重要度：★★★★
+Meaning：AをBに紹介する
+Example：My friend introduced me to a client. / Let me introduce you to my colleague.
+Nuance：❌「introduce the project to me」より「introduce me to a client」の型が自然（人を人・機会に紹介する）。誰かを新しい世界・人に繋げる時に使う。
+
+### give notice / give (my) two weeks' notice
+新規：✓
+重要度：★★★★
+Meaning：退職・退去の通知をする
+Example：I gave my notice yesterday. / I gave my two weeks' notice.
+Nuance：米では「2週間前通知」が慣習で give my two weeks' notice が定型句。仕事を辞める・部屋を退去する時に。
+
+### back out (of ~)
+新規：✓
+重要度：★★★★
+Meaning：途中でやめる／撤回する／土壇場でキャンセルする
+Example：I almost backed out. / He backed out of the deal. / She backed out at the last minute.
+Nuance：withdraw / pull out と類似。カジュアルで「一度決めたことを引っ込める」ニュアンス。back out at the last minute は超頻出。
+
+### conventional
+新規：✓
+重要度：★★★★
+Meaning：一般的な／従来の／型にはまった
+Example：a conventional career / a conventional lifestyle / conventional wisdom
+Nuance：ニュートラル〜やや否定的。「面白みがない・型通り」の含みが出ることも。対義：unconventional / nontraditional。生き方・キャリアの話で頻出。
+
+### take off（事業・キャリアが軌道に乗る）
+新規：✓
+重要度：★★★★
+Meaning：
+　1. （事業・キャリア・活動が）軌道に乗る／急成長する
+　2. 離陸する
+Example：
+　1. My business is starting to take off. / His career took off after that movie.
+　2. The plane took off on time.
+Nuance：Things are starting to pick up と類似だが、take off は「急上昇」ニュアンス。ビジネスの話で頻出。
+
+### get by (in ~) / get by on ~
+新規：✓
+重要度：★★★★
+Meaning：（お金・能力などが十分ではないが）なんとかやっていく／最低限困らない程度にこなす
+Example：I can get by in English. / I can get by on my salary. / We get by somehow.
+Nuance：manage / cope with / survive と類似。「完璧ではないが、なんとかなる」ニュアンス。英語力・給料・生活費の話で頻出。
+
+### retrieve / retrieve words
+新規：✓
+重要度：★★★★
+Meaning：（情報・記憶・物を）取り出す／取り戻す／頭から引き出す
+Example：I can't retrieve the word I want. / The brain retrieves stored information. / We can get hold of those words more quickly.
+Nuance：recall / recover / bring back と類似。英語学習の文脈では「頭の中から単語を引き出す」意味で頻出。get hold of words とほぼ同義。
+
+### get hold of ~
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 手に入れる
+　2. （人に）連絡を取る
+　3. （頭の中から）引き出す
+Example：
+　1. I need to get hold of a ticket.
+　2. I couldn't get hold of him.
+　3. We can get hold of those words more quickly.
+Nuance：obtain / reach / retrieve と類似。文脈で意味が変わる万能フレーズ。connect や contact より会話寄り。
+
+### stall / without stalling
+新規：✓
+重要度：★★★★
+Meaning：
+　1. 話が止まる／言葉に詰まる
+　2. （車・機械が）止まる
+　3. （時間を）稼ぐ／引き延ばす
+Example：
+　1. I want to speak without stalling. / He stalled during his speech.
+　2. The car stalled.
+　3. Stop stalling and answer the question.
+Nuance：英会話では「言葉に詰まる」の意味で頻出。hesitate / freeze up と類似。
+
+### soak in / soak up
+新規：✓
+重要度：★★★★
+Meaning：（知識・雰囲気・情報などを）自然に吸収する／じっくり味わう
+Example：You've been soaking in loads of words. / I just want to soak up the atmosphere. / Soak in the moment.
+Nuance：absorb より「じっくり浸る」ニュアンス。学び・旅・体験を語る時に。
+
+### structured lessons / structured
+新規：✓
+重要度：★★★★
+Meaning：体系的に構成されたレッスン／体系立った
+Example：I prefer casual conversation to structured lessons. / We need a more structured approach.
+Nuance：free conversation / casual conversation（フリートーク）／ textbook-based lessons と対比。学習・仕事の進め方を説明する時に頻出。
+
+### dominate / be dominated by
+新規：✓
+重要度：★★★★
+Meaning：〜を支配する／〜に支配される／大きな影響力を持つ
+Example：Yokohama isn't dominated by one particular company. / Toyota dominates the local economy. / She dominated the conversation.
+Nuance：depend on / rely on（依存する）と類似だが、より強い「支配・独占」ニュアンス。産業・市場・会話などに使う。
+
+### close down / shut down
+新規：✓
+重要度：★★★★
+Meaning：閉鎖する／廃業する／営業を停止する
+Example：The factory closed down earlier this year. / They had to shut down the store.
+Nuance：go out of business（廃業）と類似。close down は「営業終了」、shut down は「機能停止・閉鎖」ニュアンスが強い。
+
+### stimulate the economy / boost the economy
+新規：✓
+重要度：★★★★
+Meaning：経済を刺激・活性化する／押し上げる
+Example：Do you think her policies are helping stimulate the economy? / The government tried to boost the economy.
+Nuance：revitalize the economy / support economic growth と類似。政治・経済ニュースで頻出。
+
+### foundation（基礎・土台）
+新規：✓
+重要度：★★★★
+Meaning：基礎／土台／基盤
+Example：You've got your foundation. / We need to build a strong foundation first. / Trust is the foundation of any relationship.
+Nuance：base / basis と類似。学習・関係・組織の「基盤」を語る時に頻出。
+
 ---
 
 ## ★★★（知っておくと役立つ中堅）
@@ -4344,6 +4549,157 @@ Meaning：〜の影を薄くする／〜をかすませる／〜を圧倒する�
 Example：The scandal overshadowed his achievements. / Her performance overshadowed everyone else's. / The vacation was overshadowed by bad weather. / His younger brother has always been overshadowed by him.
 Nuance：outshine（良い意味で目立つ）／ eclipse（完全にしのぐ）と類似だが、overshadow は「影を落として目立たなくする」で良い意味・悪い意味の両方に使える。be overshadowed by の受動形が特に頻出。
 
+### bring someone clients / refer clients to someone
+新規：✓
+重要度：★★★
+Meaning：（人に）顧客・仕事を紹介する
+Example：The agents bring me clients. / The agents refer clients to me.
+Nuance：[[send ~ my way]] と類似だが、bring は「持ってくる」、refer は「紹介・照会」寄りでフォーマル。ビジネスの紹介経路を説明する時に。
+
+### smuggle
+新規：✓
+重要度：★★★
+Meaning：密輸する／密かに持ち込む
+Example：He smuggled snacks into the movie theater. / People sometimes try to smuggle prohibited items across borders.
+Nuance：発音は **SMUG**-gle（スマグル）。sneak と類似。smuggle A into B / smuggle A out of B の型で使う。麻薬・武器・食品などが対象。
+
+### cliquish
+新規：✓
+重要度：★★★
+Meaning：仲間内だけで固まる／内輪っぽい
+Example：The group seemed cliquish.
+Nuance：clique（内輪グループ）から派生。exclusive に近いが「排他的で入りづらい」ニュアンス。人間関係を批判的に言う時に。
+
+### exclusionary
+新規：✓
+重要度：★★★
+Meaning：制度的・社会的に排他的／人を排除するような
+Example：The policy is considered exclusionary.
+Nuance：exclusive（限定的・高級な）と違い、exclusionary は「差別的・排他的」というネガティブな意味。ポリシー・制度批判で頻出。
+
+### colonization / colonize / colonizer / colonial / colony
+新規：✓
+重要度：★★★
+Meaning：植民地化／植民地にする／植民者／植民地の／植民地
+Example：European colonization / They colonized the region. / a former colony
+Nuance：発音は co-lo-ni-**ZA**-tion（ZA を強く）。歴史・社会問題の話で頻出。
+
+### landslide / win by a landslide
+新規：✓
+重要度：★★★
+Meaning：
+　1. 地滑り・土砂崩れ
+　2. 選挙での圧勝
+Example：
+　1. Heavy rain caused a landslide.
+　2. She won the election by a landslide. / Her party won in a landslide. / a landslide victory
+Nuance：発音は /ˈlændslaɪd/。選挙・スポーツの圧勝に。対義：a narrow victory / a razor-thin victory。
+
+### far-right / right-wing / conservative
+新規：✓
+重要度：★★★
+Meaning：極右の／右派の／保守的な（政治的立場）
+Example：She is a far-right leader. / The party has far-right policies. / The far right has gained support. / She seems like somewhat of a far-right leader.
+Nuance：強さは conservative < right-wing < far-right。断定を避けるなら「fairly right-wing」「somewhat of a far-right leader」。❌ She is a far right.（冠詞誤用）／✅ She is far-right. / She is a far-right politician.
+
+### offensive / provocative / controversial
+新規：✓
+重要度：★★★
+Meaning：
+　1. offensive：不快な／侮辱的な／攻撃的な
+　2. provocative：物議を醸す／挑発的な
+　3. controversial：賛否を呼ぶ／論争的な
+Example：Some of her remarks can come across as offensive. / Her speech was provocative. / a controversial policy
+Nuance：批判・議論の強さで使い分け。offensive は「相手を不快にする」、provocative は「わざと反応を引き出す」、controversial は「意見が割れる」ニュアンス。
+
+### announcement / speech / remark / comment
+新規：✓
+重要度：★★★
+Meaning：
+　1. announcement：公式な発表・告知
+　2. speech：演説／まとまったスピーチ
+　3. remark：個々の発言
+　4. comment：意見・コメント
+Example：The government made an announcement. / She gave a speech. / I was surprised by her remark. / He left a comment on the post.
+Nuance：政治家のテレビ発言を語るなら announcement より speech / remark / comment / the things she says が適切。誤用すると不自然になる典型。
+
+### exchange rate / weak yen / strong yen
+新規：✓
+重要度：★★★
+Meaning：為替レート／円安（弱い円）／円高（強い円）
+Example：One of my biggest concerns is the current exchange rate between the yen and the dollar. / The weak yen is one of my biggest concerns. / a strong yen makes imports cheaper.
+Nuance：ニュース・海外旅行・経済雑談で必須。increase / strengthen / appreciate（円高方向）／ lose value / depreciate（円安方向）と組み合わせて使う。
+
+### purchasing power
+新規：✓
+重要度：★★★
+Meaning：購買力（そのお金で実際にどれくらい買えるか）
+Example：I'm concerned about the growing gap in purchasing power between Japan and the US.
+Nuance：円安・物価の話とセットで頻出。gap in purchasing power / lose purchasing power などの組み合わせで使う。
+
+### devalue / depreciate / appreciate
+新規：✓
+重要度：★★★
+Meaning：
+　1. devalue：（通貨の価値を意図的に）下げる
+　2. depreciate：（通貨価値が）下落する
+　3. appreciate：（通貨価値が）上昇する
+Example：The country may devalue its currency. / The yen depreciated against the dollar. / The dollar appreciated in value.
+Nuance：devalue は政策的な行為、depreciate / appreciate は市場の動き。金融ニュースで頻出。
+
+### eye-opening
+新規：✓
+重要度：★★★
+Meaning：目を開かされるような／新しい気づきを与える
+Example：Working in local politics has been eye-opening. / It was an eye-opening experience.
+Nuance：良い意味での「衝撃的・視野が広がる」体験を語る時に。旅行・学び・仕事の振り返りで頻出。
+
+### come out with ~
+新規：✓
+重要度：★★★
+Meaning：
+　1. （新商品・作品などを）発表・発売する
+　2. （発言・意見を）突然口にする
+Example：
+　1. Apple came out with a new iPhone. / The band came out with a new album.
+　2. He suddenly came out with a strange comment. / I was surprised when she came out with that remark.
+Nuance：release / launch / announce と類似。企業が主語なら come out with、商品が主語なら come out（The iPhone came out.）と使い分け。
+
+### manufacturing plant / manufacturing facility / factory
+新規：✓
+重要度：★★★
+Meaning：製造工場／製造施設／工場
+Example：There was a tire manufacturing plant in my city. / The factory closed down.
+Nuance：factory（一般的な工場）／ plant（大規模な生産設備）／ facility（施設全般・フォーマル）。工業・地域経済の話で頻出。
+
+### technical difficulties
+新規：✓
+重要度：★★★
+Meaning：技術的な問題／機器のトラブル
+Example：Sorry about the technical difficulties at the beginning. / We're experiencing technical difficulties.
+Nuance：オンライン会議・配信・通話で頻出。マイク・カメラ・通信のトラブル全般をカバーする便利フレーズ。
+
+### absorb / subconsciously
+新規：✓
+重要度：★★★
+Meaning：（知識・情報などを）吸収する／無意識のうちに
+Example：Our brain absorbs more than you realize. / We learn many things subconsciously.
+Nuance：soak in / soak up と類似だが、absorb は少しフォーマル。学習・脳の話で頻出。関連：subconscious（潜在意識）。
+
+### motive / main motive
+新規：✓
+重要度：★★★
+Meaning：動機／主な動機
+Example：What's your main motive? / His motive for learning English is career growth.
+Nuance：reason より「行動の裏にある動機」ニュアンス。フォーマル寄り。犯罪の話（motive for the crime）でも使う。
+
+### personal development / career purpose
+新規：✓
+重要度：★★★
+Meaning：自己成長／キャリアの目的
+Example：Learning English is part of my personal development. / She's clear about her career purpose.
+Nuance：ビジネス・自己啓発の文脈で頻出。self-improvement / career goal と類似だが、こちらの方がフォーマル。
+
 ---
 
 ## ★★（文脈限定／やや専門・フォーマル寄り）
@@ -4575,6 +4931,27 @@ Meaning：
 　2. coriander seeds：コリアンダーの種
 Example：I love cilantro. / I'm not a fan of cilantro. / Could you make it without cilantro?
 Nuance：米では葉が cilantro、種が coriander で使い分け。英では葉も種も coriander。海外レストランで注文時に必須。
+
+### law enforcement
+新規：✓
+重要度：★★
+Meaning：法執行／法執行機関／警察当局
+Example：Law enforcement is investigating the case. / I have a lot of respect for people who work in law enforcement.
+Nuance：police より制度的・包括的な表現。ニュース・社会問題の話で頻出。よく使う組み合わせ：law enforcement agencies / law enforcement officer / work in law enforcement / local / federal law enforcement。
+
+### province
+新規：✓
+重要度：★★
+Meaning：州／省／地方行政区
+Example：South Africa has nine provinces. / Which province are you from?
+Nuance：カナダ・南アフリカ・中国などで使う行政単位。米は state、日本は prefecture、英は region / county と対比。海外の地理を話す時に必要。
+
+### exclusive
+新規：✓
+重要度：★★
+Meaning：排他的な／限定的な／会員制の／独占的な
+Example：This club is very exclusive. / an exclusive interview / exclusive members-only content
+Nuance：対義：inclusive。「高級・限定・独占」のニュアンスがあり、ネガティブ／ポジティブ両方に使える。マーケティング・不動産・メディアで頻出。
 
 ---
 
