@@ -5,6 +5,7 @@
 - 元ナレッジ: 知見・ナレッジ移管/Instagram運用/【株式会社SAKIYOMI】Instagram運用サービス紹介資料.pdf
 - 全78ページ・営業資料兼ナレッジ集
 - 作成: 2022年11月（PDFメタデータ）
+- 参照：https://app.box.com/s/kl5f55r698hkubessux5tcmms3laifvq
 
 ## 用途（どんな時に活用できるか）
 - Instagram運用を「アルゴリズムベース」で説明したいとき

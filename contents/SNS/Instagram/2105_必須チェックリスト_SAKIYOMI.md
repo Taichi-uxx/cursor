@@ -6,6 +6,7 @@
 - 元ナレッジ: 知見・ナレッジ移管/Instagram運用/Instagram運用を成功に導く42の必須チェックリスト.pdf
 - 全57ページ・**42チェック項目**7カテゴリ
 - 作成: 2021年5月
+- 参照：https://app.box.com/s/80wffwztb5achy4uilsg130a9zhx5jao
 
 ## 用途（どんな時に活用できるか）
 - Instagramを始める前の網羅的チェックとして
