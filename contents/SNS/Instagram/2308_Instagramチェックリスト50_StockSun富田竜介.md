@@ -5,6 +5,7 @@
 - 元ナレッジ: 知見・ナレッジ移管/Instagram運用/Instagramチェックリスト【StockSun株式会社 富田竜介】.pdf
 - 全9ページ・**50項目**6カテゴリ
 - 作成: 2023年8月
+- 参照：https://app.box.com/s/zjhz56nho9n6t10s0v5fm8ra9dak6qpv
 
 ## 用途（どんな時に活用できるか）
 - Instagram運用の月次レビューチェックリストとして

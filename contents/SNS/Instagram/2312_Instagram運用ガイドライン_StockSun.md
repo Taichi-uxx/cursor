@@ -5,6 +5,7 @@
 - 元ナレッジ: 知見・ナレッジ移管/Instagram運用/Instagram運用ガイドライン.pdf
 - 全45ページ・6章・約150チェック項目
 - 更新日: **2023/12/01**
+- 参照：https://app.box.com/s/b7ow37ql8aamvgllbvo80kaws33yh9of
 
 ## 用途（どんな時に活用できるか）
 - Instagram運用の品質チェックリストとして
