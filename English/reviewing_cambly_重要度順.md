@@ -1312,6 +1312,90 @@ Meaning：自分の考え・気持ちを表現する／言いたいことを表�
 Example：I want to express myself more naturally. / I want to express what I really want to say. / I want to speak more naturally and without hesitation.
 Nuance：say what I want to say より「感情・考えを外に出す」感が強い。英語学習の目的を語る時の定番フレーズ。
 
+### 数量＋名詞＋left（残っている）
+新規：✓
+重要度：★★★★★
+Meaning：~があと……残っている
+Example：We have only two days left. / There are only a few items left. / How much time do we have left? / How many tickets are left? / There's no food left.
+Nuance：leave の過去分詞由来「残された」。「数量＋名詞＋left」「have＋数量＋名詞＋left」「There is/are＋名詞＋left」の3型で使う。時間・チケット・食べ物の残量で頻出。
+
+### not as much/big/large ~ as I thought / expected
+新規：✓
+重要度：★★★★★
+Meaning：思っていたほど（量・大きさが）~ない
+Example：There isn't as much food as I expected. / The portion isn't as large as I thought it would be. / This dish isn't as big as I thought.
+Nuance：❌ not so much as I thought は不自然（not so much as + 動詞 は「~さえしない」の別表現）。料理量なら much より portion / big / large が自然。as I expected / as I thought it would be の型。
+
+### advise + 人 + to do / recommend
+新規：✓
+重要度：★★★★★
+Meaning：人に~するよう助言する／推奨する
+Example：My teacher advised me to practice every day. / I recommend practicing every day. / I recommend that you practice every day.
+Nuance：発音 advise /ədˈvaɪz/（動詞）／ advice /ədˈvaɪs/（名詞・不可算）。※recommend 人 to do とは通常言わない。recommend doing / recommend that S+V の型。
+
+### Looking back / In retrospect / Thinking back
+新規：✓
+重要度：★★★★★
+Meaning：思い返すと／振り返ってみると
+Example：Looking back, I was too hard on myself. / Thinking back, I should have enjoyed that time more. / In retrospect, it was a valuable experience.
+Nuance：Looking back（会話で最も使いやすい）／ Thinking back（特定の記憶を思い返す）／ In retrospect（ややフォーマル）／ Come to think of it（そういえば）。過去語りの定番。
+
+### get into ~
+新規：✓
+重要度：★★★★★
+Meaning：~に興味を持つ／~にハマり始める
+Example：I first got into EDM around 2010. / When did you get into photography?
+Nuance：be into ~（現在ハマっている状態）と対比。get into は「変化」、be into は「状態」。趣味・音楽の話で頻出。get hooked on / become obsessed with より軽い。
+
+### catch someone's attention / grab someone's attention
+新規：✓
+重要度：★★★★★
+Meaning：人の注意・興味を引く
+Example：Avicii's music really caught my attention. / The headline grabbed my attention.
+Nuance：grab は catch より強い引力。intrigue someone（好奇心を刺激）より会話で使いやすい。音楽・映画・広告・見出しの話で頻出。
+
+### be obsessed with ~ / can't stop ~ing
+新規：✓
+重要度：★★★★★
+Meaning：~に夢中になっている／~するのが止められない
+Example：I'm obsessed with that song. / I got really obsessed with "Beside Me." / I can't stop listening to that song.
+Nuance：be obsessed with（現在ハマっている状態）／ get obsessed with（ハマる変化）／ can't stop ~ing（会話的）。ネガティブ意味もあるが、趣味の話ではポジティブに使う。
+
+### can't get ~ out of my head / be stuck in my head
+新規：✓
+重要度：★★★★★
+Meaning：~が頭から離れない／耳に残る
+Example：I can't get that song out of my head. / That song has been stuck in my head all day.
+Nuance：❌ The song can get out of my head は反対の意味になるので注意。曲・言葉・映像が頭から離れない時の定番。
+
+### from then on / since then / after that
+新規：✓
+重要度：★★★★★
+Meaning：それ以降／それ以来／その後
+Example：From then on, I started discovering more EDM artists. / Since then, I've discovered many EDM artists. / After that, I went home.
+Nuance：既存 [[since then]] の補強。from then on＋過去形（過去の展開）／ since then＋現在完了（現在まで続く変化）／ after that＋過去形（単純な時系列）。使い分け必須。
+
+### I've been meaning to ~
+新規：✓
+重要度：★★★★★
+Meaning：前から~しようと思っていた
+Example：There's something I've been meaning to tell you. / I've been meaning to ask you about that. / I've been meaning to try that restaurant.
+Nuance：単なる I want to ~ より「少し前からそのつもりだった」という継続性。会話・メール・SNSで頻出。切り出しに使うと自然。
+
+### relate to ~
+新規：✓
+重要度：★★★★★
+Meaning：（自分にも似た経験があり）実感として共感する
+Example：I can relate to what you're going through. / I can totally relate.
+Nuance：understand より「自分にも経験がある・気持ちが分かる」ニュアンス。カジュアルな共感の定番。empathize with より会話的。
+
+### come to a conclusion / reach a conclusion / arrive at a conclusion
+新規：✓
+重要度：★★★★★
+Meaning：結論に達する／結論を出す
+Example：I try to reach a conclusion so that I can stop overthinking. / We finally came to a conclusion. / They arrived at the same conclusion.
+Nuance：❌ arrive to a conclusion（前置詞ミス）／ have my conclusion（コロケーションミス）。arrive の前置詞は at。議論・熟考の締めで頻出。
+
 ---
 
 ## ★★★★（週に何度かは出会う／使う）
@@ -3469,6 +3553,236 @@ Meaning：基礎／土台／基盤
 Example：You've got your foundation. / We need to build a strong foundation first. / Trust is the foundation of any relationship.
 Nuance：base / basis と類似。学習・関係・組織の「基盤」を語る時に頻出。
 
+### be drawn to ~
+新規：✓
+重要度：★★★★
+Meaning：~に自然と惹かれる／引き込まれる
+Example：I was immediately drawn to his music. / I've always been drawn to tropical sounds. / She's drawn to challenging projects.
+Nuance：be attracted to / be fascinated by / be captivated by と類似だが、理由を明確に説明できない「自然と惹きつけられる」ニュアンス。人・音楽・場所・仕事に。
+
+### unpredictable
+新規：✓
+重要度：★★★★
+Meaning：予測できない／先が読めない
+Example：I love how unpredictable the song is. / He's unpredictable — you never know what he'll do next.
+Nuance：unexpected（予想外）／ unforeseeable（フォーマル）と類似。曲・展開・人の行動を語る時に。対義：predictable。
+
+### in one's prime / at the height of one's popularity
+新規：✓
+重要度：★★★★
+Meaning：全盛期で／人気絶頂で
+Example：One Direction was in their prime at the time. / She was at the height of her popularity. / The team was in their prime.
+Nuance：❌ on the prime（前置詞ミス）／✅ in one's prime。be huge at the time（カジュアル）も類似。芸能・スポーツ・キャリアの話で頻出。
+
+### go freelance / work as a freelancer / work independently
+新規：✓
+重要度：★★★★
+Meaning：フリーランスになる／フリーランサーとして働く／独立して働く
+Example：I'm getting ready to leave my job and go freelance. / She works as a freelancer. / I want to work independently.
+Nuance：go freelance が動詞的に「フリーランス転向」を表す最短表現。start my own business は「起業」寄り。
+
+### land a project / land a client / secure a project / secure a contract
+新規：✓
+重要度：★★★★
+Meaning：案件を獲得する／顧客を獲得する／契約を確保する
+Example：I need to find new clients and land some projects. / I landed a big client last week. / I'm trying to secure enough projects to support myself.
+Nuance：land は「努力して勝ち取る」会話的、secure は「確保する」ややビジネス的。フリーランス・営業の話で頻出。
+
+### build a client base
+新規：✓
+重要度：★★★★
+Meaning：顧客基盤を築く（継続的に仕事を得られる顧客層を作る）
+Example：My first priority is to build a solid client base. / It takes time to build a client base.
+Nuance：単に顧客を一人見つけるのではなく、継続性のある「基盤」を作るニュアンス。フリーランス・スタートアップで頻出。
+
+### work remotely / work from anywhere
+新規：✓
+重要度：★★★★
+Meaning：リモートで働く／どこからでも働く
+Example：I'll be able to work remotely from anywhere in the world. / My work can be done entirely online. / I want to travel the world while working remotely.
+Nuance：コロナ以降超頻出。work from home（在宅勤務）とは違い、場所を問わない働き方を強調。
+
+### highlight（一番の見どころ）
+新規：✓
+重要度：★★★★
+Meaning：最も印象的だったこと／一番の見どころ
+Example：What was the highlight of your trip to Montenegro? / The highlight of the year was our trip to Italy.
+Nuance：What was the best part? より洗練された聞き方。旅行・イベント・年の振り返りで頻出。
+
+### From what someone told me / From what I've heard
+新規：✓
+重要度：★★★★
+Meaning：人から聞いた話によると／私が聞いた限りでは
+Example：From what he told me, Georgia sounded like an amazing place. / From what I've heard, it's relatively affordable. / Based on what he told me, ...
+Nuance：既存 [[from what I've gathered]] と類似。断定を避けて「情報源は他人」と明示する前置き。旅行・ニュース・噂話で頻出。
+
+### considerate / thoughtful
+新規：✓
+重要度：★★★★
+Meaning：
+　1. considerate：周囲への配慮がある（迷惑をかけない）
+　2. thoughtful：思いやりがあり、気が利く（相手の喜ぶことを考えて行動）
+Example：
+　1. That was very considerate of you.
+　2. She's always thoughtful toward others. / What a thoughtful gift!
+Nuance：considerate は「相手の負担を減らす配慮」、thoughtful は「相手のために積極的に行動」。人物評で頻出。
+
+### compassionate / empathetic
+新規：✓
+重要度：★★★★
+Meaning：
+　1. compassionate：苦しんでいる人への思いやりがある
+　2. empathetic：相手の感情を理解・共有できる
+Example：
+　1. She's compassionate toward people in need.
+　2. A good leader should be empathetic.
+Nuance：compassion（同情心）／ empathy（共感）に対応する形容詞。医療・リーダー論・人物評で頻出。
+
+### open-minded / narrow-minded
+新規：✓
+重要度：★★★★
+Meaning：
+　1. open-minded：異なる考えを柔軟に受け入れる
+　2. narrow-minded：異なる考えを受け入れない
+Example：
+　1. Traveling made me more open-minded.
+　2. He can be narrow-minded about other cultures.
+Nuance：性格・文化観・議論で頻出。褒めるなら open-minded、批判するなら narrow-minded。
+
+### down-to-earth
+新規：✓
+重要度：★★★★
+Meaning：気取らず、現実的で親しみやすい
+Example：Despite his success, he's down-to-earth. / She's a down-to-earth person.
+Nuance：有名人・成功者に対する褒め言葉として頻出。humble と類似だが「地に足がついている」ニュアンス。
+
+### persistent / resilient / decisive
+新規：✓
+重要度：★★★★
+Meaning：
+　1. persistent：諦めず粘り強い
+　2. resilient：困難から立ち直る力がある
+　3. decisive：決断力がある
+Example：
+　1. He's persistent and doesn't give up easily.
+　2. She's remarkably resilient.
+　3. A leader needs to be decisive.
+Nuance：名詞形は persistence / resilience / decisiveness。仕事・リーダーシップ・自己PRで頻出。
+
+### insecure / indecisive
+新規：✓
+重要度：★★★★
+Meaning：
+　1. insecure：自分に自信がなく、不安を感じやすい
+　2. indecisive：優柔不断な
+Example：
+　1. He's insecure about his abilities.
+　2. I'm indecisive when there are too many options.
+Nuance：insecure は「内面の不安」、indecisive は「決められない」。自己分析・弱み紹介で頻出。
+
+### assertive / aggressive
+新規：✓
+重要度：★★★★
+Meaning：
+　1. assertive：相手を尊重しながら、適切に自己主張できる（ポジティブ）
+　2. aggressive：攻撃的・強引に意見を押し通す（ネガティブ寄り）
+Example：
+　1. You need to be more assertive at work.
+　2. His aggressive style makes people uncomfortable.
+Nuance：日本人が混同しがち。「自己主張が強い」の褒め言葉なら assertive。ビジネス・リーダー論で頻出。
+
+### integrity / humility
+新規：✓
+重要度：★★★★
+Meaning：
+　1. integrity：誠実さ／高潔さ／確固とした道徳観
+　2. humility：謙虚さ
+Example：
+　1. Integrity is essential for a good leader.
+　2. A good leader needs confidence and humility.
+Nuance：名詞。人物評・リーダー論の必須語。lack integrity / show humility の型で頻出。
+
+### emotional intelligence / emotionally intelligent
+新規：✓
+重要度：★★★★
+Meaning：感情知性（自分や他人の感情を理解し、適切に管理する能力）
+Example：A good leader needs emotional intelligence. / She's emotionally intelligent and good at handling conflicts.
+Nuance：EQ とも呼ばれる。ビジネス・リーダー論・自己啓発で超頻出。IQ より重要視される場面が多い。
+
+### take pride in ~
+新規：✓
+重要度：★★★★
+Meaning：~に誇りを持つ
+Example：I take pride in my work. / He takes pride in his craftsmanship.
+Nuance：❌ have pride about ~ より、take pride in ~ が自然なコロケーション。仕事・出自・成果を語る時に。
+
+### complement each other / go hand in hand
+新規：✓
+重要度：★★★★
+Meaning：
+　1. complement each other：互いを引き立て合う／補完し合う
+　2. go hand in hand：密接に関係している／切っても切れない
+Example：
+　1. Their personalities complement each other.
+　2. Confidence and humility should go hand in hand. / Success and hard work go hand in hand.
+Nuance：complement は「補完」、go hand in hand は「不可分な関係」。人・要素・概念の関係性を語る時に。
+
+### think something through / think it through
+新規：✓
+重要度：★★★★
+Meaning：物事を最後まで十分に検討する
+Example：I need some time to think it through. / I try to think things through and come to a conclusion.
+Nuance：既存 [[think (it) through]] の補強。consider carefully より「結論まで詰める」感じ。decision-making で頻出。
+
+### reflect on ~
+新規：✓
+重要度：★★★★
+Meaning：経験や出来事を振り返って、深く考える
+Example：I reflect on what went wrong. / Take some time to reflect on your career.
+Nuance：think about より「振り返って、そこから学ぶ」ニュアンス。年末振り返り・失敗分析・成長記録で頻出。
+
+### become completely absorbed in ~ / be immersed in ~
+新規：✓
+重要度：★★★★
+Meaning：~に完全に没頭する／浸る
+Example：When I'm interested in something, I become completely absorbed in it. / I was completely immersed in the book.
+Nuance：get caught up in / focus intensely on と類似。集中の度合いを表現する時に。仕事・趣味・学びの話で。
+
+### carry on doing / carry on with ~
+新規：✓
+重要度：★★★★
+Meaning：そのまま~し続ける／継続する
+Example：We carried on drinking after the game. / Carry on with your work. / Just carry on as usual.
+Nuance：continue doing より会話的（特にイギリス英語）。何かを中断せず続ける時のカジュアル表現。
+
+### maintain boundaries / set boundaries
+新規：✓
+重要度：★★★★
+Meaning：（人間関係で）適切な境界線・距離を保つ／境界を設定する
+Example：I try to be friendly, but I also maintain some boundaries. / It's important to set boundaries at work.
+Nuance：メンタルヘルス・人間関係・仕事論で近年頻出。overly familiar（なれなれしすぎる）／ people-pleaser（好かれようとしすぎる人）と対比される概念。
+
+### approachable
+新規：✓
+重要度：★★★★
+Meaning：話しかけやすい／取っつきやすい
+Example：She's very approachable. / I try to be approachable without being overly familiar.
+Nuance：性格・態度の褒め言葉。上司・先生・接客業の人物評で頻出。intimidating（威圧的）の対義。
+
+### lack + 名詞 / a lack of + 名詞
+新規：✓
+重要度：★★★★
+Meaning：~が足りない（動詞：lack ~ ／名詞：a lack of ~）
+Example：Sometimes I lack focus. / I get distracted easily. / There's a lack of communication in this team.
+Nuance：❌ lack of my focus（動詞なのに of を入れる誤り）／✅ lack focus。名詞にする時だけ a lack of ~。頻出コロケーションミス。
+
+### the word I was looking for / the word I had in mind
+新規：✓
+重要度：★★★★
+Meaning：探していた単語／頭に思い描いていた単語
+Example：That's the word I was looking for. / "Decisiveness" was the word I had in mind. / I couldn't think of the word.
+Nuance：会話で単語が出てこない時の頻出フレーズ。❌ the word come up（意味が違う）。come up は話題・問題が「出てくる」の意味。
+
 ---
 
 ## ★★★（知っておくと役立つ中堅）
@@ -4699,6 +5013,132 @@ Nuance：reason より「行動の裏にある動機」ニュアンス。フォ�
 Meaning：自己成長／キャリアの目的
 Example：Learning English is part of my personal development. / She's clear about her career purpose.
 Nuance：ビジネス・自己啓発の文脈で頻出。self-improvement / career goal と類似だが、こちらの方がフォーマル。
+
+### portion / portion size / serving
+新規：✓
+重要度：★★★
+Meaning：一人前の量／盛りの大きさ／一食分
+Example：The portion isn't as large as I thought it would be. / The portion size is huge. / one serving of rice
+Nuance：amount of food（総量）／ portion, portion size（一人前）／ serving（一食分）を使い分け。レストラン・料理の話で頻出。
+
+### cuisine vs dish vs food
+新規：✓
+重要度：★★★
+Meaning：
+　1. cuisine：ある国・地域・文化の「料理・料理様式」
+　2. dish：個別の一品・料理
+　3. food：食べ物・料理全般
+Example：Japanese cuisine is popular around the world. / This dish isn't as big as I expected. / There isn't as much food as I expected.
+Nuance：個別の料理を this cuisine と言うのは不自然。通常は this dish。国紹介や料理レビューで使い分け必須。
+
+### price + for/per + 数量
+新規：✓
+重要度：★★★
+Meaning：
+　1. for 数量：その分量の価格
+　2. per 数量：単価を明確にする
+Example：
+　1. It's 500 yen for 100 grams.
+　2. It's 500 yen per 100 grams.
+Nuance：買い物・レストラン・見積もりで頻出。for は塊、per は単価。$10 per hour / $50 per person もよく使う。
+
+### be + 数値 + 単位 + long
+新規：✓
+重要度：★★★
+Meaning：長さ・時間が~である
+Example：The movie is three hours long. / The bridge is three kilometers long. / a three-hour movie / a three-kilometer-long bridge
+Nuance：前から修飾する時は複合形容詞で単位を単数形に。場所同士の距離には long ではなく far / away：How far is it? / The station is three kilometers away.
+
+### resonate with ~
+新規：✓
+重要度：★★★
+Meaning：（発言・考え・作品などが）心に響く
+Example：What you said really resonates with me. / The message resonated with the audience.
+Nuance：relate to より「深く共鳴する」フォーマル寄り。プレゼン・スピーチ・書評で頻出。
+
+### empathize with / sympathize with / have sympathy for
+新規：✓
+重要度：★★★
+Meaning：
+　1. empathize with：（相手の立場に立って）気持ちを理解する
+　2. sympathize with：（相手のつらい状況を）理解して同情する
+　3. have sympathy for：~に同情の気持ちを持つ
+Example：
+　1. I empathize with people in that situation.
+　2. I sympathize with what she's going through.
+　3. I have a lot of sympathy for the victims.
+Nuance：empathy（内側から理解）／ sympathy（外側から気の毒に思う）の違い。日本人が混同しがち。
+
+### resourceful / observant / articulate / charismatic / genuine / straightforward
+新規：✓
+重要度：★★★
+Meaning：性格の褒め言葉6セット
+Example：
+- resourceful：She's resourceful in difficult situations.（工夫して問題解決）
+- observant：He's observant and notices small changes.（観察力が鋭い）
+- articulate：She's intelligent and articulate.（明確に言葉にできる）
+- charismatic：He's a charismatic leader.（人を引きつける）
+- genuine：Her concern for others is genuine.（誠実・偽りがない）
+- straightforward：I like her straightforward approach.（率直で分かりやすい）
+Nuance：面接・人物評・履歴書で使える強い褒め言葉。日本人があまり使わない語彙。
+
+### self-disciplined
+新規：✓
+重要度：★★★
+Meaning：自制心がある／自分を律することができる
+Example：He's self-disciplined enough to work out every morning.
+Nuance：ダイエット・勉強・仕事習慣の話で頻出。名詞は self-discipline。「継続力の源」として褒める時に。
+
+### reserved / spontaneous / particular / unconventional / blunt / intense
+新規：✓
+重要度：★★★
+Meaning：文脈で評価が変わる性格語6セット
+Example：
+- reserved：He's reserved around strangers.（控えめ）
+- spontaneous：She loves spontaneous trips.（計画せず動く）
+- particular：He's particular about how his coffee is made.（こだわり強い）
+- unconventional：She has an unconventional way of thinking.（型にはまらない）
+- blunt：He can be a little blunt sometimes.（率直すぎる）
+- intense：He gets intense when he talks about work.（熱量が強い）
+Nuance：文脈次第で褒めにも批判にもなる。性格説明・人物評で使い分け必須。
+
+### judgmental / controlling / bossy / short-tempered / gullible / nosy / two-faced / passive-aggressive / overbearing / absent-minded
+新規：✓
+重要度：★★★
+Meaning：ネガティブな性格語10セット
+Example：
+- judgmental：Try not to be so judgmental.（すぐ批判・決めつけ）
+- controlling：Her partner was overly controlling.（人を支配したがる）
+- bossy：He can be bossy in group projects.（命令したがる）
+- short-tempered：He's short-tempered and gets angry easily.（短気）
+- gullible：I was gullible enough to believe him.（だまされやすい）
+- nosy：My neighbor is friendly but nosy.（詮索好き）
+- two-faced：I don't trust him because he seems two-faced.（表裏がある）
+- passive-aggressive：Her message sounded passive-aggressive.（遠回しに敵意）
+- overbearing：His overbearing attitude makes people uncomfortable.（威圧的）
+- absent-minded：I can be absent-minded sometimes.（うっかり）
+Nuance：批判・愚痴・自己分析で頻出。gullible（他人を信じすぎる）／ naive（世間知らず）の違いに注意。
+
+### human nature
+新規：✓
+重要度：★★★
+Meaning：人間の本性／人間として自然な傾向
+Example：It's human nature to notice someone's appearance first. / Jealousy is part of human nature.
+Nuance：一般論を語る時の枕詞として頻出。哲学・心理学・雑談で。
+
+### have a tropical vibe / have a ~ vibe
+新規：✓
+重要度：★★★
+Meaning：~な雰囲気がある／~な感じがする
+Example：It has a tropical vibe. / This café has a cozy vibe. / He has a chill vibe.
+Nuance：vibe（雰囲気）は近年超頻出のスラング。sound / feel と類似だが、より漠然とした「空気感」。音楽・場所・人物評で使える。
+
+### catch a glimpse of / stumble upon
+新規：✓
+重要度：★★★
+Meaning：ちらっと見つける／偶然出くわす
+Example：I caught a glimpse of him in the crowd. / I stumbled upon this great café.
+Nuance：既存 [[come across]]（偶然出会う）と類似。stumble upon は「予想外に見つける」ニュアンス。旅・発見の話で。
 
 ---
 

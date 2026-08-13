@@ -6561,6 +6561,274 @@ Examples:
 
 ---
 
+### 【追加セッション（EDM・料理量の話）】
+
+#### portion / portion size
+「（料理の）一人前の量・盛りの大きさ」
+> The portion isn't as large as I thought it would be.
+
+使い分け：amount of food（総量）／ portion, portion size（一人前）／ serving（一食分）
+
+---
+
+#### cuisine / dish / food
+
+| 単語 | 主な意味・使い方 |
+|---|---|
+| cuisine | ある国・地域・文化の「料理・料理様式」 |
+| dish | 個別の一品・料理 |
+| food | 食べ物・料理全般 |
+
+> Japanese cuisine is popular around the world.
+> This dish isn't as big as I expected.
+> There isn't as much food as I expected.
+
+個別の料理を指して this cuisine は不自然。通常は this dish。
+
+---
+
+#### come across
+「偶然見つける・偶然出会う」
+> I came across Avicii while looking for new music.
+
+類義：discover（新しく発見）／ run into someone（人に偶然会う）／ stumble upon（予想外に見つける）
+
+---
+
+#### catch someone's attention
+「人の注意・興味を引く」
+> Avicii's music really caught my attention.
+
+類義：grab someone's attention（強く注意を引く）／ spark someone's interest / intrigue someone
+※音楽の話では intrigue より catch my attention が日常会話で使いやすい。
+
+---
+
+#### be drawn to ~
+「~に自然と惹かれる」
+> I was immediately drawn to his music.
+> I've always been drawn to tropical sounds.
+
+類義：be attracted to / be fascinated by / be captivated by
+※理由を明確に説明できない「自然と惹きつけられる」ニュアンス。
+
+---
+
+#### unpredictable
+「予測できない・先が読めない」
+> I love how unpredictable the song is.
+> I never know what's coming next.
+
+類義：unexpected（予想外の）／ unforeseeable（フォーマル）
+対義：predictable
+
+---
+
+### 【重要フレーズ・構文】
+
+#### not as much ~ as I thought / expected
+❌ This cuisine is not so much as I thought.
+✅ There isn't as much food as I expected.
+✅ The portion isn't as large as I thought it would be.
+✅ This dish isn't as big as I thought.
+
+ポイント：
+- much は不可算名詞の量に使う
+- 料理一品の量なら portion / big / large が自然
+- as I expected（期待していたほど）／ as I thought it would be（そうなると思っていたほど）
+
+**not so much as との違い**
+not so much as + 動詞 = 「~さえしない」
+> He didn't so much as apologize.（謝りさえしなかった）
+※「思ったほど多くない」に not so much as I thought を使うのは不自然。
+
+---
+
+#### 数量＋名詞＋left
+「~があと……残っている」
+> We have only two days left.
+> There are only a few items left.
+> How much time do we have left?
+> How many tickets are left?
+
+代表的な形：
+- 数量＋名詞＋left（three days left / a few items left / not much time left）
+- have＋数量＋名詞＋left（We have ten minutes left.）
+- There is/are＋名詞＋left（There's no food left.）
+
+left は動詞 leave の過去分詞に由来する「残された・残っている」の意味。
+
+---
+
+#### 価格＋for / per＋数量
+- It's 500 yen for 100 grams.（100グラムで500円）
+- It's 500 yen per 100 grams.（100グラムあたり500円）
+
+違い：for → その分量の価格／ per → 単価を明確にする
+
+---
+
+#### be＋数値＋単位＋long
+> The movie is three hours long.
+> The bridge is three kilometers long.
+
+前から修飾する場合：a three-hour movie / a three-kilometer-long bridge（単位は単数形）
+
+場所同士の距離には long ではなく far / away：
+> How far is it from here to the station?
+> The station is three kilometers away.
+
+---
+
+#### advise＋人＋to do
+「人に~するよう助言する」
+> My teacher advised me to practice every day.
+
+発音：advise /ədˈvaɪz/（動詞）／ advice /ədˈvaɪs/（名詞・不可算）
+
+類似構文：
+- recommend doing：I recommend practicing every day.
+- recommend that＋主語＋動詞：I recommend that you practice every day.
+※通常 recommend 人 to do とは言わない。
+
+---
+
+#### Looking back / Thinking back / In retrospect
+「思い返すと・振り返ってみると」
+> Looking back, I was too hard on myself.
+> Thinking back, I should have enjoyed that time more.
+> In retrospect, it was a valuable experience.
+
+- Looking back：過去全体を振り返る。会話で最も使いやすい
+- Thinking back：特定の記憶を思い返す
+- In retrospect：後から考えてみると。ややフォーマル
+- Come to think of it：そういえば／考えてみれば
+
+---
+
+#### in one's prime / at the height of one's popularity
+「全盛期で・人気絶頂で」
+❌ One Direction was on the prime.
+✅ One Direction was in their prime.
+✅ One Direction was at the height of their popularity.
+✅ One Direction was huge at the time.
+
+- in one's prime：能力・活動などの全盛期
+- at the height of one's popularity：人気が頂点
+- be huge：非常に人気がある（カジュアル）
+
+---
+
+#### get someone interested in ~
+「人が~に興味を持つきっかけになる」
+> Their songs got me interested in Western music.
+
+構文：get＋人＋形容詞／過去分詞
+
+---
+
+#### explore / discover new music
+> I started exploring more Western music.
+> I started discovering more EDM artists.
+
+- look for：必要なもの・特定のものを探す
+- explore：幅広く調べたり試したりする
+- discover：新しいものを見つける
+
+---
+
+#### from then on / since then / after that
+> From then on, I started discovering more EDM artists.
+> Since then, I've discovered many EDM artists.
+
+- from then on＋過去形：過去の時点から、その後の展開を語る
+- since then＋現在完了：その時から現在まで続く変化・経験
+- after that＋過去形：単純に「その後」
+
+---
+
+#### get into ~
+「~に興味を持つ・ハマり始める」
+> I first got into EDM around 2010.
+
+類義：be into ~（現在ハマっている状態）／ get hooked on / become obsessed with
+
+---
+
+#### be obsessed with / get obsessed with
+> I'm obsessed with that song.
+> I got really obsessed with "Beside Me."
+> I can't stop listening to that song.
+
+- be obsessed with：現在ハマっている状態
+- get obsessed with：ハマるという変化
+- can't stop ~ing：会話的
+
+---
+
+#### can't get ~ out of one's head / be stuck in one's head
+❌ The song can get out of my head.（反対の意味になる）
+✅ I can't get that song out of my head.
+✅ That song has been stuck in my head.
+
+---
+
+#### have a tropical vibe / sound / feel
+> It has a tropical vibe.
+> It has a tropical sound.
+> It's got a tropical-house feel.
+
+- vibe：全体的な雰囲気
+- sound：音楽的な特徴
+- feel：聞いたときに感じる印象
+
+---
+
+#### I've been meaning to tell you ~
+「前から~を伝えようと思っていた」
+> There's something I've been meaning to tell you.
+※単なる I want to tell you より「少し前からそのつもりだった」という継続性。
+
+---
+
+### 【Correction Log（追加分）】
+
+**時期を振り返る**
+❌ Maybe it's around 2010 when I listened and got into EDM for the first time.
+✅ I think it was around 2010 when I first listened to EDM and got into it.
+✅ I think I first got into EDM around 2010.
+
+**One Directionの全盛期**
+❌ At that time One Direction was on the prime.
+✅ One Direction was in their prime at the time.
+✅ One Direction was huge at the time.
+
+**洋楽に興味を持ったきっかけ**
+❌ I started looking for western music when I listened their songs.
+✅ Their songs got me interested in Western music.
+✅ Listening to their songs made me want to explore more Western music.
+※listen to their songs / Western は大文字 / 幅広く音楽なら look for より explore
+
+**Aviciiの音楽に惹かれた**
+文法的にはOKだが、会話ではより自然：
+✅ His music really caught my attention.
+✅ I was really drawn to his music.
+✅ His music really sparked my interest.
+
+**ほかのEDMを開拓した**
+❌ Since then I started discovering other EDM music.
+✅ From then on, I started discovering more EDM artists.
+✅ Since then, I've discovered many other EDM artists.
+※since then には現在完了が自然
+
+---
+
+### 【完成版（EDMの話）】
+
+> I think I first got into EDM around 2010. One Direction was huge at the time, and their songs got me interested in Western music. Then I came across Avicii, and his music really caught my attention. I was immediately drawn to his sound. After that, I started exploring more EDM artists.
+
+---
+
 ## 6/19
 
 ### 【Key Vocabulary】
@@ -6742,6 +7010,310 @@ Examples:
 **understatement**
 > Tokyo is kind of crowded. — That's an understatement.
 > To say I was nervous is an understatement.
+
+---
+
+### 【追加セッション（性格・共感の話）】
+
+#### 共感・同情
+
+| 表現 | 意味・ニュアンス | 例文 |
+|---|---|---|
+| relate to ~ | 自分にも似た経験があり、実感として共感する | I can relate to what you're going through. |
+| empathize with ~ | 相手の立場に立って気持ちを理解する。やや硬め | I empathize with people in that situation. |
+| resonate with ~ | 発言・考え・作品などが心に響く | What you said really resonates with me. |
+| sympathize with ~ | 相手のつらい状況を理解して同情する | I sympathize with what she's going through. |
+| have sympathy for ~ | ~に同情の気持ちを持つ | I have a lot of sympathy for the victims. |
+
+**empathy と sympathy**
+- empathy：相手の気持ちを内側から理解する「共感」
+- sympathy：相手のつらさを外側から気の毒に思う「同情」
+
+---
+
+#### 性格・長所を表す重要語
+
+| 単語 | 意味・ニュアンス | 例文 |
+|---|---|---|
+| considerate | 周囲への配慮がある | That was very considerate of you. |
+| thoughtful | 思いやりがあり、気が利く | She's always thoughtful toward others. |
+| compassionate | 苦しんでいる人への思いやりがある | She's compassionate toward people in need. |
+| empathetic | 相手の感情を理解・共有できる | A good leader should be empathetic. |
+| open-minded | 異なる考えを柔軟に受け入れる | Traveling made me more open-minded. |
+| down-to-earth | 気取らず、現実的で親しみやすい | Despite his success, he's down-to-earth. |
+| persistent | 諦めず粘り強い | He's persistent and doesn't give up easily. |
+| resilient | 困難から立ち直る力がある | She's remarkably resilient. |
+| decisive | 決断力がある | A leader needs to be decisive. |
+| self-disciplined | 自制心がある | He's self-disciplined enough to work out every morning. |
+| resourceful | 知識や手段を工夫して問題を解決できる | She's resourceful in difficult situations. |
+| observant | 観察力が鋭い | He's observant and notices small changes. |
+| articulate | 考えを明確に言葉にできる | She's intelligent and articulate. |
+| charismatic | 人を引きつける魅力がある | He's a charismatic leader. |
+| genuine | 誠実で、偽りがない | Her concern for others is genuine. |
+| straightforward | 率直で分かりやすい | I like her straightforward approach. |
+| integrity | 誠実さ、高潔さ、確固とした道徳観 | Integrity is essential for a good leader. |
+| humility | 謙虚さ | A good leader needs confidence and humility. |
+| decisiveness | 決断力 | Decisiveness is an important leadership quality. |
+
+**「思いやり」を表す単語の違い**
+- considerate：相手に迷惑をかけないよう配慮する
+- thoughtful：相手が喜ぶことや必要なことを考えて行動する
+- caring：人を大切にし、面倒を見る
+- compassionate：苦しんでいる人を気遣う
+- empathetic：相手の感情を理解できる
+
+---
+
+#### 文脈によって評価が変わる性格
+
+| 単語 | 意味・ニュアンス | 例文 |
+|---|---|---|
+| reserved | 控えめで、感情をあまり表に出さない | He's reserved around strangers. |
+| assertive | 相手を尊重しながら、適切に自己主張できる | You need to be more assertive at work. |
+| spontaneous | 計画せず、その場の気分で行動する | She loves spontaneous trips. |
+| particular | 好みや方法に強いこだわりがある | He's particular about how his coffee is made. |
+| unconventional | 型にはまらない、従来と異なる | She has an unconventional way of thinking. |
+| blunt | 遠慮なく率直に言う。率直すぎる場合もある | He can be a little blunt sometimes. |
+| intense | 感情や熱量が非常に強い | He gets intense when he talks about work. |
+
+**assertive と aggressive**
+- assertive：相手を尊重しつつ、自分の意見を明確に伝える
+- aggressive：攻撃的・強引に意見を押し通す
+
+---
+
+#### 弱点・ネガティブな特徴
+
+| 単語 | 意味・ニュアンス | 例文 |
+|---|---|---|
+| insecure | 自分に自信がなく、不安を感じやすい | He's insecure about his abilities. |
+| indecisive | 優柔不断な | I'm indecisive when there are too many options. |
+| judgmental | 人をすぐ批判したり決めつけたりする | Try not to be so judgmental. |
+| narrow-minded | 異なる考えを受け入れない | He can be narrow-minded about other cultures. |
+| controlling | 人を自分の思いどおりに動かそうとする | Her partner was overly controlling. |
+| bossy | 人にあれこれ命令したがる | He can be bossy in group projects. |
+| short-tempered | 短気な | He's short-tempered and gets angry easily. |
+| gullible | 人の話をすぐ信じ、だまされやすい | I was gullible enough to believe him. |
+| naive | 経験不足で世間知らずな、考えが甘い | I was quite naive when I started working. |
+| nosy | 他人のことを詮索したがる | My neighbor is friendly but nosy. |
+| two-faced | 表裏がある | I don't trust him because he seems two-faced. |
+| passive-aggressive | 遠回しに不満や敵意を示す | Her message sounded passive-aggressive. |
+| overbearing | 支配的で、態度や圧が強すぎる | His overbearing attitude makes people uncomfortable. |
+| absent-minded | うっかりしていて、忘れっぽい | I can be absent-minded sometimes. |
+
+**gullible と naive**
+- gullible：他人の話を簡単に信じてしまう
+- naive：経験不足のため、世の中を単純に考えている
+
+**bossy・controlling・overbearing**
+- bossy：人に細かく命令したがる
+- controlling：人の行動や判断を支配しようとする
+- overbearing：態度や圧が強く、相手を威圧する
+
+---
+
+### 【Correction Log（追加分）】
+
+**1. 日本代表の自然な呼び方**
+❌ I'm a big supporter of Japanese football team.
+✅ I'm a big fan of the Japanese national team.
+✅ I'm a huge supporter of Japan's national football team.
+✅ I support Japan.
+
+**2. public viewing**
+❌ I went out and like public viewing.
+✅ I went to a public viewing with a friend.
+✅ I went to a public screening. / I went to a watch party.
+※日本語の「パブリックビューイング」は英語では public screening / watch party の方が明確な場合も。
+
+**3. barbecue と一緒に使う動詞**
+❌ I did barbecue after the game.
+✅ I had a barbecue after the game.（自分たちでBBQ）
+✅ I went to a barbecue after the game.（集まりへ行く）
+
+**4. 自信が「元々あるわけではない」**
+❌ I'm not originally confident.
+✅ I'm not naturally confident, but I'm working on it.
+✅ I'm not a confident person by nature.
+✅ Confidence doesn't come naturally to me.
+※性格的に元々そうではない → originally ではなく naturally / by nature。
+
+**5. 形容詞と名詞の使い分け**
+❌ My traits are confident. / My biggest weakness is careless. / Confidence, kindness, and humble.
+✅ I'm confident, kind, and humble.
+✅ My strengths are confidence, kindness, and humility.
+✅ My biggest weakness is that I can be careless sometimes.
+
+| 形容詞 | 名詞 |
+|---|---|
+| confident | confidence |
+| kind | kindness |
+| humble | humility |
+| decisive | decisiveness |
+| persistent | persistence |
+| resilient | resilience |
+| careless | carelessness |
+| arrogant | arrogance |
+| compassionate | compassion |
+
+人そのものを説明するなら形容詞、長所や特徴を項目として挙げるなら名詞。
+
+**6. lack の語法**
+❌ Sometimes I lack of my focus.
+✅ Sometimes I lack focus.（動詞なので of 不要）
+✅ Sometimes I have trouble staying focused.
+✅ I get distracted easily sometimes.
+※a lack of focus（名詞）なら of が必要。
+
+**7. interested の形**
+❌ the thing I have interested in
+✅ something I'm interested in
+
+**8. 「集中しすぎる」**
+> I'm too focused on one thing.
+より自然：
+✅ I become completely absorbed in it.
+✅ I tend to focus on it intensely.
+✅ I can get so focused that I think about it all night.
+
+**9. 「結論を出す」のコロケーション**
+❌ have my conclusion / arrive to a conclusion
+✅ come to a conclusion / reach a conclusion / arrive at a conclusion
+> I try to reach a conclusion so that I can stop overthinking.
+※arrive の前置詞は to ではなく at。
+
+**10. 「外見が最初に来る」**
+❌ The good looks. It's first for me.
+✅ Looks come first for me.
+✅ Physical attraction comes first, and then personality becomes important.
+✅ Looks are usually the first thing I notice.
+
+**11. 分からない質問を聞き返す**
+❌ I don't understand a little bit about that question.
+✅ I don't quite understand the question.
+✅ I'm not entirely sure what the question means.
+✅ Could you explain what you mean by "attitude"?
+
+**12. 「常に幸せではいられない」**
+❌ 100% positive, 100% happy. It's not possible.
+✅ No one can be positive or happy all the time.
+✅ Life is about balancing the positive and the negative.
+✅ It's natural to experience both positive and negative emotions.
+
+**13. 「それが言いたかった」**
+❌ That is what I want to say, but the word come up.
+✅ That's what I wanted to say, but I couldn't think of the word.
+✅ That's the word I was looking for.
+✅ "Decisiveness" was the word I had in mind.
+※come up は話題・問題が「出てくる」の意味。自分が単語を思い出す場合には通常使わない。
+
+**14. 「絶対そう思う」**
+❌ It's definitely yes.
+✅ Yes, I definitely think so.
+✅ Definitely. One person can have a significant influence on a group.
+
+**15. 適切な人間関係の距離を保つ**
+❌ I'm not trying to be friendly too much.
+✅ I try to be friendly, but I also maintain some boundaries.
+✅ I don't try too hard to please everyone.
+✅ I try to be approachable without being overly familiar.
+
+- maintain boundaries：適切な境界線・距離を保つ
+- approachable：話しかけやすい
+- overly familiar：なれなれしすぎる
+- try too hard to please everyone：全員に好かれようとしすぎる
+
+---
+
+### 【Phrases to Master（性格・共感）】
+
+**become completely absorbed in ~**「~に完全に没頭する」
+> When I'm interested in something, I become completely absorbed in it.
+類義：be immersed in / get caught up in / focus intensely on
+
+**dwell on ~**「問題や過去の出来事について、長時間考え続ける・引きずる」
+> I tend to dwell on things all night.
+※think about より「考えすぎる」「気にし続ける」というネガティブなニュアンス。
+
+**think something through**「物事を最後まで十分に検討する」
+> I need some time to think it through.
+> I try to think things through and come to a conclusion.
+
+**reflect on ~**「経験や出来事を振り返って、深く考える」
+> I reflect on what went wrong.
+※think about より「振り返って、そこから学ぶ」ニュアンス。
+
+**carry on doing**「そのまま~し続ける」
+> We carried on drinking after the game.
+※continue doing より会話的（特にイギリス英語）。
+
+**complement each other**「互いを引き立て合う、補完し合う」
+> Their personalities complement each other.
+類義：go well together / go hand in hand
+
+**go hand in hand**「密接に関係している」「切っても切れない」
+> Confidence and humility should go hand in hand.
+
+**boss someone around**「あれこれ命令する」「偉そうに指図する」
+> I don't like being bossed around.
+関連：bossy / controlling / push someone around
+
+**take pride in ~**「~に誇りを持つ」
+> I take pride in my work.
+※have pride about ~ より自然なコロケーション。
+
+**come across as ~**「~という印象を与える」「~のように見える」
+> Confidence can sometimes come across as arrogance.
+※本人の意図ではなく、他人からどのように受け取られるか。
+
+**human nature**「人間の本性」「人間として自然な傾向」
+> It's human nature to notice someone's appearance first.
+
+**emotional intelligence**「感情知性」自分や他人の感情を理解し、適切に管理する能力
+> A good leader needs emotional intelligence.
+形容詞形：emotionally intelligent
+> She's emotionally intelligent and good at handling conflicts.
+
+**be decisive without becoming arrogant**「傲慢にならずに決断力を持つ」
+> A good leader should be decisive without becoming arrogant.
+※A without doing B で「BすることなくAする」。
+
+---
+
+### 【性格を説明する実用構文】
+
+**自分の性格を控えめに説明する**
+> I'd say I'm fairly open-minded, curious, and independent.
+※I'd say ... で断定を和らげる。
+
+**長所を説明する**
+> One of my strengths is that I'm reliable and persistent.
+
+**弱点を柔らかく伝える**
+> I can be a little impatient at times.
+断定を和らげる表現：can be / a little / sometimes / at times / tend to
+
+**性格の二面性を表す**
+> I'm usually easygoing, but I can be quite particular about work.
+
+**周囲からの評価を伝える**
+> People often describe me as calm and approachable.
+
+**「元々そういう性格ではない」**
+> Confidence doesn't come naturally to me.
+
+**興味のあることには没頭する**
+> When I'm interested in something, I become completely absorbed in it and sometimes overthink it all night.
+
+---
+
+### 【完成版：自分の性格・弱点】
+
+> I'd say I'm hardworking, kind to others, and fairly confident. However, confidence doesn't always come naturally to me, so I'm still working on it. My biggest weakness is that I can be careless and get distracted easily. It depends on the situation, though. When I'm interested in something, I become completely absorbed in it and sometimes overthink it all night. To deal with that, I try to think things through and come to a clear conclusion.
+
+### 【完成版：理想的なリーダー】
+
+> I think a good leader needs confidence, kindness, humility, and integrity. They should genuinely care about others and be decisive without becoming arrogant. Emotional intelligence is also essential because leaders need to understand how their decisions affect the people around them.
 
 ---
 
@@ -7168,6 +7740,187 @@ Money grows. / Savings grow. / Investment grows.
 8. What time do you get off work?（何時に仕事終わる？）
 9. It sticks out.（目立つ）
 10. I had to shell out for ～.（〜に痛い出費をした）
+
+---
+
+### 【追加セッション（フリーランス転向の話）】
+
+#### have a lot going on
+「いろいろ抱えている／忙しい状況にある」
+> I've had a lot going on lately, but overall, things have been good.
+※I have a lot of things より自然で、仕事・私生活の両方に使える。
+
+---
+
+#### go freelance
+「フリーランスになる」
+> I'm getting ready to leave my job and go freelance.
+
+関連：work as a freelancer / work independently / start my own business
+
+---
+
+#### land / secure a project
+「案件を獲得する」
+> I need to find new clients and land some projects.
+> I'm trying to secure enough projects to support myself.
+
+- land a project：努力して案件を勝ち取る。会話的
+- secure a project：案件を確保する。ややビジネス的
+
+関連：land a client（顧客を獲得）／ secure a contract（契約を獲得・確保）
+
+---
+
+#### build a client base
+「顧客基盤を築く」
+> My first priority is to build a solid client base.
+※単に顧客を一人見つけるのではなく、継続的に仕事を得られる顧客層を作るニュアンス。
+
+---
+
+#### reach out to former clients
+「以前の顧客に連絡を取る」
+> I've been reaching out to former clients to see if they have any work available.
+
+類義：contact（中立的）／ get in touch with / reach out to（目的があって、こちらから働きかける）
+
+---
+
+#### get project referrals
+「案件を紹介してもらう」
+> I also get project referrals from freelance agencies.
+
+関連：get client referrals（顧客を紹介してもらう）／ be referred to a potential client（見込み顧客に紹介される）
+
+---
+
+#### match someone with projects
+「人と案件をマッチングする」
+> Some agencies help match me with suitable projects.
+> I use services that match freelancers with clients.
+※案件紹介については、introduce projects to me よりも match me with projects が自然。
+
+---
+
+#### offer marketing services
+「マーケティングサービスを提供する」
+> I'm planning to offer marketing services as a freelancer.
+> I'll continue doing the same kind of marketing work, but independently.
+※do some marketing things より、仕事内容が明確でプロフェッショナルに聞こえる。
+
+---
+
+#### support oneself
+「自分の収入で生活する／自活する」
+> I need to find enough work to support myself.
+> It may take time before I can fully support myself as a freelancer.
+
+---
+
+#### work from anywhere / work remotely
+「どこからでも働く」
+> I'll be able to work remotely from anywhere in the world.
+> My work can be done entirely online.
+> I want to travel the world while working remotely.
+
+---
+
+#### be on one's bucket list
+「死ぬまでにしたいこと・行きたい場所のリスト」
+> Albania is definitely on my bucket list.
+> Georgia has been on my bucket list for a while.
+より日常的に：Georgia is definitely on my list.
+
+---
+
+#### From what someone told me, ...
+「人から聞いた話によると／話を聞く限り」
+> From what he told me, Georgia sounded like an amazing place.
+> From what I've heard, it's relatively affordable.
+
+関連：From what I've heard, ... / Based on what he told me, ...
+
+---
+
+#### sound と look
+情報をどのように得たかで使い分け：
+- 話を聞いた：It sounded amazing.
+- 写真や景色を見た：It looked amazing.
+> The photos looked beautiful, and his stories made me want to visit.
+
+---
+
+#### scenery / landscape
+旅行先の「自然・景色」を表す自然な表現：
+> The scenery was breathtaking.
+> The natural landscape was incredible.
+> He said the country had beautiful scenery and a fascinating history.
+※The nature was good より具体的で自然。
+
+---
+
+#### highlight
+「最も印象的だったこと／一番の見どころ」
+> What was the highlight of your trip to Montenegro?
+> What did you like most about Montenegro?
+※What was the best part? より、旅行について洗練された聞き方。
+
+---
+
+### 【Correction Log（追加分）】
+
+**退職してフリーランスになる**
+❌ I'm preparing for creating my job and starting my new business.
+✅ I'm getting ready to leave my job and go freelance.
+「起業」まで明確に：I'm preparing to quit my job and start my own business.
+
+**顧客と案件を獲得する**
+❌ I have to connect new clients and get some project to make money.
+✅ I need to connect with potential clients and secure some projects.
+長期的なニュアンス：I need to build a client base and find enough work to support myself.
+
+**以前の顧客に仕事がないか尋ねる**
+❌ send message to my old client
+✅ I've been reaching out to former clients to see if they have any work available.
+※former clients（以前の顧客）／ reach out（目的をもって連絡）
+
+**エージェントから案件を紹介してもらう**
+❌ I was introduced by some agents.（「私自身が誰かに紹介された」の意味しか伝わらない）
+✅ I get project referrals from freelance agencies.
+✅ Some agencies help match me with projects.
+
+**案件紹介サービスに登録する**
+❌ I have to subscribe the kind of service to introduce some projects.
+✅ I'm signing up with agencies that match freelancers with projects.
+✅ I'm registering with freelance agencies that can help me find work.
+
+**フリーランスとしてマーケティングを続ける**
+❌ I would do some marketing things.
+✅ I'm planning to offer marketing services as a freelancer.
+✅ I'll continue doing the same kind of marketing work, but independently.
+
+**仕事を辞めて世界を旅する**
+❌ I want to explore travel around the world.
+✅ I want to travel the world while working remotely.
+✅ I want to explore the world while working as a freelancer.
+※explore と travel around を同時に重ねる必要はない。
+
+**ジョージアの魅力を人から聞いた**
+❌ I heard the story of Georgia from him. It looked very good and exciting.
+✅ He told me about his trip to Georgia, and it sounded really exciting.
+✅ From what he told me, Georgia sounded like an amazing place.
+※話を聞いた場合は looked ではなく sounded。
+
+**自然・歴史・人柄を評価する**
+❌ The nature was so good. The nature, the history, people are so kind.
+✅ He said the scenery was beautiful, the history was fascinating, and the people were very kind.
+
+---
+
+### 【完成版：フリーランス転向の話】
+
+> I've had a lot going on lately because I'm getting ready to leave my job and go freelance. I need to build a client base and secure enough projects to support myself, so I've been reaching out to former clients and signing up with agencies that match freelancers with projects. I'm planning to continue offering marketing services, but I'll be able to work remotely from anywhere in the world. Ultimately, I want to travel the world while working independently.
 
 ---
 
