@@ -111,14 +111,13 @@ Meaning：To contact someone, especially to ask for help, give support, or start
 Example：When Naruto noticed that Sasuke was struggling alone, he decided to reach out and offer his help, no matter how many times he was pushed away.
 
 ### come in handy
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：To be useful, especially in an unexpected situation.（役に立つ／重宝する）
 Example：Kakashi told Naruto to always carry a few extra kunai—"You never know when they'll come in handy on a mission."
 Nuance：非常に使用頻度の高い日常表現。ツール・スキル・知識など何にでも使える。
 
 ### speak up
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. To speak more loudly so others can hear.（大きな声で話す）
@@ -128,14 +127,14 @@ Example：
 　2. When the council started making unfair decisions about the orphans, Iruka was the first to speak up.
 
 ### stubborn
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：Refusing to change one's mind or way of doing things, even when it's difficult.（頑固な／意地っ張り）
 Example：Naruto was stubborn about not giving up on Sasuke, no matter how many times everyone told him it was hopeless.
 Nuance：ポジティブ（芯がある）にもネガティブ（頭が固い）にも使える万能形容詞。日常頻出。
 
 ### decent
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. Good enough; acceptable (not amazing, but okay).（まあまあ／悪くない）
@@ -148,14 +147,12 @@ Example：
 Nuance：日常会話で超頻出。"That's decent."（悪くないね）／"a decent guy"（悪い人じゃない）／"decent price" など。
 
 ### AC
-新規：✓
 重要度：★★★★★
 Meaning：Air conditioner / air conditioning.（エアコン／冷房）
 Example："Crank up the AC, it's boiling in here," Naruto groaned, collapsing on the couch after the summer training.
 Nuance：日常会話では "air conditioner" よりほぼ "AC" と略す。"turn on the AC"／"the AC's broken" など。
 
 ### hunch
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. A feeling that something is true, without clear proof.（勘／予感）
@@ -192,7 +189,7 @@ Meaning：To be remembered or thought of.（思い浮かぶ）
 Example：When danger comes, Kakashi immediately comes to mind as a leader.
 
 ### get around to
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：To finally do something delayed.（ようやく～する）
 Example：Naruto finally got around to learning advanced chakra control.
@@ -246,7 +243,7 @@ Example：
 　3. Sasuke ground his teeth as he watched Itachi disappear into the night.
 
 ### crack
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. A line or fracture on a surface where something is breaking.（ひび／割れ目）
@@ -296,7 +293,7 @@ Meaning：To force someone to leave a place.（追い出す）
 Example：When Naruto kept painting graffiti on the Hokage Monument, the villagers wanted to kick him out of the marketplace for causing trouble.
 
 ### right off the bat
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：Immediately; from the very beginning.（いきなり／最初から）
 Example：Right off the bat, Naruto activated his Shadow Clone Jutsu to overwhelm the enemy before they could react.
@@ -381,7 +378,7 @@ Nuance／Usage：Very informal and offensive in polite settings.
 Example：Naruto says, “I really fucked up the Shadow Clone jutsu this time—half of them disappeared before hitting the target!”
 
 ### take in
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. To absorb or understand information.（理解する／取り入れる）
@@ -421,19 +418,19 @@ Example：
 　2. Tsunade decided to overlook Naruto’s prank this time because his Rasengan training had improved so much.
 
 ### back in the day
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：In the past, especially a time the speaker remembers fondly.（昔は／あの頃は）
 Example：Back in the day, Kakashi used to train with his old Team Minato—he often tells Naruto stories about his rivalry with Obito.
 
 ### know-it-all
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：A person who acts like they know everything, often annoyingly.（知ったかぶり／何でも知っているふりをする人）
 Example：Naruto rolled his eyes and muttered, “Sasuke acts like such a know-it-all whenever Kakashi explains a new jutsu.”
 
 ### hop on
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. To get onto something (a vehicle, a ride).（乗り込む）
@@ -463,7 +460,7 @@ Example：
 　2. Rock Lee flexed his arms to show the result of his daily taijutsu training.
 
 ### deliberate
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. (Adjective) Done on purpose; intentional.（意図的な）
@@ -473,7 +470,7 @@ Example：
 　2. Tsunade deliberated for hours before sending Team 7 on the dangerous S-rank mission.
 
 ### petty
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：Caring too much about small, unimportant things; small-minded or mean over minor issues.（ささいなことにこだわる／器が小さい）
 Example：Sasuke called Naruto petty for getting upset about who finished their ramen faster, but Naruto refused to let it go.
@@ -485,14 +482,13 @@ Meaning：To make someone want to do something, often something they shouldn’t
 Example：Orochimaru tried to tempt Sasuke with the promise of greater power, knowing how badly he wanted revenge against Itachi.
 
 ### snap at
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：To speak to someone angrily or impatiently, often unexpectedly.（きつく当たる／怒鳴りつける）
 Example：Sakura was exhausted from healing wounded ninja all night, and she snapped at Naruto when he barged into the medical tent asking for ramen.
 Nuance：一時的な苛立ちで口調が鋭くなる感じ。長期的な怒りより、疲れ・ストレスで思わずキツく返してしまうニュアンス。
 
 ### sound（形容詞として）
-新規：✓
 重要度：★★★★
 Meaning：
 　1. Sensible, reliable, well-reasoned.（しっかりした／理にかなった）
@@ -505,7 +501,7 @@ Example：
 Nuance："sound advice"（的確な助言）／"sound decision"（賢明な判断）／"sound sleep"（熟睡）／"safe and sound"（無事に）など、名詞の「音」以外でも高頻度。
 
 ### devour
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. To eat something quickly and hungrily.（がつがつ食べる）
@@ -516,7 +512,7 @@ Example：
 Nuance：ただ食べる／読むより「猛烈な勢いで」というトーン。カジュアルにも使える。
 
 ### foul
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. Very unpleasant, especially in smell, taste, or appearance.（ひどく不快な／酷い）
@@ -529,77 +525,75 @@ Example：
 Nuance："foul smell"／"foul mood"／"foul play"（不正行為・反則行為）など複数の頻出コロケーションを持つ。
 
 ### skeptical
-新規：✓
 重要度：★★★★
 Meaning：Doubting or not easily believing something.（懐疑的な／信じていない）
 Example：Tsunade was skeptical of Jiraiya's claim that he'd found solid intel on the Akatsuki—his info was usually half from bar gossip.
 Nuance：発音は「スケプティカル」。"be skeptical of ~" の形が定番。信じるまでには証拠が要る、というトーン。
 
 ### solely
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Only; entirely; for no other reason or person.（唯一／もっぱら／〜だけで）
 Example：Naruto trained under Jiraiya solely to master the Rasengan before the next Akatsuki attack.
 Nuance："only" のフォーマル版。文章寄りだが会話でも普通に使う。※原メモの "solery" は "solely" のスペルミス。
 
 ### exclusively
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Only; not shared with anyone or anything else.（〜だけ／もっぱら／専属で）
 Example：The scroll's secret jutsu was passed down exclusively within the Uchiha clan for generations.
 Nuance："exclusively for ~"（〜専用）／"date exclusively"（一人と付き合う）など日常で頻出。solely より使用範囲が広い。
 
 ### hideous
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Extremely ugly or unpleasant to look at/experience.（ものすごく醜い／おぞましい）
 Example：When Orochimaru revealed his true form, the sight was so hideous that even Kabuto had to look away.
 Nuance："ugly" の強調版。見た目だけでなく状況・光景・服装にも使える。"That's hideous!"（うわ、酷い！）は日常会話で頻出。
 
 ### designated
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Officially chosen or assigned for a specific purpose.（指定された／指名された）
 Example：Kakashi was the designated leader for the escort mission, so all decisions in the field went through him.
 Nuance："designated driver"（飲まない運転手）／"designated area"（指定エリア）／"designated smoking" など生活場面で頻出。
 
 ### lousy
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Very bad; of poor quality.（ひどい／最低の）
 Example：Naruto had a lousy day—he burned his ramen, tripped in front of Sakura, and got stuck cleaning up after training.
 Nuance：カジュアル。"lousy day"／"lousy weather"／"lousy food" などの決まり文句が多い。"terrible" より口語的で軽い。
 
 ### nauseous
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Feeling like you're about to vomit; sick to the stomach.（吐き気がする／気持ち悪い）
 Example：After spinning through Kamui three times in a row, Kakashi felt nauseous and had to sit down for a while.
 Nuance：発音は「ノーシャス」。乗り物酔い・食あたり・強い匂いなど日常で頻出。"I feel nauseous."
 
 ### compensation
-新規：✓
 重要度：★★★★
 Meaning：Money or something given to make up for a loss, damage, or effort.（補償／報酬／代償）
 Example：The village offered generous compensation to the families of the ninja who died in the last war.
 Nuance：仕事の給与・保険金・事故の賠償など幅広く使える。日常会話でもよく出る。動詞は "compensate for ~"。
 
 ### absurd
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Extremely silly, unreasonable, or ridiculous.（バカげた／不条理な）
 Example：The idea that Naruto could become Hokage sounded absurd to everyone in the village—until he actually started proving them wrong.
 Nuance："That's absurd!"（そんなバカな！）が定番リアクション。ridiculous と近いが、より「論理的におかしい」というニュアンス。
 
 ### whine
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：To complain in an annoying, high-pitched, childish way.（メソメソ文句を言う／泣き言を言う）
 Example："Stop whining and start training," Sasuke snapped when Naruto complained about how hard the exercise was.
 Nuance：子供っぽくグダグダ文句を言うニュアンスで少しネガティブ。動詞・名詞両方で使う。
 
 ### don't put words in my mouth
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：Don't claim that I said something when I actually didn't.（勝手に人の言葉を作らないで／曲解しないで）
 Example："I never said Sasuke was weak—don't put words in my mouth!" Naruto snapped when Sakura misquoted him to Kakashi.
@@ -1359,28 +1353,28 @@ Meaning：To get something back or bring it back to where it belongs.（取り�
 Example：Team 7 was sent on a mission to retrieve the stolen scroll before the enemy ninja could decode its secrets.
 
 ### snuggle up
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：To move close to someone or something for warmth, comfort, or affection.（寄り添う／くっつく）
 Example：After the mission in the freezing Land of Snow, Naruto and Sasuke reluctantly snuggled up to share body heat inside the small tent.
 Nuance：カジュアル。カップル・親子・ペットなど親密な相手にくっつくニュアンス。
 
 ### talk smack
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：To insult, tease, or trash-talk someone (often playfully or aggressively).（悪口を言う／煽る）
 Example：Before their fight, Sasuke started talking smack about Naruto's chakra control, hoping to get under his skin.
 Nuance：スラング。スポーツ・格闘・ゲームなどで相手を挑発する時に使う。"talk trash" とほぼ同義。
 
 ### apprehensive
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：Feeling worried or nervous about something that might happen.（不安な／気がかりな）
 Example：Naruto felt apprehensive walking into the Chunin Exams, unsure if his skills were enough to face the elite ninja from other villages.
 Nuance：漠然とした不安。scared より軽く、nervous より少し重い感じ。試験・面接・未知の状況で使う。
 
 ### grunt
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. (verb) To make a short, low sound, usually to show pain, effort, or annoyance.（うなる／うめく）
@@ -1391,7 +1385,7 @@ Example：
 Nuance：不機嫌・痛み・重い物を持つ努力を表す時によく使う。
 
 ### idle
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. Not working or being used; doing nothing.（アイドル状態の／稼働していない）
@@ -1402,7 +1396,7 @@ Example：
 Nuance：機械・エンジンの「アイドリング」と同じ語源。人にも使えるが「怠けている」というより「稼働していない・手持ち無沙汰」のニュアンス。
 
 ### dispose
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. To get rid of something (usually followed by "of").（処分する／捨てる）
@@ -1413,14 +1407,14 @@ Example：
 Nuance："dispose of X" の形が圧倒的に多い。単独で "dispose X" とはあまり言わない。
 
 ### improvised
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：Made or done without preparation, using whatever is available at the moment.（即興の／その場でこしらえた）
 Example：When their supplies ran out mid-mission, Sakura improvised a bandage from her torn cloak to stop Naruto's bleeding.
 Nuance：計画通りではなく、その場で臨機応変に作る／やる感じ。音楽・料理・戦闘など幅広く使える。動詞は "improvise"。
 
 ### facade
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. The front of a building.（建物の正面／ファサード）
@@ -1431,7 +1425,7 @@ Example：
 Nuance：発音は「ファサード」（c は s の音）。日常会話では比喩の「うわべ」の意味で使うほうが多い。
 
 ### retreat
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. (verb) To move back or withdraw, especially from a fight or difficult situation.（撤退する／引き下がる）
@@ -1442,7 +1436,7 @@ Example：
 Nuance：戦闘的な「撤退」と、リラックスするための「隠れ家／リトリート」の両方で頻出。
 
 ### grace
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. Elegance or smoothness of movement.（優雅さ／気品）
@@ -1455,7 +1449,7 @@ Example：
 Nuance："with grace"（優雅に／堂々と）が頻出。人柄・所作・振る舞いを褒める時に使える便利語。
 
 ### defy
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. To openly refuse to obey rules, authority, or expectations.（反抗する／逆らう）
@@ -1466,21 +1460,21 @@ Example：
 Nuance："defy gravity"（重力に逆らう）／"defy expectations"（予想を裏切る）／"defy description"（言葉にできないほど）など決まり文句が多い。
 
 ### agonize
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：To worry or think painfully about something for a long time.（思い悩む／苦悩する）
 Example：Naruto agonized for days over whether to bring Sasuke back by force or try to reason with him one more time.
 Nuance："agonize over ~" の形が定番。決断・過去の失敗・後悔などに使う。physical pain より mental pain の方に寄る。
 
 ### humiliation
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：A strong feeling of shame or embarrassment, especially when caused by others.（屈辱／恥ずかしい思い）
 Example：Losing to Rock Lee in front of the entire village was a humiliation Neji would never forget.
 Nuance：単なる恥ずかしさ（embarrassment）より重い。プライドを傷つけられた・恥をかかされたニュアンス。動詞は "humiliate"。
 
 ### riff on
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. To improvise or elaborate on a topic, idea, or piece of music.（〜を膨らませて話す／演奏する）
@@ -1491,14 +1485,14 @@ Example：
 Nuance：元は音楽用語（ジャズのリフから）。会話でも「元ネタを膨らませて話す／イジる」の意味で頻出。
 
 ### be infused
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：To be filled or soaked with a quality, feeling, or substance.（〜が染み込んでいる／注入されている）
 Example：Naruto's Rasengan was infused with wind chakra, making it sharper and more devastating than ever.
 Nuance："be infused with ~" の形。液体・香り・感情・スタイルなど何にでも比喩的に使える。料理（infused oil）でも頻出。
 
 ### render
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. To cause someone or something to be in a particular state.（〜の状態にする）
@@ -1511,7 +1505,6 @@ Example：
 Nuance："render ~ + adjective"（〜を〜の状態にする）が特に頻出。フォーマル寄りだがニュース・技術系で頻繁に見る。
 
 ### volatile
-新規：✓
 重要度：★★★
 Meaning：
 　1. Likely to change suddenly and unpredictably (mood, market, situation).（変わりやすい／不安定な）
@@ -1522,49 +1515,49 @@ Example：
 Nuance：発音は「ヴァラタル」。市場・感情・政治情勢など「予測できない不安定さ」を表す時によく使う。
 
 ### loo
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：(British, casual) Toilet / bathroom.（トイレ）
 Example："Where's the loo?" Naruto asked at the tea house, hopping from foot to foot after drinking too much tea.
 Nuance：イギリス英語のカジュアル語。アメリカでは "bathroom" / "restroom" が普通だが、映画・ドラマで頻出するので聞き取れる必要あり。
 
 ### curfew
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：A rule that people must be indoors by a certain time.（門限／夜間外出禁止令）
 Example：After the enemy attack, the Third Hokage set a strict curfew—no one was allowed outside after sunset.
 Nuance：発音は「カーフュー」。親子の会話・治安ニュース・寮の規則などで使う。
 
 ### baffling
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：Very confusing; impossible to understand.（訳が分からない／困惑させる）
 Example：Kakashi's teaching methods were baffling to Naruto—one day he'd explain everything in detail, the next he'd just say "figure it out yourself."
 Nuance：単に "confusing" より「頭抱えるほど分からない」ニュアンス。ミステリー・パズル・不可解な行動に使う。動詞は "baffle"。
 
 ### fish out
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：To pull or take something out of a container, pocket, bag, etc.（〜を取り出す／引っ張り出す）
 Example：Naruto fished out a crumpled ramen coupon from the bottom of his pouch and handed it to Iruka.
 Nuance：カジュアル。バッグ・ポケット・水中など「奥から探して取り出す」ニュアンス。
 
 ### exempt
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：Free from an obligation or rule that applies to others.（免除された／対象外の）
 Example：Because of his injury from the last mission, Kakashi was exempt from the mandatory training exercises that week.
 Nuance："be exempt from ~" の形。税・ルール・義務など「〜しなくてよい」場面全般で使う。
 
 ### jeopardize
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：To put something valuable at risk of being lost, harmed, or damaged.（〜を危険にさらす）
 Example："Don't jeopardize the mission just to prove a point," Kakashi warned Naruto before he charged in alone.
 Nuance：発音は「ジェパダイズ」。仕事・関係・安全・チャンスなど「大事なものを危うくする」場面で使う。
 
 ### shabby
-新規：✓
+ミス：×
 重要度：★★★
 Meaning：
 　1. Worn out, old, or in poor condition (of clothes, buildings, things).（みすぼらしい／ボロボロの）
@@ -1822,7 +1815,7 @@ Meaning：Very much; greatly (used for emotional or strong feelings).（ひど�
 Example：After Jiraiya’s death, Naruto sorely missed his master and often visited his old training ground alone.
 
 ### interim
-新規：✓
+ミス：×
 重要度：★★
 Meaning：
 　1. (adj) Temporary; used for a short time until something permanent is decided.（暫定の／仮の）
@@ -1833,42 +1826,42 @@ Example：
 Nuance：ややフォーマル寄り。ビジネス・政治・組織運営の文脈でよく出る。
 
 ### aliases
-新規：✓
+ミス：×
 重要度：★★
 Meaning：Fake names or alternative names a person uses to hide their real identity.（偽名／別名／通称）
 Example：During his infiltration mission, Kakashi used several aliases so no one in the enemy village could trace him back to the Leaf.
 Nuance：発音は「エイリアシズ」。犯罪者・スパイ・作家（ペンネーム）など、正体を隠すニュアンス。単数は "alias"。
 
 ### take the liberty
-新規：✓
+ミス：×
 重要度：★★
 Meaning：To do something without asking permission first, assuming it's okay.（勝手ながら〜させていただく／〜させてもらった）
 Example："I took the liberty of ordering ramen for everyone," Naruto said as the squad walked into Ichiraku after the mission.
 Nuance：やや丁寧・遠慮した言い方。ビジネスメールでも使うが日常会話では「勝手にやっちゃったけど良かったよね？」的なニュアンス。
 
 ### debacle
-新規：✓
+ミス：×
 重要度：★★
 Meaning：A complete failure or disaster, often embarrassing.（大失敗／惨事）
 Example：The joint mission with the Sand Village turned into a total debacle after the intel turned out to be false.
 Nuance：発音は「ディバコー」または「デバクル」。単なる失敗より「派手にコケた」ニュアンス。ニュース・スポーツ・仕事の失敗談で使う。
 
 ### spineless
-新規：✓
+ミス：×
 重要度：★★
 Meaning：Lacking courage; cowardly.（腰抜けの／臆病な）
 Example："You're just too spineless to admit you were scared!" Naruto shouted at the runaway ninja who abandoned his teammates.
 Nuance：かなり侮蔑的。「背骨がない＝芯がない＝勇気がない」の比喩。相手を強く責める場面でのみ使う。
 
 ### cower
-新規：✓
+ミス：×
 重要度：★★
 Meaning：To crouch down or shrink back in fear.（怯えて縮こまる）
 Example：The young genin cowered behind a tree as the massive tailed beast roared just meters away.
 Nuance：恐怖で身体が縮む・隠れる動作。動物的な怯えのイメージ。ドラマ・小説寄りだが会話でも聞く。
 
 ### banish
-新規：✓
+ミス：×
 重要度：★★
 Meaning：
 　1. To officially force someone to leave a place, often as punishment.（追放する）
@@ -1879,7 +1872,7 @@ Example：
 Nuance：物理的な「追放」も感情的な「払拭」も表せる。ややドラマチック・文学寄り。
 
 ### toothless
-新規：✓
+ミス：×
 重要度：★★
 Meaning：
 　1. Having no teeth.（歯がない）
@@ -1890,7 +1883,7 @@ Example：
 Nuance：比喩の「骨抜き・実効性がない」が政治・ルール・組織の文脈でよく出る。
 
 ### brute
-新規：✓
+ミス：×
 重要度：★★
 Meaning：
 　1. (noun) A rough, cruel person who uses violence.（野蛮な人／乱暴者）
@@ -1901,21 +1894,21 @@ Example：
 Nuance："brute force"（力任せ）が定番コロケーション。プログラミング用語「ブルートフォース攻撃」でも同じ。
 
 ### lumpy
-新規：✓
+ミス：×
 重要度：★★
 Meaning：Full of small solid pieces; not smooth.（デコボコした／ダマのある）
 Example：Sakura's first attempt at cooking rice porridge for the wounded ninja came out lumpy and cold—Naruto ate it anyway.
 Nuance：料理（ソース・粥のダマ）／布団・枕（デコボコ）／地面などで使う。物理的な感触の表現。
 
 ### blithely
-新規：✓
+ミス：×
 重要度：★★
 Meaning：In a cheerful, carefree way—often ignoring problems or danger.（何食わぬ顔で／能天気に）
 Example：Naruto blithely walked into the enemy camp, waving as if he were just visiting friends.
 Nuance："blissfully" と似るが、「危険や重大さを気にしない」というトーンが強い。やや文学寄りだが会話でも聞く。形容詞は "blithe"。
 
 ### beacon
-新規：✓
+ミス：×
 重要度：★★
 Meaning：
 　1. A light or signal used to warn or guide people.（灯台／信号灯）
@@ -1926,7 +1919,7 @@ Example：
 Nuance：比喩の「希望の光」の意味で使うことが多い。"beacon of hope"／"beacon of light" が定番。
 
 ### whoopee
-新規：✓
+ミス：×
 重要度：★★
 Meaning：An exclamation of joy or excitement (often used sarcastically).（わーい！／やったー！※皮肉でも使う）
 Example："Whoopee, another D-rank mission chasing lost cats," Sasuke muttered as Kakashi handed out the assignment scroll.
@@ -1984,7 +1977,7 @@ Meaning：To pull or take out weapons quickly and aim them at one another (in a 
 Example：Naruto and Sasuke drew at each other at the Valley of the End, kunai gleaming in the moonlight before the final clash.
 
 ### legislative
-新規：✓
+ミス：×
 重要度：★
 Meaning：Related to making laws.（立法の／議会の）
 Example：The Feudal Lord announced new legislative changes that would affect how missions were assigned across all Hidden Villages.
