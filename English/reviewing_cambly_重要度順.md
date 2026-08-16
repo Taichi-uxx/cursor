@@ -100,7 +100,7 @@ Meaning：価値がある／〜する価値がある
 Example：It was a long flight, but the trip was worth it. / Egypt is worth visiting.
 
 ### come to think of it / now that I think about it
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：思い返すと／よく考えると
 Example：Come to think of it, I haven't seen him in a year.
@@ -162,13 +162,13 @@ Meaning：ほぼゼロ／ほとんどない
 Example：It costs next to nothing.
 
 ### It happens / These things happen
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：そういうこともあるよ／気にしないで
 Example：— I messed up the order. — Don't worry, it happens.
 
 ### This will pass / Things pass
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：これも過ぎ去る／いつかは終わる
 Example：Just remember, this will pass.
@@ -245,7 +245,7 @@ Example：That movie blew my mind.
 Nuance：surprised < amazed < blew my mind の最強レベル。
 
 ### crack someone up
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：爆笑させる／笑わせる
 Example：He cracks me up every time.
@@ -304,7 +304,7 @@ Meaning：素晴らしい／最高（英国寄りだが普及）／頭がいい
 Example：That's a brilliant idea.
 
 ### What are you up to? / What did you get up to?
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：
 　1. （現在進行）今何してるの？／最近どう？／予定ある？
@@ -315,7 +315,7 @@ Example：
 Nuance：How are you? の次に出る定番フレーズ。
 
 ### slip my mind / skip my memory
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：ど忘れする／思い出せない
 Example：Sorry, the name slipped my mind.
@@ -327,7 +327,7 @@ Meaning：ストレスを感じさせる／イライラさせる
 Example：Crowded places stress me out.
 
 ### headache（比喩）
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：厄介な問題／頭痛のタネ
 Example：Applying for a visa was a headache.
@@ -386,14 +386,14 @@ Meaning：〜って感じだね／いいね
 Example：Sounds like a nice Sunday. / Sounds good to me.
 
 ### get hung up on ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：〜を引きずる／気にしすぎる
 Example：Don't get hung up on it — move on.
 Nuance：dwell on の口語版。これが一番自然。
 
 ### for the time being / for now
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：とりあえず今は／当面
 Example：I'll stay here for now.
@@ -416,13 +416,13 @@ Meaning：〜のおかげだ／〜に恩がある
 Example：I owe my success to my parents.
 
 ### have yet to ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：まだ〜していない（ややフォーマル寄り）
 Example：I have yet to decide.
 
 ### be in for ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：これから〜が確実に起こる、〜の運命にある
 Example：You're in for a surprise.
@@ -435,13 +435,13 @@ Example：He finally asked her out.
 Nuance：invite は恋愛限定ではない。「デートに誘う」は ask out が定番。
 
 ### side hustle
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：副業（カジュアル）
 Example：I have a side hustle on weekends.
 
 ### binge-watch / binge
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：一気見する／むさぼるようにやる
 Example：I binge-watched the whole season last night.
@@ -463,7 +463,7 @@ Meaning：ようやく〜する
 Example：I finally got around to fixing my bike.
 
 ### push (someone's) buttons / get pushy
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：
 　1. push someone's buttons：イラつかせる
@@ -476,7 +476,7 @@ Meaning：本場の／本物の
 Example：That's authentic Mexican food.
 
 ### sketchy
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：怪しい／うさんくさい
 Example：That alley looks a bit sketchy at night.
@@ -488,7 +488,7 @@ Meaning：活気のある／鮮やかな
 Example：Brazil has a vibrant culture.
 
 ### that's not really a thing
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：それはあまり一般的じゃない／日本ではあまりない
 Example：Tipping isn't really a thing in Japan.
@@ -516,14 +516,14 @@ Meaning：メリット・デメリット
 Example：There are pros and cons to traveling alone.
 
 ### sweat the small stuff（don't sweat the small stuff）
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：細かいことを気にする（しない）
 Example：They don't sweat the small stuff in Okinawa.
 Nuance：超頻出イディオム。「don't sweat the small stuff」がほぼ決まり文句。
 
 ### stay consistent / stick with it / keep it up
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：継続する／続ける
 Example：It's hard to stay consistent with habits.
@@ -534,13 +534,13 @@ Meaning：新鮮な／気分転換になる
 Example：It was really refreshing to see Disneyland after years.
 
 ### nostalgic / bring back memories
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：懐かしい／思い出が蘇る
 Example：It was so nostalgic. / It brought back a lot of memories.
 
 ### feel down / be in a low mood
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：気分が落ちる／落ち込む
 Example：I always feel down on rainy days.
@@ -584,7 +584,7 @@ Example：
 Nuance：was going to は「予定があったがやらなかった／変わった」が暗黙の意味。end up ~ing とセットで自然。
 
 ### on top of that
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：その上に／さらに／（追い打ちで）それに加えて
 Example：It was raining. On top of that, I lost my wallet.
@@ -597,7 +597,7 @@ Example：I'll go regardless of the weather.
 Nuance：anyway よりやや締まった印象。despite/in spite of よりも会話で出やすい。
 
 ### squeeze / squeeze in / squeeze by
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：
 　1. squeeze：ギュッと押す／握る／搾る
@@ -610,7 +610,7 @@ Example：
 Nuance：物理・予定・状況のいずれにも刺さる超汎用動詞。
 
 ### I was just thinking ~ / Random thought, but ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：
 　1. I was just thinking ~：ふと思ったんだけど（自然な導入）
@@ -633,7 +633,7 @@ Example：I just cracked up when he said that. / We burst out laughing in the me
 Nuance：crack someone up（誰かを笑わせる、収録済み）と区別。自動詞で「自分が爆笑する」。
 
 ### flattering / I'm flattered
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：嬉しいけど照れる褒め言葉／光栄に感じる
 Example：That's so flattering! / I'm flattered, but I don't think I deserve it.
@@ -654,7 +654,7 @@ Example：I'm on my way home now. / I'm on my way to the office.
 Nuance：on the way to home は誤り。home の前に to は不要。
 
 ### you bet
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：もちろん／その通り
 Example：— Can you help me tomorrow? — You bet.
@@ -679,7 +679,7 @@ Example：I'm starting to get the hang of it. / Once you get the hang of it, it'
 Nuance：新しいスキル・ツールに慣れる文脈で定番。figure out よりも「体で覚えた」感。
 
 ### be caught off guard
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：不意を突かれる／面食らう
 Example：I was caught off guard by his question. / Sorry, you caught me off guard.
@@ -692,7 +692,7 @@ Example：Growing up, I wanted to travel around the world.
 Nuance：文頭の副詞句として使うのが定番。「in my growing up」は誤り。
 
 ### on my own / by myself / for myself
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：
 　1. on my own：独力で／自分の力で
@@ -705,7 +705,7 @@ Example：
 Nuance：3つの違いを区別できるとネイティブ感がぐっと出る。
 
 ### Where are you off to? / I'm off to ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：これからどこ行くの？／〜へ行くところ
 Example：— Where are you off to? — I'm off to meet my friend.
@@ -719,7 +719,7 @@ Example：I came all the way from Tokyo. / They pour tea from all the way up her
 Nuance：「ずっと〜まで」という距離・程度の強調に万能。
 
 ### knock it off
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：やめて／いい加減にして
 Example：Knock it off! You're being annoying.
@@ -732,14 +732,14 @@ Example：Your English is next level. / This is on a whole new level.
 Nuance：誉め言葉として爆発的に普及。Z世代頻出。
 
 ### brag / show off
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：自慢する／見せびらかす（やや嫌味）
 Example：He's bragging about his car. / Stop showing off.
 Nuance：flex（スラング自慢）も同義。文脈で皮肉にもなる。
 
 ### in a good mood / in a bad mood
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：機嫌がいい／機嫌が悪い
 Example：I'm in a good mood today. / She's in a bad mood.
@@ -767,14 +767,14 @@ Example：Don't make a big deal out of it. / It's no big deal.
 Nuance：感情・反応の温度感を調整する超頻出フレーズ。
 
 ### get the feeling that ~ / I have a feeling that ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：なんとなく〜な気がする／予感がする
 Example：I get the feeling that he's lying. / I have a feeling something's off.
 Nuance：直感・推測を柔らかく伝える。I feel like ~ も同義。
 
 ### get on (someone's) nerves
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：イライラさせる／神経に障る
 Example：That noise gets on my nerves. / He really gets on my nerves.
@@ -794,14 +794,14 @@ Example：Let's grab a bite after work.
 Nuance：軽食・サクッと食べる場面の定番。
 
 ### I could use ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：〜があると助かる／〜が欲しい（やんわり）
 Example：I could use a coffee. / I could use some help.
 Nuance：I want より控えめで自然。婉曲的な要求の定番。
 
 ### nowhere near ~
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：〜には全然及ばない／全然〜ではない
 Example：I'm nowhere near fluent. / We're nowhere near done.
@@ -832,7 +832,7 @@ Example：I'm finally making progress in English. / We're making good progress.
 Nuance：improve より「プロセス感」を強調。
 
 ### have (someone) over
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：人を家に招く
 Example：We had friends over for dinner. / Let's have you over next weekend.
@@ -846,7 +846,7 @@ Example：We're all in the same boat. / I'm in the same boat as you.
 Nuance：共感を即座に伝える定番フレーズ。
 
 ### swing by / stop by / drop by
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：ちょっと立ち寄る
 Example：I'll swing by your place later. / I'll stop by after work.
@@ -865,14 +865,14 @@ Example：More often than not, I work from home.
 Nuance：usually と同義だが、文章に「リズム感」が出る上品な言い回し。
 
 ### relatable
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：親しみやすい／共感できる
 Example：They're very relatable despite their fame. / That story is so relatable.
 Nuance：SNS・カルチャー話で爆発的に頻出。
 
 ### twice as ~ as / ~ times as ~ as
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：〜の◯倍...
 Example：He is twice as good as I am. / It's three times as expensive as before.
@@ -892,7 +892,7 @@ Example：— Busy? — Kind of. / Yeah, somewhat.
 Nuance：質問への控えめな返答の定番。kinda という綴りも頻出。
 
 ### have a lot going on / have a lot on (one's) plate
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：いろいろある／やることがたくさんある
 Example：I've had a lot going on lately. / She has a lot on her plate right now.
@@ -1412,7 +1412,7 @@ Example：That was a really touching story.
 Nuance：「I was touched / I was moved」と受動態で「自分が感動した」を表すのが自然。
 
 ### tug at someone's heartstrings
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：心の琴線に触れる（特に感動的に）
 Example：That scene really tugged at my heartstrings.
@@ -1445,7 +1445,7 @@ Meaning：（場所・関係が）近い
 Example：Thailand is relatively close to Japan.
 
 ### save up
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（お金を）貯める
 Example：I'm saving up for a trip.
@@ -1496,13 +1496,13 @@ Meaning：暮らしのスピード／のんびりした暮らし
 Example：Okinawa has a much slower pace of life.
 
 ### immerse (oneself) in ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜に没頭する／浸りきる
 Example：Tokyo Disneyland immerses you in a fantasy world.
 
 ### sophisticated / refined / polished
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. sophisticated：洗練された・高度な（人・もの・考えに万能）
@@ -1519,7 +1519,7 @@ Meaning：視点／観点
 Example：I want to show different perspectives.
 
 ### attract / draw (people) in
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：人を惹きつける
 Example：The story really draws you in.
@@ -1552,13 +1552,13 @@ Meaning：〜に触れる／さらされる
 Example：Kids should be exposed to different cultures.
 
 ### integrate (into ~)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（集団・文化に）溶け込む／統合する
 Example：He integrated into the team quickly.
 
 ### get ~ down
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜を習得する／身につける
 Example：It took me a while to get the pronunciation down.
@@ -1580,19 +1580,19 @@ Example：
 　2. I convinced her that it was the right call.
 
 ### on second thought
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：やっぱり／よく考えたら
 Example：On second thought, I'll pass.
 
 ### It's too much work / It's troublesome
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：作業量が多くてだるい／面倒
 Example：Filing taxes manually is just too much work.
 
 ### didn't even bother (doing)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：わざわざ〜しなかった、やる気すら起きなかった
 Example：I didn't even bother replying.
@@ -1604,7 +1604,7 @@ Meaning：居心地がいい／暖かい
 Example：This café is so cozy in winter.
 
 ### crisp
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（空気が）ひんやり爽やか／パリッとした
 Example：The morning air was crisp and clear.
@@ -1621,7 +1621,7 @@ Meaning：突然の強い〜
 Example：A blast of cold air hit me when I opened the door.
 
 ### up to ~ / at most ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：最大で〜／最大でも〜
 Example：It costs up to $50. / At most, it takes an hour.
@@ -1643,25 +1643,25 @@ Meaning：貢献する／価値を提供する
 Example：What do you bring to the table?
 
 ### That's fair
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：それは妥当だね／納得
 Example：— I'll cover this round, you get the next. — That's fair.
 
 ### I didn't mean anything by it / I mean no harm
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：悪意はなかった／そういう意図はない
 Example：I didn't mean anything by it — just teasing.
 
 ### put on an act / put on a front
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：猫をかぶる／繕う
 Example：He puts on an act around his boss.
 
 ### argue over trivial things / bicker
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：些細なことで言い争う
 Example：They bicker over the dumbest things.
