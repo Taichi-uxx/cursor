@@ -204,7 +204,7 @@ Example：
 　2. Okinawa feels laid-back. / He's a laid-back guy.
 
 ### crowded / packed
-ミス：×
+ミス：××
 重要度：★★★★★
 Meaning：混雑している／ぎゅうぎゅう
 Example：Shibuya is always packed on weekends.
@@ -354,7 +354,7 @@ Meaning：イラっとする／うっとうしい
 Example：The notifications keep popping up — that's so annoying.
 
 ### I can't stand it / I can't take it (anymore)
-ミス：×
+ミス：××
 重要度：★★★★★
 Meaning：我慢できない／もう無理
 Example：I can't take this heat anymore.
@@ -753,7 +753,7 @@ Example：— Thanks for helping! — No sweat.
 Nuance：no problem よりさらに軽い。返答の定番。
 
 ### just out of curiosity / just wondering
-ミス：×
+ミス：××
 重要度：★★★★★
 Meaning：ただの興味本位で／ちょっと気になって
 Example：Just out of curiosity, why did you quit?
@@ -899,7 +899,7 @@ Example：I've had a lot going on lately. / She has a lot on her plate right now
 Nuance：忙しさを上品に説明できる頻出フレーズ。
 
 ### pick up
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. （人を）迎えに行く
@@ -914,7 +914,7 @@ Example：
 Nuance：日常会話最頻出の phrasal verb。[[drop off]] とセットで覚える。"pick up on ~" は「察する・気づく」で頻出。
 
 ### drop off
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. （人を）送る・降ろす
@@ -929,14 +929,14 @@ Example：
 Nuance：[[pick up]] と対で使う。"I'll pick you up at 6 and drop you off after dinner." が定番の対比構文。
 
 ### might as well
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：どうせなら〜しよう／〜したほうがいいかも
 Example：We're already here, so we might as well eat. / Might as well try — you've got nothing to lose.
 Nuance："may as well" とほぼ同義。「もう避けられないから／どうせだから」と受け入れる時の口癖。会話で超頻出。
 
 ### drive someone crazy
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. イライラさせる／気を狂わせるほど困らせる
@@ -947,21 +947,20 @@ Example：
 Nuance："drive someone nuts / mad / insane / wild" と同型の構文。annoy より感情が強い。日常会話・恋愛両方で頻出。
 
 ### deep down
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：本心では／心の奥では
 Example：Deep down, I knew he was right, but I didn't want to admit it.
 Nuance：「表向きは違うけど、本音の部分では」というニュアンス。at heart / secretly と近いが、より内省的・感情的。
 
 ### haven't seen you in a while / Long time no see
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：久しぶり
 Example：— Hey, haven't seen you in a while! How've you been? — I know, right? It's been forever.
 Nuance："Long time no see." は文法的にはブロークンだがネイティブ超頻出。"It's been a while." もほぼ同じ。全てカジュアル。
 
 ### hopefully
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. 願わくば／うまくいけば
@@ -972,7 +971,7 @@ Example：
 Nuance：文頭で使う「うまくいけば」がダントツ頻出。"I hope" より軽くて自然。会話の枕詞的に使える。
 
 ### Don't get me wrong
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：誤解しないでね／悪く取らないで
 Example：Don't get me wrong, I like him — but he can be annoying sometimes.
@@ -1757,7 +1756,7 @@ Meaning：気分は〜次第
 Example：My mood really depends on the weather.
 
 ### lie in bed (scrolling / watching)
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：ベッドでだらだらする
 Example：I just lie in bed scrolling and watching Netflix.
@@ -2626,63 +2625,63 @@ Example：Don't slack off at work.
 Nuance：cut corners（質を落とす）と違い、行動的なサボり全般。
 
 ### hold a grudge
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：恨みを持ち続ける／根に持つ
 Example：She still holds a grudge against him. / I don't hold any grudges.
 Nuance：bear a grudge と同義（ややフォーマル）。
 
 ### wrong call / good call
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：判断ミス／良い判断
 Example：That was a wrong call. / Cancelling was a good call.
 Nuance：bad decision よりカジュアル。スポーツ実況・日常で頻出。
 
 ### glimpse / catch a glimpse of ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：ちらっと見る／一瞬だけ見える
 Example：I caught a glimpse of her in the crowd.
 Nuance：glance（さっと意図的に見る）と区別。「偶然視界に入る」感じ。
 
 ### full picture / the big picture
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：全体像／全貌
 Example：We don't have the full picture yet. / Look at the big picture.
 Nuance：細部より全体を見るときの定番。
 
 ### blow off steam / let off steam
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：ストレス発散する／うっぷんを晴らす
 Example：I went for a run to blow off steam. / I go to the gym to let off steam.
 Nuance：unwind より「感情の放出」感が強い。
 
 ### get a kick out of ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜を楽しむ／面白がる／快感を得る
 Example：I get a kick out of watching old movies. / He gets a kick out of teasing me.
 Nuance：enjoy よりやや変態的・クセのある楽しみ。
 
 ### think (it) through
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（最後まで）じっくり考える／深く検討する
 Example：You should think this through. / Let me think it through.
 Nuance：consider carefully より「結論まで詰める」感じ。
 
 ### stuck in a rut
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：マンネリ化／停滞している
 Example：I feel stuck in a rut. / My job has me stuck in a rut.
 Nuance：be in a slump と同義。同じ場所で空回りしている感。
 
 ### kick in
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：効き始める／発動する／（法律が）施行される
 Example：The medicine kicked in. / Panic kicked in. / The law kicks in next month.
@@ -2706,14 +2705,14 @@ Example：Fill in this form. / Fill me in later. / She filled in for me.
 Nuance：British: fill in / American: fill out（書類はどちらも可）。
 
 ### fill (someone) in on ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜について詳しく教える／情報共有する
 Example：Can you fill me in on what happened? / I'll fill you in on the details.
 Nuance：bring up to speed と同義。情報共有の鉄板。
 
 ### lose it
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. キレる／取り乱す
@@ -2729,84 +2728,84 @@ Example：I have no intention of quitting. / She has no intention of apologizing
 Nuance：「意思が固い」強い否定。don't plan to より強い。
 
 ### have every right to ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜するのは当然の権利だ／正当だ
 Example：You have every right to be angry. / She has every right to refuse.
 Nuance：「道徳的にも正当」というニュアンス込み。
 
 ### blend in / fit in
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：周囲に溶け込む／目立たず馴染む
 Example：I tried to blend in. / He blends in easily.
 Nuance：stand out（目立つ）と対。fit in は特に「人間関係」寄り。
 
 ### it can wait
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：後回しでいい／急がなくていい
 Example：Don't worry. It can wait.
 Nuance：相手を安心させる気遣いフレーズ。
 
 ### on the fence
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：決めかねている／迷っている
 Example：I'm on the fence about buying it. / I'm still on the fence.
 Nuance：sit on the fence は「中立を保つ／態度を決めない」。
 
 ### win back
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（信頼・人・支持を）取り戻す
 Example：He tried to win back her trust. / We need to win back customers.
 Nuance：regain と同義だが、「努力して取り返す」感が強い。
 
 ### zone out
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：ぼーっとする／上の空になる
 Example：Sorry, I zoned out for a second.
 Nuance：space out と同義。集中が切れた瞬間に使う。
 
 ### same difference
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：どっちでも同じ／細かい違いは重要じゃない
 Example：— It's a sandwich, not a burger. — Same difference.
 Nuance：カジュアル・やや皮肉。close enough と同義。
 
 ### set (someone) up with / fix (someone) up with
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（人を）紹介する／お見合いさせる
 Example：My friend set me up with her cousin. / Can you fix me up with someone?
 Nuance：恋愛のセッティングで頻出。set up が一般的、fix up はやや古め。
 
 ### take (someone) up on ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（提案・申し出を）ありがたく受ける
 Example：I'll take you up on that offer. / I might take you up on that.
 Nuance：好意を受け入れる丁寧フレーズ。
 
 ### have a lot going for (someone)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（人・物に）魅力や長所がたくさんある
 Example：They have a lot going for them.
 Nuance：誉め言葉。have many strengths と同義。主語とforの後に続くのは同一のもの。
 
 ### appealing
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：魅力的な／心を引きつける
 Example：They have many appealing qualities. / It's an appealing idea.
 Nuance：attractive より「興味をそそる」感。
 
 ### chemistry / great chemistry
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（人間関係の）相性／ケミストリー
 Example：The members have great chemistry. / We just don't have chemistry.
@@ -2819,7 +2818,7 @@ Example：They've stayed humble despite their success.
 Nuance：成功談・人柄評価で頻出。
 
 ### put on a show / put on an amazing show
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：素晴らしいパフォーマンスをする
 Example：They always put on an amazing show.
@@ -2833,21 +2832,21 @@ Example：This method is superior to the old one.
 Nuance：人について言うとやや硬い。better than より格式が高い。
 
 ### keep busy / keep oneself busy
-ミス：×
+ミス：××
 重要度：★★★★
 Meaning：忙しくしている／何かしらやっている
 Example：I've been keeping busy lately.
 Nuance：「忙しい」を控えめに伝えるときの定番。
 
 ### swamped
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：忙殺されている／手一杯
 Example：I'm swamped with work.
 Nuance：busy / overwhelmed より口語的で強い。
 
 ### be positive / I'm positive (that ~)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. 前向きでいる
@@ -2856,21 +2855,21 @@ Example：Be positive. / I'm positive he's right.
 Nuance：意味②は I'm sure より強い確信。
 
 ### sort (it) out
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：問題を解決する／整理する／状況を整える
 Example：We need to sort this out. / Sort yourself out.
 Nuance：solve / organize の両方を兼ねる万能語。
 
 ### bite the bullet
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：嫌だけど覚悟してやる／腹をくくる
 Example：I'll bite the bullet and do it.
 Nuance：face it / deal with it より「歯を食いしばる」感が強い。
 
 ### avenge / avenge (someone)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：仇を討つ（誰かのため・正義寄り）
 Example：He avenged his brother.
