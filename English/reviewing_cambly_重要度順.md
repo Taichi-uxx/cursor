@@ -1667,19 +1667,19 @@ Meaning：些細なことで言い争う
 Example：They bicker over the dumbest things.
 
 ### quarrel over nothing
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：何でもないことで口論する
 Example：We always quarrel over nothing when we're tired.
 
 ### grounding principle
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：拠り所となる基本原則
 Example：Honesty is a grounding principle for me.
 
 ### assemble / build / construct / put together
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：組み立てる
 Example：I put together the bookshelf in an hour.
@@ -1692,7 +1692,7 @@ Meaning：〜の期間を通して（変化・プロセスに焦点）
 Example：Over the course of a year, I improved my English.
 
 ### hold on to (core values / something)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（価値観などを）守り続ける／手放さない
 Example：He holds on to his core values even in tough times.
@@ -1703,13 +1703,13 @@ Meaning：自分らしくいる／自分に正直でいる
 Example：I want to stay true to myself no matter what.
 
 ### stay on your toes
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：気を抜かない／常に警戒する
 Example：You need to stay on your toes in this industry.
 
 ### end game
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：最終目的／ゴール
 Example：There's no end game yet.
@@ -1721,7 +1721,7 @@ Meaning：前代未聞の／ありえないほど珍しい
 Example：That kind of behavior is unheard of in Japan.
 
 ### get around / go around
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. get around：（街・地域を）移動する
@@ -1763,19 +1763,19 @@ Meaning：ベッドでだらだらする
 Example：I just lie in bed scrolling and watching Netflix.
 
 ### treat (oneself) to ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：自分にご褒美をあげる
 Example：I'll treat myself to a nice breakfast.
 
 ### screw up / mess up / fuck up
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：やらかす／台無しにする（fuck up は強め・カジュアル）
 Example：I really screwed up the presentation.
 
 ### superficial / on the surface
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. superficial：表面的な（やや批判的）
@@ -1785,19 +1785,19 @@ Example：
 　2. On the surface, it looks fine, but…
 
 ### be shaped by ~ / be influenced by ~ / be rooted in ~ / stem from ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（性格・文化が）〜によって形成される／影響を受ける／根付く／起源を持つ
 Example：People's behavior is shaped by geography, history, and politics.
 
 ### have an impact on / influence / affect
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：影響を与える
 Example：Geography has a strong impact on culture.
 
 ### be tied to ~ / be connected to ~ / be based on ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜に結びつく／関連する／基づく
 Example：Cultural traits are deeply tied to history.
@@ -1809,13 +1809,13 @@ Meaning：〜で大きな役割を果たす
 Example：Geography plays a major role in shaping culture.
 
 ### lead to / result in
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜につながる／〜という結果になる
 Example：These policies led to strong social pressure.
 
 ### not so much A as B / rather than
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：AというよりむしろB／〜よりむしろ
 Example：It's not so much about perfection as it is about perception. / It's about perception rather than perfection.
@@ -1843,19 +1843,19 @@ Example：
 Nuance：意味はほぼ同じだが、ビジネス文脈やフォーマル文書では compensate for が好まれる。
 
 ### I can relate / I totally get it
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：共感できる／めっちゃわかる
 Example：— Work has been so draining. — Yeah, I can relate.
 
 ### holidays are back-to-back / a stretch of holidays
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：休みが連続している／連休
 Example：Golden Week is a stretch of holidays in early May.
 
 ### There's got to be more to life than ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：人生は〜以上のものがある
 Example：There's got to be more to life than work.
@@ -1866,7 +1866,7 @@ Meaning：年を取るほど〜
 Example：The older I get, the more I value sleep.
 
 ### It's not until ~ that ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜して初めて〜
 Example：It's not until you study abroad that you realize how big the world is.
@@ -1883,7 +1883,7 @@ Meaning：誰にも劣らない／最高
 Example：Their service is second to none.
 
 ### take a shortcut / cut corners
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. take a shortcut：近道する
@@ -1891,55 +1891,55 @@ Meaning：
 Example：Don't cut corners on safety checks.
 
 ### streamline / eliminate waste
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：効率化する／無駄をなくす
 Example：AI helps us streamline repetitive tasks.
 
 ### repetitive / mundane / menial tasks
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：単調な／退屈な／低レベルな作業
 Example：AI can take over the mundane tasks.
 
 ### my head's not in the game
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：集中できていない
 Example：Sorry, my head's not in the game today.
 
 ### I'm drowning in ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜に押しつぶされそう
 Example：I'm drowning in emails.
 
 ### banging my head against the wall
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：どうにもならず苦戦している
 Example：I've been banging my head against this bug all day.
 
 ### essence / core / crux
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：本質／核心／問題の最重要点
 Example：The crux of the matter is timing. / At its core, this is about trust.
 
 ### cautious / risk-averse / conservative
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：慎重な／リスクを避ける／保守的な
 Example：They took a cautious approach. / He's risk-averse with money.
 
 ### built / jacked / ripped / muscular
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（スラング）ガタイがいい／筋肉質
 Example：He's pretty jacked. / She's ripped.
 
 ### flat broke
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：一文無し
 Example：I'm flat broke after the trip.
@@ -1960,7 +1960,7 @@ Example：
 　2. The milk is spoiled.
 
 ### aggravated
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：イライラした／悪化した
 Example：I'm getting aggravated with all these delays.
@@ -1972,19 +1972,19 @@ Meaning：献身的な／一途な
 Example：He's devoted to his work.
 
 ### snob
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：気取った人
 Example：He's a total wine snob.
 
 ### disembark
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（乗り物から）降りる（フォーマル）
 Example：Passengers disembarked from the front.
 
 ### swarming
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：群がっている
 Example：Fans were swarming the stage.
@@ -2008,45 +2008,45 @@ Meaning：仮の話だけど／仮定として
 Example：Hypothetically speaking, what would you do?
 
 ### beats me
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：わからん／さあね
 Example：— Why is he late? — Beats me.
 
 ### wager
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：賭ける／〜だと思う
 Example：I'd wager he's right.
 発音：ウェイジャァ
 
 ### caliber
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：レベル／質
 Example：a person of high caliber
 
 ### eligibility / expire
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：資格・適格性／期限切れになる
 Example：Check eligibility before applying. / My passport expires next month.
 
 ### reach across the aisle
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：対立を超えて協力する
 Example：Politicians need to reach across the aisle more often.
 発音：aisleはアイル
 
 ### set the bar low / high
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：基準を低く／高く設定する
 Example：He set the bar pretty low with that excuse.
 
 ### out cold
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：完全に気絶／熟睡
 Example：He was out cold after the long flight.
@@ -2057,56 +2057,56 @@ Meaning：〜を守る・続ける
 Example：Stick to the plan.
 
 ### give (someone) the edge
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：優位を与える／有利にする
 Example：His experience gives him the edge.
 
 ### cinch
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：楽勝
 Example：The test was a cinch.
 発音：スィンチ
 
 ### slippery
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：滑りやすい／信用しづらい（人にも）
 Example：He's a slippery character.
 
 ### vicious
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：残酷な／悪循環の
 Example：a vicious cycle
 
 ### malice
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：悪意
 Example：He acted with no malice.
 
 ### innate
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：生まれつきの／本能的な
 Example：She has an innate ability for languages.
 
 ### dwell on ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜を引きずる／くよくよ考える
 Example：Stop dwelling on the past.
 
 ### stung
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：刺された／心がグサッときた
 Example：That comment really stung.
 
 ### rein in ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：抑える／コントロールする
 Example：I need to rein in my spending.
@@ -2117,19 +2117,19 @@ Meaning：前置きなしで本題へ
 Example：Without further ado, let's start.
 
 ### goldfish memory
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：忘れっぽい
 Example：I have the memory of a goldfish.
 
 ### what I was born into
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：生まれた環境・条件
 Example：I didn't choose what I was born into.
 
 ### go ballistic
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：激怒する／ブチ切れる
 Example：My boss went ballistic.
@@ -2141,7 +2141,7 @@ Meaning：約束する（強い誠意）
 Example：You have my word — I'll be there.
 
 ### dead giveaway
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：決定的にバレる証拠
 Example：His accent was a dead giveaway.
@@ -2162,13 +2162,13 @@ Meaning：透明な／透けて見える
 Example：The water was unbelievably transparent.
 
 ### ease / soothe / alleviate / mitigate
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：和らげる
 Example：Music helps ease my anxiety. / Tea soothes the mind. / alleviate symptoms（フォーマル） / mitigate risk（問題向け）
 
 ### combine A and B / a mix of A and B
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：AとBを組み合わせる／混ぜたもの
 Example：Yoga is a mix of meditation and exercise.
@@ -2179,26 +2179,26 @@ Meaning：（船・フェリーの）発着所
 Example：I went to the pier and got on a ferry.
 
 ### plain broke / under strain
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：金欠 / 負担がかかっている
 Example：The company is under strain.
 
 ### a year and a half ago
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：1年半前（口語2パターン）
 Example：I started learning English a year and a half ago.
 
 ### finest
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：最高の／最上級の／極上の
 Example：This is the finest coffee I've ever had. / She's one of the finest doctors in the country.
 Nuance：「good」よりかなり格上の褒め言葉。日常で大げさめに称賛したいときに自然。
 
 ### jump the gun
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：先走る／フライングする／早まる
 Example：Don't jump the gun — let's wait for the official announcement.
@@ -2212,21 +2212,21 @@ Example：She's very generous with her time. / a generous portion of pasta
 Nuance：人の性格にも、料理の量にも使える。対義は stingy（ケチ）。
 
 ### skyrocket / have skyrocketed
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：急上昇する／急騰する
 Example：Prices have skyrocketed this year.
 Nuance：go through the roof / surge と同義の口語的表現。値段・需要・人気で頻出。
 
 ### come clean
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：白状する／正直に打ち明ける
 Example：He finally came clean about the mistake.
 Nuance：confess よりカジュアル。「観念して話す」感じ。
 
 ### do over / do-over
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：やり直す／やり直し（カジュアル）
 Example：Let's do it over. / Can I have a do-over?
@@ -2240,14 +2240,14 @@ Example：Sorry, I didn't mean to snap at you.
 Nuance：普段穏やかな人がストレスで一瞬きつくなる感じ。bark at より日常的。
 
 ### no-go
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：無理／ダメ／却下事項
 Example：Smoking here is a no-go. / That's a definite no-go.
 Nuance：not an option より口語的でカジュアル。「そもそも論外」感。
 
 ### turn-off / turn-on
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. turn-off：（恋愛・好み）一気に冷める要素
@@ -2278,7 +2278,7 @@ Example：I'm fine-tuning my pronunciation. / We fine-tuned the plan.
 Nuance：tweak より「精度を上げる」響き。仕事・学習・趣味どこでも使える。
 
 ### insensitive
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：無神経な／配慮がない
 Example：That was insensitive. / I didn't mean to be insensitive.
@@ -2292,7 +2292,7 @@ Example：She's out of my league. / That team is out of our league.
 Nuance：恋愛・スポーツ・仕事すべてで使える。対義は in my league。
 
 ### off of ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜をもとにして／〜から（カジュアルな based on）
 Example：It wasn't just off of what he said. / I'm going off of the data we have.
@@ -2306,7 +2306,7 @@ Example：Do you happen to know where the station is? / Do you happen to have a 
 Nuance：by any chance と同じく丁寧クッション。初対面でも自然。
 
 ### pound
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. （強く）叩く／ドンドン打つ
@@ -2319,7 +2319,7 @@ Example：
 Nuance：感情・身体描写で2の用法が頻出。
 
 ### hold back (laughter / tears / emotions)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：（笑い・涙・感情を）こらえる／抑える
 Example：I tried to hold back my laughter. / She couldn't hold back her tears.
@@ -2339,7 +2339,7 @@ Example：He just got promoted. / I'm hoping for a promotion this year.
 Nuance：受け身の get + 過去分詞 が口語的に最頻出。
 
 ### restless
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：落ち着かない／じっとしていられない
 Example：I get restless if I stay home all day.
@@ -2353,28 +2353,28 @@ Example：I feel guilty when I'm not being productive.
 Nuance：罪を犯した（guilty of crime）以外に、日常の小さな後ろめたさにも使う。
 
 ### work-related
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：仕事関連の
 Example：I attended a work-related event. / It's a work-related question.
 Nuance：「〜-related」は何でも作れる便利な接尾辞（health-related など）。
 
 ### deduct / be deducted from ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：差し引く／天引きする
 Example：Taxes are deducted from your salary. / 15 minutes will be deducted from your balance.
 Nuance：金額・時間・残量を「自動的に引かれる」場面で頻出。
 
 ### a set amount of ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：決まった量の〜／一定の〜
 Example：My plan comes with a set amount of lesson time. / You only have a set amount of data each month.
 Nuance：プラン・契約・配給の話で出る固定フレーズ。
 
 ### just right / the right amount of ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：ちょうど良い／ぴったりの量の〜
 Example：It has just the right amount of caffeine. / The atmosphere is just right.
@@ -2393,7 +2393,7 @@ Example：I recently went through a breakup.
 Nuance：go through ~（〜を経験する）の超頻出コロケーション。
 
 ### fluffy
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：ふわふわした／もふもふした
 Example：This puppy is so fluffy. / a fluffy pancake
@@ -2412,28 +2412,28 @@ Example：I already got my workout in today.
 Nuance：かなりネイティブっぽい言い回し。仕事や家事の前後でサラッと出るとカッコいい。
 
 ### ick / give (someone) the ick
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：一気に冷めるポイント／生理的に無理になる瞬間
 Example：That gave me the ick. / What's your biggest ick?
 Nuance：恋愛系スラングとして爆発的に普及中。Z世代頻出。
 
 ### weirdo
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：変な人／変わり者
 Example：You're such a weirdo. / He's kind of a weirdo.
 Nuance：カジュアル。軽口・親密な間柄で使う。
 
 ### stinky
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：くさい
 Example：My socks are stinky.
 Nuance：smelly よりも子どもっぽくカジュアル。
 
 ### propel / propel ~ forward
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：推進する／後押しする／前進させる
 Example：Curiosity propelled me to learn English. / Social media propelled him to fame.
@@ -2447,21 +2447,21 @@ Example：I've always had an affinity for languages.
 Nuance：「ピンとくる」「相性がいい」感。be drawn to と近い。
 
 ### pompous
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：偉そうな／尊大な
 Example：He sounds really pompous.
 Nuance：pretentious（気取った）/ arrogant（見下す）と微妙に違う。pompous は「もったいぶってる」。
 
 ### pristine / pristine condition
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：完璧にきれいな／新品同様の／手つかずの
 Example：The car is in pristine condition. / The island has pristine beaches.
 Nuance：中古品・自然・部屋など、汚れがない状態を強く言いたいときに。
 
 ### oblige / I'd be happy to oblige
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. （oblige A to do）義務づける
@@ -2479,7 +2479,7 @@ Example：He was surprisingly nonchalant about the situation.
 Nuance：本当に冷静（calm）ではなく、「気にしてない演出」を含む点が肝。
 
 ### diligently / diligent
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：熱心に／コツコツと／真面目に
 Example：She worked diligently to improve her English.
@@ -2493,42 +2493,42 @@ Example：— I finished it last night. — I expected no less from you.
 Nuance：相手を持ち上げる軽い褒めフレーズ。
 
 ### Chances are (that) ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：たぶん〜だろう／〜の可能性が高い
 Example：Chances are she's already left. / Chances are I wouldn't have made it without his help.
 Nuance：probably より「賭けるとしたらそう思う」感が強い。会話で頻出。
 
 ### my money is on ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜だと思う／〜に賭けるならこれ
 Example：My money is on John. / My money's on them winning.
 Nuance：I bet ~ より若干カジュアル。予想を強気に言うときに。
 
 ### get an itch / get the itch (to ~)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：〜したくてうずうずする
 Example：I'm getting an itch to travel again. / I've got the itch to start something new.
 Nuance：scratch the itch（うずきを満たす）とセットで覚える。
 
 ### resort to ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：仕方なく〜する／最終手段として頼る
 Example：He resorted to lying. / We had to resort to Plan B.
 Nuance：rely on / turn to よりネガティブで「最後の手段」感が強い。
 
 ### wary / be wary of ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：警戒している／用心深い
 Example：I'm wary of strangers online. / Be wary of scams.
 Nuance：weary（疲れ切った）と発音が違うので注意。/ˈweri/。
 
 ### acute
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. 激しい（acute pain）
@@ -2539,28 +2539,28 @@ Example：acute pain / an acute observer / an acute shortage of doctors
 Nuance：医療では chronic（慢性）と対比。
 
 ### compatible / incompatible
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：相性がいい／互換性がある（incompatible: 反対）
 Example：We're compatible. / The new app is compatible with iOS.
 Nuance：恋愛・人間関係・テクノロジーいずれにも使える。
 
 ### with flying colors
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：余裕で／見事に成功する
 Example：She passed the exam with flying colors.
 Nuance：固定表現。"red flying colors" は誤り。試験・難関突破の話で頻出。
 
 ### if I feel up to it / if I'm up for it
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：余裕があれば／気分・体調が良ければ
 Example：I'll go if I feel up to it.
 Nuance：参加・誘いへの曖昧返事の定番。
 
 ### inspo
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：インスピレーション／参考／アイデア（inspirationの略）
 Example：fashion inspo / You're my inspo
@@ -2574,14 +2574,14 @@ Example：I'm cooked after that workout. / We're cooked.
 Nuance：スラング。困窮・疲労どちらにも使える。
 
 ### in a bind / in a tight spot
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：困った状況／ピンチ
 Example：I'm in a bind. / She's in a tight spot at work.
 Nuance：stuck より「板挟み」感がある。
 
 ### fall behind / catch up / keep up
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：
 　1. fall behind：遅れる／置いていかれる
@@ -2598,21 +2598,21 @@ Example：on the verge of tears / on the verge of collapse
 Nuance：about to よりドラマチック。感情・状況の緊迫を強調。
 
 ### revenge / take revenge on ~
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：復讐／仕返し（個人的怒り）
 Example：He took revenge on his rival.
 Nuance：avenge（誰かのために仇を討つ）と区別。get/take revenge の形が定番。
 
 ### have the nerve (to ~)
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：よくそんなことできるな（図々しさ・呆れ）
 Example：He had the nerve to blame me.
 Nuance：ネガティブ評価。have the guts（勇気がある）はポジティブ寄り。
 
 ### click with (someone) / hit it off
-ミス：××
+ミス：×××
 重要度：★★★★
 Meaning：気が合う／意気投合する
 Example：I really clicked with her. / We hit it off immediately.
