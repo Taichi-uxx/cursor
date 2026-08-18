@@ -978,21 +978,21 @@ Example：Don't get me wrong, I like him — but he can be annoying sometimes.
 Nuance：批判・反対意見・微妙なコメントの前置きに使う超頻出フレーズ。「〜だけど誤解しないで、〜」の型で言い訳・フォローに便利。
 
 ### I'm down
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：いいよ／やるよ／賛成
 Example：— Want to grab dinner? — I'm down. / I'm not down for it.（気が進まない）
 Nuance：I'm in / I'm up for it / Sounds good と同義。誘いへのカジュアルなOKで超頻出。
 
 ### go-to
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：定番の／一番頼りになる／迷ったらこれ
 Example：Coffee is my go-to drink. / He's my go-to person for advice.
 Nuance：favorite より「迷った時にまず選ぶ」感が強い。飲食・人・場所・音楽など何にでも付けられる。
 
 ### man（間投詞）
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. （文頭・感嘆詞）いやー／うわー
@@ -1003,70 +1003,65 @@ Example：
 Nuance：文頭の感嘆詞は相手の性別に関係なく使える。呼びかけは主に男性同士。性別問わず使うなら [[dude]] が無難。
 
 ### as long as ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：〜である限り／〜なら（条件）
 Example：As long as it's warm, I don't care how it looks. / You can buy anything as long as it's within the budget.
 Nuance：「条件を満たせばOK」というニュアンス。provided that / as far as と類似。
 
 ### As far as I know / As far as I can tell
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：私の知る限りでは／私が判断できる限り
 Example：As far as I know, the meeting is still on. / As far as I can tell, it's correct.
 Nuance：100%断言を避けるクッション。To my knowledge（フォーマル）／ As far as I'm aware（丁寧）と類似。
 
 ### When it comes to ~
-新規：✓
 重要度：★★★★★
 Meaning：〜のことになると／〜という分野では
 Example：When it comes to English, he's strong. / When it comes to money, I'm careful.
 Nuance：一般論・得意不得意・特徴を話す時に自然。話題を「その分野に絞る」感じ。
 
 ### In terms of ~
-新規：✓
 重要度：★★★★★
 Meaning：〜という観点では／〜の面で
 Example：In terms of quality, this one is better. / In terms of speed, A is faster.
 Nuance：比較・分析・ビジネス寄りだが日常会話でも頻出。項目ごとに評価する時の定番。
 
 ### used to + 動詞
-新規：✓
 重要度：★★★★★
 Meaning：昔は〜だった／以前は〜した（今はしていない）
 Example：I used to live here. / It doesn't grow as much as it used to.
 Nuance：比較対象が動作なら be を付けない（❌ as much as it used to be ⭕ as much as it used to）。過去との対比で超頻出。
 
 ### Let me look it up / Let me check if ~
-新規：✓
 重要度：★★★★★
 Meaning：ちょっと調べるね／〜か確認させて
 Example：Let me look it up. / I looked up the word in a dictionary. / Let me check if it's open.
 Nuance：look up は情報検索（辞書・ネット）、check if は状態確認。会話の間繋ぎとして超頻出。Let me find out（答えを探す）／ Let me look into it（詳しく調査）も類似。
 
 ### I'll see if ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：〜かどうか見てみるね／確認してみる
 Example：I'll see if he's available. / I'll see if I can help.
 Nuance：Let me check if より「試して確認する」ニュアンス。予定・可否の返事を保留する時に自然。
 
 ### get off work
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：仕事が終わる／退勤する
 Example：What time do you get off work? / I just got off work.
 Nuance：会話で圧倒的に自然。finish work（仕事完了）／ leave work（職場を出る）／ clock out（タイムカード的）と類似。
 
 ### That's a good point / Good point
-新規：✓
 重要度：★★★★★
 Meaning：それはいい指摘だね／確かに／なるほど
 Example：— We should leave earlier. — That's a good point.
 Nuance：単なる同意ではなく「相手の視点・指摘を評価する」ニュアンス。That makes sense / I see what you mean と類似。[[You've got a point]] と同系統。
 
 ### get someone something（get + 人 + 物）
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. （人）のために用意する／取ってくる／買ってくる
@@ -1077,7 +1072,6 @@ Example：
 Nuance：give は「渡す」、get は「相手のために用意する」。日常会話で最頻出の使役・世話系動詞。
 
 ### forget to do / forget doing
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. forget to do：〜するのを忘れる（未来・まだしていない）
@@ -1088,7 +1082,6 @@ Example：
 Nuance：to = 未来／-ing = 過去 の原則。日常で言い間違えると意味が真逆になるので必須。
 
 ### remember to do / remember doing
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. remember to do：忘れずに〜する（未来）
@@ -1099,7 +1092,6 @@ Example：
 Nuance：[[forget to do / forget doing]] と同じ to/-ing の対応。指示・回想の場面で頻出。
 
 ### hardly / hardly ever
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. hardly：ほとんど〜ない（ほぼゼロ）
@@ -1110,28 +1102,20 @@ Example：
 Nuance：barely（かろうじて＝少しはある）と対比。頻度・程度の否定で最頻出。almost never は強調版、rarely はややフォーマル。
 
 ### barely
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：かろうじて／ぎりぎり（少しはある）
 Example：I barely slept. / I can barely hear you.（かろうじて聞こえる）
 Nuance：hardly（ほぼゼロ）との対比が重要。「なんとか達成」「ギリギリある」の場面で頻出。
 
 ### give it a try / give it a shot
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：試してみる／やってみる
 Example：I'll give it a try. / Just give it a shot.
 Nuance：try it より軽く前向きなニュアンス。give it a go は英寄り。挑戦・新しいことを提案する時の定番。
 
-### No, thank you.（お礼を返す用法）
-新規：✓
-重要度：★★★★★
-Meaning：いえ、こちらこそ（ありがとう）
-Example：— Thanks for helping me. — No, thank you for helping me. / I should be thanking you.
-Nuance：単なる遠慮（結構です）ではなく、お礼を返す用法。強調するなら「I should be thanking you.（お礼を言うべきなのは私）」がよりネイティブ。フォーマルなら「The pleasure is mine.」
-
 ### even though / even if
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. even though：〜なのに（実際に起こった事実）
@@ -1142,28 +1126,28 @@ Example：
 Nuance：though = 事実、if = 仮定 の原則。even を付けると「それでも」感が強まる。会話で頻繁に混同するので使い分け必須。
 
 ### in the meantime
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：その間に／それまでの間
 Example：I'll cook dinner. In the meantime, you can set the table.
 Nuance：meanwhile（同時進行）／ for now（とりあえず今は）と類似だが、in the meantime は「Aが終わるまでのつなぎ時間」ニュアンスが強い。会話・メールで頻出。
 
 ### keep someone in the loop
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：情報共有し続ける／状況を随時知らせる
 Example：Keep me in the loop. / I'll keep you in the loop.
 Nuance：仕事・プロジェクトで超頻出。update someone（最新情報を伝える）／ let someone know（知らせる）より「継続的な共有」ニュアンス。反対は keep someone out of the loop（情報を伏せる）。
 
 ### Make yourself at home
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：どうぞくつろいで／自分の家だと思って楽にして
 Example：Come in and make yourself at home.
 Nuance：家に招く時の定番。Help yourself（飲食物にご自由に）／ Get comfortable（楽にして）と組み合わせて使う。
 
 ### on the spot / put someone on the spot
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. その場で／即座に
@@ -1174,7 +1158,7 @@ Example：
 Nuance：①は決断・採用の即断で頻出。②は会議・質問攻めで「即答を迫る」ニュアンス。
 
 ### heads up / Give me a heads up
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. 念のためのお知らせ／事前警告
@@ -1185,14 +1169,14 @@ Example：
 Nuance：give someone a heads up が超頻出。「事前に一言」の定番。仕事・友人関係どちらでも自然。
 
 ### out of habit
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：習慣で／癖で／無意識に
 Example：I checked my phone out of habit. / I woke up at 6 a.m. out of habit.
 Nuance：automatically / without thinking と類似。理由を「意識せず癖で」と説明する時の定番。
 
 ### work for you / does that work for you?
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：
 　1. （人）に勤める
@@ -1205,21 +1189,20 @@ Example：
 Nuance：③は予定調整で超頻出。work with（一緒に働く）と混同注意。
 
 ### for the first time in ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：〜ぶりに
 Example：for the first time in weeks / months / years / a long time. / I went surfing for the first time in a few months.
 Nuance：「久しぶり」の最頻出フレーズ。年月・週数を入れる型で使う。after a long time より圧倒的に自然。
 
 ### freaking / fricking
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：めちゃくちゃ／マジで／くそ（強調）
 Example：It's freaking hot today. / That's freaking awesome! / I fricking love this song.
 Nuance：fucking のマイルド版。freaking の方が一般的。カジュアル会話で頻出。really / so / super より感情の起伏が乗る。
 
 ### grab a drink / grab coffee / grab lunch
-新規：✓
 重要度：★★★★★
 Meaning：
 　1. 軽く一杯飲みに行く
