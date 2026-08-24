@@ -1211,168 +1211,165 @@ Example：Let's grab a drink. / Do you want to grab a drink after work? / Let's 
 Nuance：grab =「さっと」「気軽に」。go for drinks / go out for drinks より軽い誘い方。誘いの初手で超頻出。
 
 ### no later than
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：遅くとも〜までに／〜を過ぎないように
 Example：Please submit it no later than Friday. / I'll be home no later than 8 p.m.
 Nuance：by より「期限を強調」する響き。ビジネスメールで頻出だが日常でも自然。at the latest と類似。
 
 ### on one's behalf / on behalf of ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：〜の代わりに／〜を代表して
 Example：Can you speak to my manager on my behalf? / My lawyer is handling everything on my behalf. / On behalf of the team, thank you.
 Nuance：on my/your/his/her/our behalf の型と、on behalf of + 組織・人 の型。仕事・代理・スピーチで頻出。
 
 ### It'll work out / Everything will work out
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：なんとかなる／きっとうまくいく
 Example：Don't worry. It'll work out. / Everything will work out in the end.
 Nuance：未来に対する前向きな励まし表現。[[It is what it is]]（過去を受け入れる）と対比。work out には「解決する・うまく収まる」の意味あり。
 
 ### More importantly / But more than that
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：それよりも重要なのは／でもそれ以上に
 Example：More importantly, I want more freedom. / But more than that, I wanted more freedom.
 Nuance：話題の重要度を段階的に上げる時の定番。何よりも伝えたいポイントを強調する時に。
 
 ### take turns (doing)
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：順番に／交代で（〜する）
 Example：We took turns driving. / Everyone takes turns singing. / Let's take turns.
 Nuance：take turns + doing の型。会議・家事・運転など日常で頻出。alternate（フォーマル）／ go one by one と類似。
 
 ### lead up to / leading up to
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：〜までの期間／〜に向けて（の準備期間）
 Example：Leading up to my trip, I was really busy. / I was really nervous leading up to it. / In the days leading up to the event, ...
 Nuance：イベント・締切・旅行前の「助走期間」を表す時の定番。before よりも「連続的な時間軸」ニュアンス。
 
 ### reach out to someone
-新規：✓
 重要度：★★★★★
 Meaning：（人に）連絡を取る／声をかける
 Example：He reached out to me last week. / Feel free to reach out to me anytime.
 Nuance：contact よりも柔らかく親しみのある表現。仕事・営業・友人関係で超頻出。相手から連絡してもらう時にも使う。
 
 ### come across as ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：〜という印象を与える／〜のように受け取られる
 Example：His comment came across as rude. / She comes across as very confident. / Some of her remarks can come across as offensive.
 Nuance：話し手の意図ではなく「相手にどう映るか」を表す。人物評・発言の印象を語る時に頻出。sound / seem より「受け手の解釈」を強調。
 
 ### In my opinion / From my perspective / Personally
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：私の意見では／私の視点では／個人的には
 Example：In my opinion, she's a good leader. / From my perspective, it's the right choice. / Personally, I think we should wait.
 Nuance：❌ From my opinion は不自然。正しくは「in my opinion」「from my perspective」。In my opinion と I think は意味が重なるためどちらか一方で十分。
 
 ### Have you heard of ~?
-新規：✓
 重要度：★★★★★
 Meaning：〜を聞いたことがある？／〜って知ってる？（存在を知っているか）
 Example：Have you heard of Yokohama? / Have you heard of that band?
 Nuance：Do you know ~? は「知り合い？」に聞こえがち。場所・人・作品などの「存在を知っているか」を尋ねるなら Have you heard of ~? が自然。
 
 ### I'm more of a ~ person
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：私はどちらかと言うと〜派／〜寄りの人間です
 Example：I'm more of a city person. / I'm more of a morning person. / I'm more of a dog person than a cat person.
 Nuance：自分の性格・好みをカジュアルに説明する定番。I prefer ~ より柔らかく会話的。
 
 ### express myself / express what I want to say
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：自分の考え・気持ちを表現する／言いたいことを表現する
 Example：I want to express myself more naturally. / I want to express what I really want to say. / I want to speak more naturally and without hesitation.
 Nuance：say what I want to say より「感情・考えを外に出す」感が強い。英語学習の目的を語る時の定番フレーズ。
 
 ### 数量＋名詞＋left（残っている）
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：~があと……残っている
 Example：We have only two days left. / There are only a few items left. / How much time do we have left? / How many tickets are left? / There's no food left.
 Nuance：leave の過去分詞由来「残された」。「数量＋名詞＋left」「have＋数量＋名詞＋left」「There is/are＋名詞＋left」の3型で使う。時間・チケット・食べ物の残量で頻出。
 
 ### not as much/big/large ~ as I thought / expected
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：思っていたほど（量・大きさが）~ない
 Example：There isn't as much food as I expected. / The portion isn't as large as I thought it would be. / This dish isn't as big as I thought.
 Nuance：❌ not so much as I thought は不自然（not so much as + 動詞 は「~さえしない」の別表現）。料理量なら much より portion / big / large が自然。as I expected / as I thought it would be の型。
 
 ### advise + 人 + to do / recommend
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：人に~するよう助言する／推奨する
 Example：My teacher advised me to practice every day. / I recommend practicing every day. / I recommend that you practice every day.
 Nuance：発音 advise /ədˈvaɪz/（動詞）／ advice /ədˈvaɪs/（名詞・不可算）。※recommend 人 to do とは通常言わない。recommend doing / recommend that S+V の型。
 
 ### Looking back / In retrospect / Thinking back
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：思い返すと／振り返ってみると
 Example：Looking back, I was too hard on myself. / Thinking back, I should have enjoyed that time more. / In retrospect, it was a valuable experience.
 Nuance：Looking back（会話で最も使いやすい）／ Thinking back（特定の記憶を思い返す）／ In retrospect（ややフォーマル）／ Come to think of it（そういえば）。過去語りの定番。
 
 ### get into ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：~に興味を持つ／~にハマり始める
 Example：I first got into EDM around 2010. / When did you get into photography?
 Nuance：be into ~（現在ハマっている状態）と対比。get into は「変化」、be into は「状態」。趣味・音楽の話で頻出。get hooked on / become obsessed with より軽い。
 
 ### catch someone's attention / grab someone's attention
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：人の注意・興味を引く
 Example：Avicii's music really caught my attention. / The headline grabbed my attention.
 Nuance：grab は catch より強い引力。intrigue someone（好奇心を刺激）より会話で使いやすい。音楽・映画・広告・見出しの話で頻出。
 
 ### be obsessed with ~ / can't stop ~ing
-新規：✓
 重要度：★★★★★
 Meaning：~に夢中になっている／~するのが止められない
 Example：I'm obsessed with that song. / I got really obsessed with "Beside Me." / I can't stop listening to that song.
 Nuance：be obsessed with（現在ハマっている状態）／ get obsessed with（ハマる変化）／ can't stop ~ing（会話的）。ネガティブ意味もあるが、趣味の話ではポジティブに使う。
 
 ### can't get ~ out of my head / be stuck in my head
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：~が頭から離れない／耳に残る
 Example：I can't get that song out of my head. / That song has been stuck in my head all day.
 Nuance：❌ The song can get out of my head は反対の意味になるので注意。曲・言葉・映像が頭から離れない時の定番。
 
 ### from then on / since then / after that
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：それ以降／それ以来／その後
 Example：From then on, I started discovering more EDM artists. / Since then, I've discovered many EDM artists. / After that, I went home.
 Nuance：既存 [[since then]] の補強。from then on＋過去形（過去の展開）／ since then＋現在完了（現在まで続く変化）／ after that＋過去形（単純な時系列）。使い分け必須。
 
 ### I've been meaning to ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：前から~しようと思っていた
 Example：There's something I've been meaning to tell you. / I've been meaning to ask you about that. / I've been meaning to try that restaurant.
 Nuance：単なる I want to ~ より「少し前からそのつもりだった」という継続性。会話・メール・SNSで頻出。切り出しに使うと自然。
 
 ### relate to ~
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：（自分にも似た経験があり）実感として共感する
 Example：I can relate to what you're going through. / I can totally relate.
 Nuance：understand より「自分にも経験がある・気持ちが分かる」ニュアンス。カジュアルな共感の定番。empathize with より会話的。
 
 ### come to a conclusion / reach a conclusion / arrive at a conclusion
-新規：✓
+ミス：×
 重要度：★★★★★
 Meaning：結論に達する／結論を出す
 Example：I try to reach a conclusion so that I can stop overthinking. / We finally came to a conclusion. / They arrived at the same conclusion.
@@ -2859,42 +2856,41 @@ Example：He avenged his brother.
 Nuance：revenge（個人的怒り）と区別。映画・物語で頻出。
 
 ### call off
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：中止する／取りやめる
 Example：They called off the meeting because of the storm. / The game was called off due to the rain.
 Nuance："cancel" よりカジュアル寄り。"put off"（延期）と混同注意（call off は中止、put off は延期）。受動態 "was called off" も頻出。
 
 ### out and about
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：外出している／出歩いている／元気に活動している
 Example：I was out and about all day running errands. / It's good to see you out and about again after your illness.
 Nuance：「病気やケガから回復して活動再開」の文脈でもよく使う。単に "be out" より活動的で健康的なニュアンス。
 
 ### on good terms with
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜と仲が良い／〜と良好な関係にある
 Example：I'm still on good terms with my ex-coworkers. / They broke up, but they remain on good terms.
 Nuance：get along with より「関係性の状態」に焦点。フォーマルにも使えるが会話でも普通に使う。対義：on bad terms with。
 
 ### pet peeve
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（自分にとって特に）イライラすること／地雷ポイント
 Example：My biggest pet peeve is people chewing loudly. / One of my pet peeves is when people don't return calls.
 Nuance："What's your biggest pet peeve?" は雑談・自己紹介の定番質問。[[ick]] は恋愛限定だが pet peeve はイライラ全般。
 
 ### props
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：賞賛・敬意（スラング）
 Example：Props to you for learning English every day! / Give him props for trying.
 Nuance："kudos" よりカジュアル、"hat's off to" より若者っぽい。「リスペクト！」的な軽い称賛。
 
 ### hella
-新規：✓
 重要度：★★★★
 Meaning：めっちゃ／すごく（スラング）
 Example：It's hella hot today. / She's hella cool.
