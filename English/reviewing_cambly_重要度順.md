@@ -3132,49 +3132,48 @@ Example：— The test was a little difficult. — That's an understatement! / T
 Nuance：ネイティブが軽く突っ込む時の定番。「To say that ~ is an understatement.」（〜と言うのでは足りない）の構文も頻出。動詞版は downplay。対義語は overstatement。
 
 ### I'm on board (with ~)
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：賛成／参加／協力する（同じ方向を向く）
 Example：I'm on board with that idea. / I'm totally on board. / I'm not on board with that.（賛成できない）
 Nuance：「同じ船に乗る」イメージ。I'm in / Count me in / I'm all for it と類似。会議・チーム内で合意を示す時に自然。
 
 ### As far as I'm concerned
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：私としては／私の意見では
 Example：As far as I'm concerned, it's a good idea. / As far as I'm concerned, the matter is closed.
 Nuance：「他の人はどうでもいいが、私はこう考える」という自分側視点の強調。Personally, I think / In my opinion / From my point of view と類似。
 
 ### As for ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜について言えば／〜に関しては（話題切り替え）
 Example：As for the plan, it's delayed. / As for me, I'll stay home.
 Nuance：「さて、その話だけど」と話題を絞る合図。[[When it comes to ~]] より「話題切り替え」寄り、[[In terms of ~]] より「対象を指す」寄り。
 
 ### How could you ~?
-新規：✓
 重要度：★★★★
 Meaning：よくそんなことできるね／なんでそんなことしたの（失望・驚き）
 Example：How could you do that? / How could you forget my birthday?
 Nuance：How can you ~? は「今の行動への非難」、How could you ~? は「起きたことへの失望・驚き」。感情がこもる。
 
 ### You're a lifesaver
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：本当に助かった！／救世主だよ
 Example：Thanks for helping me. You're a lifesaver.
 Nuance：You saved me / I owe you one と類似。感謝を大きく伝える時の定番。ちょっと大げさに褒める軽快なフレーズ。
 
 ### take place
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（計画された出来事が）行われる／開催される
 Example：The meeting took place yesterday. / The wedding will take place in June.
 Nuance：happen（自然発生的に起こる）／ occur（フォーマル）と対比。イベント・会議など予定された事に使う。
 
 ### get congested
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. （道路が）渋滞する
@@ -3185,7 +3184,7 @@ Example：
 Nuance：get crowded（人で混む）／ get packed（ぎゅうぎゅう）／ get jammed（大渋滞）と類似。生活での使い勝手が高い。
 
 ### stick out / stick out like a sore thumb
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. 突き出る／目立つ／浮く
@@ -3196,70 +3195,67 @@ Example：
 Nuance：ネガティブに「浮く」を強調するイディオムが sore thumb 版。日常でよく耳にする比喩。
 
 ### stand out
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：際立つ／目立つ／他と差が出る（ポジティブ寄り）
 Example：Her performance really stood out. / Her acting stood out more than the others'.
 Nuance：shine / excel / distinguish oneself と類似。[[stick out]] は「浮く」（ネガティブ寄り）、stand out は「際立つ」（ポジティブ寄り）。[[eye-catching]] は「見た瞬間目を引く」、[[noticeable]] は「気づくほど明確」との違いを押さえる。
 
 ### confident in ~ / confident that ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜に自信がある／〜だと確信している
 Example：I'm confident in my English skills. / I'm confident in my ability to learn new things. / I'm confident that I can handle it.
 Nuance：in の後は名詞・動名詞、that の後は文。自分の実力・可能性を語る時の定番。
 
 ### There's no way I can ~ unless ...
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜しない限り、絶対に無理
 Example：There's no way I can buy this unless I win the lottery.
 Nuance：「There's no way ~」＝絶対無理／「unless ~」＝〜しない限り。誇張・冗談交じりの拒否表現で頻出。
 
 ### How are you holding up?
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（大変そうだけど）大丈夫？／なんとかやってる？
 Example：You've been working a lot. How are you holding up?
 Nuance：単なる How are you? より「困難な状況がある前提」の気遣い表現。忙しい人・悲しみの中の人・病気の人などに。
 
 ### have second thoughts
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（一度決めたことに）迷いが出る／考え直す
 Example：I'm having second thoughts about quitting my job.
 Nuance：change my mind（気が変わる）／ hesitate（決断できず迷う）との違い：second thoughts は「決めた後に不安になる」ニュアンス。
 
 ### It's a long story
-新規：✓
 重要度：★★★★
 Meaning：話すと長くなる／いろいろあってね
 Example：— Why did you move? — It's a long story.
 Nuance：詳細を省略したい時の定番のはぐらかし。相手が興味を示せば話す、示さなければ深追いしない、というクッション。
 
 ### To make a long story short
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：簡単に言うと／結論から言うと／端的に言えば
 Example：To make a long story short, I didn't get the job.
 Nuance：長い説明から結論へ移る合図。要点だけ伝えたい時のフレーズ。省略形 long story short もあり。
 
 ### on the flip side
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：一方で／逆の面では／裏を返せば
 Example：It's expensive. On the flip side, it's very high quality.
 Nuance：on the other hand / however / that said と類似。メリット・デメリットの対比で自然。ややカジュアル寄り。
 
 ### genuinely
-新規：✓
 重要度：★★★★
 Meaning：本当に／心から／偽りなく
 Example：I'm genuinely happy for you. / I genuinely appreciate your help.
 Nuance：really よりも「本心で・偽りなく」の気持ちが強い。truly / sincerely / honestly と類似。既存 [[genuinely close]] は「本当に仲がいい」の慣用フレーズで別用法。
 
 ### try to do / try doing
-新規：✓
 重要度：★★★★
 Meaning：
 　1. try to do：〜しようと努力する（目標）
@@ -3270,70 +3266,69 @@ Example：
 Nuance：「try to fix」＝直そうと頑張る／「try fixing」＝直す方法を試す、と結果への到達度が異なる。to/-ing の使い分け必須。
 
 ### get to do
-新規：✓
 重要度：★★★★
 Meaning：〜する機会を得る／〜できる（チャンスがある）
 Example：I got to meet him in person. / I didn't get to see the movie.
 Nuance：have a chance to do / have the opportunity to do と類似。「ラッキーな経験・機会」ニュアンスが強く、ただの can より生き生きする。
 
 ### come to do
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：だんだん〜するようになる（時間をかけた変化・到達）
 Example：I came to understand his feelings. / She came to love the city. / We came to realize the importance of communication.
 Nuance：gradually learn to / eventually become aware of と類似。[[get to do]]（機会を得る）と対比：get to do は「その機会があった」、come to do は「時間をかけて変化した」。
 
 ### let alone
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：まして〜ない／〜どころか
 Example：I can't afford a bicycle, let alone a car.（自転車すら買えない、まして車なんて。）/ He can't even walk, let alone run.
 Nuance：「not A, let alone B」の型で使う。Bは A よりさらに難しい・程度が上のもの。誇張・強調で頻出。
 
 ### work overtime
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：残業する／時間外労働する
 Example：I worked overtime yesterday. / She's been working overtime a lot.
 Nuance：overtime pay（残業代）／ stay late（遅くまで残る）／ put in extra hours と類似。仕事の話で頻出。
 
 ### behind one's back / talk behind someone's back
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：陰で／本人に内緒で／陰口を言う
 Example：They talked about me behind my back. / Don't say things behind his back.
 Nuance：陰口・裏切りの文脈で頻出。反対は to someone's face（面と向かって）。
 
 ### look good on ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（服・色・髪型が）〜に似合う
 Example：That shirt looks good on you. / Blue looks good on her.
 Nuance：suit you より会話寄り。褒める時の定番。look great on ~ にすると強調度が上がる。
 
 ### You didn't! / You shouldn't have!
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：え、本当に！？／まさか！／そんなことしなくてもよかったのに！（驚き・感激のリアクション）
 Example：— I bought you a gift. — You didn't!
 Nuance：直訳「あなたはしなかった」ではない。プレゼント・親切・サプライズを受けた時の定番リアクション。You shouldn't have! も同系統（もっと感激強め）。
 
 ### humid / humidity
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：蒸し暑い／湿度が高い（humidity＝湿度）
 Example：It's hot and humid today. / The humidity is unbearable.
 Nuance：日本の夏の話で超頻出。damp（少し湿った）／ moist（しっとり）とは違い、humid は「空気全体の湿度」に使う。
 
 ### painfully（副詞）
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：痛いほど／困るほど／つらいくらい（強調）
 Example：painfully obvious（痛いほど明らか）／ painfully shy（極度の人見知り）／ painfully aware（痛いほど自覚している）／ painfully slow / painfully awkward / painfully honest / I'm painfully aware of my mistakes.
 Nuance：very が単なる「とても」なのに対し、painfully は「困るほど」「つらいほど」の感情が含まれる。ネガティブに強調する時の定番。
 
 ### see the point in ~ / You have a point / I can see your point
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. see the point in ~：〜する意味・価値がある
@@ -3346,28 +3341,28 @@ Example：
 Nuance：「I don't see the point in ~ing」＝「〜する意味が分からない」の否定型で超頻出。同意・反論の柔らかい導入としても使う。
 
 ### patch things up
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：仲直りする／関係を修復する
 Example：They patched things up after the argument.
 Nuance：make up（仲直り）／ reconcile（フォーマル）と類似。カジュアルな会話で「修復して丸く収める」ニュアンス。
 
 ### wrestle with ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜と葛藤する／苦しみながら取り組む
 Example：I'm wrestling with this decision. / She's wrestling with her feelings.
 Nuance：deal with（対処する）／ struggle with（苦労する）より「深い葛藤」ニュアンス。決断・感情・倫理的問題に対して。
 
 ### cold turkey / go cold turkey
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（習慣・依存を）一気にやめる／きっぱり断つ
 Example：I quit smoking cold turkey. / He went cold turkey on caffeine.
 Nuance：徐々に減らす cut back on / cut down on と対比。禁煙・禁酒・SNS断ちなど中毒・習慣を断ち切る話で頻出。
 
 ### go off script / go off track
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. go off script：台本・予定から外れる／アドリブで話す
@@ -3378,63 +3373,61 @@ Example：
 Nuance：プレゼン・会議で頻出。off script は意図的なアドリブも含む、off track は「本題から逸れる」に近い。
 
 ### happy-go-lucky
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：のんきな／楽天的な／気楽な
 Example：He's a happy-go-lucky guy.
 Nuance：easygoing（おおらか）／ carefree（心配事がない）／ optimistic（前向き）と類似だが、happy-go-lucky は「深く考えずニコニコ生きている」感じ。褒め言葉にも軽い揶揄にもなる。
 
 ### go out for drinks / go for drinks
-新規：✓
 重要度：★★★★
 Meaning：飲みに行く／お酒を飲みに出かける
 Example：We're going out for drinks after work. / Do you want to go out for drinks tonight?
 Nuance：[[grab a drink]] より「腰を据えて飲む」ニュアンス。仕事終わりの誘い定番。go for drinks はやや軽め、go out for drinks は「外に出て飲む」感が強い。
 
 ### It is what it is
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：仕方ない／現実を受け入れるしかない
 Example：We missed the train, but it is what it is.
 Nuance：「起きてしまったこと」に対する諦めと受容。That's life / What happens, happens と類似。[[It'll work out]]（未来への楽観）と対比。
 
 ### send ~ my way / send someone's way
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（仕事・チャンス・人などを）〜に紹介する／回してくれる
 Example：Agents often send clients my way. / Send some interesting projects my way. / Any good opportunities that come your way?
 Nuance：refer より会話寄り。仕事・案件・チャンスを回してもらう時のカジュアル表現。フリーランス・営業で頻出。
 
 ### introduce A to B
-新規：✓
 重要度：★★★★
 Meaning：AをBに紹介する
 Example：My friend introduced me to a client. / Let me introduce you to my colleague.
 Nuance：❌「introduce the project to me」より「introduce me to a client」の型が自然（人を人・機会に紹介する）。誰かを新しい世界・人に繋げる時に使う。
 
 ### give notice / give (my) two weeks' notice
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：退職・退去の通知をする
 Example：I gave my notice yesterday. / I gave my two weeks' notice.
 Nuance：米では「2週間前通知」が慣習で give my two weeks' notice が定型句。仕事を辞める・部屋を退去する時に。
 
 ### back out (of ~)
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：途中でやめる／撤回する／土壇場でキャンセルする
 Example：I almost backed out. / He backed out of the deal. / She backed out at the last minute.
 Nuance：withdraw / pull out と類似。カジュアルで「一度決めたことを引っ込める」ニュアンス。back out at the last minute は超頻出。
 
 ### conventional
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：一般的な／従来の／型にはまった
 Example：a conventional career / a conventional lifestyle / conventional wisdom
 Nuance：ニュートラル〜やや否定的。「面白みがない・型通り」の含みが出ることも。対義：unconventional / nontraditional。生き方・キャリアの話で頻出。
 
 ### take off（事業・キャリアが軌道に乗る）
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. （事業・キャリア・活動が）軌道に乗る／急成長する
@@ -3445,21 +3438,21 @@ Example：
 Nuance：Things are starting to pick up と類似だが、take off は「急上昇」ニュアンス。ビジネスの話で頻出。
 
 ### get by (in ~) / get by on ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（お金・能力などが十分ではないが）なんとかやっていく／最低限困らない程度にこなす
 Example：I can get by in English. / I can get by on my salary. / We get by somehow.
 Nuance：manage / cope with / survive と類似。「完璧ではないが、なんとかなる」ニュアンス。英語力・給料・生活費の話で頻出。
 
 ### retrieve / retrieve words
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（情報・記憶・物を）取り出す／取り戻す／頭から引き出す
 Example：I can't retrieve the word I want. / The brain retrieves stored information. / We can get hold of those words more quickly.
 Nuance：recall / recover / bring back と類似。英語学習の文脈では「頭の中から単語を引き出す」意味で頻出。get hold of words とほぼ同義。
 
 ### get hold of ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. 手に入れる
@@ -3472,7 +3465,7 @@ Example：
 Nuance：obtain / reach / retrieve と類似。文脈で意味が変わる万能フレーズ。connect や contact より会話寄り。
 
 ### stall / without stalling
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. 話が止まる／言葉に詰まる
@@ -3485,112 +3478,111 @@ Example：
 Nuance：英会話では「言葉に詰まる」の意味で頻出。hesitate / freeze up と類似。
 
 ### soak in / soak up
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（知識・雰囲気・情報などを）自然に吸収する／じっくり味わう
 Example：You've been soaking in loads of words. / I just want to soak up the atmosphere. / Soak in the moment.
 Nuance：absorb より「じっくり浸る」ニュアンス。学び・旅・体験を語る時に。
 
 ### structured lessons / structured
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：体系的に構成されたレッスン／体系立った
 Example：I prefer casual conversation to structured lessons. / We need a more structured approach.
 Nuance：free conversation / casual conversation（フリートーク）／ textbook-based lessons と対比。学習・仕事の進め方を説明する時に頻出。
 
 ### dominate / be dominated by
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜を支配する／〜に支配される／大きな影響力を持つ
 Example：Yokohama isn't dominated by one particular company. / Toyota dominates the local economy. / She dominated the conversation.
 Nuance：depend on / rely on（依存する）と類似だが、より強い「支配・独占」ニュアンス。産業・市場・会話などに使う。
 
 ### close down / shut down
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：閉鎖する／廃業する／営業を停止する
 Example：The factory closed down earlier this year. / They had to shut down the store.
 Nuance：go out of business（廃業）と類似。close down は「営業終了」、shut down は「機能停止・閉鎖」ニュアンスが強い。
 
 ### stimulate the economy / boost the economy
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：経済を刺激・活性化する／押し上げる
 Example：Do you think her policies are helping stimulate the economy? / The government tried to boost the economy.
 Nuance：revitalize the economy / support economic growth と類似。政治・経済ニュースで頻出。
 
 ### foundation（基礎・土台）
-新規：✓
 重要度：★★★★
 Meaning：基礎／土台／基盤
 Example：You've got your foundation. / We need to build a strong foundation first. / Trust is the foundation of any relationship.
 Nuance：base / basis と類似。学習・関係・組織の「基盤」を語る時に頻出。
 
 ### be drawn to ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：~に自然と惹かれる／引き込まれる
 Example：I was immediately drawn to his music. / I've always been drawn to tropical sounds. / She's drawn to challenging projects.
 Nuance：be attracted to / be fascinated by / be captivated by と類似だが、理由を明確に説明できない「自然と惹きつけられる」ニュアンス。人・音楽・場所・仕事に。
 
 ### unpredictable
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：予測できない／先が読めない
 Example：I love how unpredictable the song is. / He's unpredictable — you never know what he'll do next.
 Nuance：unexpected（予想外）／ unforeseeable（フォーマル）と類似。曲・展開・人の行動を語る時に。対義：predictable。
 
 ### in one's prime / at the height of one's popularity
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：全盛期で／人気絶頂で
 Example：One Direction was in their prime at the time. / She was at the height of her popularity. / The team was in their prime.
 Nuance：❌ on the prime（前置詞ミス）／✅ in one's prime。be huge at the time（カジュアル）も類似。芸能・スポーツ・キャリアの話で頻出。
 
 ### go freelance / work as a freelancer / work independently
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：フリーランスになる／フリーランサーとして働く／独立して働く
 Example：I'm getting ready to leave my job and go freelance. / She works as a freelancer. / I want to work independently.
 Nuance：go freelance が動詞的に「フリーランス転向」を表す最短表現。start my own business は「起業」寄り。
 
 ### land a project / land a client / secure a project / secure a contract
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：案件を獲得する／顧客を獲得する／契約を確保する
 Example：I need to find new clients and land some projects. / I landed a big client last week. / I'm trying to secure enough projects to support myself.
 Nuance：land は「努力して勝ち取る」会話的、secure は「確保する」ややビジネス的。フリーランス・営業の話で頻出。
 
 ### build a client base
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：顧客基盤を築く（継続的に仕事を得られる顧客層を作る）
 Example：My first priority is to build a solid client base. / It takes time to build a client base.
 Nuance：単に顧客を一人見つけるのではなく、継続性のある「基盤」を作るニュアンス。フリーランス・スタートアップで頻出。
 
 ### work remotely / work from anywhere
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：リモートで働く／どこからでも働く
 Example：I'll be able to work remotely from anywhere in the world. / My work can be done entirely online. / I want to travel the world while working remotely.
 Nuance：コロナ以降超頻出。work from home（在宅勤務）とは違い、場所を問わない働き方を強調。
 
 ### highlight（一番の見どころ）
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：最も印象的だったこと／一番の見どころ
 Example：What was the highlight of your trip to Montenegro? / The highlight of the year was our trip to Italy.
 Nuance：What was the best part? より洗練された聞き方。旅行・イベント・年の振り返りで頻出。
 
 ### From what someone told me / From what I've heard
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：人から聞いた話によると／私が聞いた限りでは
 Example：From what he told me, Georgia sounded like an amazing place. / From what I've heard, it's relatively affordable. / Based on what he told me, ...
 Nuance：既存 [[from what I've gathered]] と類似。断定を避けて「情報源は他人」と明示する前置き。旅行・ニュース・噂話で頻出。
 
 ### considerate / thoughtful
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. considerate：周囲への配慮がある（迷惑をかけない）
@@ -3601,7 +3593,7 @@ Example：
 Nuance：considerate は「相手の負担を減らす配慮」、thoughtful は「相手のために積極的に行動」。人物評で頻出。
 
 ### compassionate / empathetic
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. compassionate：苦しんでいる人への思いやりがある
@@ -3612,7 +3604,7 @@ Example：
 Nuance：compassion（同情心）／ empathy（共感）に対応する形容詞。医療・リーダー論・人物評で頻出。
 
 ### open-minded / narrow-minded
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. open-minded：異なる考えを柔軟に受け入れる
@@ -3623,14 +3615,14 @@ Example：
 Nuance：性格・文化観・議論で頻出。褒めるなら open-minded、批判するなら narrow-minded。
 
 ### down-to-earth
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：気取らず、現実的で親しみやすい
 Example：Despite his success, he's down-to-earth. / She's a down-to-earth person.
 Nuance：有名人・成功者に対する褒め言葉として頻出。humble と類似だが「地に足がついている」ニュアンス。
 
 ### persistent / resilient / decisive
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. persistent：諦めず粘り強い
@@ -3643,7 +3635,7 @@ Example：
 Nuance：名詞形は persistence / resilience / decisiveness。仕事・リーダーシップ・自己PRで頻出。
 
 ### insecure / indecisive
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. insecure：自分に自信がなく、不安を感じやすい
@@ -3654,7 +3646,7 @@ Example：
 Nuance：insecure は「内面の不安」、indecisive は「決められない」。自己分析・弱み紹介で頻出。
 
 ### assertive / aggressive
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. assertive：相手を尊重しながら、適切に自己主張できる（ポジティブ）
@@ -3665,7 +3657,7 @@ Example：
 Nuance：日本人が混同しがち。「自己主張が強い」の褒め言葉なら assertive。ビジネス・リーダー論で頻出。
 
 ### integrity / humility
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. integrity：誠実さ／高潔さ／確固とした道徳観
@@ -3676,21 +3668,21 @@ Example：
 Nuance：名詞。人物評・リーダー論の必須語。lack integrity / show humility の型で頻出。
 
 ### emotional intelligence / emotionally intelligent
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：感情知性（自分や他人の感情を理解し、適切に管理する能力）
 Example：A good leader needs emotional intelligence. / She's emotionally intelligent and good at handling conflicts.
 Nuance：EQ とも呼ばれる。ビジネス・リーダー論・自己啓発で超頻出。IQ より重要視される場面が多い。
 
 ### take pride in ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：~に誇りを持つ
 Example：I take pride in my work. / He takes pride in his craftsmanship.
 Nuance：❌ have pride about ~ より、take pride in ~ が自然なコロケーション。仕事・出自・成果を語る時に。
 
 ### complement each other / go hand in hand
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. complement each other：互いを引き立て合う／補完し合う
@@ -3701,56 +3693,56 @@ Example：
 Nuance：complement は「補完」、go hand in hand は「不可分な関係」。人・要素・概念の関係性を語る時に。
 
 ### think something through / think it through
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：物事を最後まで十分に検討する
 Example：I need some time to think it through. / I try to think things through and come to a conclusion.
 Nuance：既存 [[think (it) through]] の補強。consider carefully より「結論まで詰める」感じ。decision-making で頻出。
 
 ### reflect on ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：経験や出来事を振り返って、深く考える
 Example：I reflect on what went wrong. / Take some time to reflect on your career.
 Nuance：think about より「振り返って、そこから学ぶ」ニュアンス。年末振り返り・失敗分析・成長記録で頻出。
 
 ### become completely absorbed in ~ / be immersed in ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：~に完全に没頭する／浸る
 Example：When I'm interested in something, I become completely absorbed in it. / I was completely immersed in the book.
 Nuance：get caught up in / focus intensely on と類似。集中の度合いを表現する時に。仕事・趣味・学びの話で。
 
 ### carry on doing / carry on with ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：そのまま~し続ける／継続する
 Example：We carried on drinking after the game. / Carry on with your work. / Just carry on as usual.
 Nuance：continue doing より会話的（特にイギリス英語）。何かを中断せず続ける時のカジュアル表現。
 
 ### maintain boundaries / set boundaries
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（人間関係で）適切な境界線・距離を保つ／境界を設定する
 Example：I try to be friendly, but I also maintain some boundaries. / It's important to set boundaries at work.
 Nuance：メンタルヘルス・人間関係・仕事論で近年頻出。overly familiar（なれなれしすぎる）／ people-pleaser（好かれようとしすぎる人）と対比される概念。
 
 ### approachable
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：話しかけやすい／取っつきやすい
 Example：She's very approachable. / I try to be approachable without being overly familiar.
 Nuance：性格・態度の褒め言葉。上司・先生・接客業の人物評で頻出。intimidating（威圧的）の対義。
 
 ### lack + 名詞 / a lack of + 名詞
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：~が足りない（動詞：lack ~ ／名詞：a lack of ~）
 Example：Sometimes I lack focus. / I get distracted easily. / There's a lack of communication in this team.
 Nuance：❌ lack of my focus（動詞なのに of を入れる誤り）／✅ lack focus。名詞にする時だけ a lack of ~。頻出コロケーションミス。
 
 ### the word I was looking for / the word I had in mind
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：探していた単語／頭に思い描いていた単語
 Example：That's the word I was looking for. / "Decisiveness" was the word I had in mind. / I couldn't think of the word.
