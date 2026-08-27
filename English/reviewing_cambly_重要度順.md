@@ -2897,7 +2897,7 @@ Example：It's hella hot today. / She's hella cool.
 Nuance：カリフォルニア発祥のスラングだが全米で使われる。very / really のカジュアル版。若者・SNS頻出。
 
 ### be through / be through with
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. 終わっている／やり終えた
@@ -2908,7 +2908,6 @@ Example：
 Nuance："I'm through" は「作業が終わった」も「関係を切る」も両方あり得るので文脈判断が必要。[[go through]] は「経験するプロセス」で別物。
 
 ### go through
-新規：✓
 重要度：★★★★
 Meaning：
 　1. 経験する（特に辛い出来事）
@@ -2921,28 +2920,28 @@ Example：
 Nuance：[[be through]] は「終わった状態」、go through は「経験するプロセス」。"went through a lot"（色々あった）は日常頻出。
 
 ### wrap one's head around
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（難しいことを）理解する／腹落ちする
 Example：I can't wrap my head around this concept. / I'm still trying to wrap my head around the news.
 Nuance："can't wrap my head around ~" の否定形が超頻出。「頭が追いつかない・理解が及ばない」ニュアンス。figure out より感覚的な戸惑い感が強い。
 
 ### in a way / in a sort of way
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：ある意味では／言ってみれば
 Example：In a way, he's right. / In a sort of way, I understand what you mean.
 Nuance：断定を避けて相手の意見を部分的に認める便利な相槌。"in a way" が最頻出。kind of / sort of とほぼ同じニュアンス。
 
 ### blow (something) out of proportion
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：大げさにする／誇張する
 Example：You're blowing this out of proportion — it's not that serious. / The media blew the story out of proportion.
 Nuance："make a big deal out of ~" と同じニュアンス。対義は "keep in perspective"（冷静に捉える）や "downplay"（控えめに言う）。
 
 ### couldn't be / couldn't have been + 比較級
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. couldn't be + 比較級：今が最高／最悪
@@ -2953,42 +2952,41 @@ Example：
 Nuance："couldn't be happier"（この上なく幸せ）／"couldn't have asked for more"（これ以上望めない＝最高）など決まり文句が多い。文法パターンで覚える。
 
 ### self-taught
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：独学の
 Example：I'm self-taught — I never took formal English lessons. / He's a self-taught programmer.
 Nuance："I taught myself to ~" の形容詞版。自己紹介・経歴紹介で頻出。ポジティブな響き。[[learn ... on one's own]] と同じ独学系。
 
 ### learn ... on one's own
-新規：✓
 重要度：★★★★
 Meaning：独学で学ぶ／自力で覚える
 Example：I learned English on my own. / She learned coding on her own.
 Nuance：[[self-taught]] の動詞版。"by myself" と近いが、on my own の方が「他人に頼らず」感が強い。
 
 ### get ahead
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：成功する／出世する／他人より有利になる
 Example：She works hard to get ahead in her career. / It's difficult to get ahead without learning new skills.
 Nuance：[[forge ahead]]（前進するプロセス）に対して、get ahead は「他人より先に行く（結果・優位）」に焦点。"get ahead of someone"（〜を追い抜く）も頻出。
 
 ### Cut me some slack
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：大目に見て／勘弁して／少し手加減して
 Example：Cut me some slack — I just started this job. / Can you cut me some slack this time?
 Nuance："Give me a break." / "Go easy on me." と同義。相手にちょっとの寛容さを求める時の定番フレーズ。カジュアル。
 
 ### play one's cards right
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：うまく立ち回る／賢く行動する
 Example：If you play your cards right, you could get promoted. / She played her cards right and landed a great job.
 Nuance：カードゲーム比喩。「持ってる手札（状況・スキル）を戦略的に使う」ニュアンス。ビジネス・キャリアの話で頻出。
 
 ### steep
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. 急な（坂・角度）
@@ -3001,21 +2999,21 @@ Example：
 Nuance："steep learning curve"（学習曲線が急＝習得が難しい）は超頻出コロケーション。値段の「高い」も日常会話でよく使う。
 
 ### a while back
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：少し前に／しばらく前に
 Example：I met him a while back at a conference. / I quit smoking a while back.
 Nuance："the other day"（つい先日）より少し前、"a long time ago"（かなり前）より最近、というちょうど中間くらいのニュアンス。時期をぼかしたい時に便利。
 
 ### silver lining
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：不幸中の幸い／救い
 Example：The silver lining is that nobody was hurt. / Every cloud has a silver lining.
 Nuance：ことわざ "Every cloud has a silver lining"（どんな雲にも銀の縁がある＝どんな不幸にも良い面がある）から。ポジティブ思考の会話で頻出。
 
 ### be behind
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. 遅れている（仕事・スケジュール）
@@ -3028,98 +3026,95 @@ Example：
 Nuance：文脈で意味が大きく変わる基本語だが、日常会話で3つとも頻出。"I'm behind you." は励まし・支援の定番フレーズ。
 
 ### feel left out
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：仲間外れにされた気がする／自分だけ取り残された気分
 Example：I felt left out when they went to lunch without me. / Don't make her feel left out.
 Nuance：be excluded より感情寄りの表現。子供っぽく聞こえない自然な言い方。SNS・グループの話でよく出る。
 
 ### I'd kill for ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜が喉から手が出るほど欲しい／どうしても〜したい
 Example：I'd kill for a cold beer right now. / I'd kill for some sleep.
 Nuance："I'm dying for ~" と同じ強い欲求表現。文字通り「殺してでも」ではなく比喩。カジュアル会話で頻出。
 
 ### (time) sharp
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜時ちょうどに（時刻の後に置く副詞）
 Example：Be here at 7 sharp. / The meeting starts at 9 sharp.
 Nuance：exactly / promptly と同じだが "sharp" は時刻専用。ビジネス・約束事で「遅れるな」のニュアンスも含む。
 
 ### now that ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：もう〜だから／〜した今となっては
 Example：Now that you're here, let's start. / Now that I think about it, he was acting strange.
 Nuance：接続詞的用法。「〜という新しい状況が起きたから」の意味。会話・書き言葉両方で頻出。"now" は他に話題転換（Now, let's begin）や納得（Now I get it）にも使う。
 
 ### have the gall to / have the audacity to
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：厚かましく〜する／よくもまあ〜する
 Example：He had the gall to lie to my face. / She had the audacity to ask for a raise after being late every day.
 Nuance：既存の [[have the nerve (to ~)]] とほぼ同義。gall / audacity は「厚かましさ」の強調度が高く、nerve より驚き・呆れが濃い。悪意ある行為を非難する時に使う。
 
 ### come across
-新規：✓
 重要度：★★★★
 Meaning：偶然出会う／ふと見つける
 Example：I came across a really good song yesterday. / I came across an old photo in the drawer.
 Nuance：find（見つける）／ discover（新しい発見）と対比。「偶然性」がポイント。曲・記事・人など何にでも使える。
 
 ### rarely
-新規：✓
 重要度：★★★★
 Meaning：めったに〜ない（ややフォーマル）
 Example：I rarely eat fast food.
 Nuance：hardly ever と同義だが少し硬い。ライティング寄り。会話では [[hardly / hardly ever]] の方が自然。
 
 ### cut to the chase
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：本題に入る／回りくどい話をやめる
 Example：Let's cut to the chase. / Cut to the chase — what do you want?
 Nuance：get to the point / long story short / the bottom line is と類似。少し勢いがあってカジュアル。
 
 ### if it weren't for ~ / if it hadn't been for ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：〜がなければ／〜がいなかったら（仮定法）
 Example：If it weren't for you, I would have failed. / If it hadn't been for her advice, I'd have quit.
 Nuance：without と類似だが仮定法で感謝・感慨を強調する場面で頻出。過去なら hadn't been for。
 
 ### my treat / It's on me
-新規：✓
 重要度：★★★★
 Meaning：私のおごり／私が払う
 Example：My treat. / It's on me tonight. / I'll get this.
 Nuance：会計時のカジュアル定番。既存の [[treat (oneself) to ~]] とは別用法（人に奢る）。Let me treat you もあり。
 
 ### you name it
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（列挙の締めで）何でもある／ありとあらゆるもの
 Example：They sell coffee, tea, juice — you name it. / Movies, books, music — you name it, I love it.
 Nuance：A, B, C ... you name it の型で使う。列挙を締めて「全部揃ってる」を印象付ける。
 
 ### get someone through ~
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（人）が困難を乗り越えるのを助ける／支える
 Example：My friends got me through a tough time. / Coffee gets me through the day.
 Nuance：物・人・習慣が「支えとなって乗り切らせてくれる」ニュアンス。help someone through / pull someone through と類似。[[see someone through]] は「最後まで見届ける」寄り。
 
 ### run errands
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：（生活上の小さな）用事を済ませる／雑用を片付ける
 Example：I need to run some errands. / I'm running errands this afternoon. / She was out running errands.
 Nuance：銀行・郵便局・スーパー・クリーニングなどをまとめて片付けるイメージ。errands はほぼ複数形。take care of some errands / get things done とも言える。
 
 ### off the hook / let someone off the hook
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：
 　1. （責任・義務・トラブルから）免れる
@@ -3130,7 +3125,7 @@ Example：
 Nuance：get away with it / dodge responsibility / be in the clear と類似。「You're not off the hook yet.（まだ許してないよ）」も頻出。
 
 ### understatement / That's an understatement
-新規：✓
+ミス：×
 重要度：★★★★
 Meaning：控えめな表現／過小表現
 Example：— The test was a little difficult. — That's an understatement! / That's the understatement of the year.（今年一番の言わなすぎ）
