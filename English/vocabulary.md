@@ -105,7 +105,7 @@ Example：
 　2. Sakura supported Naruto all the way, even when others doubted his plan to save Sasuke.
 
 ### reach out
-ミス：××
+ミス：×××
 重要度：★★★★★
 Meaning：To contact someone, especially to ask for help, give support, or start communication.（連絡を取る／声をかける）
 Example：When Naruto noticed that Sasuke was struggling alone, he decided to reach out and offer his help, no matter how many times he was pushed away.
@@ -243,7 +243,7 @@ Example：
 　3. Sasuke ground his teeth as he watched Itachi disappear into the night.
 
 ### crack
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：
 　1. A line or fracture on a surface where something is breaking.（ひび／割れ目）
@@ -293,7 +293,7 @@ Meaning：To force someone to leave a place.（追い出す）
 Example：When Naruto kept painting graffiti on the Hokage Monument, the villagers wanted to kick him out of the marketplace for causing trouble.
 
 ### right off the bat
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：Immediately; from the very beginning.（いきなり／最初から）
 Example：Right off the bat, Naruto activated his Shadow Clone Jutsu to overwhelm the enemy before they could react.
@@ -378,7 +378,7 @@ Nuance／Usage：Very informal and offensive in polite settings.
 Example：Naruto says, “I really fucked up the Shadow Clone jutsu this time—half of them disappeared before hitting the target!”
 
 ### take in
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：
 　1. To absorb or understand information.（理解する／取り入れる）
@@ -424,13 +424,13 @@ Meaning：In the past, especially a time the speaker remembers fondly.（昔は�
 Example：Back in the day, Kakashi used to train with his old Team Minato—he often tells Naruto stories about his rivalry with Obito.
 
 ### know-it-all
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：A person who acts like they know everything, often annoyingly.（知ったかぶり／何でも知っているふりをする人）
 Example：Naruto rolled his eyes and muttered, “Sasuke acts like such a know-it-all whenever Kakashi explains a new jutsu.”
 
 ### hop on
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：
 　1. To get onto something (a vehicle, a ride).（乗り込む）
@@ -460,7 +460,7 @@ Example：
 　2. Rock Lee flexed his arms to show the result of his daily taijutsu training.
 
 ### deliberate
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：
 　1. (Adjective) Done on purpose; intentional.（意図的な）
@@ -470,7 +470,7 @@ Example：
 　2. Tsunade deliberated for hours before sending Team 7 on the dangerous S-rank mission.
 
 ### petty
-ミス：×××
+ミス：××××
 重要度：★★★★
 Meaning：Caring too much about small, unimportant things; small-minded or mean over minor issues.（ささいなことにこだわる／器が小さい）
 Example：Sasuke called Naruto petty for getting upset about who finished their ramen faster, but Naruto refused to let it go.
