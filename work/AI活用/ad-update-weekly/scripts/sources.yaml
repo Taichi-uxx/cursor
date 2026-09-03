@@ -1,0 +1,35 @@
+# 広告アップデート情報の巡回対象ソース
+# 追加・削除するときはこのファイルを編集する（SKILL.mdはこのファイルを読む前提）
+
+blogs:
+  - name: プライムナンバーズ
+    url: https://primenumbers.co.jp/blog/
+    hint: 記事一覧ページ。日付は各記事カードに記載。広告アップデート系のカテゴリで絞れれば絞る
+  - name: アナグラム リスティング新機能
+    url: https://anagrams.jp/blog/listing_new/
+    hint: 「リスティング新機能」タグの一覧。アップデート系がまとまっている
+  - name: ソラミチ
+    url: https://www.sora-michi.co.jp/blog
+    hint: 記事一覧ページ。広告アップデート系のみ抽出
+  - name: PLAN-B 広告アップデート
+    url: https://www.plan-b.co.jp/blog/tag/ad-update/
+    hint: 「ad-update」タグの一覧。全件がアップデート系のはずなので日付フィルタのみでOK
+  - name: h-full Marketing+1
+    url: https://h-full.co.jp/marketingplus1/articles/
+    hint: 記事一覧ページ。広告アップデート系のみ抽出
+
+lyc:
+  - name: LINEヤフー for Business ニュース
+    url: https://www.lycbiz.com/jp/news/
+    hint: Yahoo!広告 / LINE広告 のアップデート・プレスリリース
+
+x_handles:
+  # ⚠️ ユーザーが具体アカウントを渡した際にここへ追記する
+  # 例:
+  # - GoogleAdsJP
+  # - MetaJapan_M
+  # - YJmarketing
+  # - LINE_Ads_JP
+  # - TikTokAdsJP
+  # - Anagrams_Inc
+  []
