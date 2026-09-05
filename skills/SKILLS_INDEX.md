@@ -78,6 +78,7 @@
 | English-addlist | 英単語・フレーズ・学びメモを `vocabulary.md` or `reviewing_cambly_日付順.md` に既存フォーマットで追記。重複はスキップ、`vocabulary.md`／`重要度順` 側には「新規：✓」フラグ付与、日付順を更新したら重要度順にも自動同期 | Cambly後・海外ドラマ視聴後に出会った表現をストックしたいとき |
 | contract-manager | 業務委託契約を一元管理。`独立PJT/契約書関連/契約一覧.md` の追加・更新、月初のChatwork通知（launchd）セットアップ、通知への回答（自動延長／終了／期日指定延長）に応じた一覧書き換えまで担当 | `/contract-manager` で契約追加・通知回答による更新・cron導入をしたいとき |
 | ad-update-weekly | 広告代理店ブログ5サイト＋LINEヤフー公式ニュース＋X投稿（Grok Live Search）から広告媒体アップデート情報を過去7日で収集し、重複排除＋AI要約（タイトル＋URL＋3行）＋媒体別グループ化してChatworkに週次通知。launchd（週次cron）対応 | `/ad-update-weekly` で広告媒体アップデートを週次でChatworkに投げたいとき／初回セットアップ時 |
+| competitor-weekly | 案件別3c分析の直接競合について、Meta広告ライブラリ（Playwright MCP）／リスティング広告LP／newsroom・PRTimesリリースを過去7日で収集し、Chatwork集約ルームに案件別セクションで週次通知＋各案件memory.mdに「競合ウォッチ」セクションを追記蓄積。対象案件は`active_clients.yaml`、案件別探索設定は各案件フォルダの`competitor_sources.yaml`で管理。launchd（月曜9:30）対応 | `/competitor-weekly` で担当案件全社の競合の動きを週次で把握・蓄積したいとき／初回セットアップ時 |
 
 ---
 
@@ -92,4 +93,4 @@
 
 ---
 
-**インストール済み**: 30 ｜ **最終更新**: 2026-09-03
+**インストール済み**: 31 ｜ **最終更新**: 2026-09-05

@@ -24,12 +24,9 @@ lyc:
     hint: Yahoo!広告 / LINE広告 のアップデート・プレスリリース
 
 x_handles:
-  # ⚠️ ユーザーが具体アカウントを渡した際にここへ追記する
-  # 例:
-  # - GoogleAdsJP
-  # - MetaJapan_M
-  # - YJmarketing
-  # - LINE_Ads_JP
-  # - TikTokAdsJP
-  # - Anagrams_Inc
-  []
+  - ishigurodo         # 石黒同
+  - LAPPER_s_HIGH      # LAPPER_s_HIGH
+  - webshinzaemon      # Web新左衛門
+  - AdsShogun          # 広告将軍
+  - BtoB_hachiware     # BtoB界のはちわれ
+  - shev_webmarke      # shev / Webマーケ

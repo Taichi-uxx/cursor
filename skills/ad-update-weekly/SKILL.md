@@ -4,7 +4,8 @@ description: >-
   広告媒体（Google/Meta/Yahoo!/LINE/TikTok/X 等）のアップデート情報を、
   広告代理店ブログ5サイト＋LINEヤフー公式ニュース＋X投稿から週次で収集し、
   過去7日 & 既通知URL除外でフィルタし、AI要約（タイトル＋URL＋3行）＋
-  媒体別グループ化してChatworkに通知する。X投稿は xAI Grok API の Live Search を使用。
+  媒体別グループ化してChatworkに通知する。X投稿は xAI Grok API の X Search ツール
+  （/v1/responses）を使用。
   ユーザーが `/ad-update-weekly` を呼び出したとき、または「広告アップデート」
   「媒体アップデート」「週次通知」に関連する会話で使う。
 disable-model-invocation: true
@@ -100,6 +101,27 @@ URL: <ソースURL>
 - 1ソースあたり最大10件までに絞る（多すぎるならAIが上位10件を選ぶ）
 - Playwright MCP を使うときは isolated モード前提（グローバル `.mcp.json` で設定済）
 
+**403 Forbidden時のフォールバック**:
+
+WebFetch/curl直接が403で弾かれるサイト（例: anagrams.jp）は、ブラウザUAとRefererを
+偽装する `fetch_ua.py` ヘルパーで取得する。**サブエージェントには最初からこのヘルパーの
+存在を伝え、WebFetchが403だったら即Bashで切り替えるよう指示すること**。
+
+```bash
+# 記事一覧ページ → <a>タグとアンカーテキストだけ抽出（トークン節約）
+/Users/apple/.cursor/work/AI活用/ad-update-weekly/scripts/.venv/bin/python \
+  /Users/apple/.cursor/work/AI活用/ad-update-weekly/scripts/fetch_ua.py \
+  "<URL>" --links --max-chars 5000
+
+# 記事詳細ページ → 本文テキスト抽出
+/Users/apple/.cursor/work/AI活用/ad-update-weekly/scripts/.venv/bin/python \
+  /Users/apple/.cursor/work/AI活用/ad-update-weekly/scripts/fetch_ua.py \
+  "<記事URL>" --text --max-chars 8000
+```
+
+`fetch_ua.py` は Chrome UA + `Referer: https://www.google.com/` + `Accept-Language: ja` を送る。
+`--links` は `<a href>	<アンカーテキスト>` タブ区切り、`--text` は script/style除去済み可視テキスト。
+
 ### Step 4: X投稿の取得（XAI_API_KEY があるときのみ）
 
 `sources.yaml` の `x_handles` が空でなく XAI_API_KEY があるなら、Bashツールで実行:
@@ -112,6 +134,11 @@ URL: <ソースURL>
 
 出力JSONの `posts` 配列を後段で統合する。`x_handles` が空なら **X収集はスキップ**
 （ユーザーにアカウント名を渡してもらう案内をログに残す）。
+
+`grok_x_search.py` は `--retries N`（デフォルト1）で JSON生成に失敗した場合に自動再試行。
+Grokが検索途中で reasoning に token を使い切って生JSONを返せないケース（`_parse_error: true`
+かつ citations多数）で1回だけリトライする。それでも失敗するアカウントは
+ハンドルを1つずつ分割して個別リクエストにする（ハンドル数を減らすと安定する）。
 
 ### Step 5: URL重複排除
 
@@ -244,7 +271,17 @@ x_handles:
 
 ### Step 5: launchd 登録（週次実行）
 
-`~/Library/LaunchAgents/com.taichi.ad-update-weekly.plist` を Writeツールで作成:
+plist 本体は `scripts/com.taichi.ad-update-weekly.plist` に**同梱済み**なので、
+ユーザーに以下3コマンドを実行してもらうだけでよい:
+
+```bash
+cp "/Users/apple/.cursor/work/AI活用/ad-update-weekly/scripts/com.taichi.ad-update-weekly.plist" ~/Library/LaunchAgents/
+launchctl unload ~/Library/LaunchAgents/com.taichi.ad-update-weekly.plist 2>/dev/null
+launchctl load ~/Library/LaunchAgents/com.taichi.ad-update-weekly.plist
+launchctl list | grep ad-update-weekly   # 登録確認
+```
+
+plistの中身は以下相当（毎週月曜9:00に `claude -p "/ad-update-weekly"` を叩く）:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -305,6 +342,11 @@ launchctl unload ~/Library/LaunchAgents/com.taichi.ad-update-weekly.plist
 - LYC (`lycbiz.com`) は Yahoo!広告と LINE広告の情報が混在するので、media 判定は本文を読んで判別
 - X投稿は Grok API のレスポンス品質にムラがある。返ってこないアカウント名は
   `sources.yaml` から一時外す or `--days` を延ばして再試行
+- xAI の Live Search（`search_parameters`）は2026年時点で廃止済み。現在は Agent Tools API
+  の `x_search` ツール（`/v1/responses` エンドポイント）を使う。`grok_x_search.py` は
+  対応済みだが、xAI 側で再びスキーマ変更されたら要追従（410 Gone が出たらここを疑う）
+- x_search の `allowed_x_handles` は **1リクエスト最大20件**。sources.yaml で20超になったら
+  複数リクエストに分割する
 - 全媒体ゼロ件のときは Chatwork送信しない（履歴も更新しない）→ 見逃し防止
 - Chatworkメッセージが長すぎるとき（5000字目安）は媒体単位で分割送信
 - launchd はシェル環境を継承しないので、Python も `claude` コマンドも絶対パスで指定

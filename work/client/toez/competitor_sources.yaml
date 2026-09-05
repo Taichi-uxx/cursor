@@ -1,0 +1,131 @@
+# toez（ベビーパーク／株式会社TOEZ） 競合ウォッチ設定
+#
+# competitor-weekly スキルが週次で参照。各競合ごとに以下を登録:
+#   - name          : 表示名（3c分析.md の 2-1 の教室名と揃える）
+#   - company       : 運営会社名（Meta広告ライブラリの検索フォールバック用）
+#   - meta_ads:
+#       page_ids    : Meta広告ライブラリのPage ID配列。空でも可（会社名で検索）
+#       search_terms: page_id が引けない時の検索語（会社名/ブランド名）
+#   - listing:
+#       keywords    : Google検索で広告出稿を狙う語（指名/BIG）
+#   - releases:
+#       newsroom_urls        : 各社の公式ニュース/お知らせページURL
+#       prtimes_company_ids  : PRTimesの企業ID配列
+#
+# ID/URLがまだ調べきれていない場合は空でOK。skillは空フィールドをスキップして
+# 動作可能な範囲でレポートする（未設定項目は最終Chatworkメッセージの末尾に列挙して補完を促す）。
+#
+# 最終更新: 2026-09-05（PRTimes ID/newsroom URLを一次調査済み）
+
+client_name: toez
+display: 株式会社TOEZ（ベビーパーク）
+
+# 除外したい自社ワード（自社案件がリスティングで拾われるのを弾く）
+self_exclude_keywords:
+  - ベビーパーク
+  - BabyPark
+  - TOEZ
+
+competitors:
+  - name: 七田式教室
+    company: しちだ・教育研究所
+    meta_ads:
+      page_ids: []
+      search_terms: ["七田式教室", "しちだ・教育研究所"]
+    listing:
+      keywords: ["七田式", "七田式教室", "しちだ 幼児教室"]
+    releases:
+      # /news/ は404。正式なお知らせ一覧は /information/
+      newsroom_urls: ["https://www.shichida.co.jp/information/"]
+      prtimes_company_ids: ["36589"]  # 株式会社しちだ・教育研究所
+
+  - name: EQWEL（イクウェル）
+    company: EQWEL
+    meta_ads:
+      page_ids: []
+      search_terms: ["EQWEL", "イクウェル"]
+    listing:
+      keywords: ["EQWEL", "イクウェル", "幼児教室 eqwel"]
+    releases:
+      # 更新頻度は低め（月〜四半期）
+      newsroom_urls: ["https://www.eqwel.jp/news/"]
+      # 37193=旧法人アカウント、184203=新法人アカウント。取りこぼし防止で両方
+      prtimes_company_ids: ["37193", "184203"]
+
+  - name: Baby Kumon
+    company: 公文教育研究会
+    meta_ads:
+      page_ids: []
+      search_terms: ["Baby Kumon", "ベビーくもん"]
+    listing:
+      keywords: ["ベビーくもん", "Baby Kumon"]
+    releases:
+      # /press-release/ は404。プレスは /press/、BtoCお知らせは /oshirase/
+      newsroom_urls:
+        - "https://www.kumon.ne.jp/press/index.html"
+        - "https://www.kumon.ne.jp/oshirase/index.html"
+      prtimes_company_ids: ["5438"]  # 日本公文教育研究会
+
+  - name: ミキハウス キッズパル
+    company: ミキハウス アンド 小学館プロダクション
+    meta_ads:
+      page_ids: []
+      search_terms: ["ミキハウス キッズパル", "キッズパル"]
+    listing:
+      keywords: ["キッズパル", "ミキハウス 幼児教室"]
+    releases:
+      # /company/news/ は404。/blogs/news はキッズパル固有ニュース皆無（アパレル中心）
+      # →ノイズ多めのため要フィルタ。当面は空で運用しPRTimes側で拾う
+      newsroom_urls: []
+      # 114288=キッズパル運営元（本命）、3837/27487は服飾/持株側で参考
+      prtimes_company_ids: ["114288", "3837", "27487"]
+
+  - name: めばえ教室
+    company: 学研ホールディングス（旧・綜合教育センター）
+    meta_ads:
+      page_ids: []
+      search_terms: ["めばえ教室"]
+    listing:
+      keywords: ["めばえ教室"]
+    releases:
+      # wwwなしが正。更新頻度は極めて低い
+      newsroom_urls: ["https://mebae.co.jp/news_list/"]
+      # 2021年に学研HDに事業譲渡。以降のリリースは学研HD(2535)から配信
+      # 学研HD全体のリリースに混ざるため「めばえ」タイトルフィルタ推奨
+      prtimes_company_ids: ["2535"]
+
+  - name: コペル
+    company: クラ・ゼミ（旧・株式会社コペル／2024年9月事業譲受）
+    meta_ads:
+      page_ids: []
+      search_terms: ["幼児教室コペル", "コペル 幼児教室"]
+    listing:
+      keywords: ["幼児教室 コペル", "コペル 幼児"]
+    releases:
+      # /news/ は404。新着情報は /about/information/
+      newsroom_urls: ["https://copel.co.jp/about/information/"]
+      # 56494=旧コペル、140158=現運営クラ・ゼミ（他事業含むためタイトルで「コペル」フィルタ）
+      prtimes_company_ids: ["56494", "140158"]
+
+  - name: ドラキッズ
+    company: 小学館集英社プロダクション
+    meta_ads:
+      page_ids: []
+      search_terms: ["ドラキッズ"]
+    listing:
+      keywords: ["ドラキッズ"]
+    releases:
+      # shopro.co.jp/news/ はShoPro全社ニュース中心。ドラキッズ固有はサブドメインTOPが最も鮮度高
+      # ただし専用一覧URL無し・JS動的表示。とりあえずShoPro側で拾う
+      newsroom_urls: ["https://www.shopro.co.jp/news/"]
+      prtimes_company_ids: ["2610"]  # 株式会社小学館集英社プロダクション
+
+# --- 参考：BIG（一般）ワード ---
+# 案件全体を横断してリスティング広告を確認したい語（各競合keywordsとは別枠）。
+# SKILL.md 側で「BIGワード検索」フェーズに使う。
+big_keywords:
+  - 幼児教室
+  - 0歳 習い事
+  - 幼児教育
+  - ベビースクール
+  - 早期教育

@@ -1,0 +1,19 @@
+# 競合ウォッチ対象案件レジストリ
+# - dir: work/client/<dir>/ 配下の案件フォルダ名
+# - display: Chatwork通知やレポート内の表示名（省略時は dir をそのまま使う）
+# - enabled: false にすると一時停止（休眠案件・引き継ぎ済み案件はここで切る）
+#
+# 新規案件を追加するときは:
+#   1. work/client/<dir>/competitor_sources.yaml を作る（雛形はtoezを参考）
+#   2. ここに { dir, display, enabled: true } を追記
+#
+clients:
+  - dir: toez
+    display: 株式会社TOEZ（ベビーパーク）
+    enabled: true
+  # - dir: marcari
+  #   display: マーキャリ（株式会社エムエム総研）
+  #   enabled: false
+  # - dir: green
+  #   display: green（株式会社アトラエ）
+  #   enabled: false
