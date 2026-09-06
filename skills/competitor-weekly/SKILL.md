@@ -3,9 +3,13 @@ name: competitor-weekly
 description: >-
   クライアント案件ごとに定義した競合（3c分析.md 2-1 直接競合マップの企業）を対象に、
   過去7日の「新規Meta広告クリエイティブ／リスティング広告の遷移先LP／自社ニュース・PRTimesリリース」
-  を週次で収集し、Chatwork集約ルームに通知＋各案件の memory.md に週次サマリを蓄積する。
-  Meta広告ライブラリはAPIではなく Playwright MCP で各社ページを直接見に行く（API経由は非推奨）。
-  対象案件は scripts/active_clients.yaml、案件別の探索設定は各案件フォルダの
+  を週次で収集し、Chatwork集約ルームに軽量サマリを通知＋詳細HTMLレポート（バナー画像込み）
+  をローカルに生成＋各案件のmemory.mdに週次サマリを蓄積する。
+  Meta広告ライブラリは Apify Actor `curious_coder/facebook-ads-library-scraper` で取得
+  （Meta公式APIは政治広告のみカバーのため商業広告用途に非対応）。リスティングLPも
+  Apify Actor `apify/google-search-scraper`（focusOnPaidAds+RESIDENTIAL proxy）で取得。
+  newsroomのみPlaywright/WebFetchのサブエージェントで収集。対象案件は
+  scripts/active_clients.yaml、案件別の探索設定は各案件フォルダの
   competitor_sources.yaml で管理。ユーザーが `/competitor-weekly` を呼び出したとき、
   または「競合ウォッチ」「競合の動き」「競合の週次通知」に関連する会話で使う。
 disable-model-invocation: true
@@ -52,10 +56,12 @@ Bashで以下を実行し、必要なキーとvenvが読めるか確認:
   -c "import os,yaml,feedparser; from dotenv import load_dotenv; \
       load_dotenv('/Users/apple/.cursor/設定まわり/taichi-tamura/.env'); \
       print('CHATWORK_API_TOKEN:', 'ok' if os.environ.get('CHATWORK_API_TOKEN') else 'MISSING'); \
-      print('CHATWORK_ROOM_ID:', 'ok' if (os.environ.get('CHATWORK_ROOM_ID_COMPETITOR') or os.environ.get('CHATWORK_ROOM_ID')) else 'MISSING')"
+      print('CHATWORK_ROOM_ID:', 'ok' if (os.environ.get('CHATWORK_ROOM_ID_COMPETITOR') or os.environ.get('CHATWORK_ROOM_ID')) else 'MISSING'); \
+      print('APIFY_TOKEN:', 'ok' if os.environ.get('APIFY_TOKEN') else 'MISSING (Meta広告収集スキップ)')"
 ```
 
 - CHATWORK_API_TOKEN / ROOM_ID が MISSING → **セットアップ節** へ誘導
+- APIFY_TOKEN が MISSING → Meta広告収集Step 3-Aはスキップし、リスティング＋リリースのみで続行
 - venvが無い（ImportError）→ **セットアップ節** へ誘導
 
 ### Step 2: 対象案件の解決
@@ -77,99 +83,135 @@ Bashで以下を実行し、必要なキーとvenvが読めるか確認:
 `subagent_type=Explore` を基本、Meta広告ライブラリ／リスティングは Playwright MCP を使うため
 `subagent_type=general-purpose` を使う（Playwright MCPが必要な場合）。
 
-#### 3-A. Meta広告ライブラリ収集（競合1社=1エージェント）
+#### 3-A. Meta広告ライブラリ収集（Apify経由・1案件=1バッチ呼び出し）
 
-各社に対して `general-purpose` サブエージェントを1つ起動:
+Meta広告ライブラリの一般商業広告はAPI非公開（政治広告のみ公式APIあり）のため、
+Apify Actor `curious_coder/facebook-ads-library-scraper` 経由で取得する。
+Playwright並列サブエージェント方式は廃止（Meta仕様変更に脆く、DOM/CAPTCHA対応が重かった）。
 
+**特徴**:
+- 料金 $0.75 / 1,000 ads（週次70広告なら **月$0.23**、Apify無料枠$5内で十分収まる）
+- Actor側でproxy/CAPTCHA対応済み、Meta仕様変更にメンテナー追随
+- 1案件全競合を1回のBashコマンドで捌ける（サブエージェント不要）
+
+**実行手順**:
+
+案件ごとに、`competitor_sources.yaml` の全competitorから `{competitor, search_terms}` を
+抽出したJSON配列を組み立て、stdin経由で `fetch_meta_ads_apify.py --batch` に流す:
+
+```bash
+# 例: toez案件
+echo '[
+  {"competitor":"七田式教室","search_terms":["七田式教室","しちだ・教育研究所"]},
+  {"competitor":"EQWEL","search_terms":["EQWEL","イクウェル"]},
+  {"competitor":"Baby Kumon","search_terms":["Baby Kumon","ベビーくもん"]},
+  {"competitor":"キッズパル","search_terms":["ミキハウス キッズパル","キッズパル"]},
+  {"competitor":"めばえ教室","search_terms":["めばえ教室"]},
+  {"competitor":"コペル","search_terms":["幼児教室コペル","コペル 幼児教室"]},
+  {"competitor":"ドラキッズ","search_terms":["ドラキッズ"]}
+]' | /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/.venv/bin/python \
+     /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/fetch_meta_ads_apify.py \
+     --batch --country JP --days 14 --limit 10 --json
 ```
-Meta広告ライブラリを Playwright MCP で開き、以下の広告主の過去{days}日以内に
-active になっている広告クリエイティブを抽出せよ。API経由は使わない。
 
-対象広告主: <競合名 / 会社名>
-Page ID（あれば優先）: <page_ids>
-検索フォールバック語: <search_terms>
-URL例: https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=JP&q=<会社名>
-今日の日付: <YYYY-MM-DD>
-過去何日以内か: <days>
-
-手順:
-1. Playwright MCP でMeta広告ライブラリを開き、日本(JP) × 全広告 × Active に絞る
-2. Page ID があればページ直接指定、無ければ search_terms で検索
-3. 表示された各広告カードから ad_archive_id を必ず取得（URL末尾のid）
-4. 「Started running on YYYY-MM-DD」の日付が過去{days}日以内のもののみ抽出
-5. クリエイティブの要点（ヘッドライン／訴求／フォーマット：静止画・動画・カルーセル）を短く要約
-
-出力（JSONのみ、前後に文章不要）:
+**出力スキーマ**（そのままChatworkメッセージ組み立てに使える）:
+```json
 {
-  "creatives": [
+  "results": [
     {
-      "ad_archive_id": "1234567890",
-      "url": "https://www.facebook.com/ads/library/?id=1234567890",
-      "started_on": "YYYY-MM-DD",
-      "format": "静止画|動画|カルーセル|不明",
-      "headline": "<ヘッドライン or 主要コピー>",
-      "summary_1line": "<訴求・見どころ 1行>"
+      "competitor": "七田式教室",
+      "queries": ["七田式教室","しちだ・教育研究所"],
+      "creatives": [
+        {
+          "ad_archive_id": "1234567890",
+          "url": "https://www.facebook.com/ads/library/?id=1234567890",
+          "started_on": "YYYY-MM-DD",
+          "format": "image|video|carousel|unknown",
+          "page_name": "...",
+          "page_id": "...",
+          "headline": "...",
+          "body_snippet": "...",
+          "is_active": true
+        }
+      ]
     }
   ]
 }
-
-該当なしなら {"creatives": []}。
-ad_archive_id が取れないカードはスキップ（推測禁止）。
-1広告主あたり最大10件までに絞る（多すぎるなら新しい順に上位10件）。
 ```
 
-**Gotcha**: Meta広告ライブラリは頻繁にレイアウトが変わる。カードのDOMが取れないときは
-Playwright MCPで `browser_snapshot` して構造を再確認してから抽出セレクタを組み直す。
+**後段の追加フィルタ（Claudeが手動で判定）**:
+Actor は search_terms でマッチした広告を全部返すので、以下のノイズ除去はClaude側で行う:
+1. **業態違い**: 例）「コペル」で「コペルプラス」（療育系）が混ざる → page_name / headline で
+   幼児教室と関係ないものを除外
+2. **同名別会社**: 例）「ミキハウス」の場合、キッズパル運営会社と服飾会社を区別 → page_name / URL で判定
+3. **採用広告など目的違い**: 例）「公文教育研究会」で「くもんの先生募集」の採用広告が返る →
+   headline/body に「募集」「採用」等が含まれるものを除外
 
-#### 3-B. リスティング広告のLP収集（案件1件=1エージェント）
+判定はClaudeが Read で JSON を確認して自然言語で行う（複雑ルールを持たせない）。
 
-案件ごとに `general-purpose` サブエージェントを1つ起動（各社×keywords を1つのエージェントで捌く）:
+#### 3-B. リスティング広告のLP収集（Apify経由・1案件=1バッチ呼び出し）
 
+Apify Actor `apify/google-search-scraper` 経由で取得。`focusOnPaidAds=true` + RESIDENTIAL proxy(JP) 必須
+（デフォルト設定だとGoogleのbot検知で paidResults がほぼ0件になる）。Playwright方式は廃止。
+
+**特徴**:
+- 料金 $1.80 / 1,000 SERPs（週20SERP = **月$0.15**）
+- Actor側でproxy切替・広告カード判別済み（paidResults配列に分離）
+- 1案件全kwを1回のBashコマンドで捌ける（サブエージェント不要）
+
+**実行手順**:
+
+案件ごとに、`competitor_sources.yaml` の全competitor.listing.keywords＋big_keywordsを
+JSON配列に組み立てて stdin経由で `fetch_listing_apify.py --batch` に流す:
+
+```bash
+# 例: toez案件
+echo '{
+  "queries": [
+    {"competitor":"七田式教室","keyword":"七田式"},
+    {"competitor":"七田式教室","keyword":"七田式教室"},
+    {"competitor":"EQWEL","keyword":"EQWEL"},
+    {"competitor":"EQWEL","keyword":"イクウェル"},
+    {"competitor":"Baby Kumon","keyword":"ベビーくもん"},
+    {"competitor":"キッズパル","keyword":"キッズパル"},
+    {"competitor":"めばえ教室","keyword":"めばえ教室"},
+    {"competitor":"コペル","keyword":"幼児教室 コペル"},
+    {"competitor":"ドラキッズ","keyword":"ドラキッズ"},
+    {"competitor":"_BIG","keyword":"幼児教室"},
+    {"competitor":"_BIG","keyword":"0歳 習い事"},
+    {"competitor":"_BIG","keyword":"幼児教育"},
+    {"competitor":"_BIG","keyword":"ベビースクール"},
+    {"competitor":"_BIG","keyword":"早期教育"}
+  ],
+  "exclude_domains": ["babypark.jp"],
+  "exclude_keywords": ["ベビーパーク","BabyPark","TOEZ"]
+}' | /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/.venv/bin/python \
+     /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/fetch_listing_apify.py \
+     --batch --country jp --json
 ```
-Google検索でリスティング広告の遷移先LPを Playwright MCP で収集する。
-「広告」「Ad」「Sponsored」の表記があるカードだけ対象。オーガニックは無視する。
 
-案件: <display>
-検索語リスト:
-  # 競合の指名/BIGワード（各社ごと）
-  - {"competitor":"七田式教室","keywords":["七田式","七田式教室"]}
-  - {"competitor":"EQWEL","keywords":["EQWEL","イクウェル"]}
-  ...
-  # 案件全体のBIGワード（competitor="_BIG" とする）
-  - {"competitor":"_BIG","keywords":["幼児教室","0歳 習い事"]}
-
-除外語（自社を弾く）: <self_exclude_keywords>
-
-手順（1keywordずつ）:
-1. Playwright MCP で https://www.google.co.jp/search?q=<keyword> を開く
-2. 検索結果のうち「広告」「Sponsored」表記があるカードを列挙
-3. 各広告カードから遷移先URLを取得（クリックせずaタグhref優先。JSリダイレクトなら実際に開いて最終URL）
-4. self_exclude_keywords がURLまたは表示ドメインに含まれるものは除外
-5. `?utm_*` `&gclid=*` `&fbclid=*` 等の変動パラメータを除去して canonical_url を作る
-6. 遷移先LPのタイトル・ヘッドライン（<title> or FVコピー）を短く要約
-
-出力（JSONのみ）:
+**出力スキーマ**:
+```json
 {
   "listings": [
     {
       "competitor": "七田式教室",
       "keyword": "七田式",
-      "canonical_url": "https://www.shichida.co.jp/lp/xxx",
-      "raw_url": "<元URL>",
-      "display_domain": "shichida.co.jp",
-      "title": "<LPタイトル>",
-      "summary_1line": "<FVコピー・訴求 1行>"
+      "canonical_url": "https://center.shichida.co.jp/...",
+      "raw_url": "<Google aclk URL>",
+      "display_domain": "center.shichida.co.jp",
+      "title": "<LP見出し>",
+      "summary_1line": "<説明文>",
+      "ad_position": 1
     }
   ]
 }
-
-該当なしなら {"listings": []}。
-Google側で reCAPTCHA が出たら、Playwrightで待機し人間介入は求めず、
-最大3回リトライして駄目ならその keyword はスキップ（他keywordは続行）。
 ```
 
-**Gotcha**: Google検索は連続アクセスでCAPTCHAが出やすい。keyword間に短い待機を入れる
-（Playwright側で `browser_wait_for` 2-3秒）。それでもCAPTCHAならスキップ。
+**own判定（Chatwork組み立て時にClaudeが行う）**:
+- `display_domain` が対象competitorの公式ドメイン → `own=true`（本体LP）
+- それ以外 → `own=false`（他競合／類似業種の横流入 LP）
+- 分類はChatworkメッセージで「■ 競合本体LP」「■ 他競合／類似業種の横流入LP（要警戒）」と分ける
 
 #### 3-C. リリース情報収集（案件1件=1エージェント）
 
@@ -238,50 +280,88 @@ printf '%s\n' "meta_ad:xxx" "listing_lp:https://..." "release:https://..." | \
 
 返ってきたIDに該当するシグナルだけ残す。
 
-### Step 5: Chatworkメッセージ組み立て
+### Step 5A: HTMLレポート生成（案件ごと）
 
-**単一メッセージ**として以下フォーマットで組み立てる（案件が複数なら案件セクションで区切る）:
+**まずHTMLレポートを生成する**（Chatworkメッセージにはこのファイルパスをリンクとして埋め込む）。
+集約したシグナル（Meta広告×フィルタ後、リスティング、リリース、So What）を `build_html_report.py`
+に流し込む。出力先は `reports/YYYY-MM-DD/<client_dir>.html` （ローカルファイル）。
+
+```bash
+echo '{
+  "client_display":"株式会社TOEZ（ベビーパーク）",
+  "period_from":"YYYY-MM-DD",
+  "period_to":"YYYY-MM-DD",
+  "meta_ads": {"七田式教室":[...], "コペル":[...], "ドラキッズ":[...]},
+  "listings": [{"competitor":..., "keyword":..., "canonical_url":..., "own":true|false, ...}],
+  "releases": [{"competitor":..., "posted_at":..., "title":..., "url":..., "summary_1line":...}],
+  "so_what": ["示唆1", "示唆2", ...]
+}' | /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/.venv/bin/python \
+     /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/build_html_report.py \
+     --client-dir <案件dir>
+```
+
+戻り値：生成HTML絶対パス（`/Users/apple/.cursor/work/AI活用/competitor-weekly/reports/YYYY-MM-DD/<案件dir>.html`）
+→ Chatworkメッセージに `file://<絶対パス>` として埋め込み
+
+Meta広告のcreativeオブジェクトに事前に `pitch` フィールドを追加する（Claudeがbody_snippetを読んで
+「キャンペーン＋主訴求＋CTA」の1行に要約したもの。HTMLレポート・Chatworkメッセージ両方で使う）。
+
+### Step 5B: Chatworkメッセージ組み立て（軽量版）
+
+**方針**: Chatworkは骨格だけ、詳細（画像・全文body・全件）はHTMLレポートに任せる。
+目安: 3000字前後。各競合上位5件までChatworkに、残りは「他N件（HTMLレポート参照）」で流す。
+
+**各Meta広告の1行要点は「キャンペーン＋主訴求＋CTA」**の形式でClaudeがbody_snippetを読んで生成:
+- 例: `入会金0円CP(〜9/30) ／ 少人数月齢別・低年齢帯訴求 ／ →無料体験誘導`
+- キャンペーン: 「入会金0円」「初月半額」「秋のスタート応援」等（期限があれば併記）
+- 主訴求: 「少人数月齢別」「低年齢帯」「オンライン」「英会話」「知育」等
+- CTA: `snapshot.cta_text` を日本語化（Learn more→無料体験誘導、Sign up→申込誘導 等）
 
 ```
 [info][title]🕵️ 競合ウォッチ週報 YYYY-MM-DD[/title]
 対象期間: YYYY-MM-DD 〜 YYYY-MM-DD
-対象案件: <N>件 / 新規シグナル合計: <M>件（Meta広告 <a> / リスティングLP <b> / リリース <c>）
+シグナル: <M>件（Meta <a> / LP <b> / リリース <c>）
+
+📊 詳細レポート（画像・訴求軸込み）:
+file:///Users/apple/.cursor/work/AI活用/competitor-weekly/reports/YYYY-MM-DD/<案件dir>.html
 
 ━━━━━━━━━━━━━━━━━━━━
 【<案件display>】
 ━━━━━━━━━━━━━━━━━━━━
 
-▼ Meta広告クリエイティブ（新規 <n>件）
-■ <競合名>
-  ・[YYYY-MM-DD / 動画] <ヘッドライン>
-    要点: <summary_1line>
-    URL: https://www.facebook.com/ads/library/?id=<id>
+▼ Meta広告 (<n>件)
+■ <競合名>（<n>件）
+  ・[YYYY-MM-DD/format/Nバリエ] <キャンペーン ／ 主訴求 ／ →CTA>
+    <Meta広告ライブラリURL>
+  ・…他N件（HTMLレポート参照）
+■ 新規Meta広告なし: <競合A> / <競合B>
 
-▼ リスティング広告LP（新規 <n>件）
-■ <競合名>
-  ・[kw: <keyword>] <LPタイトル>
-    要点: <summary_1line>
-    URL: <canonical_url>
+▼ リスティングLP (<n>件)
+■ 競合本体LP（<n>件）
+  ・[kw:<keyword>] <LPタイトル> (<display_domain>)
+■ 他競合/類似業種の横流入LP（<n>件・要警戒）
+  ・[kw:<複数kwカンマ結合>] <LPタイトル> (<display_domain>)
 
-▼ プレスリリース／お知らせ（新規 <n>件）
-■ <競合名>
+▼ プレスリリース／お知らせ (<n>件)
+■ <競合名>（<n>件）
   ・[YYYY-MM-DD] <タイトル>
-    URL: <url>
+  ・…他N件
 
-━━━━━━━━━━━━━━━━━━━━
-【<次の案件>】
-（同様）
+📌 今週のSo What
+・<示唆1>
+・<示唆2>
+・<示唆3>
 
-⚠️ 設定未整備（要対応）
-・toez の 七田式教室: PRTimes企業ID未登録
-・green: competitor_sources.yaml 未作成
+⚠️ ノイズ除外: <n>件（詳細はHTMLレポート末尾）
 [/info]
 ```
 
 **ルール**:
+- 各競合で新規5件超なら上位5件のみChatworkに出し、残りは「他N件（HTMLレポート参照）」表記
+- Chatworkメッセージ内には個別広告のbody_snippet／link_url／画像URLは載せない（HTMLに任せる）
 - 各案件で該当ゼロのシグナル種別セクションは省略
-- 全案件・全種別ゼロなら「今週は新規シグナルなし」の1行だけ送る（履歴更新もmemory.md更新もなし）
-- Chatwork 1メッセージ上限は5000文字目安。超えそうなら案件単位で分割送信
+- 全案件・全種別ゼロなら「今週は新規シグナルなし」の1行だけ送る（HTML生成もmemory.md更新もなし）
+- Chatwork 1メッセージ上限は5000文字目安。案件数が多くて超えそうなら案件単位で分割
 - ⚠️ 設定未整備は本文末尾。空なら省略
 
 ### Step 6: Chatworkへ送信
@@ -366,10 +446,15 @@ CHATWORK_ROOM_ID=<既定の通知先ルームID>
 
 # 競合ウォッチを別ルームに送りたい場合のみ（優先される）
 CHATWORK_ROOM_ID_COMPETITOR=<競合ウォッチ専用ルームID>
+
+# Apify（Meta広告ライブラリ収集用・必須）
+APIFY_TOKEN=<Apify Console → Settings → Integrations で発行>
 ```
 
 - Chatwork APIトークン: https://www.chatwork.com/service/packages/chatwork/subpackages/api/token.php
 - Chatwork ルームID: 対象ルームを開き URL 末尾 `#!rid1234567890` の `1234567890`
+- Apify サインアップ: https://apify.com/sign-up （無料プランで月$5クレジット付与、本用途は月$0.23程度）
+- Apify APIトークン: サインアップ後 Console → Settings → Integrations → Personal API tokens
 
 ### Step 3: 案件を登録
 
@@ -451,14 +536,18 @@ launchctl unload ~/Library/LaunchAgents/com.taichi.competitor-weekly.plist
 ## Gotchas
 
 - **.env は絶対に Read/Write/表示しない**（CLAUDE.md ルール）。追記はユーザーに依頼
-- **Meta広告ライブラリはAPIを使わない**（ユーザー方針）。必ず Playwright MCP で各社ページを直接見る
-- **収集は必ず並列サブエージェント**で行い、本文HTMLを親コンテキストに落とさない（品質優先）
+- **Meta広告ライブラリはApify経由**（`curious_coder/facebook-ads-library-scraper`）。Meta公式APIは政治広告のみのため一般商業広告は取れない
+- **リスティングLPもApify経由**（`apify/google-search-scraper`）。**`focusOnPaidAds=true` + RESIDENTIAL proxy(JP) 必須**（デフォルトだとJP paidResults がほぼ0件）。`fetch_listing_apify.py` は設定済み
+- Playwright方式は Meta広告・リスティングの両方から廃止。newsroom収集のみサブエージェントで実施
+- **Apify Actor返却データのノイズ除去はClaude側で行う**: 業態違い（例: コペルプラス=療育、公文=採用広告）、同名別会社（例: ミキハウス=服飾/教室）を page_name / headline を見て除外
+- **各Meta広告に `pitch` フィールドをClaudeが付与**する必要あり（build_html_report.pyとChatworkメッセージ両方で使う）。「キャンペーン＋主訴求＋CTA」形式（例: `入会金0円CP(〜9/30) ／ 少人数月齢別 ／ →無料体験誘導`）でbody_snippetから自然要約
+- **HTMLレポートは毎週別ディレクトリ**（`reports/YYYY-MM-DD/<案件dir>.html`）に生成。過去分も自然に蓄積・閲覧可能
+- **ローカルHTMLファイルなので、Chatworkでは`file:///Users/apple/...`形式のパスを載せる**。ユーザーは自分のMacで開く（他デバイスからは見れない・将来的にホスティング検討）
 - 掲載日が読み取れない記事・広告はスキップ（推測禁止）
-- リスティング検索で reCAPTCHA が出たら最大3回リトライしてダメならそのkeywordはスキップ（他は続行）
-- 検索クエリの URL変動パラメータ（`utm_*`, `gclid`, `fbclid`）は canonical化してから重複排除。ここを怠ると毎週同じLPを"新規"として通知してしまう
-- self_exclude_keywords は必ずリスティング側で適用（自社案件が"競合の動き"として通知される事故を防ぐ）
-- Meta広告カードのDOMが変わったら Playwright MCP の `browser_snapshot` で構造を再確認して抽出セレクタを組み直す（Metaは頻繁にレイアウト変更する）
-- Playwright MCP は `--isolated` オプション必須（グローバル `.mcp.json` で設定済。プラグイン更新で上書きされたら再適用）
+- 検索クエリの URL変動パラメータ（`utm_*`, `gclid`, `fbclid`, `gad_source` 等）は canonical化してから重複排除。`fetch_listing_apify.py` の canonicalize_url で自動処理済み
+- self_exclude_keywords は必ずApify呼び出し時の `exclude_keywords` に渡す（自社案件が"競合の動き"として通知される事故を防ぐ）
+- Apifyクレジット切れ（HTTP 402）が出たら通知末尾に警告を出して残りカテゴリで続行
+- Google SERPの `url` フィールドは aclk 経由の追跡URLで実際の遷移先ドメインは `displayedUrl` に入る（例: `example.com › パンくず` 形式）。process_paid で handled 済み
 - memory.md 追記は Edit で最小差分。既存構造（フロントマター・イベントログ）を壊さない
 - 全案件・全種別ゼロの週は Chatwork送信も memory.md 更新もしない（見逃し防止・ログ肥大化防止）
 - Chatworkメッセージが長すぎるとき（5000字目安）は案件単位で分割送信
@@ -470,7 +559,15 @@ launchctl unload ~/Library/LaunchAgents/com.taichi.competitor-weekly.plist
 ## 関連ファイル
 
 - スクリプト実体: `/Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/`
+  - `fetch_meta_ads_apify.py` - Meta広告収集（Apify curious_coder Actor）
+  - `fetch_listing_apify.py` - リスティングLP収集（Apify apify/google-search-scraper）
+  - `fetch_prtimes.py` - PRTimesリリース収集
+  - `build_html_report.py` - HTMLレポート生成
+  - `send_chatwork.py` - Chatwork送信
+  - `dedupe.py` - 通知IDの重複排除履歴管理
+  - `resolve_clients.py` - active_clients.yaml→案件別competitor_sources.yaml展開
+- HTMLレポート出力先: `/Users/apple/.cursor/work/AI活用/competitor-weekly/reports/YYYY-MM-DD/<案件dir>.html`
 - 履歴・ログ: `/Users/apple/.cursor/work/AI活用/competitor-weekly/data/`
 - 案件レジストリ: `/Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/active_clients.yaml`
 - 案件別探索設定: `/Users/apple/.cursor/work/client/<案件>/competitor_sources.yaml`
-- 参考: 広告アップデート週次スキル `/Users/apple/.cursor/skills/ad-update-weekly/SKILL.md`（同様に launchd + Chatwork API + 並列サブエージェント設計）
+- 参考: 広告アップデート週次スキル `/Users/apple/.cursor/skills/ad-update-weekly/SKILL.md`（同様に launchd + Chatwork API 設計）
