@@ -1,0 +1,8 @@
+2026-09-07T11:54:59	meta_ad:1421582550164984
+2026-09-07T11:54:59	meta_ad:2558102978011556
+2026-09-07T11:54:59	meta_ad:1697197061839896
+2026-09-07T11:54:59	meta_ad:1407871621303091
+2026-09-07T11:54:59	release:https://copel.co.jp/events/morioka_tsutaya202609-3/
+2026-09-07T11:54:59	release:https://copel.co.jp/events/morioka_tsutaya202609-2/
+2026-09-07T11:54:59	release:https://copel.co.jp/events/morioka_tsutaya202609/
+2026-09-07T11:54:59	release:https://copel.co.jp/events/kasugabaru2609/

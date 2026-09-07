@@ -1,6 +1,8 @@
 #!/bin/bash
 # ad-update-weekly の launchd（週次自動化）登録スクリプト。
 # 実行方法: bash /Users/apple/.cursor/work/AI活用/ad-update-weekly/scripts/setup_launchd.sh
+#
+# ※plistの内容を変更した場合、このスクリプトを再実行すればアンロード→再ロードされる
 
 set -e
 

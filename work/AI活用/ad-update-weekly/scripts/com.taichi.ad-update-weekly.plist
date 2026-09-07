@@ -9,7 +9,7 @@
     <array>
         <string>/bin/bash</string>
         <string>-lc</string>
-        <string>/usr/local/bin/claude -p "/ad-update-weekly" --output-format text --permission-mode acceptEdits &gt;&gt; "/Users/apple/.cursor/work/AI活用/ad-update-weekly/data/launchd.log" 2&gt;&amp;1</string>
+        <string>/usr/local/bin/claude -p "/ad-update-weekly" --output-format text --permission-mode bypassPermissions &gt;&gt; "/Users/apple/.cursor/work/AI活用/ad-update-weekly/data/launchd.log" 2&gt;&amp;1</string>
     </array>
 
     <key>StartCalendarInterval</key>

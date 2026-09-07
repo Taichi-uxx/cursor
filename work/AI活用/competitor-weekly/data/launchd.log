@@ -1,0 +1,45 @@
+Chatwork送信が Claude Code の権限分類でブロックされました。作業自体は完了しています。以下、送信予定の内容とファイルパスをご確認ください。
+
+**📄 HTMLレポート（ブラウザで開けます）**
+`file:///Users/apple/.cursor/work/AI活用/competitor-weekly/reports/2026-09-07/toez.html`
+
+**💬 Chatwork送信予定メッセージ**
+`/tmp/competitor_weekly_msg.txt`（4,561字）
+
+```
+[info][title]🕵️ 競合ウォッチ週報 2026-09-07[/title]
+対象期間: 2026-08-31 〜 2026-09-07
+シグナル: 25件（Meta 12 / LP 9 / リリース 4）
+
+▼ Meta広告 (12件)
+■ ミキハウス キッズパル（8件・2ユニーク×バリエ）
+  ・[8-31] 期間限定入会CP ／ 学習姿勢の基礎作り（0歳10ヵ月〜通えるミキハウス幼児教室）
+  ・[8-31] 入会金０円CP(〜9/30) ／ 0歳10ヵ月〜小3・スタートアップCP
+■ ドラキッズ（4件・2ユニーク×バリエ）
+  ・[8-31] 入会CP実施中 ／ 0歳10ヵ月〜親子で学べる「脳育×体験」
+  ・[9-3]  夏→秋スタート応援CP ／ 体験レッスン無料+資料請求サンプルワーク進呈
+
+▼ リスティングLP (9件)
+■ 本体LP: Baby Kumon / キッズパル / めばえ / コペル 各1件
+■ 横流入(要警戒): めばえが 5kw で1位獲得
+  → kw: 七田式 / イクウェル / 幼児教室eqwel / キッズパル / ベビースクール
+  → 競合社名kw＋BIGワードを面で買い付けているシグナル
+
+▼ リリース (4件): コペルが盛岡TSUTAYA/春日原で体験会イベント4本
+
+📌 So What
+・めばえが最大の脅威 → ベビーパークkwへの侵食有無を自社確認推奨
+・秋スタート・入会金0円CPが同時多発（9/30期限）
+・0歳10ヵ月〜低年齢訴求で被り
+・コペルは教室単位の体験会告知で地域密着攻勢
+
+⚠️ ノイズ除外: 34件（七田式Meta=ピラティス/レーシック、EQWEL kw=書道LP、PRTimes 25件=幼児教室外、ドラキッズ リスティング=Apifyタイムアウト）
+```
+
+**手動送信する場合**（承認後）
+```bash
+cat /tmp/competitor_weekly_msg.txt | /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/.venv/bin/python \
+  /Users/apple/.cursor/work/AI活用/competitor-weekly/scripts/send_chatwork.py
+```
+
+memory.md追記と `dedupe.py add-batch` による通知履歴記録は、Chatwork送信の成否に紐付いた副作用なので、送信を承認して実行できたら合わせて実施します。承認しますか？
