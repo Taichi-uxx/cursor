@@ -162,6 +162,130 @@ Example：
 　2. Kakashi hunched over his book, not looking up even when the whole team walked in.
 Nuance："I have a hunch that ~" が超頻出。名詞用法（勘）で使う場面が圧倒的に多い。
 
+### bizarre
+新規：✓
+重要度：★★★★★
+Meaning：Very strange or unusual in a way that is surprising or interesting.（奇妙な／異様な）
+Example：Kakashi found it bizarre that Naruto could master Sage Mode faster than Jiraiya ever did.
+Nuance："weird" よりフォーマル寄りで語感が強い。「ちょっと変」ではなく「明らかにおかしい」レベル。日常会話でも普通に使う。
+
+### get a hold of
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. To succeed in contacting or reaching someone.（連絡がつく）
+　2. To grab or take physical possession of something.（手に入れる／掴む）
+Example：
+　1. Sakura spent all morning trying to get a hold of Tsunade, but the Hokage was in an emergency council meeting.
+　2. Once Orochimaru gets a hold of the Sharingan, no one in the Leaf will be safe.
+Nuance：口語では "get ahold of" と一語で書かれることも。「連絡がつく」の意味が圧倒的に多い。
+
+### give someone a hard time
+新規：✓
+重要度：★★★★★
+Meaning：To tease, criticize, or make things difficult for someone (usually not seriously).（からかう／厳しくあたる）
+Example：Kiba loved giving Naruto a hard time about his ramen obsession, but they both knew it was just friendly teasing.
+Nuance：本気で意地悪する時にも、冗談でからかう時にも使える万能フレーズ。文脈で強度が変わる。
+
+### pick up on
+新規：✓
+重要度：★★★★★
+Meaning：To notice or become aware of something subtle (a feeling, a hint, a mistake).（察する／気づく）
+Example：Kakashi immediately picked up on the tension between Sasuke and Naruto during the mission briefing.
+Nuance：五感より「感じ取る」ニュアンス。空気・感情・違和感を察知する時に頻出。"pick up on the hint"（ヒントに気づく）が定番。
+
+### that's too bad
+新規：✓
+重要度：★★★★★
+Meaning：An expression of sympathy or mild disappointment.（それは残念だね／気の毒に）
+Example："I sprained my ankle during training." "That's too bad—rest up, we need you for tomorrow's mission."
+Nuance：軽い同情から皮肉まで幅広い。深刻な悲しみには軽すぎるので使わない。似た "That's a shame" よりカジュアル。
+
+### I feel sorry for you
+新規：✓
+重要度：★★★★★
+Meaning：An expression of pity or sympathy for someone in a bad situation.（可哀想に／同情するよ）
+Example："You have to babysit Konohamaru all week?" Sakura sighed. "I feel sorry for you, Naruto."
+Nuance：本気の同情でも、皮肉（大変だね〜と冗談で）でも使える。トーンで意味が変わる。相手を見下すニュアンスにもなり得るので注意。
+
+### either way
+新規：✓
+重要度：★★★★★
+Meaning：Whichever of the two options is chosen; regardless.（どっちにしても／いずれにせよ）
+Example："Should we attack from the north or south?" "Either way, we'll hit them by dawn."
+Nuance：二択の結論をまとめる時の万能フレーズ。文頭・文末どちらでもOK。会話の締めくくりで超頻出。
+
+### close call
+新規：✓
+重要度：★★★★★
+Meaning：A narrow escape from danger, failure, or disaster.（危機一髪／ギリギリセーフ）
+Example：Naruto dodged Sasuke's Chidori by inches—"That was a close call," Kakashi muttered.
+Nuance：物理的な危険だけでなく、テスト・仕事・恋愛でギリギリ助かった時にも使う。"That was close!" とも言う。
+
+### I suppose so
+新規：✓
+重要度：★★★★★
+Meaning：A somewhat reluctant or unenthusiastic way of saying "yes" or "I guess so."（まあ、そうかもね／そうだね（渋々））
+Example："So you'll help me with the mission report?" Sakura asked. "I suppose so," Sasuke sighed.
+Nuance："Yes" よりためらい・消極的なニュアンス。完全に賛同はしていないが同意する時に使う。イギリス英語で特に頻出。
+
+### take the day off
+新規：✓
+重要度：★★★★★
+Meaning：To not go to work/school for one day, especially by request.（1日休みを取る／休む）
+Example："You look exhausted, Naruto. Take the day off tomorrow—no missions," Tsunade ordered.
+Nuance：有給・体調不良・私用など理由問わず使える。"take a day off" は一般的、"take the day off" は「その日／今日を休む」ニュアンス。
+
+### bump into
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. To meet someone by chance.（偶然会う／出くわす）
+　2. To collide with something/someone lightly.（ぶつかる）
+Example：
+　1. "You'll never guess who I bumped into at the ramen shop—Sasuke!" Naruto exclaimed.
+　2. Konohamaru wasn't watching where he was going and bumped into Kakashi in the hallway.
+Nuance：1の「偶然会う」用法が会話で圧倒的に多い。"run into" とほぼ同義。
+
+### get something wrong
+新規：✓
+重要度：★★★★★
+Meaning：To make a mistake in understanding, remembering, or doing something.（間違える／勘違いする）
+Example："You got the mission time wrong—it's 6 AM, not 6 PM," Sakura told Naruto.
+Nuance："You got it wrong" が会話で頻出。答え・記憶・判断など幅広い間違いに使える。反対は "get it right"。
+
+### I insist
+新規：✓
+重要度：★★★★★
+Meaning：A polite but firm way of saying "please let me" (usually when offering help, paying, etc.).（どうしても／お願いだから）
+Example："You paid last time." "No, I insist—it's my treat today," Sakura said, grabbing the bill.
+Nuance：相手が遠慮した時に押し切る定番フレーズ。奢る・手伝う・譲る場面で頻出。丁寧かつ意志が強い。
+
+### in the first place
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. Originally; from the start (used to point out the root of a problem).（そもそも／最初から）
+　2. Firstly (as the first point in a list).（第一に）
+Example：
+　1. "Why did you even accept that mission in the first place?" Tsunade demanded.
+　2. In the first place, we need more shinobi. Second, we need better intel.
+Nuance：1の「そもそも」用法が会話で圧倒的頻出。責め口調にも冷静な分析にも使える。文末に置くのが自然。
+
+### back then
+新規：✓
+重要度：★★★★★
+Meaning：At that time in the past; in those days.（あの頃／当時は）
+Example："Back then, Naruto could barely make one shadow clone—now he makes thousands," Iruka smiled.
+Nuance：過去を懐かしむ・回想する時の万能表現。"at that time" よりカジュアルで会話向き。
+
+### be sick of it
+新規：✓
+重要度：★★★★★
+Meaning：To be very tired of or annoyed by something/someone.（うんざりする／もう嫌）
+Example："I'm sick of it—every time Kakashi's late, we lose an hour," Sakura groaned.
+Nuance：軽い愚痴から本気の怒りまで幅広い。"I'm sick of ~ing"（〜するのにうんざり）もセットで頻出。
+
 ### memorable
 重要度：★★★★
 Meaning：Worth remembering.（印象的な／忘れられない）
@@ -598,6 +722,377 @@ Nuance：子供っぽくグダグダ文句を言うニュアンスで少しネ�
 Meaning：Don't claim that I said something when I actually didn't.（勝手に人の言葉を作らないで／曲解しないで）
 Example："I never said Sasuke was weak—don't put words in my mouth!" Naruto snapped when Sakura misquoted him to Kakashi.
 Nuance：議論・口論で相手に自分の意見を捻じ曲げられた時の反論表現。カジュアルにも真剣にも使える。
+
+### join the club
+新規：✓
+重要度：★★★★
+Meaning：A phrase used to say that you are in the same situation as someone else (often about a problem).（自分もだよ／みんな同じだよ）
+Example："I can't understand a single line of Kakashi's book!" Naruto groaned. "Join the club," Sakura replied.
+Nuance：相手が悩み・不満を口にした時の共感の返し。「あるある、俺もだよ」の軽いノリ。皮肉っぽくも共感的にも使える。
+
+### dull
+新規：✓
+重要度：★★★★
+Meaning：
+　1. Not interesting, boring.（退屈な）
+　2. Not sharp (of a blade); not bright (of a color/sound).（切れ味が悪い／鈍い）
+　3. (Of pain) not severe but constant.（鈍痛の）
+Example：
+　1. "It's a dull day at the academy," Shikamaru sighed—no missions, no drills, just paperwork.
+　2. Sasuke's kunai had gone dull from cutting through so many enemy weapons.
+　3. Naruto felt a dull ache in his shoulder days after training with Might Guy.
+Nuance："boring" よりやや落ち着いた表現。人・場所・話・刃物・音・色・痛みなど幅広く使える。
+
+### punctual
+新規：✓
+重要度：★★★★
+Meaning：Arriving or happening at the exactly agreed time.（時間に正確な／時間厳守の）
+Example：Everyone knew Kakashi was never punctual—he'd show up an hour late with a book in his hand.
+Nuance："on time" よりフォーマル寄りだが日常会話でも普通に使う。人の性格を語る時に頻出。
+
+### cocky
+新規：✓
+重要度：★★★★
+Meaning：Overly self-confident in an annoying way.（生意気な／うぬぼれた）
+Example："Don't get too cocky, kid," Kakashi warned Naruto after he landed one hit on Sasuke during training.
+Nuance："confident" のネガティブ版。ムカつく・鼻につくニュアンスを含む。「調子に乗るな」に近い。
+
+### discreet
+新規：✓
+重要度：★★★★
+Meaning：Careful not to attract attention or give away private information.（控えめな／目立たない／口が堅い）
+Example：Shikamaru asked the ANBU to be discreet about the Hokage's illness—no one else needed to know.
+Nuance：綴りも発音も似た "discrete"（別個の）と混同注意。人の性格や情報の扱い方について使う。
+
+### fat chance
+新規：✓
+重要度：★★★★
+Meaning：(Sarcastic) No chance at all; very unlikely.（ありえない／絶対無理）
+Example："Think Sasuke will apologize?" Sakura asked. "Fat chance," Naruto laughed.
+Nuance：字面（fat=大きい chance=可能性）と真逆の意味で「ゼロ」を表す皮肉表現。カジュアル場面専用。トーンで意味が決まる。
+
+### for crying out loud
+新規：✓
+重要度：★★★★
+Meaning：An exclamation of frustration or exasperation.（頼むよ！／いい加減にしてくれ！）
+Example："For crying out loud, Naruto, stop eating my ramen!" Sakura shouted.
+Nuance："for God's sake" のマイルド版（宗教色がないので職場や子供の前でも安心）。イライラをぶつける時の定番。
+
+### resent
+新規：✓
+重要度：★★★★
+Meaning：To feel bitter or angry about something one considers unfair.（恨みに思う／不満に感じる）
+Example：Sasuke deeply resented Itachi for what happened to their clan.
+Nuance："hate" より内向的・慢性的な感情。「表に出さないけどモヤモヤ抱えてる」ニュアンス。過去の出来事についてよく使う。
+
+### faint
+新規：✓
+重要度：★★★★
+Meaning：
+　1. (Verb) To lose consciousness for a short time.（気を失う／倒れる）
+　2. (Adjective) Very weak, hard to see/hear/smell.（かすかな／ぼんやりした）
+Example：
+　1. Hinata almost fainted the first time Naruto complimented her.
+　2. Kakashi picked up a faint chakra signature deep in the forest.
+Nuance：発音は「フェイント」。動詞（倒れる）と形容詞（かすかな）どちらも頻出。"a faint smile / a faint smell" などコロケーションが豊富。
+
+### fetch
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To go and bring something/someone back.（取ってくる／連れてくる）
+　2. (Of goods) To be sold for a certain price.（〜の値がつく）
+Example：
+　1. "Naruto, fetch Kakashi—he's been late for two hours," Tsunade ordered.
+　2. Rare scrolls from the First Hokage fetch a fortune on the black market.
+Nuance："go get" よりやや古風だが会話でも普通。犬に投げるおもちゃで遊ぶ "play fetch" も定番用法。
+
+### name-dropping
+新規：✓
+重要度：★★★★
+Meaning：Mentioning famous or important people's names to impress others.（有名人の名前を出して自慢すること）
+Example：Every time Ino talked about her training, she couldn't resist name-dropping—"Oh, Lady Tsunade said this," "Kakashi-sensei told me that."
+Nuance：基本的にネガティブ。「あの人と知り合いなんだよ」アピールがウザい時に使う。動詞は "name-drop"。
+
+### dart
+新規：✓
+重要度：★★★★
+Meaning：
+　1. (Verb) To move suddenly and quickly in a specified direction.（さっと動く／突進する）
+　2. (Noun) A small, pointed missile thrown or shot.（矢／ダーツ／投げ矢）
+Example：
+　1. Sasuke darted across the rooftops, chasing the enemy shinobi through the moonlit village.
+　2. Kankuro's puppet launched a barrage of poison darts at the enemy squad.
+Nuance：動詞用法「素早く動く」が会話で頻出。視線・動物・人が "dart" する感じ＝反射的なスピード感。"dart a glance at ~"（ちらっと見る）も定番。
+
+### stay on track
+新規：✓
+重要度：★★★★
+Meaning：To continue doing what is needed to achieve a goal; to not get distracted.（軌道に乗ったままでいる／脱線しない）
+Example：Iruka reminded the genin to stay on track with their kunai practice before the exam.
+Nuance：勉強・仕事・ダイエット・プロジェクトなど目標系全般で使える。逆は "get off track"（脱線する）。
+
+### I don't feel like myself
+新規：✓
+重要度：★★★★
+Meaning：To feel unwell, out of sorts, or not in one's usual state (physically or mentally).（調子が出ない／いつもの自分じゃない）
+Example："Sorry, I can't spar today—I don't feel like myself," Sakura told Ino, still exhausted from her overnight shift at the hospital.
+Nuance：メモにあった "I don't feel myself" は "I don't feel like myself" が正式形（"like" が入る）。体調・気分どちらにも使える便利フレーズ。
+
+### get under my skin
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To irritate or annoy someone deeply.（イラつかせる／癇に障る）
+　2. To deeply affect someone emotionally (occasionally positive—get into one's heart).（心に深く入り込む）
+Example：
+　1. Sasuke's constant sneering really got under Naruto's skin during the Chunin Exams.
+　2. That song from the festival really got under my skin—I can't stop humming it.
+Nuance：1のネガティブ用法が圧倒的頻出。「表面じゃなくて内側まで刺さる」イメージ。
+
+### in hot water
+新規：✓
+重要度：★★★★
+Meaning：In trouble; in a difficult situation, especially because you did something wrong.（面倒なことになって／叱られる状況で）
+Example：Naruto was in hot water after painting graffiti on the Hokage Rock again.
+Nuance："in trouble" のカジュアル比喩。上司・親・先生に怒られる系の場面で頻出。"land in hot water"（トラブルに陥る）もセット。
+
+### zip it
+新規：✓
+重要度：★★★★
+Meaning：(Slang) Be quiet; shut up.（黙って／口を閉じて）
+Example："Zip it, Naruto—Kakashi's about to explain the plan," Sakura whispered sharply.
+Nuance："shut up" より少しコミカル＆やわらかい。口をチャックで閉じるイメージ。子供や仲間内で使いやすいが、上司・目上には失礼。
+
+### walk someone out
+新規：✓
+重要度：★★★★
+Meaning：To accompany someone as they leave a place (out of politeness or for security).（見送る／出口まで送る）
+Example：After the meeting, Tsunade walked the Kazekage out to the village gates herself as a sign of respect.
+Nuance：客・ゲスト・帰る人を玄関・出口まで一緒に歩いて見送るニュアンス。ビジネス・プライベート両方で頻出。
+
+### by the book
+新規：✓
+重要度：★★★★
+Meaning：Exactly according to the rules or established procedures.（規則通りに／マニュアル通りに）
+Example：Iruka always did missions by the book, unlike Kakashi who improvised half the time.
+Nuance："a by-the-book cop"（融通の効かない警官）のように形容詞的にも使う。柔軟性の欠如を暗示することもある。
+
+### make a fool of yourself
+新規：✓
+重要度：★★★★
+Meaning：To behave in a way that makes you look silly or stupid in front of others.（恥をかく／みっともないことをする）
+Example："Don't drink too much at the festival—you'll make a fool of yourself again," Sakura warned Naruto.
+Nuance：自分の行動で自分の評判を下げるニュアンス。"make a fool of someone"（人を馬鹿にする）は他動詞用法で意味が異なるので注意。
+
+### up in the air
+新規：✓
+重要度：★★★★
+Meaning：Undecided; uncertain; not yet determined.（未定で／宙ぶらりんで）
+Example：Whether Sasuke would return to the Leaf was still up in the air, even after months of negotiation.
+Nuance：計画・予定・答えなど「まだ決まってない」状況で頻出。"Everything is up in the air right now" のような使い方が定番。
+
+### clickbait
+新規：✓
+重要度：★★★★
+Meaning：Online content (usually a headline) designed to attract attention and encourage users to click a link, often misleadingly.（釣り記事／煽り見出し）
+Example："'Naruto Uzumaki DEAD?' Total clickbait—it's just an old rumor," Sakura muttered, closing her scroll.
+Nuance：ネガティブ語。SNS・YouTube・ニュース記事について頻出。動詞では使わず名詞・形容詞的に。
+
+### no particular reason
+新規：✓
+重要度：★★★★
+Meaning：Without a specific reason; just because.（特に理由はない／なんとなく）
+Example："Why are you smiling?" Sakura asked. "No particular reason," Hinata replied, glancing at Naruto.
+Nuance："Why?" と聞かれてはぐらかす時の定番。含みがある返しにも、本当に理由がない時にも使える。
+
+### call the shots
+新規：✓
+重要度：★★★★
+Meaning：To be in charge; to make the important decisions.（決定権を持つ／仕切る）
+Example：In Team 7, Kakashi called the shots—but Naruto often tried to argue anyway.
+Nuance：ビジネスでもプライベートでも頻出。「誰がボスか」を語る時の定番表現。銃を撃つ命令が語源。
+
+### take it out on
+新規：✓
+重要度：★★★★
+Meaning：To vent one's anger or frustration on someone who is not the actual cause.（八つ当たりする）
+Example："Don't take it out on me just because Kakashi was late again," Sakura snapped at Naruto.
+Nuance："take X out on Y" の形で「Xを（本人じゃない）Yにぶつける」。日常の喧嘩でめちゃくちゃ頻出。
+
+### keep a low profile
+新規：✓
+重要度：★★★★
+Meaning：To avoid attracting attention to oneself.（目立たないようにする／控えめにする）
+Example：After the failed mission, Sasuke was told to keep a low profile in the village for a while.
+Nuance：ビジネス・政治・日常どこでも使う。逆は "keep a high profile"（目立つように振る舞う）。
+
+### what are the odds
+新規：✓
+重要度：★★★★
+Meaning：An expression used when something unlikely or coincidental happens (rhetorical, for emphasis).（そんな偶然ある？／確率どんだけ！）
+Example："I ran into Sasuke at the ramen shop yesterday." "What are the odds! I haven't seen him in months."
+Nuance：文字通り「確率」を聞くのではなく、驚き・偶然への感嘆として使う。上げ調子で言うと感嘆、下げ調子だと本気の質問。
+
+### pain in the butt
+新規：✓
+重要度：★★★★
+Meaning：(Casual) Someone or something that is very annoying or troublesome.（面倒くさい人／うっとうしいこと）
+Example："Filling out these mission reports is such a pain in the butt," Naruto groaned.
+Nuance："pain in the ass" のマイルド版。友達・家族・仕事全部に使える。よりフォーマルなら "pain in the neck"。
+
+### have a take on
+新規：✓
+重要度：★★★★
+Meaning：To have an opinion or perspective on something.（〜について意見・見解を持っている）
+Example："What's your take on Sasuke rejoining the village?" Sakura asked Kakashi.
+Nuance："What's your take on ~?"（〜どう思う？）の疑問形が会話で超頻出。"opinion" より軽くカジュアル。
+
+### what's the harm in
+新規：✓
+重要度：★★★★
+Meaning：A rhetorical question suggesting that doing something is harmless and worth trying.（〜して何が悪いの？／別にいいじゃん）
+Example："What's the harm in asking Hinata to train with us?" Naruto shrugged.
+Nuance：相手のためらい・反対を軽く払いのける時に使う。「別に悪いことじゃないでしょ」の説得ニュアンス。
+
+### smooth over
+新規：✓
+重要度：★★★★
+Meaning：To make a disagreement, awkward situation, or problem less serious or easier to deal with.（丸く収める／取り繕う）
+Example：Tsunade tried to smooth over the tension between the Leaf and the Sand after the failed joint mission.
+Nuance：ケンカ・気まずさ・トラブルの「表面をなだらかにする」イメージ。ビジネスでも人間関係でも使える便利表現。
+
+### at first glance
+新規：✓
+重要度：★★★★
+Meaning：When looking at or considering something for the first time (before deeper examination).（一見すると／ぱっと見）
+Example：At first glance, the scroll seemed harmless, but Kakashi immediately noticed a hidden seal.
+Nuance：「見た目と実際が違う」文脈で頻出。"At first glance ~, but ~" の構文が定番。
+
+### be keen on
+新規：✓
+重要度：★★★★
+Meaning：To be very interested in or enthusiastic about something/someone.（〜に熱心／〜が好き）
+Example：Rock Lee was really keen on beating Neji—he trained every day for months.
+Nuance：イギリス英語で特に頻出。趣味・人・アイデアなんでもOK。否定形 "not keen on ~"（あまり乗り気じゃない）も超便利。
+
+### allegedly
+新規：✓
+重要度：★★★★
+Meaning：According to what has been claimed, but not yet proven.（伝えられるところでは／〜との噂で）
+Example：Orochimaru was allegedly hiding out in the Land of Rice—but no one had confirmed it.
+Nuance：ニュース・ゴシップ・法廷用語で頻出。「証拠はないけどそう言われてる」を明示する時に使う。責任回避のニュアンスもある。
+
+### make a big fuss
+新規：✓
+重要度：★★★★
+Meaning：To react to something with excessive excitement, anger, or concern.（大騒ぎする／大袈裟に反応する）
+Example："Don't make a big fuss about a little scratch," Sasuke muttered as Sakura tried to bandage his arm.
+Nuance：ネガティブ寄り（過剰反応への批判）で使うことが多いが、"make a fuss over 人"（人を可愛がる・持ち上げる）でポジティブにもなる。
+
+### controversy
+新規：✓
+重要度：★★★★
+Meaning：Public disagreement or heated debate about a topic.（論争／物議）
+Example：Danzo's secret ANBU operations sparked major controversy when they were exposed to the council.
+Nuance：発音は「カントラヴァーシー」（米）／「コントロヴァーシー」（英）。ニュース頻出語。形容詞 "controversial" もセット。※メモの "controvercy" は綴り修正。
+
+### overturn
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To officially reverse a decision, verdict, or law.（覆す／破棄する）
+　2. To turn something over so it is upside down.（ひっくり返す）
+Example：
+　1. The Feudal Lord overturned the elders' ruling and reinstated Tsunade as Hokage.
+　2. During the fight, Sasuke overturned a table to block Naruto's kunai.
+Nuance：1の「決定を覆す」用法が政治・法律ニュースで超頻出。日常会話でも「意見・慣習を覆す」で使える。
+
+### busted
+新規：✓
+重要度：★★★★
+Meaning：
+　1. (Slang) Caught doing something wrong.（バレた／捕まった）
+　2. Broken or not working.（壊れた）
+Example：
+　1. "Busted!" Sakura laughed as she caught Naruto sneaking cookies from the pantry.
+　2. Konohamaru's kunai was busted after hitting a boulder wrong.
+Nuance：1の「バレた」が超口語頻出。相手の悪事を見つけた時に "Busted!" と一言で言うことも多い。
+
+### elaborate
+新規：✓
+重要度：★★★★
+Meaning：
+　1. (Verb) To add more detail or explanation.（詳しく説明する）
+　2. (Adjective) Detailed, complex, carefully worked out.（凝った／手の込んだ）
+Example：
+　1. "You said the mission failed—can you elaborate?" Tsunade asked.
+　2. Orochimaru's elaborate trap took Sasuke almost an hour to break out of.
+Nuance：動詞の "Can you elaborate?"（もう少し詳しく）が会議・議論で超頻出。発音は動詞「イラボレート」、形容詞「イラボレット」。
+
+### come down with
+新規：✓
+重要度：★★★★
+Meaning：To catch or start to suffer from an illness (usually not serious).（〜にかかる／〜の症状が出始める）
+Example："I think I'm coming down with a cold," Sakura said, rubbing her sore throat.
+Nuance：風邪・インフル・軽い体調不良に使う。深刻な病気には使わない。"I feel like I'm coming down with something" は「なんか調子悪い」の定番。
+
+### grab a seat
+新規：✓
+重要度：★★★★
+Meaning：(Casual) To sit down; take a seat.（座って／席に着いて）
+Example："Grab a seat, Naruto—Kakashi's got a long story to tell," Sakura gestured to the empty chair.
+Nuance："Have a seat" よりカジュアル。友達・後輩・部下に対して使う。フォーマル場面では "Please have a seat" が無難。
+
+### a great deal of
+新規：✓
+重要度：★★★★
+Meaning：A large amount of (used with uncountable nouns).（たくさんの／多量の）
+Example：Kakashi put a great deal of effort into training Team 7, even when they didn't appreciate it.
+Nuance：不可算名詞（time, effort, money, attention など）と組む。"a lot of" よりフォーマル寄りだが会話でも普通に使う。可算名詞なら "a great number of"。
+
+### accommodate
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To provide space or lodging for.（収容する／宿泊させる）
+　2. To adjust to fit someone's needs or requests.（都合を合わせる／要望に応える）
+Example：
+　1. The inn could only accommodate three shinobi, so Team 7 had to split up.
+　2. Tsunade tried to accommodate Naruto's ramen budget in the mission expense reports.
+Nuance：ビジネス頻出。「相手の都合に合わせる」の2の用法は日常会話でも便利。
+
+### adopt
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To legally take another person's child into your family and raise it as your own.（養子にする）
+　2. To take up or start using (a method, attitude, style).（採用する／取り入れる）
+Example：
+　1. After the war, several Uchiha children were adopted by families in the Hidden Leaf.
+　2. Naruto adopted Jiraiya's Sage Mode training method and pushed it to a new level.
+Nuance：日常会話では1（養子）、ビジネス・議論では2（採用）が頻出。両方の意味を押さえておくと便利。
+
+### not in the slightest
+新規：✓
+重要度：★★★★
+Meaning：Not at all; not even a little bit.（全然〜ない／これっぽっちも〜ない）
+Example："Are you scared of Orochimaru?" Sakura asked. "Not in the slightest," Sasuke replied coldly.
+Nuance："not at all" の強調版。感情・興味・恐れを否定する時に使う。上品でクールな響き。
+
+### backlash
+新規：✓
+重要度：★★★★
+Meaning：A strong negative reaction from many people, especially against a decision, event, or public figure.（反発／逆風）
+Example：Tsunade's decision to accept Sasuke back caused a huge backlash among the older shinobi.
+Nuance：政治・SNS・ビジネス・エンタメで超頻出。"face a backlash / spark a backlash" が定番コロケーション。
+
+### the day before / the previous day
+新規：✓
+重要度：★★★★
+Meaning：The day that came immediately before a specific past day.（その前日）
+Example：Kakashi remembered the mission clearly—the day before, he had warned Naruto not to underestimate the enemy.
+Nuance：どちらも同じ意味だが "the day before" の方がカジュアル・会話向き、"the previous day" は書き言葉・報告寄り。"yesterday"（昨日）とは違い、過去の特定の日を基準にした「その前日」を指す。
 
 ### resonate
 重要度：★★★
@@ -1567,6 +2062,243 @@ Example：
 　2. "That's a pretty shabby way to treat a friend," Sakura scolded Sasuke after he ignored Naruto's invitation.
 Nuance："not too shabby"（悪くないね／なかなかいいね）は褒め言葉として超頻出の慣用句。要チェック。
 
+### beat someone to the punch
+新規：✓
+重要度：★★★
+Meaning：To do or say something before someone else has the chance to.（先を越す／機先を制する）
+Example：Sasuke was about to insult Naruto's outfit, but Sakura beat him to the punch with a much sharper comment.
+Nuance：ボクシング由来の比喩。競争・アイデア・発言・行動、なんでも先取りする状況で使える。
+
+### wacko
+新規：✓
+重要度：★★★
+Meaning：(Slang) A crazy or eccentric person; crazy.（イカれた人／変人）
+Example："That guy who talks to his snakes all day? Total wacko," Kiba muttered, watching Orochimaru walk past.
+Nuance："crazy" のカジュアル名詞版。侮蔑的なので本人の前では絶対NG。冗談で仲間内に使うことも。
+
+### hang by a thread
+新規：✓
+重要度：★★★
+Meaning：To be in a very dangerous or uncertain situation, very close to failing/ending.（危機一髪／首の皮一枚）
+Example：After the Nine-Tails attack, the village's peace treaty was hanging by a thread.
+Nuance：命・関係・計画・仕事など「もう少しでダメになる」状況全般に使える強めの比喩。ドラマチックな場面向き。
+
+### go up in smoke
+新規：✓
+重要度：★★★
+Meaning：To fail completely; to be destroyed with nothing left.（水の泡になる／台無しになる）
+Example：All of Jiraiya's years of research on Pain went up in smoke when Konoha was destroyed.
+Nuance：計画・努力・希望が「跡形もなく消える」感じ。物理的に燃えた時にも使える。
+
+### stack up
+新規：✓
+重要度：★★★
+Meaning：
+　1. To compare (favorably or unfavorably) with something/someone else.（比較する／匹敵する）
+　2. To accumulate, pile up.（積み重なる）
+Example：
+　1. "How do your shadow clones stack up against Naruto's?" Kakashi asked Konohamaru.
+　2. Missions kept stacking up on Tsunade's desk while she was out drinking.
+Nuance：1の「比較」用法が会話で圧倒的に頻出。"How does X stack up against Y?" の形で覚えると使いやすい。
+
+### stickler
+新規：✓
+重要度：★★★
+Meaning：A person who insists on strict adherence to a particular rule or standard.（うるさ型／こだわりが強い人）
+Example：Iruka-sensei was a stickler for punctuality—being one minute late meant extra lap running.
+Nuance："a stickler for ~" の形で「〜にうるさい人」。批判というよりキャラ描写として中立的に使うことが多い。
+
+### reminisce
+新規：✓
+重要度：★★★
+Meaning：To think, talk, or write about past events with pleasure.（懐かしむ／思い出話をする）
+Example：Kakashi and Guy often reminisced about their genin days over a cup of sake.
+Nuance：発音は「レミニス」。楽しかった過去を語る時に使い、悲しい過去には使わない。"reminisce about ~" の形。
+
+### drill into
+新規：✓
+重要度：★★★
+Meaning：To teach or force information into someone's mind through repetition.（叩き込む／繰り返し教え込む）
+Example：Iruka drilled the importance of teamwork into Team 7 during their academy days.
+Nuance：反復訓練で体・頭に染み込ませるイメージ。厳しい指導者のニュアンス。"drill X into Y" の形が定番。
+
+### temper
+新規：✓
+重要度：★★★
+Meaning：(Verb) To make something less severe or extreme; to moderate.（和らげる／抑える）
+Example：Tsunade tempered her anger before speaking to Naruto—yelling wouldn't help him understand.
+Nuance：名詞（気性・かんしゃく）ではなく動詞用法。「感情・期待・反応を抑える」文脈で使う。"temper your expectations" が超頻出コロケーション。
+
+### death of me
+新規：✓
+重要度：★★★
+Meaning：Something that is going to kill me (figuratively), usually from stress/frustration/laughter.（〜のせいで死にそう／〜には参る）
+Example："You're going to be the death of me," Iruka groaned, cleaning up after Naruto's latest prank.
+Nuance："You'll be the death of me" の形で頻出。冗談・愛情ある呆れで使うことがほとんど。深刻な意味ではない。
+
+### alleviate
+新規：✓
+重要度：★★★
+Meaning：To make suffering, pain, or a problem less severe.（軽減する／和らげる）
+Example：Sakura's medical ninjutsu alleviated the pain in Naruto's leg after the battle.
+Nuance：「痛み・不安・貧困・症状」など苦痛系の名詞と組む。ややフォーマル寄りだが日常会話でも問題なく使える。
+
+### plague
+新規：✓
+重要度：★★★
+Meaning：
+　1. (Verb) To cause continual trouble or worry.（悩ませ続ける／苦しめる）
+　2. (Noun) A deadly infectious disease; a widespread problem.（疫病／悩みの種）
+Example：
+　1. Nightmares of the Uchiha massacre plagued Sasuke for years.
+　2. A mysterious plague swept through the Land of Water, and Sakura was sent to help.
+Nuance：動詞用法「悩ませ続ける」が会話で意外と多い。"be plagued by ~" の受け身が頻出。
+
+### whisk away
+新規：✓
+重要度：★★★
+Meaning：To take someone/something away quickly and suddenly.（さっと連れ去る／急いで運び去る）
+Example：Before Naruto could argue, Kakashi whisked him away to a secret training ground.
+Nuance：スピード感＆ちょっとロマンチック／サプライズ感がある。ドラマ・映画でよく聞く表現。
+
+### self-righteous
+新規：✓
+重要度：★★★
+Meaning：Having or showing a strong belief that your beliefs, actions, or morals are better than others'.（独善的な／自分だけが正しいと思っている）
+Example：Neji's early self-righteous attitude about "fate" annoyed almost everyone in Team Gai.
+Nuance：完全にネガティブな評価語。「俺は正しい、お前は間違ってる」オーラを出す人を批判する時に使う。
+
+### euphoria
+新規：✓
+重要度：★★★
+Meaning：A feeling of intense excitement, happiness, or well-being.（多幸感／高揚感）
+Example：After finally being named Hokage, Naruto was in a state of pure euphoria for days.
+Nuance："happiness" より一段上の「心から沸き立つ幸福感」。恋愛・達成・薬物などの文脈で使う。形容詞は "euphoric"。
+
+### would you care for
+新規：✓
+重要度：★★★
+Meaning：A polite way to offer something (food, drink, activity).（〜はいかがですか？）
+Example："Would you care for some tea, Lord Kazekage?" Tsunade asked, gesturing to the pot.
+Nuance："Do you want ~?" より上品・丁寧。接客・目上の相手・改まった場面で使う。カジュアル場面ではやや堅い。
+
+### play hardball
+新規：✓
+重要度：★★★
+Meaning：To act aggressively or ruthlessly in negotiations or competition.（強気に出る／容赦なくやる）
+Example：Tsunade decided to play hardball with the Land of Rain—no more free intel until they paid up.
+Nuance：ビジネス交渉・政治・ゲームで頻出。相手に譲歩しない厳しい姿勢を表す。野球の "hardball"（硬球）由来。
+
+### pull out all the stops
+新規：✓
+重要度：★★★
+Meaning：To make every possible effort; to do everything in one's power to achieve something.（あらゆる手を尽くす／全力を出し切る）
+Example：For Kakashi's birthday, Guy pulled out all the stops—a giant cake, fireworks, and a 100-lap tribute run.
+Nuance：パイプオルガンの音栓（stops）を全部引き出して最大音量にする、が語源。※メモの "pull out all the spots" は "stops" の誤記と推定して登録。
+
+### preaching to the choir
+新規：✓
+重要度：★★★
+Meaning：To argue in favor of something to people who already agree with you (i.e., wasting effort).（釈迦に説法／すでに賛同してる人に力説する）
+Example："You don't have to convince me ramen is the best food—you're preaching to the choir," Naruto laughed.
+Nuance：「言わなくても分かってるよ」の意味。相手の熱弁を軽く受け流す時に使うことが多い。
+
+### every man for himself
+新規：✓
+重要度：★★★
+Meaning：A situation where each person must look after their own interests/safety without helping others.（各自自分のことだけ考えろ／自分の身は自分で守れ）
+Example：When the enemy jutsu shattered the formation, Kakashi shouted, "Every man for himself—regroup at the rendezvous point!"
+Nuance：緊急時・混乱時の「もうチームプレイどころじゃない」宣言。ややドラマチックだが、ビュッフェで料理を取り合う時などにも軽く使う。
+
+### through thick and thin
+新規：✓
+重要度：★★★
+Meaning：Through all difficulties and good times; loyally, no matter what.（どんな時も／苦楽を共にして）
+Example：Naruto and Sasuke stuck together through thick and thin, even when the whole world turned against them.
+Nuance：友情・愛情・忠誠を語る時の定番。"stick with ~" "stand by ~" とセットで使うことが多い。
+
+### ball is in one's court
+新規：✓
+重要度：★★★
+Meaning：It is now that person's turn to take action or make a decision.（次はあなたの番／判断はそちらに委ねる）
+Example："I've made my offer—the ball is in Sasuke's court now," Sakura said, closing the letter.
+Nuance：テニス由来。ビジネス交渉・恋愛・議論など「相手の返答待ち」状況で頻出。中立的で丁寧な圧のかけ方。
+
+### thrive on
+新規：✓
+重要度：★★★
+Meaning：To grow strong or successful because of something (often something others find difficult).（〜で生き生きする／〜を糧にする）
+Example：Naruto thrived on challenges—the harder the mission, the more energy he had.
+Nuance：プレッシャー・混乱・注目など、普通の人が嫌がるものを「エネルギー源」にする人を表現する時に使う。ポジティブな評価。
+
+### this close to
+新規：✓
+重要度：★★★
+Meaning：Very close to doing/reaching something (usually said with fingers pinched together for emphasis).（あと一歩で／もう少しで）
+Example："I was this close to figuring out the Rasengan!" Naruto complained, holding his fingers a hair apart.
+Nuance：ジェスチャー付きが定番。惜しかった時・キレる寸前だった時など、感情を強調する口語表現。書き言葉より会話向き。
+
+### dogmatic
+新規：✓
+重要度：★★★
+Meaning：Rigidly asserting opinions or beliefs as if they were undeniable truths.（独断的な／頑なな）
+Example：Danzo's dogmatic view of village security led him to make many controversial decisions.
+Nuance：完全にネガティブ。「議論の余地を認めない頑固さ」。宗教・政治・思想を語る文脈で使う。
+
+### write-off
+新規：✓
+重要度：★★★
+Meaning：
+　1. (Business) A cost that is officially removed from the accounts.（帳消し／損金処理）
+　2. Someone or something considered a complete failure or beyond repair.（見込みなし／使い物にならない）
+Example：
+　1. After the mission failed, Tsunade had to write off half a year's budget.
+　2. "Don't write off Naruto yet—he might surprise you," Iruka said to the skeptical elders.
+Nuance：動詞形 "write off" は分けて書く、名詞 "a write-off" はハイフン付き。2のスラング的用法は英会話で結構出る。
+
+### slouch
+新規：✓
+重要度：★★★
+Meaning：
+　1. (Verb) To stand, sit, or move with a lazy, drooping posture.（猫背でだらける／姿勢を崩す）
+　2. (Noun, in "no slouch") Not lazy; skilled or capable.（決してへっぽこじゃない）
+Example：
+　1. "Stop slouching, Naruto—you're a shinobi, not a sack of potatoes," Sakura scolded.
+　2. Konohamaru might be young, but he's no slouch when it comes to shadow clones.
+Nuance："no slouch" の慣用句が意外と会話で頻出（「意外とやる／なめちゃいけない」）。姿勢の意味と両方押さえる。
+
+### esteemed
+新規：✓
+重要度：★★★
+Meaning：Respected and admired.（尊敬される／名高い）
+Example："It's an honor to meet you, esteemed Lord Kazekage," Sakura bowed.
+Nuance：フォーマル・敬語寄りの形容詞。挨拶・スピーチ・紹介文で使う。日常会話では少し堅いが、皮肉で使うこともある。
+
+### be riddled with
+新規：✓
+重要度：★★★
+Meaning：To be full of (usually something bad—holes, mistakes, problems, disease).（〜だらけ／〜まみれ）
+Example：Sasuke's cloak was riddled with kunai holes after the ambush.
+Nuance：ネガティブなものとしか組まない（bullets, holes, errors, corruption, cancer など）。深刻さ・破壊感を強調する時に使う。
+
+### tomb / grave
+新規：✓
+重要度：★★★
+Meaning：Both refer to a burial place, but with different nuances.
+　1. tomb：A large or elaborate structure for burial (often above ground, historically significant).（墓所／霊廟）
+　2. grave：A hole dug in the ground where a body is buried; a simple burial spot.（墓穴／墓）
+Example：
+　1. The tomb of the First Hokage stood atop the mountain, decorated with ancient carvings.
+　2. Sasuke visited his parents' grave every year on the anniversary of the massacre.
+Nuance："tomb"＝立派で構造物っぽい／歴史的（例：ピラミッド、聖人の墓所）、"grave"＝一般的な墓、地面に掘る穴、日常的な墓参りの文脈。"Tomb of the Unknown Soldier" のような固有表現も要チェック。
+
+### play up to
+新規：✓
+重要度：★★★
+Meaning：To behave in a way designed to please or flatter someone in order to gain favor.（媚びる／取り入る）
+Example：Sakura noticed how Ino always played up to Kakashi during training—laughing at every joke.
+Nuance：完全にネガティブな評価。「露骨に気に入られようとする」振る舞いを批判する時に使う。"suck up to" とほぼ同義でよりマイルド。
+
 ### farewell party
 重要度：★★
 Meaning：A party held to say goodbye to someone who is leaving a place, job, or group.（送別会）
@@ -1925,6 +2657,62 @@ Meaning：An exclamation of joy or excitement (often used sarcastically).（わ�
 Example："Whoopee, another D-rank mission chasing lost cats," Sasuke muttered as Kakashi handed out the assignment scroll.
 Nuance：素直な「やったー！」より、皮肉で「はいはい嬉しいね」と使うことが多い。少し古風・アメリカ英語寄り。
 
+### strike one's fancy
+新規：✓
+重要度：★★
+Meaning：To appeal to or attract someone.（気に入る／興味を引く）
+Example：Nothing on the mission board struck Naruto's fancy—all of them were boring D-rank chores.
+Nuance：やや古風・上品な言い回し。"take one's fancy" とも言う。「なんとなく惹かれる」軽い興味のニュアンス。
+
+### bollock
+新規：✓
+重要度：★★
+Meaning：(British slang, verb) To scold someone severely.（大目玉を食らわす／こっぴどく叱る）
+Example：Tsunade bollocked Naruto for sneaking out of the hospital before he was fully healed.
+Nuance：イギリス英語の下品めスラング（"bollocks"＝タマ・くだらないこと 由来）。アメリカ英語ではまず使わない。名詞形 "a bollocking" もセットで頻出。
+
+### skulk
+新規：✓
+重要度：★★
+Meaning：To move around or hide in a stealthy way, usually with bad intent.（こそこそ動く／潜伏する）
+Example：An enemy shinobi was skulking near the village gates, waiting for the right moment to strike.
+Nuance：発音は「スカルク」。悪意・後ろめたさを含む。単なる "sneak" よりネガティブで、犯罪者・スパイっぽい響き。※メモの「skult」はこの語の綴り確認と推定。
+
+### case the joint
+新規：✓
+重要度：★★
+Meaning：(Slang) To carefully inspect a place before robbing or attacking it.（下見する／偵察する）
+Example：Before the heist, Kakuzu spent three days casing the joint—memorizing every guard's schedule.
+Nuance：犯罪スラング由来（映画・ドラマの強盗シーンで頻出）。冗談っぽく「（店・パーティー会場を）下見する」でも使える。
+
+### grow a pair
+新規：✓
+重要度：★★
+Meaning：(Vulgar slang) To be brave, tough, or manly (literally: grow a pair of testicles).（度胸出せ／男らしくしろ）
+Example："Just ask her out already—grow a pair, Naruto," Kiba teased.
+Nuance：かなり下品な男性向けスラング（"a pair of balls" の省略）。仲の良い男友達間の煽り・冗談で使う。女性に対して・フォーマル場面では絶対NG。
+
+### overrepresent
+新規：✓
+重要度：★★
+Meaning：To have a larger proportion than is typical or fair (in statistics, media, or a group).（過剰に代表する／不釣り合いに多く含まれる）
+Example：Uchiha members were overrepresented in the ANBU, which made Danzo uneasy about their influence.
+Nuance：統計・社会学・メディア論で頻出。日常会話では少し硬い。反対は "underrepresent"。受け身 "be overrepresented" が定番。
+
+### sous chef
+新規：✓
+重要度：★★
+Meaning：A chef who is second in command in a kitchen, working directly under the head chef.（副料理長／スーシェフ）
+Example：Teuchi trained his daughter as his sous chef so she could take over Ichiraku Ramen one day.
+Nuance：フランス語 "sous"（〜の下に）由来。料理・レストラン業界の専門語だが、料理番組・グルメ会話で頻出。※メモの "sous" は単独では機能しないため、最頻出の "sous chef" として登録。"sous vide"（真空低温調理法）も同語源。
+
+### flagellate
+新規：✓
+重要度：★★
+Meaning：To whip or beat, especially oneself as punishment or religious penance.（（自分自身を）むち打つ／自罰する）
+Example：After failing to save his teammates, Kakashi mentally flagellated himself for years.
+Nuance：文字通り「鞭で打つ」の他、比喩で「自分を責める」も超頻出（"flagellate oneself"）。宗教的・文学的な響き。※メモの "flaggelate" は綴り修正。
+
 ### separators
 重要度：★
 Meaning：Things that divide or separate.（区切り／仕切り）
@@ -1982,3 +2770,17 @@ Example：Naruto and Sasuke drew at each other at the Valley of the End, kunai g
 Meaning：Related to making laws.（立法の／議会の）
 Example：The Feudal Lord announced new legislative changes that would affect how missions were assigned across all Hidden Villages.
 Nuance：ややフォーマル・政治／ビジネス文脈で使う。日常会話ではほぼ使わない。
+
+### glamazon
+新規：✓
+重要度：★
+Meaning：A tall, glamorous, and confident woman (portmanteau of "glamour" + "Amazon").（グラマラスで堂々とした女性）
+Example：Ino strutted into the Chunin Exam arena like a total glamazon, catching every genin's eye before the match even started.
+Nuance：ドラァグクイーンカルチャー（特に "RuPaul's Drag Race"）から広まった造語。日常会話ではやや珍しく、ジョーク・褒め言葉で使う。
+
+### third-worldist
+新規：✓
+重要度：★
+Meaning：A person who advocates for or aligns with the political/economic causes of developing (third-world) nations.（第三世界主義者）
+Example：In the meeting, the diplomat was labeled a third-worldist for consistently siding with smaller nations against the great powers.
+Nuance：政治・国際関係論のニッチ用語。日常会話ではほぼ使わない。関連語 "Third Worldism"（第三世界主義）とセット。※メモの "third-worldlist" は "third-worldist" と推定して登録。
