@@ -33,6 +33,7 @@
 | create-hook | Cursorフック（hooks.json）の作成、エージェントイベント自動化 | エージェントの動作を自動化したいとき |
 | create-rule | Cursorルール（.cursor/rules/）の作成、コーディング規約・プロジェクト規約の設定 | 永続的なAIガイダンスを設定したいとき |
 | migrate-to-skills | 既存ルール/コマンドをAgent Skills形式に変換 | .mdcルールや.mdコマンドをSKILL.mdへ移行したいとき |
+| generalize-ensor-skill | ENSOR環境依存のスキル文言を、ツール/パス/プラグイン/UI依存を剥がして素のClaude Codeで動く汎用SKILL.mdに変換（依存マップ提示→置換確認→保存＋INDEX登録） | ENSORのスキルをClaude Codeでも使えるように移植したいとき |
 
 ---
 
@@ -93,4 +94,4 @@
 
 ---
 
-**インストール済み**: 31 ｜ **最終更新**: 2026-09-05
+**インストール済み**: 32 ｜ **最終更新**: 2026-09-05
