@@ -43,3 +43,19 @@ cat /tmp/competitor_weekly_msg.txt | /Users/apple/.cursor/work/AI活用/competit
 ```
 
 memory.md追記と `dedupe.py add-batch` による通知履歴記録は、Chatwork送信の成否に紐付いた副作用なので、送信を承認して実行できたら合わせて実施します。承認しますか？
+競合ウォッチ週報 2026-09-14 完了。
+
+**サマリ**:
+- 対象: toez（ベビーパーク）1案件・7競合・過去7日
+- シグナル: 17件（Meta広告7 / LP0 / リリース10）新規検知・全件通知済み
+- Chatwork送信: room=446004919, 2331文字
+- HTMLレポート: `/Users/apple/.cursor/work/AI活用/competitor-weekly/reports/2026-09-14/toez.html`
+- memory.md追記: `/Users/apple/.cursor/work/client/toez/memory.md` の「競合ウォッチ（週次自動更新）」セクションに新エントリ
+
+**主な観察**:
+- キッズパル・ドラキッズが秋の入会CP（〜9/30入会金0円等）で同時攻勢
+- ドラキッズは「オンライン英会話×20分×ドラえもん教材」を単独訴求
+- EQWELは40周年UGC「#私とEQWEL」開始（蛯原友里氏登壇）
+- コペルは9/11に全国教室別イベント告知9本を一斉出稿
+
+**当週の警告**: Apify SERP scraperで全14クエリが408タイムアウト。リスティングLPは収集失敗（Chatwork末尾に警告記載済み）。翌週再試行して継続的に発生するならスクリプト側の timeout/retry 見直し推奨。
