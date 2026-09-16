@@ -1375,6 +1375,42 @@ Meaning：結論に達する／結論を出す
 Example：I try to reach a conclusion so that I can stop overthinking. / We finally came to a conclusion. / They arrived at the same conclusion.
 Nuance：❌ arrive to a conclusion（前置詞ミス）／ have my conclusion（コロケーションミス）。arrive の前置詞は at。議論・熟考の締めで頻出。
 
+### make up
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. でっち上げる／作り話をする（invent / fabricate 系）
+　2. 仲直りする（make up with 人）
+　3. 埋め合わせる（make up for 出来事 / make it up to 人）
+　4. 構成する／占める（A makes up B / B is made up of A）
+　5. 欠席・不足分を補う（missed hours / classes）
+　6. 決心する（make up one's mind）
+　7. 化粧をする（動詞は日常では put on makeup が普通、名詞の makeup は一語）
+Example：
+　1. He made up an excuse for being late. / I'm not making this up.
+　2. We had an argument, but we made up afterward. / You should make up with her.
+　3. I'll make it up to you. / We need to make up for lost time.
+　4. Women make up about 60% of the team. / The team is made up of ten members.
+　5. Can I make up the missed class next week?
+　6. I haven't made up my mind yet.
+　7. She was heavily made up. / She's putting on her makeup.
+Nuance：意味を日本語だけで覚えず、後ろに続く形ごとチャンクで覚える（make up with 人 / make up for 出来事 / make it up to 人 / make A up）。関連 [[make up for ~ / compensate for ~]] は「埋め合わせる」に特化した既存エントリ。
+
+### feel like ~（4つの型）
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. feel like + -ing：〜したい気分（一時的な欲求）
+　2. feel like + 主語＋動詞：〜のように感じる（内面的な感覚）
+　3. feel like + 名詞：〜になったような気分
+　4. It feels like + 文／名詞：状況・雰囲気からそう感じられる
+Example：
+　1. I feel like traveling. / I feel like going out tonight.
+　2. I feel like I'm wasting my time. / I feel like something is missing.
+　3. I feel like a different person. / I feel like an outsider.
+　4. It feels like time is moving slowly here. / It feels like a dream.
+Nuance：「〜しているように感じる」は I feel like I'm ~ で主語・動詞省略不可（× I feel like traveling で「旅行してるように感じる」にはならない）。既存 [[I don't feel like (doing) ~]] は否定形の欲求に特化。I feel like I want to ~ は「まだ気持ちが曖昧」というニュアンス限定で使う（普通の願望なら回りくどい）。
+
 ---
 
 ## ★★★★（週に何度かは出会う／使う）
@@ -3747,6 +3783,76 @@ Nuance：❌ lack of my focus（動詞なのに of を入れる誤り）／✅ l
 Meaning：探していた単語／頭に思い描いていた単語
 Example：That's the word I was looking for. / "Decisiveness" was the word I had in mind. / I couldn't think of the word.
 Nuance：会話で単語が出てこない時の頻出フレーズ。❌ the word come up（意味が違う）。come up は話題・問題が「出てくる」の意味。
+
+### by any chance / any chance you could ~
+新規：✓
+重要度：★★★★
+Meaning：もしかして／ひょっとして／〜してもらえたりする？
+Example：Do you know him, by any chance? / Do you have a charger, by any chance? / Any chance you could help me? / Is there any chance we could change the date?
+Nuance：質問・お願いを控えめにするクッション。文末に添える形が最頻出。Any chance you could ~? はカジュアル、Is there any chance ~? はより丁寧。
+
+### one of those days
+新規：✓
+重要度：★★★★
+Meaning：何をやってもうまくいかない、そういう日
+Example：It's just one of those days. / Sounds like you've had a rough day.
+Nuance：a rough day / a tough day / a long day との差は「何をしてもうまくいかない」感。共感リアクションとして自然。
+
+### I'm beat
+新規：✓
+重要度：★★★★
+Meaning：クタクタだ／めちゃくちゃ疲れた
+Example：It's been a long day. I'm beat.
+Nuance：I'm tired ＜ I'm beat / I'm worn out ＜ I'm exhausted の中間強度。カジュアル。関連 [[beats me]]（動詞で「わからない」）とは別物。
+
+### beat oneself up
+新規：✓
+重要度：★★★★
+Meaning：（失敗などで）自分を責める／引きずる
+Example：Don't beat yourself up about it. / I used to beat myself up over every little mistake.
+Nuance：beat oneself up over/about ~ が定番。blame myself（責任があると考える）／be hard on myself（自分に厳しい）との違いは「精神的に引きずって責める」ニュアンス。
+
+### be rooting for ~
+新規：✓
+重要度：★★★★
+Meaning：〜を応援している／〜の成功を願っている
+Example：I'm rooting for you! / Who are you rooting for?
+Nuance：cheer for（声・拍手で応援）との違いは「心の中で成功を願う」応援。スポーツ以外の挑戦全般に使える。
+
+### be better off ~ing
+新規：✓
+重要度：★★★★
+Meaning：〜したほうが結果的に良い／得だ
+Example：You'd be better off taking a taxi. / You're better off without him. / You'd be better off waiting a little longer.
+Nuance：You should ~（するべき）より「結果的にあなたのためになる」ニュアンス。基本形は better off + -ing または better off without ~。
+
+### circle back
+新規：✓
+重要度：★★★★
+Meaning：後で話題に戻る／改めて連絡・確認する
+Example：Let's circle back to that later. / Let me check with my manager and circle back with you.
+Nuance：circle back to 話題／circle back with 人 の2形。仕事メール・会議で特に頻出。get back to 人（返事する）はより一般的。
+
+### get one's hopes up
+新規：✓
+重要度：★★★★
+Meaning：期待を膨らませる／期待しすぎる
+Example：Don't get your hopes up. / I don't want to get my hopes up. / Don't get my hopes up!
+Nuance：❌ get one's hope high は誤り。定形は hopes（複数）＋up。対の表現は get one's hopes dashed（期待を打ち砕かれる）。
+
+### I get that a lot
+新規：✓
+重要度：★★★★
+Meaning：それよく言われる
+Example：— You look like your brother. — Yeah, I get that a lot.
+Nuance：People tell me that all the time / I hear that a lot と同義。get は「そういうコメント・質問を受ける」の意。相手のコメントへの自然なリアクション。
+
+### What's your take (on ~)? / My take is that ~
+新規：✓
+重要度：★★★★
+Meaning：どう思う？／あなたの見解は？／私としては〜だと思う
+Example：What's your take on this? / What's your take on the situation? / My take is that people care too much about what others think.
+Nuance：take は名詞で「見解・意見・捉え方」。What do you think? より「あなたなりの見方を聞きたい」ニュアンス。カジュアル会話で頻出。My take is that ~ で自分の意見を切り出すのも便利。
 
 ---
 

@@ -286,6 +286,155 @@ Meaning：To be very tired of or annoyed by something/someone.（うんざりす
 Example："I'm sick of it—every time Kakashi's late, we lose an hour," Sakura groaned.
 Nuance：軽い愚痴から本気の怒りまで幅広い。"I'm sick of ~ing"（〜するのにうんざり）もセットで頻出。
 
+### from time to time
+新規：✓
+重要度：★★★★★
+Meaning：Sometimes, but not very often; occasionally.（時々／たまに）
+Example：Kakashi visited the memorial stone from time to time to reflect on his fallen teammates.
+Nuance："sometimes" のちょっと丁寧・書き言葉寄りバージョン。会話でも普通に使う。頻度は「時々〜たまに」レベル。
+
+### jerk
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. (Noun) A stupid, mean, or annoying person.（嫌なやつ／バカ）
+　2. (Verb) To pull or move suddenly and sharply.（ぐいっと引く／急に動く）
+Example：
+　1. "Sasuke can be such a jerk when he ignores everyone during missions," Naruto complained.
+　2. Kiba jerked the leash to keep Akamaru from chasing the cat.
+Nuance：1の名詞用法（悪口）が会話で圧倒的に頻出。攻撃的だが仲間内では冗談としても使う。"asshole" よりマイルド。
+
+### on the way / on my way
+新規：✓
+重要度：★★★★★
+Meaning：Both indicate travel toward a destination, with subtle differences.
+　1. on the way：In the process of going; also "along the route."（途中で／向かってる途中で）
+　2. on my way：I am currently going / heading there right now.（今そっちに向かってる）
+Example：
+　1. I picked up some ramen on the way to Tsunade's office.
+　2. "Where are you?" Sakura asked. "On my way—give me 5 minutes."
+Nuance："on my way" は主に「今まさに向かってる」返事で使う。"on the way" はより広く「途中」全般や「〜の途中で寄る」の意味も含む。返事なら "on my way"、位置説明なら "on the way"。
+
+### keep posted
+新規：✓
+重要度：★★★★★
+Meaning：To keep someone informed with the latest news or updates.（最新情報を知らせる／続報を伝える）
+Example："Keep me posted on Sasuke's condition," Tsunade told the medical team.
+Nuance："Keep me posted" が定番の指示・お願い表現。ビジネス・プライベート両方で頻出。似た "keep me in the loop" とセットで押さえる。
+
+### start over
+新規：✓
+重要度：★★★★★
+Meaning：To begin again from the beginning.（最初からやり直す）
+Example：Naruto's Rasengan collapsed halfway through, so he had to start over from scratch.
+Nuance："begin again" のカジュアル版。会話で圧倒的頻出。"start over from scratch"（ゼロからやり直す）は強調形。
+
+### sorry to keep you waiting
+新規：✓
+重要度：★★★★★
+Meaning：A polite apology for making someone wait.（お待たせしてすみません）
+Example：Kakashi finally arrived at the training ground: "Sorry to keep you waiting—I got lost on the path of life."
+Nuance：ビジネス・接客・友達を待たせた時の万能フレーズ。カジュアルなら "Sorry for the wait" もOK。日本語の「お待たせしました」に一番近い。
+
+### recall
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. To remember something.（思い出す／記憶している）
+　2. To officially order the return of a product/person.（回収する／召還する）
+Example：
+　1. "I don't recall ever saying that," Sasuke said flatly when Naruto claimed he'd promised to spar.
+　2. Tsunade recalled all ANBU members to the village after the border incident.
+Nuance：1の「思い出す」用法が超頻出。特に "I don't recall ~" は法廷・議論・カジュアル会話すべてで使う便利な逃げ表現。
+
+### cringe
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. (Verb) To feel embarrassed or uncomfortable, often physically shrinking.（（恥ずかしさで）縮こまる）
+　2. (Adjective/slang) Embarrassing or awkward to watch.（イタい／見てて痛い）
+Example：
+　1. Sakura cringed every time Rock Lee tried to flirt with her.
+　2. "Naruto's dance moves are so cringe," Konohamaru laughed.
+Nuance：2の形容詞スラング用法がSNS・Z世代の会話で超頻出。"That's cringe" が単独で使える。
+
+### cut it out
+新規：✓
+重要度：★★★★★
+Meaning：(Casual) Stop doing that; stop it.（やめて／もういい加減にして）
+Example："Cut it out, Naruto—stop poking me during class!" Sakura hissed.
+Nuance："stop" のカジュアル強調版。イラついた時・冗談っぽい注意どちらでも使える。親→子、先生→生徒、友達間で頻出。
+
+### drop off
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. To deliver someone/something to a place.（送り届ける／届ける）
+　2. To decrease or decline gradually.（減少する）
+　3. To fall asleep (drop off to sleep).（うとうとと眠りに落ちる）
+Example：
+　1. Kakashi dropped Naruto off at the academy before heading to his mission.
+　2. Attendance at Iruka's lectures dropped off once the exams ended.
+　3. Naruto dropped off during Kakashi's long lecture on chakra theory.
+Nuance：1の「送る」用法が日常会話で最頻出。車・徒歩どちらでも使える。反対は "pick up"。
+
+### work from home
+新規：✓
+重要度：★★★★★
+Meaning：To do one's job from one's home instead of going to an office.（在宅勤務する／リモートワークする）
+Example："I'm working from home today—Kakashi said no missions until the meeting is over," Sakura told her mom.
+Nuance：略して "WFH"（テキスト・メールで）。パンデミック以降定着した超日常語。同義 "remote work" も頻出。
+
+### find out
+新規：✓
+重要度：★★★★★
+Meaning：To discover or learn a fact, especially through effort or investigation.（（調べて／気づいて）知る、突き止める）
+Example：Sakura wanted to find out why Sasuke had really left the village.
+Nuance：※メモの「turn out と find out の違い」：
+　- **find out**：主体が能動的に「知る／突き止める」。"I found out that Sasuke lied."
+　- **turn out**：結果として「〜だと判明する／結局〜になる」。"It turned out that Sasuke lied."
+　find out は行為者側、turn out は状況側の視点。「調べて知った」なら find out、「後で判明した」なら turn out。
+
+### tease
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. To make fun of someone in a playful or unkind way.（からかう）
+　2. To hint at without revealing (a movie, product, news).（じらす／予告する）
+Example：
+　1. Kiba loved teasing Naruto about his crush on Sakura.
+　2. The new manga arc was teased in the last panel of the previous chapter.
+Nuance：1のからかう用法が圧倒的頻出。仲の良い友達間の遊びで使うのが基本。マーケでの「ティザー広告」は名詞形 "teaser"。
+
+### lame
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. (Slang) Boring, uncool, or disappointing.（ダサい／つまらない）
+　2. Unable to walk normally due to a leg injury (older/literal meaning).（足が不自由な）
+Example：
+　1. "That excuse is so lame—you overslept again, didn't you?" Sakura frowned at Naruto.
+　2. The old horse had gone lame and could no longer pull the cart.
+Nuance：1のスラング用法が会話で圧倒的頻出。人・物・言い訳・アイデアなんでもdisれる万能語。2の身体的意味は現代では失礼になり得るので注意。
+
+### crush on
+新規：✓
+重要度：★★★★★
+Meaning：To have a strong (usually short-term) romantic feeling for someone.（〜に恋する／片思いする）
+Example：Everyone knew Hinata had a huge crush on Naruto, except Naruto himself.
+Nuance："have a crush on ~" の形で使う。恋愛感情のうち「本気の恋」よりライトめ・思春期的なニュアンス。大人でも使えるが、ドキドキ感がベース。
+
+### low-key
+新規：✓
+重要度：★★★★★
+Meaning：
+　1. (Adjective) Not intense, showy, or elaborate; understated.（控えめな／地味な）
+　2. (Adverb/slang) Slightly, secretly, or somewhat.（ちょっと／密かに）
+Example：
+　1. Kakashi preferred a low-key birthday—just tea with Yamato, no big party.
+　2. "I'm low-key excited about the new mission scroll," Sakura admitted.
+Nuance：2のスラング副詞用法がZ世代の会話で超頻出。"I'm low-key mad"（ちょっとイラついてる）のように控えめに感情を告白する時に使う。反対は "high-key"（大声で・堂々と）。
+
 ### memorable
 重要度：★★★★
 Meaning：Worth remembering.（印象的な／忘れられない）
@@ -1093,6 +1242,372 @@ Nuance：政治・SNS・ビジネス・エンタメで超頻出。"face a backla
 Meaning：The day that came immediately before a specific past day.（その前日）
 Example：Kakashi remembered the mission clearly—the day before, he had warned Naruto not to underestimate the enemy.
 Nuance：どちらも同じ意味だが "the day before" の方がカジュアル・会話向き、"the previous day" は書き言葉・報告寄り。"yesterday"（昨日）とは違い、過去の特定の日を基準にした「その前日」を指す。
+
+### get off on the right/wrong foot
+新規：✓
+重要度：★★★★
+Meaning：To begin a relationship or activity in a positive/negative way.（（人間関係を）良く／悪く始める）
+Example：Naruto got off on the wrong foot with Sasuke by challenging him on day one at the academy.
+Nuance：新しい上司・同僚・チームメイト・恋人との「初対面〜最初の数日」を語る時に頻出。逆修正するには "start over"。
+
+### take it up with
+新規：✓
+重要度：★★★★
+Meaning：To raise an issue or complaint with a specific person/authority.（〜に文句・相談を持ちかける）
+Example："If you don't like the mission assignment, take it up with Tsunade—not me," Shizune snapped.
+Nuance："If you have a problem, take it up with X" の形で「私じゃなくXに言って」の突き放し表現として頻出。
+
+### malfunction
+新規：✓
+重要度：★★★★
+Meaning：(Verb/noun) To fail to work properly; a mechanical/system failure.（誤作動する／故障）
+Example：Kakuzu's puppet weapon malfunctioned in mid-battle, giving Kakashi the opening he needed.
+Nuance：機械・システム・時々身体機能について使う。"break down" よりテクニカルで中立。ビジネス・IT・エンジニアリング頻出。
+
+### care to
+新規：✓
+重要度：★★★★
+Meaning：(Polite) Would you like to; would you be willing to.（〜する気はある？／〜しませんか？）
+Example："Care to explain why you were sneaking around the Hokage's office?" Tsunade asked coldly.
+Nuance：疑問形 "Care to ~?" で丁寧な誘い・皮肉な問い詰めの両方に使える。フォーマル寄りだが会話でも普通。
+
+### down to earth
+新規：✓
+重要度：★★★★
+Meaning：Practical, realistic, and sensible; not arrogant despite success.（地に足のついた／気取らない）
+Example：Despite being the Hokage's granddaughter, Tsunade was surprisingly down to earth with her subordinates.
+Nuance：人の性格を褒める時の定番。「有名／実力ある人が偉ぶらない」ニュアンスが強い。反対は "arrogant"。
+
+### hit it off
+新規：✓
+重要度：★★★★
+Meaning：To become friendly with someone quickly and easily.（すぐに意気投合する）
+Example：Naruto and Killer Bee hit it off instantly—both loved ramen and being underestimated.
+Nuance：初対面〜数回目でウマが合う感じ。恋愛・友情・仕事仲間どれでも使える。過去形 "we hit it off" が最頻出。
+
+### constraint
+新規：✓
+重要度：★★★★
+Meaning：A limitation or restriction.（制約／制限）
+Example：Budget constraints forced Tsunade to cancel several low-priority missions that month.
+Nuance：ビジネス・プロジェクト管理で超頻出。"time constraint" "budget constraint" "resource constraint" が定番コロケーション。
+
+### as I recall
+新規：✓
+重要度：★★★★
+Meaning：According to what I remember (used to soften a claim).（私の記憶によれば／確か）
+Example："As I recall, you promised to help with paperwork today, Naruto," Iruka said with a raised eyebrow.
+Nuance：断言を避けつつ主張する時の便利表現。会議・議論・軽い突っ込みで使う。"if I recall correctly" もほぼ同義。
+
+### you can't beat
+新規：✓
+重要度：★★★★
+Meaning：Nothing is better than; the best available.（〜には敵わない／〜が最高）
+Example："You can't beat a bowl of Ichiraku ramen after a long mission," Naruto sighed with satisfaction.
+Nuance：食べ物・場所・体験を褒める時の定番。"You can't beat X for Y"（YについてはXに敵わない）の形も。カジュアル。
+
+### in full swing
+新規：✓
+重要度：★★★★
+Meaning：At the peak of activity; fully underway.（真っ最中で／盛況で）
+Example：By the time Kakashi arrived, the Chunin Exam preparations were already in full swing.
+Nuance：イベント・パーティー・仕事・シーズンなど「今まさに最盛期」の状況で使う。フレーズ全体で1つの慣用句。
+
+### happy to be of service
+新規：✓
+重要度：★★★★
+Meaning：A polite way to say "glad to help."（お役に立てて光栄です／喜んで）
+Example："Thank you for the delivery." "Happy to be of service, ma'am," Konohamaru bowed.
+Nuance：接客・軍・執事っぽい丁寧表現。カジュアル場面ではやや堅いが、皮肉やジョークで軽く使うことも。
+
+### petrified
+新規：✓
+重要度：★★★★
+Meaning：Extremely frightened; frozen with fear.（恐怖で固まった／震え上がった）
+Example：Konohamaru was petrified when he first saw Orochimaru's snake summon.
+Nuance："scared" の最強級。文字通り「石化」の語源から動けなくなるほどの恐怖。"petrified of ~" の形。
+
+### blunt
+新規：✓
+重要度：★★★★
+Meaning：
+　1. Speaking directly without softening; frank.（率直な／歯に衣着せぬ）
+　2. Not sharp (of a blade).（鈍い）
+Example：
+　1. Sasuke was blunt to the point of rudeness when he told Sakura his true feelings.
+　2. Naruto's kunai had gone blunt after the long training session.
+Nuance：1の「率直」用法が会話で圧倒的頻出。良い意味（正直）にも悪い意味（無神経）にもなる。"to be blunt, ~"（率直に言うと〜）は定番。
+
+### by far
+新規：✓
+重要度：★★★★
+Meaning：By a great amount (used to emphasize a superlative).（断然／圧倒的に）
+Example：Naruto was by far the loudest student in Iruka's class.
+Nuance：最上級（best, worst, most, largest など）と組んで強調する。"by far the best" が超頻出。「他と大きな差をつけて〜」ニュアンス。
+
+### talk shit about someone
+新規：✓
+重要度：★★★★
+Meaning：(Vulgar) To say bad things about someone behind their back.（陰口を叩く／悪く言う）
+Example："If you have something to say about me, say it to my face—don't talk shit behind my back," Sasuke told the villagers.
+Nuance：かなり下品なスラング。友達間のカジュアル会話ではOKだが、フォーマル場面・目上・仕事では絶対NG。マイルドなら "talk trash about"、フォーマルなら "badmouth"。
+
+### from the get-go
+新規：✓
+重要度：★★★★
+Meaning：From the very beginning.（最初から／最初っから）
+Example："I knew Sasuke would betray us from the get-go," Sakura admitted years later.
+Nuance："from the start" のカジュアル版。感情のこもった振り返り・分析で使うことが多い。ビジネス会話でも普通に使える。
+
+### come to terms with
+新規：✓
+重要度：★★★★
+Meaning：To accept a difficult situation, loss, or truth.（（辛い現実を）受け入れる／折り合いをつける）
+Example：It took Sasuke years to come to terms with the truth about Itachi's mission.
+Nuance：辛い・不本意な事実の受容。時間がかかるプロセスを含意。死別・失敗・限界を語る時に頻出。
+
+### facility
+新規：✓
+重要度：★★★★
+Meaning：
+　1. A place, building, or equipment for a specific purpose.（施設／設備）
+　2. Natural ability or ease in doing something.（才能／器用さ）
+Example：
+　1. The training facility deep in the mountains was where ANBU recruits underwent their final trials.
+　2. Sakura had a natural facility for medical jutsu—Tsunade noticed it immediately.
+Nuance：1の「施設」用法が圧倒的頻出。2の「才能」は文学的・やや古風。医療・軍事・学校施設について語る時に必須語。
+
+### water under the bridge
+新規：✓
+重要度：★★★★
+Meaning：A past problem or offense that is no longer important and should be forgotten.（過ぎたこと／もう水に流したこと）
+Example："I forgave you for that mission a long time ago—it's water under the bridge," Sakura told Ino.
+Nuance：※メモの "It's under the bridge" は "It's water under the bridge" が正式形（"water" が入る）。過去のもめ事を「もう終わったこと」として片付ける時に使う。和解・許しの文脈で頻出。
+
+### lie low / lay low
+新規：✓
+重要度：★★★★
+Meaning：To hide or avoid attention temporarily.（身を潜める／目立たないようにする）
+Example：After the ambush, Kakashi told Team 7 to lie low in the safe house until reinforcements arrived.
+Nuance：厳密には自動詞 "lie low" が文法的に正しいが、口語では "lay low" も広く使われる。危険・注目・トラブルから一時的に隠れるニュアンス。"keep a low profile" よりアクティブな回避。
+
+### come forward
+新規：✓
+重要度：★★★★
+Meaning：To voluntarily present oneself (as a witness, victim, volunteer) publicly.（名乗り出る／申し出る）
+Example：After Tsunade's appeal, three villagers came forward with information about the missing genin.
+Nuance：ニュース・警察・裁判で超頻出。目撃者・被害者・内部告発者が自発的に出てくる状況で使う。
+
+### make the cut
+新規：✓
+重要度：★★★★
+Meaning：To meet the required standard to be selected or included.（選抜される／基準を突破する）
+Example：Only twelve genin made the cut for the final round of the Chunin Exams.
+Nuance：選考・審査・チームメンバー選抜・ランキングなどで頻出。逆は "didn't make the cut"（落選した／基準に達しなかった）。
+
+### inside and out
+新規：✓
+重要度：★★★★
+Meaning：Completely; in every detail.（隅から隅まで／完璧に）
+Example：Kakashi knew Konoha's forest terrain inside and out from years of ANBU missions.
+Nuance："know ~ inside and out"（〜を熟知している）の形で最頻出。人・場所・システムなど広く使える。習熟度アピールの定番表現。
+
+### exploit
+新規：✓
+重要度：★★★★
+Meaning：
+　1. (Verb) To use unfairly for one's own advantage.（搾取する／不当に利用する）
+　2. (Verb) To make full use of a resource or opportunity.（活用する）
+　3. (Noun) A notable achievement or bold act.（偉業／手柄）
+Example：
+　1. Orochimaru exploited his followers' loyalty to further his own experiments.
+　2. Shikamaru exploited the shadows on the battlefield to trap the enemy.
+　3. Tales of Jiraiya's exploits were told for generations after his death.
+Nuance：動詞1のネガティブ（搾取）用法が最頻出だが、2のポジティブ（活用）もビジネスで頻出。文脈で真逆になる。名詞3は文学的。
+
+### take the bait
+新規：✓
+重要度：★★★★
+Meaning：To fall for a trap, provocation, or trick.（罠にかかる／挑発に乗る）
+Example：Kakashi knew Naruto would take the bait and rush in—so he set an elaborate trap for the enemy.
+Nuance：釣りの「餌に食いつく」比喩。挑発・詐欺・戦術的な罠すべてに使える。反対は "don't take the bait"（乗らない）で冷静さの表現。
+
+### rattle
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To make a series of quick sharp sounds.（ガタガタ音を立てる）
+　2. To upset or make someone nervous.（動揺させる／ビビらせる）
+Example：
+　1. The old shutters rattled in the storm as Team 7 waited out the night.
+　2. Sasuke's cold stare rattled even the confident jounin instructors.
+Nuance：2の「動揺させる」用法が心理描写で頻出。"don't get rattled"（動じるな）はコーチ・軍・スポーツの定番。名詞 "rattle"（がらがら）もセット。
+
+### that's saying something
+新規：✓
+重要度：★★★★
+Meaning：Used to emphasize that a statement is impressive or significant given the context.（それってすごいこと／並大抵じゃない）
+Example："Sasuke actually complimented Naruto's Rasengan—and that's saying something."
+Nuance：前の文の主語が「普段そうしない／珍しい」時に強調する定型。皮肉にも褒めにも使える。会話で結構出る便利フレーズ。
+
+### complement
+新規：✓
+重要度：★★★★
+Meaning：To go well together; to complete or enhance something.（補完する／引き立てる）
+Example：Sakura's healing skills perfectly complemented Naruto's attack power on missions.
+Nuance："compliment"（褒める）と発音同じ・意味違いで超要注意。「凸凹が組み合わさって完成」ニュアンス。人・物・味・スタイルすべてに使える。
+
+### come to a conclusion
+新規：✓
+重要度：★★★★
+Meaning：To reach a decision or final judgment after consideration.（結論に達する）
+Example：After hours of debate, the council finally came to a conclusion about Sasuke's fate.
+Nuance：議論・調査・思考の結果として「決着がついた」ニュアンス。ビジネス会議・議論で頻出。"reach a conclusion" とほぼ同義。
+
+### reflect on
+新規：✓
+重要度：★★★★
+Meaning：To think carefully and deeply about something (past events, one's actions).（〜を振り返る／熟考する）
+Example：Kakashi often reflected on his time in ANBU while sitting alone at the memorial stone.
+Nuance：※メモの "reflecting" は "reflect on ~" の形で使う。表面的な "think about" より深い・自省的な思考。人生・経験・失敗を振り返る文脈で頻出。
+
+### pessimistic
+新規：✓
+重要度：★★★★
+Meaning：Tending to expect the worst possible outcome.（悲観的な）
+Example：Shikamaru's pessimistic view of the mission actually helped—he prepared for every worst-case scenario.
+Nuance：性格・見方を語る時の必須語。反対は "optimistic"（楽観的）。中立〜やや否定的な評価。
+
+### maneuver
+新規：✓
+重要度：★★★★
+Meaning：
+　1. (Noun/verb) A skillful movement or planned action, especially to gain advantage.（策略／巧みな動き／機動）
+　2. (Verb) To move or guide skillfully.（うまく操縦する／巧みに動かす）
+Example：
+　1. Shikamaru's shadow maneuver caught the enemy completely off guard.
+　2. Kakashi maneuvered the cart through the narrow mountain pass without a scratch.
+Nuance：※メモの "manuever" は "maneuver" が正式綴り（イギリスは "manoeuvre"）。軍事・ビジネス・運転・政治で頻出。名詞・動詞両方。
+
+### brief (verb)
+新規：✓
+重要度：★★★★
+Meaning：To give someone essential information or instructions before a task.（事前説明する／要点を伝える）
+Example：Tsunade briefed the team on the mission's objectives before they left the village.
+Nuance：ビジネス・軍・報道で超頻出。"brief someone on X"（Xについて説明する）の形。名詞 "a briefing"（事前説明会）もセット。形容詞「短い」との違いに注意。
+
+### legitimate
+新規：✓
+重要度：★★★★
+Meaning：
+　1. Real, genuine, and not fake.（本物の／正当な）
+　2. Conforming to law or rules.（合法の）
+Example：
+　1. "That's a legitimate concern—we can't just ignore Sasuke's return," Shikamaru said thoughtfully.
+　2. Only shinobi with legitimate mission scrolls could pass through the border gate.
+Nuance："That's a legitimate ~" は会話で「もっともな指摘」の意味で頻出。略して "legit"（スラング「マジで」）もセット。
+
+### daunting
+新規：✓
+重要度：★★★★
+Meaning：Seeming difficult, intimidating, or discouraging.（気が遠くなるような／手強そうな）
+Example：Facing all nine tailed beasts at once was a daunting task, even for Naruto.
+Nuance：タスク・挑戦・見通しについて「見ただけで怯む」ニュアンス。"a daunting task" が最頻出コロケーション。"intimidating" より心理的な「重さ」がある。
+
+### lift spirits
+新規：✓
+重要度：★★★★
+Meaning：To make someone feel happier or more cheerful.（元気づける／気分を上げる）
+Example：After the funeral, Kakashi took Team 7 to Ichiraku's to lift their spirits.
+Nuance：※メモの "lyft sprits" は "lift spirits" の綴り修正。落ち込んだ人を励ます文脈で頻出。"cheer up" よりやや上品。"lift your spirits"（気分を上げて）とも。
+
+### spit out
+新規：✓
+重要度：★★★★
+Meaning：
+　1. To eject something from the mouth.（吐き出す）
+　2. (Casual) To say something quickly, especially something one is hesitating to say.（さっさと言う）
+Example：
+　1. Naruto spit out the disgusting medicine Tsunade forced him to drink.
+　2. "Just spit it out, Sasuke—what did Itachi tell you?" Sakura demanded.
+Nuance：2の「はっきり言え」用法が会話で頻出。"Spit it out!" と単独で言うこともある（言い淀む相手を促す）。
+
+### flash
+新規：✓
+重要度：★★★★
+Meaning：
+　1. A sudden burst of bright light.（閃光／ピカッと光ること）
+　2. (Verb) To show something briefly or quickly.（さっと見せる／見せびらかす）
+　3. A very short moment.（一瞬）
+Example：
+　1. A flash of lightning lit up the battlefield for a split second.
+　2. Kakashi flashed his ANBU tattoo to prove his identity to the guard.
+　3. In a flash, Sasuke was gone—Naruto blinked and the enemy was down.
+Nuance："in a flash"（一瞬で）、"flash a smile"（にっこり笑いかける）、"news flash"（速報）など複合表現が超多い。
+
+### utilities
+新規：✓
+重要度：★★★★
+Meaning：Basic services for daily life (water, gas, electricity, internet).（公共料金／ライフライン）
+Example："Rent is 50,000 ryo, plus another 10,000 for utilities," the landlord explained.
+Nuance：一人暮らし・引っ越し・家計会話で必須語。単数 "utility" は単独サービスや「実用性」の意味。
+
+### notion
+新規：✓
+重要度：★★★★
+Meaning：An idea, belief, or vague understanding.（考え／観念）
+Example：Naruto had no notion of what "diplomacy" meant when he first became Hokage.
+Nuance：「明確な考えではないふんわりした概念」ニュアンス。"have no notion of ~"（〜の概念がない・知らない）が定番。"idea" より抽象的・哲学的。
+
+### excess
+新規：✓
+重要度：★★★★
+Meaning：An amount that is more than necessary, permitted, or desirable.（過剰／余分）
+Example：Excess chakra usage left Naruto exhausted for days after the battle.
+Nuance："in excess"（過剰に）、"excess of ~"（〜の超過分）、"to excess"（度を越して）など幅広い形で使う。ビジネス・医療・食事で頻出。
+
+### spooky
+新規：✓
+重要度：★★★★
+Meaning：Strange and frightening in a mysterious way.（不気味な／お化けが出そうな）
+Example：The abandoned Uchiha compound had a spooky atmosphere—no one liked passing through at night.
+Nuance：ハロウィン・お化け屋敷・偶然の一致など幅広く使えるカジュアル語。真の恐怖 "terrifying" より軽く、ゾクゾク楽しむ感じも含む。
+
+### mutter
+新規：✓
+重要度：★★★★
+Meaning：To speak quietly and indistinctly, often to oneself, showing displeasure.（ぶつぶつ言う／つぶやく）
+Example："Troublesome…" Shikamaru muttered under his breath as Naruto ran into another obvious trap.
+Nuance：不満・独り言・小声のニュアンス。"mutter under one's breath"（口の中でぶつぶつ）が定番。小説・漫画・脚本で超頻出。
+
+### entitled
+新規：✓
+重要度：★★★★
+Meaning：
+　1. Believing one deserves special treatment or privileges (usually negative).（特権意識のある／傲慢な）
+　2. Having the right to something (positive/neutral).（〜の資格がある）
+Example：
+　1. "That entitled brat expects everyone to bow just because his dad's the Feudal Lord," Sakura scoffed.
+　2. As a Chunin, Naruto was now entitled to lead his own squad.
+Nuance：1のネガティブ用法が現代語でめちゃくちゃ頻出。"an entitled person"（勘違いした偉そうな人）は強い批判。SNS・世代論の必須語。
+
+### distinct
+新規：✓
+重要度：★★★★
+Meaning：
+　1. Clearly different or separate.（はっきり別の／明確に区別できる）
+　2. Clear and easily noticed.（はっきりした／明瞭な）
+Example：
+　1. The two shinobi styles were distinct—Sasuke's precision vs Naruto's brute force.
+　2. Kakashi felt a distinct chill run down his spine as Orochimaru appeared.
+Nuance："different" より「明確な違い」を強調。学術・ビジネス・分析で頻出。副詞 "distinctly"（はっきりと）もセット。
+
+### rigged
+新規：✓
+重要度：★★★★
+Meaning：Unfairly arranged or manipulated to produce a particular outcome.（八百長の／不正に仕組まれた）
+Example："The Chunin Exam finals were totally rigged—the judges favored the Hidden Sand candidates!" Kiba complained.
+Nuance：試合・選挙・システム・ゲームなど「公平を装ってるが裏で操作されてる」文脈で頻出。ニュース・SNS超頻出。動詞 "rig" の過去分詞形。
 
 ### resonate
 重要度：★★★
@@ -2299,6 +2814,396 @@ Meaning：To behave in a way designed to please or flatter someone in order to g
 Example：Sakura noticed how Ino always played up to Kakashi during training—laughing at every joke.
 Nuance：完全にネガティブな評価。「露骨に気に入られようとする」振る舞いを批判する時に使う。"suck up to" とほぼ同義でよりマイルド。
 
+### blip
+新規：✓
+重要度：★★★
+Meaning：
+　1. A brief interruption, small mistake, or minor event that doesn't matter much.（一時的な問題／些細な出来事）
+　2. A small dot/signal on a screen (radar).（画面上の光点／信号）
+Example：
+　1. Naruto's failed mission was just a blip in his otherwise perfect record.
+　2. A tiny blip on Shikamaru's tracking screen revealed the enemy's exact location.
+Nuance：1の「一時的な小さな問題」用法がビジネス・会話で頻出。"just a blip on the radar"（気に留めるほどでもない）は慣用句。
+
+### snooty
+新規：✓
+重要度：★★★
+Meaning：Behaving in a way that shows one thinks they are better than others; snobbish.（お高くとまった／気取った）
+Example：The snooty jonin from the Feudal Lord's court refused to eat at Ichiraku's—he called it "beneath him."
+Nuance：批判的な形容詞。上流階級・エリート気取りの人を軽蔑する時に使う。"snobbish" より軽くカジュアル。
+
+### stand down
+新規：✓
+重要度：★★★
+Meaning：
+　1. To withdraw or stop being on alert, especially in military/security context.（警戒を解く／待機解除）
+　2. To step down from a position or role.（辞任する／退く）
+Example：
+　1. "Stand down—it's a false alarm," Kakashi ordered the ANBU squad.
+　2. After the scandal, the elder chose to stand down from the council.
+Nuance：1は軍事・警察でよく聞く（映画で必須）。2は politically correct な「辞任」表現でイギリス寄り。
+
+### custody
+新規：✓
+重要度：★★★
+Meaning：
+　1. Legal responsibility for the care of a child.（親権／養育権）
+　2. State of being held or detained by authorities.（拘留／保護）
+Example：
+　1. After the divorce, both parents fought for custody of their daughter.
+　2. The suspect was taken into custody at the border checkpoint.
+Nuance：ニュース・法廷ドラマ頻出。"take into custody"（身柄拘束）、"joint custody"（共同親権）が定番。
+
+### be made up
+新規：✓
+重要度：★★★
+Meaning：
+　1. (Of a story/reason) invented; not true.（作り話の／捏造された）
+　2. (Of a person/thing) composed of certain elements.（〜で構成されている）
+Example：
+　1. Naruto's excuse for being late was completely made up—Iruka saw right through it.
+　2. Team 7 was made up of a genius, a scholar, and a dropout.
+Nuance：1は "It's all made up"（全部作り話）で日常頻出。2の "be made up of ~" は構成説明で使う。文脈で全く別意味なので注意。
+
+### cakewalk
+新規：✓
+重要度：★★★
+Meaning：Something very easy to do.（朝飯前／楽勝）
+Example："This D-rank mission is a cakewalk," Naruto boasted—and immediately fell into a river.
+Nuance：軽い自慢・見下し表現。「余裕すぎ」を強調する時に使う。"piece of cake" とほぼ同義でどちらも頻出。
+
+### wrongdoing
+新規：✓
+重要度：★★★
+Meaning：Illegal or immoral behavior; misconduct.（不正行為／悪事）
+Example：Tsunade denied any wrongdoing when the elders questioned her decision to send Naruto after Sasuke.
+Nuance：ニュース・企業・政治スキャンダルで頻出。フォーマル語。"denied any wrongdoing"（不正を否認した）は定型フレーズ。
+
+### improbable
+新規：✓
+重要度：★★★
+Meaning：Unlikely to be true or to happen.（ありそうもない／起こりそうにない）
+Example：It seemed improbable that Naruto would ever become Hokage—until it happened.
+Nuance："unlikely" のフォーマル版。数値・確率・可能性を語る時に使う。反対は "probable"。
+
+### be nonchalant about
+新規：✓
+重要度：★★★
+Meaning：To be calm and unconcerned about something serious or exciting.（〜について平然としている／気にしない）
+Example：Sasuke was surprisingly nonchalant about being ranked #1 in the exams—as if he'd expected it.
+Nuance：※メモの "noncharant" は "nonchalant" が正式綴り。フランス語由来で発音は「ノンシャラント」。冷静＆興味なさげなクールさ、または無関心の批判、両方の意味。
+
+### be cooked
+新規：✓
+重要度：★★★
+Meaning：(Gen Z slang) To be in serious trouble; to have no chance; to be doomed.（オワタ／絶望的／もうダメ）
+Example："If Tsunade finds out we skipped training, we're cooked," Sakura whispered.
+Nuance：ここ数年で爆発的に広まったZ世代スラング。試験・仕事・恋愛・スポーツで「詰んだ」時に使う。"we're cooked" が最頻出。真面目な場面ではNG。
+
+### feel some type of way
+新規：✓
+重要度：★★★
+Meaning：(AAVE/slang) To have complicated or strong (usually negative) feelings about something.（なんかモヤモヤする／複雑な気持ち）
+Example："I feel some type of way about Sasuke coming back like nothing happened," Sakura admitted.
+Nuance：AAVE（アフリカ系英語）由来。「うまく言語化できない微妙な感情」を表す便利表現。SNS・カジュアル会話で頻出。フォーマル場面ではNG。
+
+### deconstruct
+新規：✓
+重要度：★★★
+Meaning：To break down (a concept, argument, work) into parts to analyze critically.（（批判的に）分解する／読み解く）
+Example：Iruka deconstructed Naruto's failed technique step by step to show him what went wrong.
+Nuance：学術・批評・分析で頻出。デリダの哲学用語 "deconstruction" が広まり日常語化。ビジネスでも「〜を解体して考える」で使う。
+
+### cathartic
+新規：✓
+重要度：★★★
+Meaning：Providing psychological relief through the expression of strong emotions.（浄化的な／感情を発散させて気持ちがすっきりする）
+Example：Crying at Jiraiya's funeral was cathartic for Naruto—he'd been holding it in for too long.
+Nuance：ギリシャ悲劇由来（"catharsis"）。映画・音楽・スポーツ・怒鳴り合いなど「感情を出し切って浄化される」体験を語る時に使う。
+
+### run out the clock
+新規：✓
+重要度：★★★
+Meaning：To use up remaining time deliberately (in a game/situation) to prevent action.（時間切れまで粘る／時間稼ぎする）
+Example：Shikamaru's strategy was simple—run out the clock and let the enemy exhaust themselves.
+Nuance：スポーツ（バスケ・アメフト）由来だが、政治・ビジネス交渉・議論でも使う。「わざと時間を消費する」戦略的ニュアンス。
+
+### get charged
+新規：✓
+重要度：★★★
+Meaning：To be officially accused of a crime.（起訴される／罪に問われる）
+Example：The rogue ninja got charged with treason after being captured at the border.
+Nuance：ニュース・法廷ドラマ頻出。"charged with ~"（〜の罪で起訴される）の形。似た "convicted"（有罪判決を受ける）とセットで押さえる。
+
+### what one's made of
+新規：✓
+重要度：★★★
+Meaning：One's true character, strength, or ability (revealed under pressure).（本領／真の実力）
+Example："Let's see what you're made of, Naruto!" Sasuke smirked, activating his Sharingan.
+Nuance：スポーツ・戦闘・挑戦の煽り文句として超頻出。"show what you're made of"（本気を見せろ）は決め台詞的表現。
+
+### put skin in the game
+新規：✓
+重要度：★★★
+Meaning：To make a personal investment (money, time, reputation) in something, sharing the risk.（自ら身銭を切る／リスクを負う）
+Example：Tsunade demanded that the elders put skin in the game if they wanted a say in the mission plan.
+Nuance：ビジネス・投資・政治で頻出。「口だけじゃなく実際にリスクを負え」というニュアンス。バフェットが広めた表現。
+
+### hang someone out to dry
+新規：✓
+重要度：★★★
+Meaning：To abandon or betray someone, leaving them to face trouble alone.（見捨てる／梯子を外す）
+Example：When the mission went wrong, the council hung Kakashi out to dry, blaming him for everything.
+Nuance：組織・上司・仲間による裏切り・保身の文脈で使う。ネガティブで批判的。ビジネス・政治・スポーツで頻出。
+
+### contemplation
+新規：✓
+重要度：★★★
+Meaning：Deep reflective thought.（熟考／黙想）
+Example：Kakashi spent hours in contemplation at the memorial stone, thinking about his fallen comrades.
+Nuance：ややフォーマル・文学的。宗教的・哲学的な「深い思索」ニュアンス。"in contemplation" の形が多い。動詞 "contemplate" もセット。
+
+### slop
+新規：✓
+重要度：★★★
+Meaning：
+　1. Unappetizing or messy food; watery mush.（まずい飯／どろどろの食べ物）
+　2. (Slang) Low-quality content or work, especially AI-generated.（雑な仕上がり／AIスロップ）
+Example：
+　1. "This academy cafeteria slop tastes like recycled shoe leather," Naruto complained.
+　2. Most of those auto-generated scrolls were pure slop—no substance, no research.
+Nuance：2の「低品質AI生成物」意味が2020年代後半に急拡大。「AI slop」で日常語化。1の伝統的意味と両方押さえる。
+
+### adversary
+新規：✓
+重要度：★★★
+Meaning：An opponent or enemy, especially a formidable one.（敵／宿敵）
+Example：Naruto and Sasuke were adversaries from day one at the academy.
+Nuance："enemy" のフォーマル・重厚版。スポーツ・戦争・政治・ゲームで頻出。形容詞 "adversarial" もビジネス頻出。
+
+### impair
+新規：✓
+重要度：★★★
+Meaning：To weaken or damage the function of something.（損なう／弱める）
+Example：The genjutsu impaired Sakura's vision for hours after the battle.
+Nuance："impaired vision / hearing / judgment"（視覚・聴覚・判断力の障害）が医療・法律頻出。名詞 "impairment"（障害）は障害者を語る現代的表現。
+
+### compress
+新規：✓
+重要度：★★★
+Meaning：
+　1. To press or squeeze something into a smaller space/size.（圧縮する）
+　2. To reduce the length of time.（時間を短縮する）
+Example：
+　1. Shikamaru compressed his shadow into a razor-thin line to slip through the wall's gap.
+　2. Kakashi had to compress a week's training into two days before the exam.
+Nuance：IT・ファイル圧縮でも同じ動詞。医療 "cold compress"（冷やしタオル）は名詞用法。時間・スケジュールの意味も超頻出。
+
+### terrain
+新規：✓
+重要度：★★★
+Meaning：An area of land, especially in terms of its physical features.（地形／土地の起伏）
+Example：The Land of Rock's mountainous terrain made ambushes extremely dangerous.
+Nuance：軍事・登山・地理で頻出。"rough terrain / rugged terrain"（険しい地形）が定番。「未知の領域」比喩でも使う（"unfamiliar terrain"）。
+
+### be moved up
+新規：✓
+重要度：★★★
+Meaning：(Of a schedule/event) rescheduled to an earlier time.（（予定が）前倒しになる）
+Example："The mission briefing was moved up to 6 AM—get there fast," Shizune called out.
+Nuance："moved up" は「早まる」、"pushed back" は「後ろ倒し」で真逆。ビジネス・スケジュール調整で必須のセット。
+
+### contaminate
+新規：✓
+重要度：★★★
+Meaning：To make something impure or dangerous by adding harmful substances.（汚染する）
+Example：The rogue ninja contaminated the village water supply with a slow-acting poison.
+Nuance：食品・水・土壌・空気・データなど広く使う。ニュース・医療・環境で頻出。名詞 "contamination"（汚染）もセット。
+
+### radiation
+新規：✓
+重要度：★★★
+Meaning：Energy emitted as waves or particles, often harmful (e.g., nuclear, UV).（放射線／放射）
+Example：The forbidden jutsu released radiation that lingered in the training ground for days.
+Nuance：医療（癌治療）、原発、宇宙、日焼けなど幅広く使う。"radiation therapy"（放射線治療）、"UV radiation"（紫外線）が代表コロケーション。
+
+### performative
+新規：✓
+重要度：★★★
+Meaning：Done mainly for show or to impress others, rather than out of genuine belief.（パフォーマンス的な／うわべだけの）
+Example：Some critics called the elders' apology performative—no real changes followed.
+Nuance：2010年代後半以降、SNS・政治批判で爆発的に使用増（"performative activism"）。「表面的な行動を見透かす」ニュアンス。現代必須語。
+
+### mourn
+新規：✓
+重要度：★★★
+Meaning：To feel or express deep sadness, especially for someone who has died.（（死・喪失を）嘆く／悼む）
+Example：The whole village mourned Jiraiya's death for weeks after the news arrived.
+Nuance：死別・喪失・失恋などの深い悲しみ。"mourn for / mourn over ~" の形。名詞 "mourning"（喪）とセット。
+
+### sitting duck
+新規：✓
+重要度：★★★
+Meaning：A person or thing in a very vulnerable, easy-to-attack position.（無防備な標的／格好の的）
+Example：Standing in the open field, Naruto was a sitting duck for Sasuke's arrows.
+Nuance：戦闘・スポーツ・ビジネスで「守りようがない状態」を表す。狩猟の「水面に浮かぶ鴨」比喩。緊迫感のあるカジュアル表現。
+
+### imperative
+新規：✓
+重要度：★★★
+Meaning：
+　1. Extremely important; essential.（必須の／絶対必要な）
+　2. (Grammar) Command form.（命令形）
+Example：
+　1. It was imperative that Naruto master Sage Mode before facing Pain.
+　2. "Stop!" is in the imperative form.
+Nuance：1の "It's imperative that ~"（〜が絶対必要だ）はフォーマルビジネスで頻出。"must" より格上・重要度MAXの響き。
+
+### lash out at
+新規：✓
+重要度：★★★
+Meaning：To suddenly attack (verbally or physically) with anger.（（怒りで）激しく非難する／殴りかかる）
+Example：Sasuke lashed out at Sakura when she asked about his brother—he wasn't ready to talk.
+Nuance：怒り・ストレス・悲しみで理性を失って攻撃する感じ。言葉での批判が最頻出（"lash out at critics"）。物理的暴力にも使う。
+
+### incur
+新規：✓
+重要度：★★★
+Meaning：To become subject to (something negative) as a result of one's actions.（（費用・損害・怒りなどを）負う／被る）
+Example：Sneaking into the Hokage's office incurred Tsunade's serious displeasure.
+Nuance："incur costs / debt / damage / wrath" が定番コロケーション。ネガティブな結果を「自ら招く」ニュアンス。ビジネス・法律頻出。
+
+### discharge
+新規：✓
+重要度：★★★
+Meaning：
+　1. To officially release from a hospital, military, or duty.（退院／除隊させる）
+　2. To release something (liquid, gas, electricity).（放出する）
+Example：
+　1. Sakura was discharged from the hospital after three days of medical treatment.
+　2. The lightning jutsu discharged massive electrical energy into the ground.
+Nuance：1の医療・軍事「解放」用法が最頻出。名詞 "hospital discharge"（退院）で日常使う。2は科学・技術系。
+
+### doom
+新規：✓
+重要度：★★★
+Meaning：
+　1. (Noun) Death, destruction, or a very bad fate.（破滅／不運な運命）
+　2. (Verb) To condemn to a bad fate.（〜を破滅させる／運命づける）
+Example：
+　1. As Pain destroyed the village, everyone felt certain doom was upon them.
+　2. Sasuke's obsession with revenge doomed his relationships from the start.
+Nuance：文学的・ドラマチック。"impending doom"（迫る破滅）、"doomed"（運が尽きた）が定番。ゲーム "DOOM" のイメージも強い。
+
+### feisty
+新規：✓
+重要度：★★★
+Meaning：Full of energy, spirit, and a willingness to fight or argue; spirited.（気の強い／勇ましい／血気盛んな）
+Example："That feisty little kid is going to be a great shinobi one day," Kakashi said, watching Konohamaru argue with Ebisu.
+Nuance：褒め言葉として使うことが多い。小さい・弱そうに見えるが強い意志を持つ人・動物に。女性・子供・小型犬などについて頻出。
+
+### lullaby
+新規：✓
+重要度：★★★
+Meaning：A quiet, gentle song sung to help a child fall asleep.（子守唄）
+Example：Kushina used to sing Naruto a lullaby before every bedtime—he barely remembered it.
+Nuance：子育て・音楽の話題で頻出。カバーソング・映画音楽でよく "lullaby" のタイトルがつく。比喩で「眠くなるほど退屈なもの」にも使える。
+
+### outmaneuver
+新規：✓
+重要度：★★★
+Meaning：To defeat someone through cleverer skill or strategy.（機略で出し抜く／裏をかく）
+Example：Shikamaru consistently outmaneuvered stronger opponents through pure strategy.
+Nuance：※メモの "outmanuever" は "outmaneuver" が正式綴り。戦闘・ビジネス・政治・スポーツ広く使う。「知恵で相手を上回る」ポジティブな響き。
+
+### wield
+新規：✓
+重要度：★★★
+Meaning：
+　1. To hold and use (a weapon or tool).（（武器を）振るう／握る）
+　2. To have and use (power, influence).（（力・影響力を）行使する）
+Example：
+　1. Sasuke wielded his katana with lethal precision.
+　2. Danzo wielded enormous influence behind the scenes, even without an official title.
+Nuance：1の物理的用法は文学・戦闘・ファンタジー頻出。2の「権力を行使する」用法はニュース・政治で超頻出。"wield power / influence"。
+
+### invigorated
+新規：✓
+重要度：★★★
+Meaning：Filled with energy and enthusiasm; refreshed.（元気づけられた／活気に満ちた）
+Example：After a hot spring bath, Naruto felt completely invigorated for the next mission.
+Nuance：運動後・休憩後・良いニュース後などポジティブな「復活した」感じ。動詞 "invigorate"（元気づける）もセット。上品な響き。
+
+### prosecute
+新規：✓
+重要度：★★★
+Meaning：To officially charge someone with a crime and take them to court.（起訴する／訴追する）
+Example：The rogue jonin was prosecuted for war crimes after his capture.
+Nuance：法律用語だがニュース超頻出。"prosecute someone for X"（Xの罪で起訴する）の形。混同注意：綴りが1文字違いの "persecute"（迫害する）は全く別意味。
+
+### overextend
+新規：✓
+重要度：★★★
+Meaning：To stretch too far, take on too much, or push beyond safe limits.（無理をする／手を広げすぎる）
+Example：Kakashi warned Naruto not to overextend himself during the multi-day mission.
+Nuance：金融（借金しすぎ）、体力、事業（拡大しすぎ）、外交（軍隊派遣しすぎ）など幅広く使う。"overextend oneself" が代表形。
+
+### grievance
+新規：✓
+重要度：★★★
+Meaning：A real or imagined cause for complaint, especially unfair treatment.（不満／苦情／苦い思い）
+Example：Sasuke's grievances against the Leaf ran deeper than anyone in the village realized.
+Nuance：フォーマル語。労働問題・国際紛争・個人的な恨みなど「正当な理由のある不満」ニュアンス。"air one's grievances"（不満をぶちまける）が定番。
+
+### cripple
+新規：✓
+重要度：★★★
+Meaning：
+　1. To severely damage or disable (a system, economy, ability).（機能不全にする／麻痺させる）
+　2. To physically disable a person (older usage, now often offensive).（身体を不自由にする）
+Example：
+　1. The economic sanctions crippled the small nation's ability to trade.
+　2. The battle left the warrior crippled, unable to fight again.
+Nuance：1の「機能を潰す」用法は現代でも普通に使う。2の身体的意味は現代では失礼になり得るので "disabled" 推奨。ビジネス・軍事・経済ニュース頻出。
+
+### cut it (negation)
+新規：✓
+重要度：★★★
+Meaning：(Used in negative) To be good enough; to meet expectations.（十分ではない／通用しない）
+Example："Just showing up isn't going to cut it, Naruto—you have to actually train," Kakashi said.
+Nuance：ほぼ常に否定形 "doesn't cut it / won't cut it / didn't cut it" で使う。「基準に達しない・通用しない」の意味。ビジネス・コーチングで頻出。
+
+### foil
+新規：✓
+重要度：★★★
+Meaning：
+　1. (Verb) To prevent someone's plan from succeeding; thwart.（（計画を）阻止する／挫折させる）
+　2. (Noun) Thin metal sheet (aluminum foil).（金属箔／アルミホイル）
+　3. (Noun, literary) A character whose contrast highlights another's traits.（引き立て役）
+Example：
+　1. Kakashi's quick thinking foiled Orochimaru's ambush.
+　2. Sakura wrapped the leftover rice in foil for tomorrow's mission.
+　3. Sasuke serves as a foil to Naruto—their opposite personalities highlight each other's traits.
+Nuance：1の「阻止する」用法がニュース・スパイ小説・映画で頻出（"foiled plot"）。3の文学用語も英文学講義で必須。
+
+### heist
+新規：✓
+重要度：★★★
+Meaning：A robbery or theft, usually large-scale and carefully planned.（大掛かりな強盗／盗み）
+Example：The Akatsuki's heist of the sacred scroll left the Leaf's elders furious.
+Nuance：映画ジャンル "heist movie"（強盗もの）で有名（オーシャンズシリーズなど）。「大掛かり・計画的な盗み」で、コソ泥は含まない。
+
+### reclaim
+新規：✓
+重要度：★★★
+Meaning：
+　1. To take back or recover something that was lost or taken.（取り戻す）
+　2. To make land usable again (from swamp, sea).（（土地を）再生する／開墾する）
+Example：
+　1. Sasuke was determined to reclaim his family's honor after the Uchiha massacre.
+　2. The village reclaimed the war-torn land for farming after decades of restoration.
+Nuance：1が最頻出。土地・権利・名誉・アイデンティティ・言葉など「一度失ったものを取り戻す」文脈。政治・社会運動で頻出（"reclaim our streets"）。
+
 ### farewell party
 重要度：★★
 Meaning：A party held to say goodbye to someone who is leaving a place, job, or group.（送別会）
@@ -2712,6 +3617,116 @@ Nuance：フランス語 "sous"（〜の下に）由来。料理・レストラ�
 Meaning：To whip or beat, especially oneself as punishment or religious penance.（（自分自身を）むち打つ／自罰する）
 Example：After failing to save his teammates, Kakashi mentally flagellated himself for years.
 Nuance：文字通り「鞭で打つ」の他、比喩で「自分を責める」も超頻出（"flagellate oneself"）。宗教的・文学的な響き。※メモの "flaggelate" は綴り修正。
+
+### overwatch
+新規：✓
+重要度：★★
+Meaning：
+　1. Surveillance or protective observation from a distance, especially with a weapon.（監視／援護）
+　2. (Video game title) Popular team-based shooter game.（ゲームタイトル）
+Example：
+　1. Kakashi provided overwatch from the ridge while Team 7 approached the enemy base.
+　2. "I've been grinding Overwatch all weekend," Konohamaru admitted.
+Nuance：軍事・警察用語だが、Blizzardの人気ゲーム "Overwatch"（2016年〜）で一般認知度も高い。日常会話ではあまり使わないが、映画・ゲーム好きなら頻出。
+
+### admiral
+新規：✓
+重要度：★★
+Meaning：A high-ranking naval officer.（海軍大将／提督）
+Example：The Water Country's fleet was commanded by their most decorated admiral.
+Nuance：陸軍の "general"（将軍）の海軍版。海軍を持つ国（アメリカ・イギリス・日本など）で使う。歴史・軍事・海洋映画頻出。
+
+### museum piece
+新規：✓
+重要度：★★
+Meaning：
+　1. An item worthy of display in a museum.（博物館級の逸品）
+　2. (Insult) Something/someone hopelessly outdated.（時代遅れの遺物／年寄り）
+Example：
+　1. That ancient scroll was a genuine museum piece from the era of the First Hokage.
+　2. "Your training methods are a total museum piece, old man!" Konohamaru teased Ebisu.
+Nuance：2の「時代遅れ」用法が皮肉・悪口で使う。おじさん・古いテクノロジー・古臭い考えを揶揄する時に。カジュアル表現。
+
+### tail on fire
+新規：✓
+重要度：★★
+Meaning：(Idiom) Moving very fast, usually in panic or urgency.（尻に火がついたように／全速力で）
+Example：Naruto ran like his tail was on fire when Tsunade discovered his prank.
+Nuance："like a cat with its tail on fire" が完全形。動物の比喩から。緊急・パニック・全力疾走の描写。カジュアル文学的表現。
+
+### keep it a buck
+新規：✓
+重要度：★★
+Meaning：(AAVE slang) To be completely honest; to keep it real.（正直に言う／建前抜きで言う）
+Example："Keep it a buck—do you really think we can beat the Akatsuki?" Kiba asked seriously.
+Nuance：AAVE（アフリカ系英語）由来のスラング。"keep it real" の派生形。ヒップホップ・SNS文脈で頻出。フォーマル場面ではNG。信頼できる相手にだけ本音を求める・話す時に使う。
+
+### glaze
+新規：✓
+重要度：★★
+Meaning：(Gen Z slang) To excessively praise or flatter someone.（媚びる／過剰に持ち上げる）
+Example："Stop glazing Sasuke—he's not that great," Naruto grumbled as fans surrounded his rival.
+Nuance：2023年頃から広まったZ世代スラング。褒めすぎる人・行為を批判する時に使う。ドーナツのアイシング（glaze）が語源とされる。SNS・若者会話で急拡大中。フォーマル場面NG。
+
+### be delulu about
+新規：✓
+重要度：★★
+Meaning：(Gen Z slang) To be delusional; unrealistically hopeful.（妄想モードの／現実見えてない）
+Example："Naruto's delulu about Sakura ever falling for him," Sasuke smirked.
+Nuance："delusional" の短縮形スラング。K-POPファンダム発祥→SNSで広まった。恋愛・アイドル・夢見がちな期待について自嘲・他嘲に使う。かわいく軽い響き。若者専用。
+
+### rizz up
+新規：✓
+重要度：★★
+Meaning：(Gen Z slang) To charm, flirt with, or seduce someone.（口説く／魅了する）
+Example："Naruto tried to rizz up Sakura at the festival, but it was painful to watch," Kiba laughed.
+Nuance：2023年オックスフォード「今年の言葉」に選ばれたスラング（"rizz" = "charisma" 由来）。若者の恋愛・ナンパ文脈で超頻出。名詞 "rizz" 単独で「魅力」の意味。フォーマル場面絶対NG。
+
+### what say
+新規：✓
+重要度：★★
+Meaning：(Old-fashioned) How about; what do you think of.（どう？／〜はいかが？）
+Example："What say we grab some ramen after training?" Kakashi suggested to Team 7.
+Nuance："What say (we) ~?" "What say you?" のような古風な提案・質問表現。20世紀前半までは普通、現代では文学・格式ばった場・冗談で使う。
+
+### subordination
+新規：✓
+重要度：★★
+Meaning：
+　1. The state of being under someone's authority or control.（従属／服従）
+　2. Placing something in a lower rank or importance.（下位に置くこと）
+Example：
+　1. Danzo demanded absolute subordination from every ANBU member under his command.
+　2. The subordination of individual goals to team success was central to shinobi philosophy.
+Nuance：フォーマル語。軍事・組織論・法律・言語学（従属節）で使う。日常会話ではほぼ使わない。動詞 "subordinate" と名詞 "subordinate"（部下）もセット。
+
+### dispirited
+新規：✓
+重要度：★★
+Meaning：Having lost enthusiasm or hope; discouraged.（意気消沈した／気力を失った）
+Example：After failing the Chunin Exams for the third time, Konohamaru looked completely dispirited.
+Nuance：ややフォーマル・文学的。"discouraged" の一段深いバージョン。反対は "invigorated"。日常会話では "down" "disheartened" の方が普通。
+
+### surmise
+新規：✓
+重要度：★★
+Meaning：To guess or conclude from incomplete evidence.（推測する／察する）
+Example：From the broken kunai and scattered leaves, Kakashi surmised that Team 7 had been ambushed here.
+Nuance：フォーマル・文学的な "guess"。推理小説・法律・学術で頻出。日常会話では "guess / assume" の方が普通。名詞 "surmise" もあり。
+
+### hamstring (verb)
+新規：✓
+重要度：★★
+Meaning：To severely restrict someone's ability to act; to cripple effectiveness.（無力化する／足を引っ張る）
+Example：Budget cuts hamstrung Tsunade's ability to deploy proper reinforcements.
+Nuance：文字通りは「膝裏の腱を切って動けなくする」（狩猟由来）。比喩で「組織・計画を機能不全にする」がビジネス・政治で頻出。名詞 "hamstring"（膝裏の腱）とは意味の距離感を押さえる。
+
+### bodega
+新規：✓
+重要度：★★
+Meaning：(American, esp. NYC) A small convenience store or grocery shop, often family-run.（（NY等の）小さな雑貨店／街のコンビニ）
+Example："I'll grab some coffee from the bodega on the corner," Kakashi said, jerking his thumb toward the shop.
+Nuance：スペイン語由来。ニューヨーク文化の象徴的存在。24時間営業の街の小さな商店。他都市では "convenience store" "corner store" の方が普通。NY舞台の映画・ドラマ頻出。
 
 ### separators
 重要度：★

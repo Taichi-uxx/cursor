@@ -9957,3 +9957,1176 @@ Taichi: From Yokohama. → ✅ I'm from Yokohama. / I'm originally from Yokohama
 ### 【Next Step】
 
 政治や経済の話では、曖昧な thing / feel that を減らし、policy, remark, impact, exchange rate, purchasing power などの具体的な名詞を使うことを意識する。
+
+## 8/15
+## 【Key Vocabulary】
+
+### 1. **play hooky**
+
+学校や仕事を、正当な理由なくサボる。特にアメリカ英語で、少しいたずらっぽいニュアンス。
+
+* **play hooky from school / work**
+* **I played hooky from work and went to the beach.**
+  仕事をサボってビーチに行った。
+* **He got caught playing hooky.**
+  彼はサボっているのがバレた。
+
+類似表現：
+
+* **skip school / work**：学校・仕事をサボる
+* **ditch class**：授業をサボる（かなりカジュアル）
+* **call in sick**：病欠の連絡をする。仮病とは限らない
+* **fake being sick**：仮病を使う
+
+---
+
+### 2. **make up**
+
+#### ① 話・理由をでっち上げる
+
+* **He made up an excuse for being late.**
+  彼は遅刻の言い訳をでっち上げた。
+* **I'm not making this up.**
+  作り話じゃないよ。本当だよ。
+
+類語：
+
+* **invent**：作り出す
+* **fabricate**：捏造する。より硬く、否定的
+
+#### ② 仲直りする
+
+* **We had an argument, but we made up afterward.**
+  喧嘩したが、そのあと仲直りした。
+* **You should make up with her.**
+  彼女と仲直りしたほうがいい。
+
+類似表現：
+
+* **kiss and make up**：仲直りする
+* **patch things up**：関係を修復する
+
+#### ③ 埋め合わせる
+
+* **make up for + 出来事・損失**
+* **make it up to + 人**
+
+例：
+
+* **The amazing food made up for the poor service.**
+  素晴らしい料理が、サービスの悪さを埋め合わせた。
+* **I'm sorry I canceled. I'll make it up to you.**
+  キャンセルしてごめん。今度埋め合わせするよ。
+* **We need to make up for lost time.**
+  失った時間を取り戻さないといけない。
+
+#### ④ 構成する・占める
+
+* **A makes up B.**：AがBを構成する
+* **B is made up of A.**：BはAで構成されている
+
+例：
+
+* **Women make up about 60% of the team.**
+* **The team is made up of ten members.**
+
+#### ⑤ 欠席・不足分を補う
+
+* **I need to make up the hours I missed.**
+  休んだ分の勤務時間を補わないといけない。
+* **Can I make up the missed class next week?**
+  欠席した授業を来週振り替えられますか？
+
+#### ⑥ 決心する
+
+* **make up one's mind**
+* **I haven't made up my mind yet.**
+  まだ決めていない。
+
+#### ⑦ 化粧
+
+動詞としては、日常会話では通常 **put on makeup** を使う。
+
+* **She's putting on her makeup.**
+* **She was heavily made up.**
+  彼女は濃い化粧をしていた。
+
+※名詞の「化粧」は一語で **makeup**。
+
+---
+
+### 3. **make out**
+
+#### ① いちゃつく・激しくキスする
+
+* **make out with + 人**
+* **They were making out in the car.**
+  彼らは車の中でいちゃついていた。
+
+単なる **kiss** より、長く情熱的にキスするニュアンス。ただし、必ずしもセックスを意味しない。
+
+#### ② かろうじて見分ける・聞き取る
+
+通常は **can / could / barely** などと使う。
+
+* **I couldn't make out what he was saying.**
+  彼が何を言っているのか聞き取れなかった。
+* **I could barely make out her face in the dark.**
+  暗闇の中で、かろうじて彼女の顔を見分けられた。
+
+音が小さい、文字が読みにくい、暗いなど、物理的に判別しづらい場合に適している。
+
+#### ③ ～だと主張する・～のように見せる
+
+* **make out that + 文**
+* **make A out to be B**
+
+例：
+
+* **He made out that he knew nothing about it.**
+  彼は何も知らないと言い張った。
+* **Don't make me out to be the bad guy.**
+  俺を悪者みたいに扱わないで。
+* **The movie isn't as good as people make it out to be.**
+  その映画は、世間で言われているほど良くない。
+
+特に便利な形：
+
+* **not as ～ as people make it out to be**
+  世間で言われているほど～ではない
+
+#### ④ 書類・小切手などを記入する
+
+* **Please make the check out to ABC Company.**
+  小切手の宛名をABC社にしてください。
+* **The doctor made out a prescription.**
+  医師が処方箋を書いた。
+
+#### ⑤ 結果がどうなる・うまくいく
+
+主にアメリカ英語。
+
+* **How did you make out in the interview?**
+  面接はどうだった？
+* **We made out pretty well on the deal.**
+  その取引ではかなりうまくいった。
+
+---
+
+### 4. **the novelty wears off**
+
+目新しさ、新鮮味、最初のワクワク感が徐々に薄れる。
+
+* **Living abroad is exciting at first, but the novelty eventually wears off.**
+  海外生活は最初こそ刺激的だが、やがて新鮮味が薄れてくる。
+* **Once the novelty wears off, you might start missing home.**
+  新鮮味がなくなると、故郷が恋しくなるかもしれない。
+* **The novelty of working from home wore off pretty quickly.**
+  在宅勤務の新鮮味はかなり早くなくなった。
+
+**wear off** は、効果・感情・痛みなどが徐々に弱まる場合にも使う。
+
+* **The painkillers are starting to wear off.**
+  鎮痛剤の効果が切れ始めている。
+
+類似表現：
+
+* **lose its appeal**：魅力を失う
+* **the honeymoon phase ends**：最初の良い時期が終わる
+* **get used to it**：それに慣れる
+
+単なる「飽きる」ではなく、**新しいから感じていた特別感が、慣れによって消える**というニュアンス。
+
+---
+
+### 5. **I rest my case.**
+
+「ほら、私の言ったとおり」「これで自分の主張が証明された」「以上、証明終了」
+
+もともとは法廷表現。日常会話では、相手の発言や出来事が自分の主張を裏づけたときに使う。
+
+> **A:** Ken is never on time.
+> **B:** He just texted me that he'll be 30 minutes late.
+> **A:** See? I rest my case.
+
+言い方によっては、「はい、論破」のように得意げ・挑発的に聞こえる。
+
+類似表現：
+
+* **That proves my point.**：それが私の主張を証明している
+* **Exactly my point.**：まさにそれが私の言いたかったこと
+* **Point proven.**：はい、証明完了
+* **See?**：ほらね？
+
+---
+
+### 6. **by any chance**
+
+「もしかして」「ひょっとして」
+
+質問やお願いを控えめにする表現。文末に添える形が一般的。
+
+* **Do you know him, by any chance?**
+  もしかして彼を知ってる？
+* **Do you have a charger, by any chance?**
+  ひょっとして充電器を持ってない？
+
+関連する3つの形：
+
+* **…, by any chance?**
+  質問の最後に添える「もしかして」
+* **Any chance you could help me?**
+  手伝ってもらえたりする？
+  → カジュアルで会話的
+* **Is there any chance we could change the date?**
+  日程を変更できる可能性はありますか？
+  → より丁寧
+
+---
+
+### 7. **If S were to V**
+
+「もしSがVするようなことがあれば」「仮にSがVするとしたら」
+
+未来の可能性を仮定する表現。通常の仮定法より、可能性が低い、または現実から距離を置いて慎重に想定するニュアンス。
+
+* **If I were to quit my job, I would travel around the world.**
+  仮に仕事を辞めるとしたら、世界を旅するだろう。
+* **If you were to move abroad, where would you go?**
+  もし海外に移住するとしたら、どこへ行く？
+* **If the project were to fail, we could lose a lot of money.**
+  万が一プロジェクトが失敗すれば、多額のお金を失う可能性がある。
+
+比較：
+
+* **If you move abroad, where will you go?**
+  実際に移住する可能性が比較的高い
+* **If you moved abroad, where would you go?**
+  一般的で会話的な仮定
+* **If you were to move abroad, where would you go?**
+  より仮想的・慎重・フォーマル
+
+倒置形：
+
+* **Were S to V, ...**
+* **Were this information to become public, it could damage the company's reputation.**
+  万が一この情報が公になれば、会社の評判を損なう可能性がある。
+
+---
+
+### 8. **my ass is on the line**
+
+「自分の首・立場・仕事がかかっている」
+
+かなりカジュアルで下品な表現。
+
+* **If this project fails, my ass is on the line.**
+  このプロジェクトが失敗したら、俺の首が危ない。
+
+下品さを避けるなら：
+
+* **My job depends on it.**
+  自分の仕事がかかっている。
+* **There's a lot riding on this.**
+  これには多くのものがかかっている。
+* **My reputation is on the line.**
+  自分の評判がかかっている。
+
+---
+
+### 9. **like my life depends on it**
+
+「命がかかっているかのように」「必死に」
+
+実際に命がかかっているとは限らず、必死さを表す誇張としてよく使う。
+
+* **I'm working like my life depends on it.**
+  命がかかっているかのように必死で働いている。
+* **I ran like my life depended on it.**
+  命がかかっているかのように全力で走った。
+
+主節の時制に合わせる：
+
+* 現在：**I'm working like my life depends on it.**
+* 過去：**I worked like my life depended on it.**
+
+---
+
+### 10. **one of those days**
+
+「何をやってもうまくいかない、そういう日」
+
+**rough day** 自体は基本的な表現だが、この言い換えは会話で便利。
+
+* **It's just one of those days.**
+  今日は何をやってもうまくいかない日だよ。
+* **Sounds like you've had a rough day.**
+  大変な一日だったみたいだね。
+
+関連表現のニュアンス：
+
+* **a rough day**：いろいろ大変だった日
+* **a tough day**：困難が多く、精神的にもきつい日
+* **a long day**：長くて疲れる日
+* **one of those days**：何をしてもうまくいかない日
+
+---
+
+### 11. 旅行先を表す語の使い分け
+
+* **tourist attraction**：観光客を引きつける名所・施設・体験
+
+* **tourist destination**：都市・島・地域などの旅行先
+
+* **landmark**：象徴的な建物・場所。必ずしも観光地とは限らない
+
+* **go off the beaten path**：定番の観光ルートを外れて穴場へ行く
+
+* **I'm not really into tourist attractions. I prefer going off the beaten path.**
+  観光名所にはそれほど興味がなくて、穴場を巡るほうが好きです。
+
+---
+
+## 【Correction Log】
+
+### ❌ **my ass depend on it**
+
+主語が三人称単数なので、文法的には **depends** が必要。
+
+* **my ass depends on it**
+
+ただし、この組み合わせ自体はあまり定番ではない。言いたい内容に応じて、次の表現がより自然。
+
+* **My ass is on the line.**
+  自分の首がかかっている。
+* **My job depends on it.**
+  自分の仕事がかかっている。
+* **I'm working like my life depends on it.**
+  命がかかっているかのように必死で働いている。
+
+---
+
+## 【Phrases to Master】
+
+* **Any chance you could help me?**
+  手伝ってもらえたりする？
+
+* **I'm not making this up.**
+  作り話じゃないよ。
+
+* **I'll make it up to you.**
+  今度埋め合わせするよ。
+
+* **Don't make me out to be the bad guy.**
+  俺を悪者みたいに扱わないで。
+
+* **It isn't as good as people make it out to be.**
+  世間で言われているほど良くない。
+
+* **Once the novelty wears off, you might feel differently.**
+  最初の新鮮味がなくなったら、違うように感じるかもしれない。
+
+* **See? I rest my case.**
+  ほらね。これで俺の言ったとおりだと分かったでしょ。
+
+* **If you were to move abroad, where would you go?**
+  仮に海外へ移住するとしたら、どこへ行く？
+
+* **My ass is on the line.**
+  自分の首がかかっている。
+
+* **I'm working like my life depends on it.**
+  必死になって働いている。
+
+* **I prefer going off the beaten path.**
+  定番の観光ルートを外れて穴場へ行くほうが好き。
+
+## 【Next Step】
+
+**make up / make out** は意味を日本語だけで覚えず、後ろに続く形ごと覚える：
+
+* **make up with 人**
+* **make up for 出来事**
+* **make it up to 人**
+* **make out with 人**
+* **make A out to be B**
+* **can't make out what ～**
+
+## 8/19
+## 【Key Vocabulary】
+
+### line
+
+**意味:** 映画・ドラマ・アニメなどの「セリフ」
+
+> **It's a line from my favorite anime.**
+> 一番好きなアニメのセリフです。
+
+**quote** との違いが重要です。
+
+* **line**：作品中の「セリフ」全般
+* **quote**：引用したくなるような「印象的な言葉・名言」
+
+そのため「このアニメのセリフ」と事実として言うなら **line**、「自分の心に残っている名言」感を出すなら **quote** が合います。
+
+---
+
+## 【Phrases to Master】
+
+### 1. What's so fun about living like that?
+
+**「そんな生き方してて、何が楽しいの？」**
+
+今回の「**その人生、何が楽しいの？**」にかなり近い表現。
+
+**What's so + 形容詞 + about ~?**
+=「〜の何がそんなに〇〇なの？」
+
+> **What's so fun about living like that?**
+> そんな生き方の何が楽しいの？
+
+**living like that** が「そんなふうに生きること／そんな生き方」を自然に表します。
+
+---
+
+### 2. What's so great about that kind of life?
+
+**「そんな人生の何がそんなにいいの？」**
+
+**fun** よりも **great** のほうが意味が広く、
+
+> 「そんな人生のどこがいいの？」
+
+というニュアンス。
+
+**that kind of life** =「そういう人生・そういう生き方」
+
+---
+
+### 3. How is that any way to live?
+
+**「そんなのまともな生き方と言える？」**
+
+かなり強めの表現。
+
+**any way to + 動詞** は、このような否定的な疑問文で
+
+> 「そんなの〜するやり方と言えるの？」
+
+というニュアンスになります。
+
+**What's so fun about living like that?** よりも、相手の生き方を強く批判する響きがあります。
+
+---
+
+### 4. It's a line from my favorite anime.
+
+**「これは一番好きなアニメのセリフです。」**
+
+「作品の中のセリフ」を説明するときにそのまま使える表現。
+
+印象的な名言として紹介したいなら：
+
+> **It's a quote from my favorite anime.**
+
+も自然です。
+
+---
+
+## 【Nuance Map】
+
+「その人生、何が楽しいの？」を英語にするときは、意図によって使い分けると自然です。
+
+**What's so fun about living like that?**
+→ 「何が楽しいの？」に最も近い。やや挑発的。
+
+**What's so great about that kind of life?**
+→ 「そんな人生の何がいいの？」と価値そのものを疑問視。
+
+**How is that any way to live?**
+→ 「そんな生き方ありなの？」というかなり強い批判。
+
+今回の日本語そのものを会話英語として覚えるなら、**What's so fun about living like that?** を第一候補にしておくと使いやすいです。
+
+## 8/20
+**What's your take?** は、会話でかなりよく使う自然な表現です。
+
+**意味：**
+「どう思う？」「あなたの意見は？」「あなたはどう見る？」
+
+**take** はここでは名詞で、**「見解・意見・捉え方」**という意味です。
+
+> What's your take **on this**?
+> → これについてどう思う？
+
+> What's your take **on the situation**?
+> → この状況、どう見てる？
+
+### ニュアンス
+
+**What do you think?** よりも、「あなたなりの見方・考えを聞きたい」というニュアンスが少し強いです。
+
+* **What do you think?** → どう思う？（万能）
+* **What's your take?** → あなたはどう見る？／あなたの見解は？
+* **What's your take on ~?** → 〜についてどういう考え？
+
+かなりカジュアルな会話でも使えます。
+
+ちなみに **my take is that ...** も便利です。
+
+> **My take is that people care too much about what others think.**
+> 私としては、みんな他人の目を気にしすぎだと思う。
+
+## 8/21
+## 【Key Vocabulary】
+
+### bumpy
+
+**意味：** ① でこぼこした、揺れの激しい　② 比喩的に「波乱のある・順調ではない」
+
+物理的な「smoothではない」状態から、人間関係・仕事・物事の進行にも使えます。
+
+* **a bumpy road**：でこぼこ道
+* **a bumpy flight / ride**：揺れの激しいフライト／乗車
+* **a bumpy start**：順調ではないスタート
+* **a bumpy ride**：波乱のある道のり
+
+> We had a **bumpy start**.
+> 最初はなかなかうまくいかなかった。
+
+> It's been a **bumpy ride**, but things are finally getting better.
+> いろいろ大変だったけど、ようやく状況が良くなってきた。
+
+**対義的な表現：**
+
+* **smooth**：順調な、スムーズな
+* **smooth sailing**：順風満帆
+
+---
+
+### performative
+
+**意味：** 実質よりも「やっている姿を見せるための」、形だけの
+
+今回のマスクの文脈では、「本当に必要だからというより、ルールに従っている姿を示すためにやっているように見える」というニュアンス。
+
+> It felt kind of odd, almost **performative**.
+> なんだか変というか、ほとんど形だけやっているように感じた。
+
+単なる **fake（偽物の）** とは違い、**「他人からどう見えるかを意識した行動」**というニュアンスがポイント。
+
+---
+
+## 【Correction Log】
+
+今回は明確な文法ミスの添削はありませんでした。
+
+ただし、COVID時のマスクについて話す際の、より洗練された言い方として以下のCore Scriptが登場しました。
+
+> During COVID, even when I was outside and there was nobody around, people were still wearing masks.
+
+> I got why, but it felt kind of odd, almost performative. Like the rule kept going even when the situation didn't call for it anymore.
+
+特に、単純に **It was weird.** などと言うより、**I got why, but...** を挟むことで「理由は理解しているけど、自分としては違和感があった」というバランスの取れた言い方になります。
+
+---
+
+## 【Phrases to Master】
+
+### the situation calls for ~
+
+**「その状況が〜を必要とする／〜が求められる」**
+
+**call for ~ = require / demand ~**
+
+> The situation didn't **call for it** anymore.
+> その状況では、もうそれをする必要はなかった。
+
+> This situation **calls for** immediate action.
+> この状況では早急な対応が必要だ。
+
+人を主語にして **I need ~** と言うのではなく、**状況そのものが何かを必要としている**という英語らしい表現です。
+
+### I get / got why
+
+**「そうする理由は分かる」**
+
+相手や他人の行動に一定の理解を示してから、自分の異なる意見を言うときに便利。
+
+> I **get why** people do that, but I wouldn't do it myself.
+> そうする理由は分かるけど、自分ならやらない。
+
+今回のように、
+
+> **I got why, but...**
+
+と続けると、「理解はできる。でも〜」という自然な意見の組み立てになります。
+
+### a bumpy start
+
+**「出だしがうまくいかない／最初にゴタゴタする」**
+
+> We had **a bit of a bumpy start**.
+> 最初ちょっとゴタゴタしたね。
+
+**a bit of a ~** を入れると断定が弱まり、会話で使いやすくなります。
+
+### a bumpy ride
+
+**「波乱のある道のり」**
+
+> It's been **a bumpy ride**.
+> ここまでいろいろあったよ。
+
+物理的な乗り物だけでなく、**仕事・キャリア・人間関係・プロジェクトなどの紆余曲折**にも使えるのがポイントです。
+
+### keep going
+
+今回の文脈では **「そのまま続く」**。
+
+> The rule **kept going** even when the situation didn't call for it anymore.
+
+ただ「ルールが存在した」というより、**必要性が薄れた後も続いていた**という流れを表しています。
+
+---
+
+## 【Next Step】
+
+今回の最重要セットは **"I get why, but..." + "the situation doesn't call for it."**。次回、自分の意見を述べるときに「相手の考えへの理解 → 自分の違和感」という流れでこの2つを使ってみると、意見の言い方がかなり自然になります。
+
+## 8/22
+どちらも「それをしたら」ですが、ニュアンスが違います。
+
+### If I do that
+
+「もしそれをしたら」
+
+実際にするかどうかは未確定で、条件・仮定を表します。
+
+* **If I do that, I might regret it.**
+  もしそうしたら、後悔するかもしれない。
+
+* **What happens if I do that?**
+  もしそれをしたら、どうなるの？
+
+### Once I do that
+
+「それをしたら／それをした時点で」
+
+実際にすることを前提にしており、**完了後に次のことが起こる**というニュアンスです。
+
+* **Once I do that, there's no going back.**
+  一度そうしたら、もう後戻りできない。
+
+* **Once I do that, I can finally relax.**
+  それを済ませたら、ようやくゆっくりできる。
+
+### 比較
+
+* **If I quit my job, I'll travel the world.**
+  もし仕事を辞めたら、世界を旅する。
+  → 辞めるかどうかはまだ未確定
+
+* **Once I quit my job, I'll travel the world.**
+  仕事を辞めたら、世界を旅する。
+  → 辞めることはほぼ決まっていて、「辞めた後」の話
+
+つまり、**if = するかどうかも含めた条件**、**once = することを前提とした時間の流れ**です。
+
+## 8/23
+## 【Key Vocabulary / Grammar】
+
+### 1. I feel like + 動名詞（-ing）
+
+「〜したい気分」「なんとなく〜したい」を表します。一時的な気分や軽い欲求に使います。
+
+* **I feel like traveling.**
+  旅行したい気分。
+
+* **I feel like going out tonight.**
+  今夜は出かけたい気分。
+
+#### 類似表現との違い
+
+* **I want to travel.**
+  旅行したい。
+  → 意思や欲求を直接表す。
+
+* **I feel like traveling.**
+  旅行したい気分。
+  → そのときの気分に焦点がある。
+
+---
+
+### 2. I feel like + 主語＋動詞
+
+「〜のように感じる」「〜な気がする」という、自分の内面的・主観的な感覚を表します。
+
+* **I feel like I'm wasting my time.**
+  時間を無駄にしているように感じる。
+
+* **I feel like nobody understands me.**
+  誰も自分を理解してくれないように感じる。
+
+* **I feel like something is missing.**
+  何かが足りないように感じる。
+
+#### 重要な使い分け
+
+* **I feel like traveling.**
+  旅行したい気分。
+
+* **I feel like I'm traveling.**
+  旅行しているように感じる。
+
+「〜しているように感じる」と言う場合は、**I'm** などの主語・動詞を省略できません。
+
+---
+
+### 3. I feel like + 名詞
+
+「自分が〜のように感じる」「〜になったような気分」を表します。
+
+* **I feel like a different person.**
+  別人になったように感じる。
+
+* **I feel like an outsider.**
+  自分だけ部外者のように感じる。
+
+---
+
+### 4. It feels like + 文／名詞
+
+状況や物事から受ける印象として、「〜のように感じられる」を表します。
+
+* **It feels like time is moving slowly here.**
+  ここでは時間がゆっくり流れているように感じる。
+
+* **It feels like a dream.**
+  夢のように感じる。
+
+* **It feels like we've been here before.**
+  前にもここに来たことがあるような気がする。
+
+#### I feel like との違い
+
+* **I feel like ...**
+  自分の内面的・主観的な感覚
+
+* **It feels like ...**
+  状況や雰囲気から受ける印象
+
+---
+
+## 【Correction Log】
+
+### I feel like I want to + 動詞
+
+文法的に間違いではありませんが、単に「〜したい」と言いたい場合は少し回りくどく聞こえます。
+
+* △ **I feel like I want to travel.**
+* ○ **I want to travel.**
+* ○ **I feel like traveling.**
+
+ただし、次のように「自分でも気持ちがまだはっきりしない」「〜したいような気がする」という場合には自然です。
+
+* **I feel like I want to do something different with my life.**
+  人生で何か違うことをしたいような気がする。
+
+* **I feel like I want to quit my job, but I'm not sure yet.**
+  仕事を辞めたいような気もするけど、まだ分からない。
+
+---
+
+## 【Phrases to Master】
+
+| 表現                                    | ニュアンス                  |
+| ------------------------------------- | ---------------------- |
+| **I want to travel.**                 | 明確に旅行したい               |
+| **I feel like traveling.**            | 今、旅行したい気分              |
+| **I feel like I want to travel.**     | 旅行したいような気がするが、気持ちはまだ曖昧 |
+| **I feel like I'm traveling.**        | 実際に旅行しているように感じる        |
+| **I feel like something is missing.** | 何かが足りない気がする            |
+| **It feels like a dream.**            | その状況が夢のように感じられる        |
+
+## 【Next Step】
+
+**feel like の後ろが「-ing」なら欲求、「主語＋動詞」なら感覚**という違いを意識して使い分ける。
+
+## 8/24
+## 【Key Vocabulary】
+
+### 1. be through with ~
+
+**意味:** 〜を終える、〜とはもう終わりにする
+
+単に「終わった」だけでなく、文脈によっては**「もううんざり／もう関わらない」**という決別感が出ます。
+
+> **I'm through with this job.**
+> この仕事はもうやめる／もううんざりだ。
+
+> **I'm through with him.**
+> 彼とはもう終わり。
+
+**類義語:** be done with ~
+**ポイント:** *be through with 人* は特に「その人との関係は終わり」という強めの響き。
+
+---
+
+### 2. I'm beat.
+
+**意味:** クタクタだ、めちゃくちゃ疲れた
+
+> **It's been a long day. I'm beat.**
+> 長い一日だった。もうクタクタ。
+
+**類義語:** be exhausted / be worn out
+**比較:**
+**I'm tired.** ＜ **I'm beat. / I'm worn out.** ＜ **I'm exhausted.**
+
+---
+
+### 3. be all the rage
+
+**意味:** 大流行している、今めちゃくちゃ人気がある
+
+> **Baggy jeans are all the rage right now.**
+> 今バギージーンズがめちゃくちゃ流行ってる。
+
+**類義語:** be trendy / be in vogue
+**ポイント:** **一時的なブーム・トレンドのど真ん中**というニュアンス。
+
+---
+
+### 4. beat oneself up
+
+**意味:** 自分を責める、失敗を引きずって自分を責めすぎる
+
+> **Don't beat yourself up about it.**
+> そんなに自分を責めないで。
+
+> **I used to beat myself up over every little mistake.**
+> 昔はちょっとしたミスでもいちいち自分を責めてた。
+
+**よく使う形:**
+**beat oneself up over/about ~**
+
+**類義語との違い:**
+
+* **blame myself** → 自分に責任があると考える
+* **be hard on myself** → 自分に厳しい
+* **beat myself up** → **失敗などを精神的に引きずって自分を責める**
+
+---
+
+### 5. (be) of a high caliber
+
+**意味:** 能力・資質・質が非常に高い
+
+今回のメモ：
+
+> **anyone who is of a high caliber**
+> 能力・資質が非常に高い人なら誰でも
+
+> **We're looking for candidates of a high caliber.**
+> 優秀な候補者を探しています。
+
+**caliber** は人について使うと「能力・資質のレベル」。
+
+---
+
+### 6. be rooting for ~
+
+**意味:** 〜を応援している、〜の成功を願っている
+
+> **I'm rooting for you!**
+> 応援してるよ！
+
+> **Who are you rooting for?**
+> 誰を応援してるの？
+
+**比較:**
+
+* **cheer for ~** → 声を出したり拍手したりして応援
+* **root for ~** → **心の中で成功・勝利を願って応援**
+
+スポーツ以外の挑戦にも使えます。
+
+---
+
+### 7. mull over ~
+
+**意味:** 〜についてじっくり考える、熟考する
+
+> **Let me mull it over.**
+> ちょっとじっくり考えさせて。
+
+> **I've been mulling over whether I should quit my job.**
+> 仕事を辞めるべきか、ずっとあれこれ考えている。
+
+**比較:**
+
+* **think about** → 考える
+* **consider** → 検討する
+* **mull over** → **時間をかけてあれこれ考える**
+* **ponder** → 深く思案する（やや硬め）
+
+⚠️ 代名詞なら **mull it over** が自然。
+
+---
+
+### 8. be better off ~ing
+
+**意味:** 〜したほうが結果的に良い／得だ
+
+> **You'd be better off taking a taxi.**
+> タクシーで行ったほうがいいよ。
+
+> **You're better off without him.**
+> 彼がいないほうがあなたのためだよ。
+
+**shouldとの違い:**
+
+> **You should quit.**
+> 辞めるべき。
+
+> **You'd be better off quitting.**
+> **辞めたほうが結果的にあなたにとって良い。**
+
+⚠️ 基本形は **better off + -ing**。
+
+---
+
+### 9. circle back
+
+**意味:** 後で話題に戻る、改めて連絡・確認する
+
+仕事で特に便利。
+
+> **Let's circle back to that later.**
+> その話は後でまた戻ろう。
+
+> **Let me check with my manager and circle back with you.**
+> 上司に確認して、改めて連絡します。
+
+**使い分け:**
+
+* **circle back to + 話題** → 話題に戻る
+* **circle back with + 人** → 人に改めて連絡する
+* **get back to + 人** → 後で返事する（より一般的）
+
+---
+
+### 10. get one's hopes up
+
+**意味:** 期待を膨らませる、期待しすぎる
+
+今回の修正ポイント：
+
+❌ **get one's hope high**
+✅ **get one's hopes up**
+
+> **Don't get your hopes up.**
+> あまり期待しすぎないで。
+
+> **I don't want to get my hopes up.**
+> あまり期待しすぎたくない。
+
+> **Don't get my hopes up!**
+> 期待させないでよ！
+
+**対になる表現:** **get one's hopes dashed** = 期待を打ち砕かれる
+
+---
+
+### 11. barge in
+
+**意味:** ズカズカ入る、無遠慮に割り込む
+
+> **He barged in without knocking.**
+> 彼はノックもせずズカズカ入ってきた。
+
+> **I didn't mean to barge in on your conversation.**
+> 会話に割り込むつもりはなかった。
+
+**barge in on + 会話・人など**
+
+**比較:**
+
+* **interrupt** → 話を遮る（ニュートラル）
+* **cut in** → 会話に割って入る
+* **barge in** → **無遠慮・強引に割り込む**
+* **burst in** → 勢いよく飛び込む
+
+---
+
+### 12. feel up to ~
+
+**意味:** 〜するだけの気力・体力がある、〜できそう
+
+> **I don't feel up to going out tonight.**
+> 今夜は出かける気力がない。
+
+> **I'm not really feeling up to it.**
+> 今はあんまりその気力がない。
+
+**feel up to + 名詞 / -ing**
+
+**重要な違い:**
+
+> **I don't feel like going out.**
+> → 出かける気分じゃない／したくない。
+
+> **I don't feel up to going out.**
+> → 出かけるだけの**気力・体力がない**。
+
+---
+
+### 13. be at loose ends
+
+**意味:** やることがなく手持ち無沙汰、何をしていいかわからない
+
+> **I was at loose ends all weekend.**
+> 週末ずっと手持ち無沙汰だった。
+
+> **After I quit my job, I felt a bit at loose ends.**
+> 仕事を辞めたあと、ちょっと何をしていいかわからない感じだった。
+
+**比較:**
+
+* **be free** → 時間が空いている
+* **be bored** → 退屈している
+* **be at loose ends** → **予定・目的がなく所在ない**
+
+🇺🇸 **at loose ends**
+🇬🇧 **at a loose end**
+
+---
+
+### 14. starring + 人
+
+**意味:** 〜主演の／〜が主要キャストとして出演している
+
+> **It's a movie starring Leonardo DiCaprio.**
+> レオナルド・ディカプリオ主演の映画だよ。
+
+> **What's the name of that movie starring Tom Cruise?**
+> トム・クルーズが出てるあの映画、なんて名前だっけ？
+
+関連する形：
+
+> **Tom Cruise stars in the movie.**
+
+> **The movie stars Tom Cruise.**
+
+⚠️ **star → starring** と **r が2つ**。
+
+---
+
+### 15. I get that a lot.
+
+**意味:** それよく言われるよ
+
+> A: **You look like your brother.**
+> B: **Yeah, I get that a lot.**
+
+非常に自然なリアクション。
+
+**類義語:**
+
+* **People tell me that all the time.**
+* **I hear that a lot.**
+
+**get** = ここでは「そういうコメント・質問を受ける」。
+
+---
+
+### 16. go up against ~
+
+**意味:** 〜と対決する、強敵を相手にする、〜に立ち向かう
+
+> **We're going up against the best team in the league.**
+> リーグ最強のチームと対戦する。
+
+> **It's hard for a small company to go up against a huge corporation.**
+> 小さな会社が巨大企業と競争するのは大変だ。
+
+**比較:**
+
+* **compete with ~** → 〜と競争する（一般的・継続的）
+* **go up against ~** → **相手と直接ぶつかる・立ち向かう**
+
+---
+
+## 【Correction Log】
+
+今回、明確に修正しておきたいのはこの1つです。
+
+❌ **get one's hope high**
+✅ **get one's hopes up**
+
+> **Don't get your hopes up.**
+> 期待しすぎないで。
+
+また、語法として以下も押さえておくとよいです。
+
+**mull + 代名詞 + over**
+
+> **mull it over**
+
+**feel up to + -ing**
+
+> **I don't feel up to going out.**
+
+**be better off + -ing**
+
+> **You'd be better off waiting.**
+
+---
+
+## 【Phrases to Master】
+
+今回特に「知っている」だけでなく、会話でそのまま出せるようにしたい表現はこのあたりです。
+
+> **Don't beat yourself up about it.**
+> そんなに自分を責めないで。
+
+> **Let me mull it over.**
+> ちょっと考えさせて。
+
+> **You'd be better off waiting a little longer.**
+> もう少し待ったほうがいいよ。
+
+> **Let me check and circle back with you.**
+> 確認して改めて連絡します。
+
+> **I don't want to get my hopes up.**
+> あまり期待しすぎたくない。
+
+> **I'm not really feeling up to it today.**
+> 今日はあんまりその気力がない。
+
+> **Yeah, I get that a lot.**
+> うん、それよく言われる。
+
+> **I'm rooting for you.**
+> 応援してるよ。
+
+### 今回のメモ
+
+> **Anyone who is of a high caliber**
+> 能力・資質が非常に高い人なら誰でも
+
+> **Does this dish have cilantro in it?**
+> この料理、パクチー入ってますか？
+
+後者の **Does this have ~ in it?** は旅行中にも応用性が高く、
+
+> **Does this have any nuts in it?**
+> これナッツ入ってますか？
+
+のように中身・材料を確認できます。
+
+## 【Next Step】
+
+今回のテーマは **「知っている単語を使う」より、自然なチャンクを丸ごと出すこと**。特に **mull it over / get my hopes up / feel up to ~ing / be better off ~ing / circle back with ~** の5つを、次回のフリートークで意識して1回ずつ使ってみるのがおすすめです。
